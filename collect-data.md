@@ -7,10 +7,76 @@ title: "爬虫数据"
 ## Google patent
 现成的python包：python-stil，网址：https://pypi.org/project/patent-stil/#description
 
-# 2026年5月13日
+# 2026年5月13日 调用API爬取网站数据
 今天在爬{浙江省。投资。项目。在线申报平台}的时候，解锁了调用API爬取数据的方法，并成功获取数据。
 我在实践的过程中发现，相比于用drissionpage唤起浏览器，这种方法的优势是不占用浏览器内存。
 该平台有个很明显的bug，就是只能查询近半个月的数据。全部的数据可以获得，但必须一页一页地翻，一旦程序断开，又要从第一页开始。而且当浏览器请求过多次，会产生大量缓存，导致电脑卡顿。
-下面我将说明如何从网页获取代码中关键变量的值。首先展示模板代码：
+下面我将说明如何从网页获取代码中关键变量的值。首先展示模板代码(代码由deepseek生成)：
 ```python
+import requests
+import time
+
+# 1. 配置区
+url = "https://tzxm.zjzwfw.gov.cn/publicannouncement.do?method=itemList"
+target_cookies = """cna=WJ+KI...(省略)...682%22%7D"""
+
+headers = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "Referer": "https://tzxm.zjzwfw.gov.cn/tzxmweb/zwtpages/resultsPublicity/notice_of_publicity_new.html?page=1",
+    "X-Requested-With": "XMLHttpRequest",
+    "Cookie": target_cookies
+}
+
+# 3. 数据采集
+all_items = []
+total_count = 0
+
+for page_no in range(0, 38287): 
+    payload = {
+        "pageFlag": "1",
+        "pageNo": str(page_no),
+        "area_code": "",
+        "area_flag": "1",
+        "deal_code": "",
+        "item_name": ""
+    }
+    
+    try:
+        response = requests.post(url, data=payload, headers=headers)
+        response.raise_for_status()
+        data = response.json()
+        
+        # 提取数据
+        if data and len(data) > 0:
+            item_list = data[0].get('itemList', [])
+            counts = data[0].get('counts', '0')
+            
+            for item in item_list:
+                row_data = {
+                    "项目代码": item.get('deal_code', ''),
+                    "项目名称": item.get('apply_project_name', ''),
+                    "审批事项": item.get('ITEM_NAME', ''),
+                    "办理状态": item.get('DEAL_NAME', ''),
+                    "办理时间": item.get('DEAL_TIME', ''),
+                    "管理部门": item.get('DEPT_NAME', ''),
+                }
+
+                all_items.append(item)
+            
+        else:
+            print(f"第 {page_no} 页返回数据为空或格式异常")
+            
+    except requests.exceptions.RequestException as e:
+        print(f"第 {page_no} 页请求发生错误: {e}")
+    except json.JSONDecodeError as e:
+        print(f"第 {page_no} 页JSON解析失败: {e}")
+    except Exception as e:
+        print(f"第 {page_no} 页发生未知错误: {e}")
+    
+    # 增加到3秒延迟，更加礼貌
+    time.sleep(3)
 ```
+## url
+在网页空白处点击右键，选择“检查”
+<img width="1204" height="837" alt="image" src="https://github.com/user-attachments/assets/927ca7f4-904e-4bc0-8d95-d7ef07ca6d68" />
