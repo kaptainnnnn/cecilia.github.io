@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Al Brooks学习笔记"
+---
+
 # Al Brooks学习笔记2026年5月12日
 ## Channels
 
