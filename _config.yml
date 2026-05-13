@@ -2,7 +2,6 @@
 
 theme: minima
 
-/assets/css/style.scss
 
 defaults:
   - scope:
