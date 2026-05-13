@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 theme: minima
 
 /assets/css/style.scss
