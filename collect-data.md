@@ -80,9 +80,13 @@ for page_no in range(0, 38287):
 ## 详细步骤
 步骤一：在网页空白处点击右键，选择“检查”
 <img width="1204" height="837" alt="image" src="https://github.com/user-attachments/assets/927ca7f4-904e-4bc0-8d95-d7ef07ca6d68" />
-步骤二：在右侧出现的面板中，点击“网络”。先点击清空符号，选择筛选“Fetch/XHR”，再点击下一页，会出现新的请求。
+步骤二：在右侧出现的面板中，点击“网络”。先点击清空符号，选择筛选“Fetch/XHR”，再点击网站页面的“下一页”，会出现新的请求。
 <img width="900" height="374" alt="image" src="https://github.com/user-attachments/assets/74a9d715-3bec-4f4f-8c63-b1556b7b5a3b" />
 <img width="902" height="316" alt="image" src="https://github.com/user-attachments/assets/7c2c1edb-ecc8-4e28-8d4f-10fa506449e8" />
-步骤三：点击新出现的请求，点击“标头”。代码中的url对应的“请求网址”，cookie=target_cookie对应的Cookie，User-Agent、Content-Type、Referer、X-Requested-With直接复制粘贴
-<img width="1182" height="912" alt="image" src="https://github.com/user-attachments/assets/f0e17367-426d-4d4e-9ff4-749385258fd6" />
 
+步骤三：点击新出现的请求，点击“标头”。代码中的url对应的“请求网址”，cookie=target_cookie对应的Cookie，User-Agent、Content-Type、Referer、X-Requested-With直接复制粘贴
+
+<img width="1076" height="835" alt="image" src="https://github.com/user-attachments/assets/f610ff20-16a2-4cff-a6a6-81ed86157f29" />
+<img width="1090" height="362" alt="image" src="https://github.com/user-attachments/assets/06b56149-2625-4933-9a13-352cad2bd74c" />
+步骤四：点击“载荷”（payload，将对应的参数输入进payload。
+<img width="1080" height="1039" alt="image" src="https://github.com/user-attachments/assets/a43b5134-ce69-49b6-b59a-ef44e593afa2" />
