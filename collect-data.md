@@ -8,7 +8,7 @@ title: "爬虫数据"
 现成的python包：python-stil，网址：https://pypi.org/project/patent-stil/#description
 
 # 2026年5月13日 调用API爬取网站数据
-今天在爬{浙江省。投资。项目。在线申报平台}的时候，解锁了调用API爬取数据的方法，并成功获取数据。
+今天在爬{某投资。项目。在线申报平台}的时候，解锁了调用API爬取数据的方法，并成功获取数据。
 我在实践的过程中发现，相比于用drissionpage唤起浏览器，这种方法的优势是不占用浏览器内存。
 该平台有个很明显的bug，就是只能查询近半个月的数据。全部的数据可以获得，但必须一页一页地翻，一旦程序断开，又要从第一页开始。而且当浏览器请求过多次，会产生大量缓存，导致电脑卡顿。
 下面我将说明如何从网页获取代码中关键变量的值。首先展示模板代码(代码由deepseek生成)：
@@ -77,6 +77,12 @@ for page_no in range(0, 38287):
     # 增加到3秒延迟，更加礼貌
     time.sleep(3)
 ```
-## url
-在网页空白处点击右键，选择“检查”
+## 详细步骤
+步骤一：在网页空白处点击右键，选择“检查”
 <img width="1204" height="837" alt="image" src="https://github.com/user-attachments/assets/927ca7f4-904e-4bc0-8d95-d7ef07ca6d68" />
+步骤二：在右侧出现的面板中，点击“网络”。先点击清空符号，选择筛选“Fetch/XHR”，再点击下一页，会出现新的请求。
+<img width="900" height="374" alt="image" src="https://github.com/user-attachments/assets/74a9d715-3bec-4f4f-8c63-b1556b7b5a3b" />
+<img width="902" height="316" alt="image" src="https://github.com/user-attachments/assets/7c2c1edb-ecc8-4e28-8d4f-10fa506449e8" />
+步骤三：点击新出现的请求，点击“标头”。代码中的url对应的“请求网址”，cookie=target_cookie对应的Cookie，User-Agent、Content-Type、Referer、X-Requested-With直接复制粘贴
+<img width="1182" height="912" alt="image" src="https://github.com/user-attachments/assets/f0e17367-426d-4d4e-9ff4-749385258fd6" />
+
