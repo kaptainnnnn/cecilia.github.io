@@ -90,3 +90,6 @@ for page_no in range(0, 38287):
 <img width="1090" height="362" alt="image" src="https://github.com/user-attachments/assets/06b56149-2625-4933-9a13-352cad2bd74c" />
 步骤四：点击“载荷”（payload，将对应的参数输入进payload。
 <img width="1080" height="1039" alt="image" src="https://github.com/user-attachments/assets/a43b5134-ce69-49b6-b59a-ef44e593afa2" />
+
+# 2026年5月16日 政府数据开放API接口
+免网站爬虫，效率太低，直接调用政府数据开放API接口
