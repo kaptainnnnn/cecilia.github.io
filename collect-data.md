@@ -91,5 +91,15 @@ for page_no in range(0, 38287):
 步骤四：点击“载荷”（payload，将对应的参数输入进payload。
 <img width="1080" height="1039" alt="image" src="https://github.com/user-attachments/assets/a43b5134-ce69-49b6-b59a-ef44e593afa2" />
 
-# 2026年5月16日 政府数据开放API接口
+# 2026年5月16日 
+## 政府数据开放API接口
 免网站爬虫，效率太低，直接调用政府数据开放API接口
+
+## 爬取文献数据
+### OpenALex
+OpenALex API网址：https://developers.openalex.org
+例：这是调用OpenALex API的网址https://api.openalex.org/works?filter=primary_location.source.issn:0002-8282，0002-8282是American Economic Review的代码。
+ps：使用JSONVue（谷歌浏览器插件），json数据易读
+
+### Crossref REST API
+网址：https://api.crossref.org/swagger-ui/index.html?utm_source=chatgpt.com#/
