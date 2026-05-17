@@ -3,7 +3,19 @@ layout: page
 title: "爬虫数据"
 ---
 
-# 专利数据爬取
+# 一、常见操作
+## 1. Macbook运行Python代码步骤
+```bash
+# Step1:激活虚拟环境
+source /Users/wenyuxin/浙江大学/博二秋冬学期/论文/Intelligent-Computing/.venv/bin/activate
+# Step2:查看python路径
+which python
+>>> /Users/wenyuxin/浙江大学/博二秋冬学期/论文/Intelligent-Computing/.venv/bin/python
+# Step3:运行代码
+/Users/wenyuxin/浙江大学/博二秋冬学期/论文/Intelligent-Computing/.venv/bin/python 代码.py
+```
+
+# 二、专利数据爬取
 ## Google patent
 现成的python包：python-stil，网址：https://pypi.org/project/patent-stil/#description
 
@@ -97,9 +109,14 @@ for page_no in range(0, 38287):
 
 ## 爬取文献数据
 ### OpenALex
-OpenALex API网址：https://developers.openalex.org
+OpenALex API网址：[https://developers.openalex.org](https://developers.openalex.org/guides/recipes#explore-citation-links)
 例：这是调用OpenALex API的网址https://api.openalex.org/works?filter=primary_location.source.issn:0002-8282，0002-8282是American Economic Review的代码。
 ps：使用JSONVue（谷歌浏览器插件），json数据易读
+```Python
+# 批量获取期刊文献的信息
+https://api.openalex.org/works?filter=primary_location.source.issn:{issn} # issn为期刊的issn号
+```
 
 ### Crossref REST API
-网址：https://api.crossref.org/swagger-ui/index.html?utm_source=chatgpt.com#/
+网址：[https://api.crossref.org/swagger-ui/index.html?utm_source=chatgpt.com#/](https://api.crossref.org/swagger-ui/index.html?utm_source=chatgpt.com#/Works/get_works__doi__agency)
+例：利用crossref调用doi为10.3982/ecta16484的文献的网址，https://api.crossref.org/works/10.3982/ecta16484
