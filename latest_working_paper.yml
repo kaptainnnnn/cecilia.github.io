@@ -47,3 +47,13 @@ renderPapers();
 </script>
 
 <button id="load-more">显示更多</button>
+
+// 可以配合 Intersection Observer 实现滚动懒加载
+const observer = new IntersectionObserver((entries) => {
+    if (entries[0].isIntersecting && visibleCount < allPapers.length) {
+        visibleCount += loadMoreCount;
+        renderPapers();
+    }
+}, { threshold: 0.5 });
+
+observer.observe(document.getElementById('load-more'));
