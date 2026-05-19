@@ -1,0 +1,49 @@
+# 在需要展示论文的页面中，使用Liquid读取数据
+---
+layout: page
+title: 最新经济学工作论文
+---
+
+<div id="papers-container">
+  <!-- JS动态加载 -->
+</div>
+
+<script>
+// 读取Jekyll生成的JSON数据
+const allPapers = {{ site.data.papers_data | jsonify }};
+
+// 懒加载逻辑
+let visibleCount = 10;  // 初始显示数量
+let loadMoreCount = 20; // 每次加载更多数量
+
+function renderPapers() {
+    const container = document.getElementById('papers-container');
+    const papersToShow = allPapers.slice(0, visibleCount);
+    
+    container.innerHTML = papersToShow.map(paper => `
+        <div class="paper-card">
+            <h3><a href="${paper.url}" target="_blank">${paper.title}</a></h3>
+            <p class="authors">作者：${paper.authors}</p>
+            <p class="meta">来源：${paper.source} | 日期：${paper.date}</p>
+        </div>
+    `).join('');
+    
+    // 控制"显示更多"按钮的显示/隐藏
+    const moreBtn = document.getElementById('load-more');
+    if (visibleCount >= allPapers.length) {
+        moreBtn.style.display = 'none';
+    } else {
+        moreBtn.style.display = 'block';
+    }
+}
+
+document.getElementById('load-more').addEventListener('click', () => {
+    visibleCount += loadMoreCount;
+    renderPapers();
+});
+
+// 初始渲染
+renderPapers();
+</script>
+
+<button id="load-more">显示更多</button>
