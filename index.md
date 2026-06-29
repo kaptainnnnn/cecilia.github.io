@@ -1,0 +1,20 @@
+---
+layout: page
+title: "Welcome"
+---
+
+<p class="page-subtitle" style="font-size:1.1rem;color:#6e6e73;margin-bottom:32px;">
+  Yuxin Wen · PhD candidate in Economics, Zhejiang University
+</p>
+
+## 📄 Working Papers
+
+- [最新经济学工作论文]({{ '/latest_working_paper/' | relative_url }}) — 自动抓取的最新经济学工作论文
+- [ADB 经济学工作论文]({{ '/adb-working-papers/' | relative_url }}) — Asian Development Bank 系列论文
+
+## 📝 Notes
+
+- [💭 随想]({{ '/thoughts/' | relative_url }}) 
+- [📝 文献笔记]({{ '/literature-notes/' | relative_url }})
+- [🔧 爬虫数据]({{ '/collect-data/' | relative_url }})
+- [📈 Al Brooks 学习笔记]({{ '/al-brooks-notes/' | relative_url }})

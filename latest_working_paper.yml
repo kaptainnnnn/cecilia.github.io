@@ -1,4 +1,3 @@
-# 在需要展示论文的页面中，使用Liquid读取数据
 ---
 layout: page
 title: 最新经济学工作论文

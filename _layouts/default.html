@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title | escape }} · {{ site.title | default: "Economics News" }}{% else %}{{ site.title | default: "Economics News" }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>">
+</head>
+<body>
+  <div class="wrapper">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <a href="{{ '/' | relative_url }}" class="site-title">📊 Econ News</a>
+      </div>
+
+      <nav class="sidebar-nav">
+        <a href="{{ '/' | relative_url }}" class="nav-link">🏠 Home</a>
+        <span class="nav-section">Papers</span>
+        <a href="{{ '/latest_working_paper/' | relative_url }}" class="nav-link">📄 Working Papers</a>
+        <a href="{{ '/adb-working-papers/' | relative_url }}" class="nav-link">🌏 ADB Papers</a>
+        <span class="nav-section">Notes</span>
+        <a href="{{ '/thoughts/' | relative_url }}" class="nav-link">💭 随想</a>
+        <a href="{{ '/literature-notes/' | relative_url }}" class="nav-link">📝 文献笔记</a>
+        <a href="{{ '/collect-data/' | relative_url }}" class="nav-link">🔧 爬虫数据</a>
+        <a href="{{ '/al-brooks-notes/' | relative_url }}" class="nav-link">📈 Al Brooks</a>
+      </nav>
+
+      <div class="sidebar-footer">
+        <span>Yuxin Wen · PhD candidate</span>
+      </div>
+    </aside>
+
+    <!-- Toggle button for mobile -->
+    <button class="sidebar-toggle" id="sidebar-toggle" aria-label="Toggle navigation">☰</button>
+
+    <!-- Overlay for mobile -->
+    <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
+    <!-- Main Content -->
+    <main class="content" aria-label="Content">
+      <article>
+        {% if page.title %}
+          <h1 class="page-title">{{ page.title }}</h1>
+        {% endif %}
+        {{ content }}
+      </article>
+    </main>
+  </div>
+
+  <script>
+    (function() {
+      var toggle = document.getElementById('sidebar-toggle');
+      var overlay = document.getElementById('sidebar-overlay');
+      var sidebar = document.querySelector('.sidebar');
+
+      if (toggle && overlay && sidebar) {
+        toggle.addEventListener('click', function() {
+          sidebar.classList.toggle('open');
+          overlay.classList.toggle('visible');
+        });
+        overlay.addEventListener('click', function() {
+          sidebar.classList.remove('open');
+          overlay.classList.remove('visible');
+        });
+      }
+
+      // Highlight current page in sidebar
+      var currentPath = window.location.pathname;
+      document.querySelectorAll('.nav-link').forEach(function(link) {
+        var href = link.getAttribute('href');
+        if (href && currentPath.indexOf(href) !== -1 && href !== '/') {
+          link.classList.add('active');
+        } else if (href === '/' && currentPath === '/') {
+          link.classList.add('active');
+        }
+      });
+    })();
+  </script>
+</body>
+</html>
