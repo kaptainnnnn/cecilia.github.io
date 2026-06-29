@@ -1,0 +1,22 @@
+[
+  {
+    "id": "adb-example-001",
+    "title": "Green Preference, Green Investment",
+    "url": "https://www.adb.org/publications/green-preference-green-investment",
+    "description": "This paper examines the relationship between environmental preferences and green investment decisions in developing Asia.",
+    "date": "2026-06-15",
+    "source": "ADB",
+    "tags": ["economics", "development", "environment"],
+    "featured": false
+  },
+  {
+    "id": "adb-example-002",
+    "title": "Digital Entrepreneurship Landscapes in Developing Asia",
+    "url": "https://www.adb.org/publications/digital-entrepreneurship-landscapes-developing-asia",
+    "description": "This study maps the digital entrepreneurship ecosystem across developing Asian economies.",
+    "date": "2026-06-01",
+    "source": "ADB",
+    "tags": ["economics", "digital", "entrepreneurship"],
+    "featured": false
+  }
+]
