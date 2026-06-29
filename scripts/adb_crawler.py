@@ -14,6 +14,7 @@ adb_crawler.py — 抓取 ADB Economics Working Papers 列表
 import os
 import sys
 import json
+import time
 import re
 import argparse
 from datetime import datetime
@@ -48,70 +49,63 @@ def save_papers(papers, output_path):
     print(f"[OK] 已保存 {len(papers)} 篇论文到 {output_path}")
 
 
+def parse_adb_date(text):
+    """从 '29 Jun 2026' 格式文本中解析日期"""
+    text = text.strip()
+    for fmt in ["%d %b %Y", "%d %B %Y", "%B %d, %Y", "%Y-%m-%d"]:
+        try:
+            dt = datetime.strptime(text, fmt)
+            return dt.strftime("%Y-%m-%d")
+        except ValueError:
+            continue
+    return ""
+
+
 def extract_papers_from_page(driver, url):
     """用 DrissionPage 访问 ADB 页面，提取论文列表"""
     print(f"正在访问: {url}")
     driver.get(url)
-    driver.wait.load_complete()
-
-    # 等待论文列表加载（ADB 页面结构：class 含有 card 或 teaser 的条目）
-    driver.wait.doc_loaded()
+    time.sleep(6)
 
     papers = []
 
-    # ADB 论文列表的选择器 —— 根据页面结构定位
-    # 常见结构：每个条目是一个 <article> 或 <div> 带有 title 和 description
-    items = driver.eles("css:.c-teaser__title a, .card__title a, h3 a, h2 a")
-    descriptions = driver.eles("css:.c-teaser__description, .card__description, .field--name-field-description p, .teaser__description")
-    dates = driver.eles("css:.c-teaser__date time, .card__date time, time")
+    # 获取页面中所有指向 /publications/ 的链接
+    all_links = driver.eles("css:a[href*='/publications/']")
 
-    if not items:
-        # 尝试更通用的选择器：页面中所有指向 /publications/ 的链接
-        items = driver.eles("css:a[href*='/publications/']")
-
-    # 如果还是找不到，打印页面快照帮助调试
-    if not items:
-        print("[!] 未找到论文条目，打印页面片段用于调试:")
-        body_text = driver.eles("css:body")[0].text if driver.eles("css:body") else ""
-        print(body_text[:1000] if body_text else "页面为空")
-        return papers
-
-    for i, item in enumerate(items):
-        title = item.text.strip()
-        link = item.attr("href") or ""
-        if not title or not link:
+    for link_el in all_links:
+        full_text = link_el.text.strip()
+        href = link_el.attr("href") or ""
+        if not full_text or not href:
             continue
 
-        # 补全相对链接
-        if link.startswith("/"):
-            link = "https://www.adb.org" + link
+        # 跳过导航型链接（无 "Papers and Briefs |" 前缀）
+        if "Papers and Briefs |" not in full_text:
+            continue
 
-        # 提取描述（如果有对应索引）
-        desc = ""
-        if i < len(descriptions):
-            desc = descriptions[i].text.strip()
+        # 解析格式: "Papers and Briefs | 29 Jun 2026\nTitle More..."
+        parts = full_text.split("\n", 1)
+        header = parts[0]  # "Papers and Briefs | 29 Jun 2026"
+        title = parts[1].strip() if len(parts) > 1 else ""
 
-        # 提取日期
-        pub_date = ""
-        if i < len(dates):
-            date_text = dates[i].attr("datetime") or dates[i].text.strip()
-            if date_text:
-                # 尝试解析多种日期格式
-                for fmt in ["%Y-%m-%d", "%d %B %Y", "%B %d, %Y", "%Y/%m/%d"]:
-                    try:
-                        dt = datetime.strptime(date_text.strip(), fmt)
-                        pub_date = dt.strftime("%Y-%m-%d")
-                        break
-                    except ValueError:
-                        continue
-                if not pub_date:
-                    pub_date = date_text[:10]  # 取前10个字符
+        # 从 header 中提取日期
+        date_part = ""
+        if "|" in header:
+            date_part = header.split("|", 1)[1].strip()
+
+        pub_date = parse_adb_date(date_part)
+
+        # 补全链接
+        if href.startswith("/"):
+            href = "https://www.adb.org" + href
+
+        if not title:
+            continue
 
         papers.append({
-            "id": f"adb-{hash(link) % 10000000:08d}",
+            "id": f"adb-{hash(href) % 10000000:08d}",
             "title": title,
-            "url": link,
-            "description": desc,
+            "url": href,
+            "description": "",
             "date": pub_date or datetime.now().strftime("%Y-%m-%d"),
             "source": "ADB",
             "tags": ["economics", "development"],

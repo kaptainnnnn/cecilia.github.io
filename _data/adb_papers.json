@@ -1,22 +1,262 @@
 [
   {
-    "id": "adb-example-001",
-    "title": "Green Preference, Green Investment",
-    "url": "https://www.adb.org/publications/green-preference-green-investment",
-    "description": "This paper examines the relationship between environmental preferences and green investment decisions in developing Asia.",
-    "date": "2026-06-15",
+    "id": "adb-07778406",
+    "title": "Corporate Digital Transformation and Environmental Performance: Evidence from the People’s Republic of China",
+    "url": "https://www.adb.org/publications/corporate-digital-transformation-peoples-republic-china",
+    "description": "",
+    "date": "2026-06-29",
     "source": "ADB",
-    "tags": ["economics", "development", "environment"],
+    "tags": [
+      "economics",
+      "development"
+    ],
     "featured": false
   },
   {
-    "id": "adb-example-002",
-    "title": "Digital Entrepreneurship Landscapes in Developing Asia",
-    "url": "https://www.adb.org/publications/digital-entrepreneurship-landscapes-developing-asia",
-    "description": "This study maps the digital entrepreneurship ecosystem across developing Asian economies.",
-    "date": "2026-06-01",
+    "id": "adb-07835051",
+    "title": "Sustainability-Adjusted Credit Guarantee Pricing for Financing Micro, Small, and Medium-Sized Enterprises in Malaysia",
+    "url": "https://www.adb.org/publications/sustainability-credit-guarantee-pricing-msmes-malaysia",
+    "description": "",
+    "date": "2026-06-17",
     "source": "ADB",
-    "tags": ["economics", "digital", "entrepreneurship"],
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-00829100",
+    "title": "The Great Reallocation Revisited: How Foreign Direct Investment Is (and Is Not) Shifting amid Heightened Geopolitical Tensions",
+    "url": "https://www.adb.org/publications/great-reallocation-revisited",
+    "description": "",
+    "date": "2026-06-10",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-04259246",
+    "title": "Skills That Pay: Digital Skills Demand and Wage Premia in Asia and the Pacific",
+    "url": "https://www.adb.org/publications/digital-skills-demand-wage-premia",
+    "description": "",
+    "date": "2026-06-08",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-07109073",
+    "title": "Zombies, Insolvency Reform, and Misallocation of Capital",
+    "url": "https://www.adb.org/publications/zombies-insolvency-reform-misallocation-capital",
+    "description": "",
+    "date": "2026-06-02",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-06128914",
+    "title": "The Role of Special Economic Zones in Shaping Viet Nam’s Local Business Environment",
+    "url": "https://www.adb.org/publications/sezs-shaping-viet-nam-local-business",
+    "description": "",
+    "date": "2026-05-29",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-03141021",
+    "title": "Financing Nature: Investment Funds and Biodiversity Risks",
+    "url": "https://www.adb.org/publications/financing-nature-investment-funds",
+    "description": "",
+    "date": "2026-05-27",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-03489333",
+    "title": "Digital Connectivity and Household Income: Evidence from Women-Headed Households in Viet Nam",
+    "url": "https://www.adb.org/publications/digital-connectivity-household-income-viet-nam",
+    "description": "",
+    "date": "2026-05-26",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-05130054",
+    "title": "Automating Evidence Synthesis: A Comparative Evaluation of Large Language Models for Data Extraction",
+    "url": "https://www.adb.org/publications/automating-evidence-synthesis",
+    "description": "",
+    "date": "2026-05-15",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-07617661",
+    "title": "Trade De-Specialization: Dynamics and Determinants",
+    "url": "https://www.adb.org/publications/trade-de-specialization",
+    "description": "",
+    "date": "2026-05-08",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-06501446",
+    "title": "Predictors of Climate Change Concern and Climate Policy Support: An Analysis Across Asian Economies",
+    "url": "https://www.adb.org/publications/predictors-climate-change-concern",
+    "description": "",
+    "date": "2026-04-30",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-08232777",
+    "title": "Asia’s Structural Transformation: Patterns, Challenges, and New Stylized Facts",
+    "url": "https://www.adb.org/publications/asia-structural-transformation",
+    "description": "",
+    "date": "2026-04-15",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-00633216",
+    "title": "Structural Transformation and Productivity in Asia: An Overview",
+    "url": "https://www.adb.org/publications/structural-transformation-productivity-asia",
+    "description": "",
+    "date": "2026-04-13",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-06278361",
+    "title": "When Manufacturing Matters Most: Structural Transformation and Productivity Growth Trajectories in Developing and Emerging Economies",
+    "url": "https://www.adb.org/publications/when-manufacturing-matters-most",
+    "description": "",
+    "date": "2026-04-07",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-00778655",
+    "title": "Work from Home and Fertility",
+    "url": "https://www.adb.org/publications/work-home-and-fertility",
+    "description": "",
+    "date": "2026-03-23",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-08200295",
+    "title": "Impact of the 2025 United States Tariffs on Firm Export Behavior: Evidence from Asian Customs Data",
+    "url": "https://www.adb.org/publications/2025-us-tariffs-firm-export-behavior",
+    "description": "",
+    "date": "2026-02-26",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-08501937",
+    "title": "Private Sector Development and Policy Actions in Timor-Leste: Lessons from a Business Mapping Survey",
+    "url": "https://www.adb.org/publications/private-sector-development-timor-leste",
+    "description": "",
+    "date": "2026-02-02",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-01714104",
+    "title": "Workers’ Exposure to Artificial Intelligence Across Development Stages",
+    "url": "https://www.adb.org/publications/workers-exposure-artificial-intelligence",
+    "description": "",
+    "date": "2026-01-30",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-04059254",
+    "title": "Heat Stress, Air Pollution Risk and Population Exposure: Evidence from Selected Asian Countries",
+    "url": "https://www.adb.org/publications/heat-stress-air-pollution-risk",
+    "description": "",
+    "date": "2026-01-27",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-06049531",
+    "title": "Climate Shocks and Noncommunicable Diseases Among Older People in India",
+    "url": "https://www.adb.org/publications/climate-shocks-ncds-older-people-india",
+    "description": "",
+    "date": "2026-01-13",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
     "featured": false
   }
 ]
