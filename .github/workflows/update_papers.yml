@@ -2,7 +2,7 @@ name: Update Economics Papers
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天UTC 0点运行
+    - cron: '0 0 * * *'  # 每天UTC 0点运行（北京时间早上8点）
   workflow_dispatch:      # 允许手动触发
 
 jobs:
@@ -14,22 +14,21 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install Chromium (for DrissionPage)
+      - name: Install Chromium + xvfb (virtual display)
         run: |
           sudo apt-get update
-          sudo apt-get install -y chromium-browser
+          sudo apt-get install -y chromium-browser xvfb
 
       - name: Install Python dependencies
-        run: pip install requests beautifulsoup4 feedparser DrissionPage
+        run: pip install DrissionPage
 
-      - name: Run ADB Working Papers crawler
-        run: python scripts/adb_crawler.py --pages 5 --headless
+      - name: Run ADB Working Papers crawler (via xvfb virtual display)
+        run: xvfb-run python scripts/adb_crawler.py --pages 2
 
       - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add _data/adb_papers.json
-          git add _data/papers_data.json
           git commit -m "Daily update: ADB working papers" || exit 0
           git push
