@@ -22,13 +22,17 @@ jobs:
       - name: Install Python dependencies
         run: pip install DrissionPage
 
-      - name: Run ADB Working Papers crawler (via xvfb virtual display)
+      - name: Run ADB Working Papers crawler
         run: xvfb-run python scripts/adb_crawler.py --pages 2
+
+      - name: Run Oxford Working Papers crawler
+        run: xvfb-run python scripts/ox_crawler.py --pages 2
 
       - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add _data/adb_papers.json
-          git commit -m "Daily update: ADB working papers" || exit 0
+          git add _data/ox_papers.json
+          git commit -m "Daily update: ADB & Oxford working papers" || exit 0
           git push

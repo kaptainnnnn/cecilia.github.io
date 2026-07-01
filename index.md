@@ -11,6 +11,7 @@ title: "Welcome"
 
 - [最新经济学工作论文]({{ '/latest_working_paper/' | relative_url }}) — 自动抓取的最新经济学工作论文
 - [ADB 经济学工作论文]({{ '/adb-working-papers/' | relative_url }}) — Asian Development Bank 系列论文
+- [Oxford 经济学工作论文]({{ '/oxford-working-papers/' | relative_url }}) — University of Oxford 系列论文
 
 ## 📝 Notes
 
