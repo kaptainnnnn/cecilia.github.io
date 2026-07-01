@@ -20,8 +20,8 @@ permalink: /oxford-working-papers/
 <script>
 const allOxPapers = {{ site.data.ox_papers | jsonify }};
 
-let visibleCount = 10;
-const loadMoreCount = 20;
+let visibleCount = 20;
+const loadMoreCount = 30;
 
 function renderOxPapers() {
   const container = document.getElementById('ox-papers-list');
@@ -75,7 +75,7 @@ function renderOxPapers() {
 }
 
 document.getElementById('ox-search').addEventListener('input', () => {
-  visibleCount = 10;
+  visibleCount = 20;
   renderOxPapers();
 });
 

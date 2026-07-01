@@ -20,8 +20,8 @@ permalink: /adb-working-papers/
 <script>
 const allAdbPapers = {{ site.data.adb_papers | jsonify }};
 
-let visibleCount = 10;
-const loadMoreCount = 20;
+let visibleCount = 20;
+const loadMoreCount = 30;
 
 function renderAdbPapers() {
   const container = document.getElementById('adb-papers-list');
@@ -69,7 +69,7 @@ function renderAdbPapers() {
 }
 
 document.getElementById('adb-search').addEventListener('input', () => {
-  visibleCount = 10;
+  visibleCount = 20;
   renderAdbPapers();
 });
 

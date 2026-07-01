@@ -83,6 +83,29 @@
   font-weight: 600;
 }
 
+.nav-sub-link {
+  display: block;
+  padding: 6px 20px 6px 36px;
+  color: #515154;
+  font-size: 0.85rem;
+  text-decoration: none;
+  transition: background 0.2s, color 0.2s;
+  border-left: 3px solid transparent;
+}
+
+.nav-sub-link:hover {
+  background: #e8e8ed;
+  color: #1d1d1f;
+  text-decoration: none;
+}
+
+.nav-sub-link.active {
+  background: #e8e8ed;
+  color: #2563eb;
+  border-left-color: #2563eb;
+  font-weight: 600;
+}
+
 .sidebar-footer {
   padding: 16px 20px;
   border-top: 1px solid #e0e0e0;
