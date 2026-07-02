@@ -44,7 +44,7 @@ function render() {
   }
 
   container.innerHTML = toShow.map(p => `
-    <div style="border:2px solid #e0e0e0;border-radius:10px;padding:20px 24px;margin-bottom:12px;box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+    <div style="border:3px solid #e0e0e0;border-radius:10px;padding:20px 24px;margin-bottom:12px;box-shadow:0 1px 3px rgba(0,0,0,0.06);">
       <h3 style="font-size:1rem;font-weight:600;margin-bottom:6px;line-height:1.5;">
         <a href="${p.url}" target="_blank" rel="noopener" style="color:#1d1d1f;text-decoration:none;">${p.title}</a>
       </h3>
