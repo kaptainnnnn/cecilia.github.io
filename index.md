@@ -15,6 +15,10 @@ title: "Welcome"
 - [OECD 经济学工作论文]({{ '/oecd-working-papers/' | relative_url }}) — OECD Economics Department 系列论文
 - [NBER 工作论文]({{ '/nber-working-papers/' | relative_url }}) — National Bureau of Economic Research 系列论文
 
+## 📅 Conferences
+
+- [NBER 学术会议]({{ '/nber-conferences/' | relative_url }}) — NBER upcoming 学术会议
+
 ## 📝 Notes
 
 - [💭 随想]({{ '/thoughts/' | relative_url }}) 

@@ -34,6 +34,9 @@ jobs:
       - name: Run NBER Working Papers crawler
         run: xvfb-run python scripts/nber_crawler.py --pages 2
 
+      - name: Run NBER Conferences crawler
+        run: xvfb-run python scripts/nber_conference_crawler.py --pages 2
+
       - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
@@ -42,5 +45,6 @@ jobs:
           git add _data/ox_papers.json
           git add _data/oecd_papers.json
           git add _data/nber_papers.json
-          git commit -m "Daily update: working papers" || exit 0
+          git add _data/nber_conferences.json
+          git commit -m "Daily update: working papers & conferences" || exit 0
           git push
