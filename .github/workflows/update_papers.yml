@@ -31,6 +31,9 @@ jobs:
       - name: Run OECD Working Papers crawler
         run: python scripts/oecd_crawler.py --pages 5
 
+      - name: Run NBER Working Papers crawler
+        run: xvfb-run python scripts/nber_crawler.py --pages 2
+
       - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
@@ -38,5 +41,6 @@ jobs:
           git add _data/adb_papers.json
           git add _data/ox_papers.json
           git add _data/oecd_papers.json
-          git commit -m "Daily update: ADB, Oxford & OECD working papers" || exit 0
+          git add _data/nber_papers.json
+          git commit -m "Daily update: working papers" || exit 0
           git push

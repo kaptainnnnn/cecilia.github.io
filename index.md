@@ -13,6 +13,7 @@ title: "Welcome"
 - [ADB 经济学工作论文]({{ '/adb-working-papers/' | relative_url }}) — Asian Development Bank 系列论文
 - [Oxford 经济学工作论文]({{ '/oxford-working-papers/' | relative_url }}) — University of Oxford 系列论文
 - [OECD 经济学工作论文]({{ '/oecd-working-papers/' | relative_url }}) — OECD Economics Department 系列论文
+- [NBER 工作论文]({{ '/nber-working-papers/' | relative_url }}) — National Bureau of Economic Research 系列论文
 
 ## 📝 Notes
 
