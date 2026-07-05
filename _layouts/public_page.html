@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title | escape }} · {{ site.title | default: "Economics News" }}{% else %}{{ site.title | default: "Economics News" }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title | escape }} · {{ site.title | default: "Economics Papers" }}{% else %}{{ site.title | default: "Economics Papers" }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <!-- Open Graph / Social Preview -->
@@ -22,18 +22,19 @@
 
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>">
+  <meta name="robots" content="index, follow">
 </head>
 <body>
   <div class="wrapper">
     <!-- Sidebar -->
     <aside class="sidebar">
       <div class="sidebar-header">
-        <a href="{{ '/' | relative_url }}" class="site-title">📊 Econ News</a>
+        <a href="{{ '/public/' | relative_url }}" class="site-title">📊 Econ Papers</a>
       </div>
 
       <nav class="sidebar-nav">
-        <a href="{{ '/' | relative_url }}" class="nav-link">🏠 Home</a>
         <span class="nav-section">Papers</span>
+        <a href="{{ '/public/' | relative_url }}" class="nav-link">🏠 Home</a>
         <a href="{{ '/latest_working_paper/' | relative_url }}" class="nav-link">📄 Working Papers</a>
         <a href="{{ '/adb-working-papers/' | relative_url }}" class="nav-sub-link">🌏 ADB</a>
         <a href="{{ '/oxford-working-papers/' | relative_url }}" class="nav-sub-link">🎓 Oxford</a>
@@ -42,15 +43,10 @@
         <a href="{{ '/cepr-discussion-papers/' | relative_url }}" class="nav-sub-link">🌐 CEPR</a>
         <span class="nav-section">Conferences</span>
         <a href="{{ '/nber-conferences/' | relative_url }}" class="nav-link">📅 NBER Conferences</a>
-        <span class="nav-section">Notes</span>
-        <a href="{{ '/thoughts/' | relative_url }}" class="nav-link">💭 随想</a>
-        <a href="{{ '/literature-notes/' | relative_url }}" class="nav-link">📝 文献笔记</a>
-        <a href="{{ '/collect-data/' | relative_url }}" class="nav-link">🔧 爬虫数据</a>
-        <a href="{{ '/al-brooks-notes/' | relative_url }}" class="nav-link">📈 Al Brooks</a>
       </nav>
 
       <div class="sidebar-footer">
-        <span>Yuxin Wen · PhD candidate</span>
+        <span>Economics Papers · Updated Daily</span>
       </div>
     </aside>
 

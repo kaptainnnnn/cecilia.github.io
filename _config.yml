@@ -1,7 +1,10 @@
 theme: minima
+title: "Economics News"
+url: "https://kaptainnnnn.github.io"
+baseurl: "/cecilia.github.io"
 
 defaults:
   - scope:
-      path: ""      # 对所有文件生效
+      path: ""
     values:
       layout: "page"

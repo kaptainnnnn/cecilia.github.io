@@ -1,6 +1,9 @@
 ---
 ---
 
+---
+---
+
 // 继承 minima 主题的基础样式
 @import "minima";
 
@@ -119,6 +122,8 @@
   margin-left: 260px;
   padding: 40px 64px;
   max-width: 1200px;
+  width: calc(100% - 260px);
+  box-sizing: border-box;
 }
 
 .page-title {
@@ -126,6 +131,22 @@
   font-weight: 700;
   margin-bottom: 24px;
   letter-spacing: -0.03em;
+}
+
+// ===== Paper 卡片响应式 =====
+.paper-card,
+[id$="-papers-list"] > div,
+[id$="-list"] > div,
+#papers-container > div[style*="border"] {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
+}
+
+.paper-card h3 a,
+[id$="-papers-list"] h3 a,
+[id$="-list"] h3 a {
+  word-break: break-word;
 }
 
 // ===== 移动端切换按钮 =====
@@ -155,7 +176,14 @@
   z-index: 150;
 }
 
-// ===== 移动端适配 =====
+// ===== 平板适配（768px-1024px） =====
+@media (max-width: 1024px) {
+  .content {
+    padding: 32px 32px;
+  }
+}
+
+// ===== 移动端适配（<768px） =====
 @media (max-width: 768px) {
   .sidebar {
     transform: translateX(-100%);
@@ -171,10 +199,65 @@
 
   .content {
     margin-left: 0;
-    padding: 60px 20px 24px;
+    width: 100%;
+    padding: 60px 16px 24px;
   }
 
   .sidebar-toggle {
     display: block;
+  }
+
+  .page-title {
+    font-size: 1.5rem;
+    margin-bottom: 16px;
+  }
+
+  // 论文卡片移动端紧凑样式
+  .paper-card,
+  [id$="-papers-container"] > div[style*="border"],
+  [id$="-list"] > div[style*="border"] {
+    padding: 14px 16px !important;
+  }
+
+  .paper-card h3,
+  [id$="-papers-list"] h3,
+  [id$="-list"] h3 {
+    font-size: 0.9rem !important;
+  }
+}
+
+// ===== 小屏手机适配（<480px） =====
+@media (max-width: 480px) {
+  .content {
+    padding: 56px 12px 20px;
+  }
+
+  .sidebar-toggle {
+    top: 8px;
+    left: 8px;
+    padding: 6px 10px;
+    font-size: 1rem;
+  }
+
+  .page-title {
+    font-size: 1.25rem;
+  }
+
+  // 更紧凑的卡片
+  .paper-card,
+  [id$="-papers-container"] > div[style*="border"],
+  [id$="-list"] > div[style*="border"] {
+    padding: 12px 14px !important;
+    border-radius: 8px !important;
+    margin-bottom: 8px !important;
+  }
+
+  // 搜索框自适应
+  input[type="text"]#papers-search,
+  input[type="text"]#nber-search,
+  input[type="text"]#cepr-search,
+  input[type="text"]#conf-search {
+    font-size: 16px !important;  // 防止iOS自动缩放
+    padding: 10px 12px !important;
   }
 }

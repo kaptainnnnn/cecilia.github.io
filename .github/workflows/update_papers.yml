@@ -37,7 +37,12 @@ jobs:
       - name: Run NBER Conferences crawler
         run: xvfb-run python scripts/nber_conference_crawler.py --pages 2
 
+      - name: Run CEPR Discussion Papers crawler
+        run: xvfb-run python scripts/cepr_crawler.py --pages 5
+
       - name: Commit and push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -46,5 +51,20 @@ jobs:
           git add _data/oecd_papers.json
           git add _data/nber_papers.json
           git add _data/nber_conferences.json
-          git commit -m "Daily update: working papers & conferences" || exit 0
+          git add _data/cepr_papers.json
+
+          # 检查是否有变更要提交
+          if git diff --cached --quiet; then
+            echo "没有新数据变更，跳过提交"
+            exit 0
+          fi
+
+          git commit -m "Daily update: working papers & conferences ($(date +'%Y-%m-%d'))"
+
+          # 显式设置 remote URL 使用 GITHUB_TOKEN
+          REPO_URL="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git remote set-url origin "${REPO_URL}"
+
+          # 先 pull 再 push（防止冲突）
+          git pull --rebase origin main || true
           git push
