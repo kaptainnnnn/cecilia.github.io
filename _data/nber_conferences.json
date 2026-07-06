@@ -798,5 +798,13 @@
     "date": "February 5, 2027",
     "type": "Conference",
     "has_program": false
+  },
+  {
+    "id": "nber-conf-5de6b583",
+    "title": "Place-Based Policies and Entrepreneurship Pre-Conference, 2026",
+    "url": "https://www.nber.org/conferences/place-based-policies-and-entrepreneurship-pre-conference-2026",
+    "date": "July 19, 2026",
+    "type": "Conference",
+    "has_program": true
   }
 ]
