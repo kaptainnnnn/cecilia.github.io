@@ -1,5 +1,202 @@
 [
   {
+    "id": "cepr-32fb5b33",
+    "title": "DP21712 Shadow Discounts",
+    "url": "https://cepr.org/publications/dp21712",
+    "description": "",
+    "date": "2026-07-06",
+    "authors": "Nagler; Lee; Lotti; Ottonello; Wang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f931f781",
+    "title": "DP21711 Enforcement Spillovers and the Efficiency Costs of Means-Tested Transfers: Evidence from Workplace Networks",
+    "url": "https://cepr.org/publications/dp21711",
+    "description": "",
+    "date": "2026-07-06",
+    "authors": "Vilá; Bergolo; Cruces",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6c6d770a",
+    "title": "DP21710 Expanding Opportunities: New Facts about the Placement of PhD Economists",
+    "url": "https://cepr.org/publications/dp21710",
+    "description": "",
+    "date": "2026-07-06",
+    "authors": "Eberhardt; Facchini; Rueda",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-cf581e5f",
+    "title": "DP21709 Addressing the EU’s fiscal dilemma: From ex-post transfers to ex-ante resilience",
+    "url": "https://cepr.org/publications/dp21709",
+    "description": "",
+    "date": "2026-07-06",
+    "authors": "Kirchsteiger; Larch",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4ccb8541",
+    "title": "DP21708 Causal inference for social network formation",
+    "url": "https://cepr.org/publications/dp21708",
+    "description": "",
+    "date": "2026-07-06",
+    "authors": "Kasy; Linos; Mobasseri",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-19862bb7",
+    "title": "DP21707 Literature Review and Evidence Aggregation: a Toolkit for Applied Micro",
+    "url": "https://cepr.org/publications/dp21707",
+    "description": "",
+    "date": "2026-07-06",
+    "authors": "Kasy; Ganong; Garg",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-9d8f7aef",
+    "title": "DP21706 Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools",
+    "url": "https://cepr.org/publications/dp21706",
+    "description": "",
+    "date": "2026-07-06",
+    "authors": "Briole; Cage; Prat",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-51d71e65",
+    "title": "DP21705 Location Effects or Sorting? Evidence from Firm Relocation",
+    "url": "https://cepr.org/publications/dp21705",
+    "description": "",
+    "date": "2026-07-06",
+    "authors": "Carry; Kleinman; Nimier-David",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-38f40e9f",
+    "title": "DP21704 Measuring the Value of Disability Insurance from Take-Up Decisions",
+    "url": "https://cepr.org/publications/dp21704",
+    "description": "",
+    "date": "2026-07-06",
+    "authors": "Haller; Staubli",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-57a9490e",
+    "title": "DP21703 Banking on a Corporate Rebrand",
+    "url": "https://cepr.org/publications/dp21703",
+    "description": "",
+    "date": "2026-07-06",
+    "authors": "Rieder; Jaremski; Mitchener",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-a52c872e",
+    "title": "DP21702 Multi-Project Collaborations",
+    "url": "https://cepr.org/publications/dp21702",
+    "description": "",
+    "date": "2026-07-06",
+    "authors": "Angelucci; Orzach",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-921cbe2d",
+    "title": "DP21701 Psychosocial Health and Well-Being After A Mortality Shock",
+    "url": "https://cepr.org/publications/dp21701",
+    "description": "",
+    "date": "2026-07-06",
+    "authors": "Thomas; Frankenberg; Sumantri",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-22f7a2c6",
+    "title": "DP21700 Does Automation Lower the Labor Share?",
+    "url": "https://cepr.org/publications/dp21700",
+    "description": "",
+    "date": "2026-07-06",
+    "authors": "Zsofia Barany; Asseem Patel; Christian Siegel",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Macroeconomics and Growth"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-10b8a530",
     "title": "DP21696 Detecting Skilled Bond Fund Managers",
     "url": "https://cepr.org/publications/dp21696",
