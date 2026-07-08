@@ -1,5 +1,18 @@
 [
   {
+    "id": "adb-b8a27f6a",
+    "title": "Economic Policy Uncertainty and Carbon Emissions in Emerging Markets",
+    "url": "https://www.adb.org/publications/economic-policy-uncertainty-carbon-emissions",
+    "description": "This paper estimates how economic policy uncertainty affects carbon emissions by analyzing data from 13 emerging market economies for the period 1990–2023.",
+    "date": "2026-07-07",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
     "id": "adb-658b4b38",
     "title": "Corporate Digital Transformation and Environmental Performance: Evidence from the People’s Republic of China",
     "url": "https://www.adb.org/publications/corporate-digital-transformation-peoples-republic-china",
@@ -239,19 +252,6 @@
     "url": "https://www.adb.org/publications/heat-stress-air-pollution-risk",
     "description": "This paper examines heat stress and air pollution in Bangladesh, Indonesia, Pakistan, Thailand, and Viet Nam, looking at patterns of exposure among different population groups and discussing policy implications.",
     "date": "2026-01-27",
-    "source": "ADB",
-    "tags": [
-      "economics",
-      "development"
-    ],
-    "featured": false
-  },
-  {
-    "id": "adb-ec68f4d3",
-    "title": "Climate Shocks and Noncommunicable Diseases Among Older People in India",
-    "url": "https://www.adb.org/publications/climate-shocks-ncds-older-people-india",
-    "description": "This paper shares findings from a study of the impact of temperature and rainfall on the incidence of noncommunicable diseases among older people in India.",
-    "date": "2026-01-13",
     "source": "ADB",
     "tags": [
       "economics",

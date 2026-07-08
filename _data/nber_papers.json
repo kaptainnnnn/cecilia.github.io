@@ -1,5 +1,473 @@
 [
   {
+    "id": "nber-f5bce1cb",
+    "title": "Let’s Chat: Leveraging Chatbot Outreach for Improved Course Performance",
+    "url": "https://www.nber.org/papers/w35397",
+    "description": "This study provides pre-registered, experimental evidence on the use of non-generative artificial intelligence (AI) chatbots to support students in large-enrollment undergraduate courses. We find the chatbot messaging increased students final grades and engagement with academic supports, such as...",
+    "date": "2026-07",
+    "authors": "Katharine E. Meyer, Lindsay C. Page, Catherine Mata, Eric Smith, Brendan Tyler Walsh, Candice L. Fifield, Amy E. Eremionkhale, Michael Evans, Shelby Frost & Eye Eoun Junget al. (View all)",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-afeed383",
+    "title": "Seemingly Anchored Inflation Expectations",
+    "url": "https://www.nber.org/papers/w35395",
+    "description": "Empirical evidence commonly cited as indicating that inflation expectations have become better anchored includes the declining sensitivity of expectations to inflation surprises over time, particularly around the adoption of inflation targeting. These patterns are typically attributed to the...",
+    "date": "2026-07",
+    "authors": "Ulrike Malmendier & Stefan Nagel",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-891f77bc",
+    "title": "Benefit-Based Taxation can Include Substantial Redistribution",
+    "url": "https://www.nber.org/papers/w35429",
+    "description": "Contrary to a long-standing concern, we present evidence that classical benefit-based labor income taxation in the tradition of Smith (1776) is consistent with income redistribution through transfers and negative average tax rates both theoretically and---in plausibly-specified simulations--...",
+    "date": "2026-07",
+    "authors": "Jo Ellery & Matthew C. Weinzierl",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-29f51d7b",
+    "title": "New Evidence on the Health-Status Gradient from Imperial China",
+    "url": "https://www.nber.org/papers/w35396",
+    "description": "We study the relationship between health and social status in China using genealogical data from the 14th to 19th centuries. The data covers broad segments of the population linking husbands, wives, and sons, allowing us to examine whether status was associated with survival not only for adult men...",
+    "date": "2026-07",
+    "authors": "Wolfgang Keller, Carol H. Shiue & Karen Eggleston",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-5e8815a8",
+    "title": "Beyond Mean Exposure: How Exposure Variance Shapes Air Pollution Mortality Risk",
+    "url": "https://www.nber.org/papers/w35428",
+    "description": "Ambient air pollution contributes substantially to premature mortality globally, and the effectiveness of policies addressing it depends critically on the shape of the dose-response relationship, which remains poorly understood. Linking hourly air pollution data with daily vital statistics from 251...",
+    "date": "2026-07",
+    "authors": "Bissan Ghaddar, Kimberly Singer Babiarz, Hongbin Li, Lingsheng Meng, Lynn Hildemann, Han Hong, Alvise Scarabosio, Meili Wang, Aprajit Mahajan, Peng Yin, Maigeng Zhou & Grant Milleret al. (View all)",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-980f35fc",
+    "title": "Causal Inference for Asset Pricing",
+    "url": "https://www.nber.org/papers/w35413",
+    "description": "Portfolio choice involves substituting across many assets at once, complicating inference about asset demand. An elementary condition often captures this behavior in theory and practice: homogeneous substitution conditional on observables (e.g., factor loadings, maturity, credit ratings). We...",
+    "date": "2026-07",
+    "authors": "Valentin Haddad, Zhiguo He, Paul Huebner, Péter Kondor & Erik Loualiche",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-4e64fbf6",
+    "title": "The Pass-through of Tariffs and Exchange Rates",
+    "url": "https://www.nber.org/papers/w35398",
+    "description": "This paper shows that the currency in which traded goods are invoiced has a first-order implication for the short-run impact of tariffs on the economy. If prices are set in terms of producers currency (PCP), a unilateral tariff is contractionary on impact, reducing GDP, and causing a deterioration...",
+    "date": "2026-07",
+    "authors": "Stéphane Auray, Michael B. Devereux & Aurélien Eyquem",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-d47ffc90",
+    "title": "Understanding Cross-State Variations in Medicaid Enrollment During and After the COVID-19 Pandemic",
+    "url": "https://www.nber.org/papers/w35399",
+    "description": "Understanding Cross-State Variations in Medicaid Enrollment During and After the COVID-19 Pandemic",
+    "date": "2026-07",
+    "authors": "Jeffrey Clemens, Helena Detering & Anwita Mahajan",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-bdb2c600",
+    "title": "Is Growth Additive?",
+    "url": "https://www.nber.org/papers/w35415",
+    "description": "Growth theory is based on the assumption of exponential total factor productivity (TFP) growth, or that the conditional expectation of the next TFP increment is proportional to the current level of TFP. In the U.S., we find strong evidence that TFP growth is conditionally additive, not exponential....",
+    "date": "2026-07",
+    "authors": "Callum J. Jones, David López-Salido & Thomas Philippon",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-dec458d0",
+    "title": "International Trade in an Uncertain World",
+    "url": "https://www.nber.org/papers/w35416",
+    "description": "We develop a tractable quantitative model of international trade in which agents make bilateral investments in resilience under general equilibrium uncertainty. Under both complete and incomplete financial markets, we show that these bilateral investments solve a portfolio problem of choosing trade...",
+    "date": "2026-07",
+    "authors": "Benny Kleinman, Ernest Liu, Stephen J. Redding & David Xu",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-52a4a978",
+    "title": "How Does Monetary and Fiscal Policy Affect the Economy in the Face of Large Shocks?",
+    "url": "https://www.nber.org/papers/w35400",
+    "description": "How Does Monetary and Fiscal Policy Affect the Economy in the Face of Large Shocks?",
+    "date": "2026-07",
+    "authors": "Greg Kaplan & Ken Miyahara",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-6b406500",
+    "title": "Losses from a Disability: Temporal Variety and Earnings in the Long Run",
+    "url": "https://www.nber.org/papers/w35417",
+    "description": "Using diaries covering 25-61-year-olds in the American Time Use Survey 2009-24, this study demonstrates that temporal varietydoing more different things in a dayis income superior. Linking these data to underlying Current Population Surveys, propensity-score models show that people stating that they...",
+    "date": "2026-07",
+    "authors": "Daniel S. Hamermesh",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-f872bfa5",
+    "title": "Neighborhood Effects and Missing Markets for Opportunity",
+    "url": "https://www.nber.org/papers/w35419",
+    "description": "Experimental and quasi-experimental studies show that childhood neighborhoods have substantial causal impacts on childrens adult earnings and other long-term socioeconomic outcomes. Several market failures are likely to lead to excessive residential segregation by parental income and to an under...",
+    "date": "2026-07",
+    "authors": "Lawrence F. Katz",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-06e901b4",
+    "title": "Baby Busts and Growth Booms: Demographic Change and the Macroeconomy",
+    "url": "https://www.nber.org/papers/w35401",
+    "description": "The secular decline in birth rates across the globe over the past seven decades has slowed population growth, raised average ages, and reshaped labor markets and the macroeconomy. Contrary to the widespread expectation that these trends hamper economic growth, we find lower birth rates are...",
+    "date": "2026-07",
+    "authors": "Daron Acemoglu, David Autor, Keelan Beirne & Andrew Scott",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c758604c",
+    "title": "From Minor Ailments to Major Illnesses: A Practical Framework for Valuing Morbidity in Environmental Policy Analysis",
+    "url": "https://www.nber.org/papers/w35420",
+    "description": "From Minor Ailments to Major Illnesses: A Practical Framework for Valuing Morbidity in Environmental Policy Analysis",
+    "date": "2026-07",
+    "authors": "Mark Dickie & Matthew J. Neidell",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-64611ebd",
+    "title": "Quantitative Easing and Government Debt Sustainability",
+    "url": "https://www.nber.org/papers/w35421",
+    "description": "We show that quantitative easing (QE) worsens government debt sustainability. In our model, the government has a negative primary balance and downward-sloping debt demand that makes interest rates endogenous. The central bank has long-term capital and remits profits to the fiscal authority. QE...",
+    "date": "2026-07",
+    "authors": "Wenhao Li & Sebastian A. Merkel",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b1bf502a",
+    "title": "Competition and Misconduct in Certification Markets with Externalities",
+    "url": "https://www.nber.org/papers/w35422",
+    "description": "Vehicle inspectionscommonly known as smog and safety checksare often delegated to private agents, much like other quality certification markets. When these agents compete, they face incentives to misreport qualityespecially when consumers do not internalize the external costs of misreporting. Theory...",
+    "date": "2026-07",
+    "authors": "Nano Barahona, Juan-Pablo Montero & Pedro Skorin",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1f9fc78b",
+    "title": "Is Money Overrated? Misperceived Satisfaction from Income",
+    "url": "https://www.nber.org/papers/w35423",
+    "description": "People often make important choices in pursuit of higher income, but do they place too much weight on income when deciding what path to take? We propose a simple model of misspecified learning in which individuals overestimate the marginal satisfaction from incomethe expected effect of an income...",
+    "date": "2026-07",
+    "authors": "Ricardo Perez-Truglia & Rafael Macedo Rubião",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-193fe176",
+    "title": "Analyzing Occupational Licensing Across Nations",
+    "url": "https://www.nber.org/papers/w35424",
+    "description": "Relatively little is known about occupational licensing across nations. Despite a large literature on occupational licensing in the United States, cross-national evidence remains scarce, especially for developing economies. We assemble harmonized estimates of licensing prevalence for 44 countries by...",
+    "date": "2026-07",
+    "authors": "Jonathan S. Hartley & Morris M. Kleiner",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-e26de166",
+    "title": "Did Drug Decriminalization Increase Overdoses",
+    "url": "https://www.nber.org/papers/w35427",
+    "description": "We study the effect of drug decriminalization on overdose mortality using Oregon's Measure 110 and Washington's Blake decision. Synthetic-control estimates show that both decriminalization regimes sharply reduced drug arrests and were followed by sustained increases in overdose mortality relative to...",
+    "date": "2026-07",
+    "authors": "David Hall, Benjamin Hansen & Kyutaro Matsuzawa",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-90fcb681",
+    "title": "The Rise of Female Autonomy and the Decline of Fertility: The Role of Mismatch",
+    "url": "https://www.nber.org/papers/w35425",
+    "description": "The fertility decline is everywhere in the world today and goes back decades for rich countries. Birthrates have been below replacement in the U.S. and Europe since the mid-1970s. Completed cohort fertility in the U.S. was lower for those born in 1955 than for 1975. The reasons for the initial...",
+    "date": "2026-07",
+    "authors": "Claudia Goldin",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-e6a72ec0",
+    "title": "Quality, Selection, and Congestion: Equilibrium Hospital Outcomes During Covid-19",
+    "url": "https://www.nber.org/papers/w35426",
+    "description": "Quality, Selection, and Congestion: Equilibrium Hospital Outcomes During Covid-19",
+    "date": "2026-07",
+    "authors": "Gautam Gowrisankaran, Kelli R. Marquardt & Robert Town",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-5c1b4cf4",
+    "title": "How Do State “Auto-IRA” Policies Affect Household Balance Sheets?",
+    "url": "https://www.nber.org/papers/w35373",
+    "description": "We examine how state policies requiring firms to facilitate workplace retirement saving affect household balance sheets. Using data from the Survey of Income and Program Participation (SIPP), we compare private-sector workers likely exposed to Oregons Automatic-Enrollment Individual Retirement...",
+    "date": "2026-07",
+    "authors": "Adam Bloomfield, Ngoc Dao, Kyung Min Lee & Sita Slavov",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-68a27ecb",
+    "title": "Tax Incentives and Venture Capital Risk-Taking: Evidence from the QSBS Program",
+    "url": "https://www.nber.org/papers/w35418",
+    "description": "Do tax subsidies prompt investors to take on risk? We address this question by looking at investors' responses to changes to the Qualified Small Business Stock (QSBS) program, which reduces capital gains taxes on startup investing. We do so under a framework in which some startup investors venture...",
+    "date": "2026-07",
+    "authors": "Murillo Campello & Guilherme Junqueira",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-4a32edb3",
+    "title": "Forecasting with Uncertain Persistence",
+    "url": "https://www.nber.org/papers/w35411",
+    "description": "With uncertainty about persistence, we show that forecasts necessarily become more persistent and over-react at long horizons. For these reasons, correctly specified and Bayesian forecasts may under-react at short horizons and over-react at long horizons. These results provide a unified explanation...",
+    "date": "2026-07",
+    "authors": "Joel P. Flynn, Maksim Meinert & Karthik Sastry",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-8f2c02f1",
+    "title": "Digital Safe Havens: The Economics of Tokenized Treasuries",
+    "url": "https://www.nber.org/papers/w35412",
+    "description": "We study the emerging market for tokenized US Treasuries and yield-bearing dollar instruments on public blockchains. Using a comprehensive dataset that combines on-chain transactions, protocol-level total value locked, pool yields, and monetary policy and stress events, we document three core...",
+    "date": "2026-07",
+    "authors": "Chen Lin, Eswar S. Prasad, Daniel Rabetti & Che Zhang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-545210b9",
+    "title": "Importing Aggregate Demand",
+    "url": "https://www.nber.org/papers/w35402",
+    "description": "How exposed are open economies to global demand shocks? In equilibrium, foreign booms can be absorbed either by domestic consumption (\"quantities\") or by real exchange rate appreciation (\"prices\"). We show that failures of Ricardian equivalence and global financial market imperfections, two...",
+    "date": "2026-07",
+    "authors": "Chen Lian, Dmitry Mukhin & Christian K. Wolf",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-8c897e05",
+    "title": "Literature Review and Evidence Aggregation: a Toolkit for Applied Micro",
+    "url": "https://www.nber.org/papers/w35403",
+    "description": "Consider an analyst interested in predicting the size of an effect. She has identified a set of prior published studies of similar effects. We provide a toolkit for (i) summarizing the prior literature, (ii) making predictions of effects in new contexts, and (iii) correcting for the bias from...",
+    "date": "2026-07",
+    "authors": "Peter Ganong, Avik Garg & Maximilian Kasy",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-194ac8e9",
+    "title": "The Labor Market Value of Community College Bachelor’s Degrees: Initial Evidence from a Resume Audit Study in Early Childhood Education",
+    "url": "https://www.nber.org/papers/w35404",
+    "description": "The Labor Market Value of Community College Bachelor’s Degrees: Initial Evidence from a Resume Audit Study in Early Childhood Education",
+    "date": "2026-07",
+    "authors": "Riley K. Acton, Camila Morales, Julia A. Turner, Lois Miller ⓡ Kalena Cortes",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-81195652",
+    "title": "Growth, Firm Scale, and the Energy Intensity of Production",
+    "url": "https://www.nber.org/papers/w35405",
+    "description": "We uncover a new mechanism that links growth and a decline in the energy intensity of production, observed globally since 1990. Using microdata from India and a causal research design, we demonstrate that the expenditure share of energy declines steeply with firm scale, due both to physical scaling...",
+    "date": "2026-07",
+    "authors": "Kathryn McDonald, Noémie Pinardon-Touati & Conor Walsh",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-a2acb839",
+    "title": "The Use and Misuse of Average and Marginal Energy Prices: Implications for Climate Policy",
+    "url": "https://www.nber.org/papers/w35406",
+    "description": "The Use and Misuse of Average and Marginal Energy Prices: Implications for Climate Policy",
+    "date": "2026-07",
+    "authors": "Jonathan T. Hawkins-Pierot & Katherine R.H. Wagner",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-0d298ff3",
+    "title": "Reassessing the Role of Standardized Tests in University Admissions",
+    "url": "https://www.nber.org/papers/w35407",
+    "description": "There is a long-running debate over using standardized test scores to inform college and graduate admissions decisions, with some arguing that test scores are an important signal of academic strength and others arguing that they are biased and exclusionary. Here we revisit this issue by analyzing a...",
+    "date": "2026-07",
+    "authors": "Johann D. Gaebler, Calvin Isley, Christopher Avery & Sharad Goel",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b690683f",
+    "title": "Optimal Flood Insurance in a Second-Best World: Fiscal Spillovers, Reclassification Risk and Moral Hazard",
+    "url": "https://www.nber.org/papers/w35408",
+    "description": "Optimal Flood Insurance in a Second-Best World: Fiscal Spillovers, Reclassification Risk and Moral Hazard",
+    "date": "2026-07",
+    "authors": "Jonathan Gruber & Adam Solomon",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1bf7ea52",
+    "title": "Racial Disparities in Education During and Following the Pandemic: Evidence in Connecticut through 2025",
+    "url": "https://www.nber.org/papers/w35409",
+    "description": "Racial Disparities in Education During and Following the Pandemic: Evidence in Connecticut through 2025",
+    "date": "2026-07",
+    "authors": "Eric Brunner, Stephen Ross & Xinrui Wang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-a0b0bc94",
+    "title": "Experiential and Social Learning",
+    "url": "https://www.nber.org/papers/w35410",
+    "description": "How does a persons own learning experience affect their ability to learn from others? We conduct a field experiment on chlorination in Pakistan, where randomized learning-arm households use a tool to track their childrens diarrhea before and after chlorine distribution. Learning-arm households with...",
+    "date": "2026-07",
+    "authors": "Agha A. Akram, Gabriella Fleischman, Reshmaan N. Hussam & Akib Khan",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-5968dbb7",
+    "title": "Congestion Pricing and Emergency Medical Service Response: Evidence from New York City",
+    "url": "https://www.nber.org/papers/w35414",
+    "description": "Congestion Pricing and Emergency Medical Service Response: Evidence from New York City",
+    "date": "2026-07",
+    "authors": "Yulia Chikish, Gregory J. Colman, Dhaval M. Dave, Brad R. Humphreys, Zachary Santamaria & Zachary Winship",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "nber-31179cb2",
     "title": "Health Care Reform and Firm Dynamics: Evidence from Medicare Part D and the Retail Pharmacy Industry",
     "url": "https://www.nber.org/papers/w35380",
