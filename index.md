@@ -14,6 +14,7 @@ title: "Welcome"
 - [Oxford 经济学工作论文]({{ '/oxford-working-papers/' | relative_url }}) — University of Oxford 系列论文
 - [OECD 经济学工作论文]({{ '/oecd-working-papers/' | relative_url }}) — OECD Economics Department 系列论文
 - [NBER 工作论文]({{ '/nber-working-papers/' | relative_url }}) — National Bureau of Economic Research 系列论文
+- [MIT 工作论文]({{ '/mit-working-papers/' | relative_url }}) — MIT Economics Department 系列论文
 - [CEPR Discussion Papers]({{ '/cepr-discussion-papers/' | relative_url }}) — Centre for Economic Policy Research 系列论文
 
 ## 📅 Conferences

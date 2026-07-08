@@ -23,7 +23,7 @@ jobs:
           sudo apt-get install -y chromium-browser xvfb
 
       - name: Install Python dependencies
-        run: pip install DrissionPage requests
+        run: pip install DrissionPage requests beautifulsoup4
 
       - name: Run ADB Working Papers crawler
         run: xvfb-run python scripts/adb_crawler.py --pages 2
@@ -43,6 +43,9 @@ jobs:
       - name: Run CEPR Discussion Papers crawler
         run: xvfb-run python scripts/cepr_crawler.py --pages 5
 
+      - name: Run MIT Working Papers crawler
+        run: python scripts/mit_crawler.py
+
       - name: Commit and push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -55,6 +58,7 @@ jobs:
           git add _data/nber_papers.json
           git add _data/nber_conferences.json
           git add _data/cepr_papers.json
+          git add _data/mit_papers.json
 
           # 检查是否有变更要提交
           if git diff --cached --quiet; then

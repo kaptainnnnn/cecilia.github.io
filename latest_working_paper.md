@@ -1,12 +1,12 @@
 ---
 layout: page
 title: 最新经济学工作论文
-description: 自动聚合 NBER、CEPR、OECD、Oxford、ADB 最新经济学工作论文，每日更新。
+description: 自动聚合 NBER、CEPR、MIT、OECD、Oxford、ADB 最新经济学工作论文，每日更新。
 image: /assets/images/og-preview.svg
 ---
 
 <div id="papers-container">
-  <p class="page-subtitle">来自 NBER、CEPR、OECD、Oxford、ADB 的最新工作论文。</p>
+  <p class="page-subtitle">来自 NBER、CEPR、MIT、OECD、Oxford、ADB 的最新工作论文。</p>
 
   <div style="margin-bottom:20px;">
     <input type="text" id="papers-search" placeholder="搜索论文标题、作者、来源…" style="width:100%;padding:10px 16px;border:1px solid #ddd;border-radius:8px;font-size:0.95rem;box-sizing:border-box;">
@@ -45,6 +45,23 @@ image: /assets/images/og-preview.svg
   addSource('CEPR', {{ site.data.cepr_papers | jsonify }});
   addSource('OECD', {{ site.data.oecd_papers | jsonify }});
   addSource('Oxford', {{ site.data.ox_papers | jsonify }});
+  // MIT: pdf_url 映射为 url
+  var mitData = {{ site.data.mit_papers | jsonify }};
+  if (mitData && mitData.length) {
+    for (var i = 0; i < mitData.length; i++) {
+      var mp = mitData[i];
+      allPapers.push({
+        title: mp.title || '',
+        url: mp.pdf_url || '',
+        authors: mp.authors || '',
+        date: mp.date || '',
+        source: 'MIT',
+        description: '',
+        series: mp.faculty || '',
+      });
+    }
+  }
+
   addSource('ADB', {{ site.data.adb_papers | jsonify }});
 
   // 按日期排序（最新的在前）
@@ -62,6 +79,7 @@ image: /assets/images/og-preview.svg
     'OECD':   { bg: '#fef3c7', text: '#d97706' },
     'Oxford': { bg: '#f0fdf4', text: '#16a34a' },
     'ADB':    { bg: '#fef2f2', text: '#dc2626' },
+    'MIT':    { bg: '#f5f3ff', text: '#7c3aed' },
   };
   function getSourceColor(s) {
     return sourceColors[s] || { bg: '#f5f5f7', text: '#515154' };
