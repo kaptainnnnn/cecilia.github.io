@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 最新经济学工作论文
+permalink: /latest_working_paper/
 description: 自动聚合 NBER、CEPR、MIT、OECD、Oxford、ADB 最新经济学工作论文，每日更新。
 image: /assets/images/og-preview.svg
 ---
