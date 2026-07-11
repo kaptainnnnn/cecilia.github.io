@@ -1,5 +1,110 @@
 [
   {
+    "id": "cepr-5d0a116b",
+    "title": "DP21732 The Political Economy of Imperial Trade Policies",
+    "url": "https://cepr.org/publications/dp21732",
+    "description": "",
+    "date": "2026-07-10",
+    "authors": "Facchini; Bonfatti; Silva; Zhou",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b0ffb5eb",
+    "title": "DP21731 Globalisation, Income, and Welfare: Imported Goods Variety and Quality",
+    "url": "https://cepr.org/publications/dp21731",
+    "description": "",
+    "date": "2026-07-10",
+    "authors": "Azémar; Eberhardt; Desbordes",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-908c1caf",
+    "title": "DP21730 The Information Channel of Asset Purchases",
+    "url": "https://cepr.org/publications/dp21730",
+    "description": "",
+    "date": "2026-07-10",
+    "authors": "Galli; Gaballo",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-82dcfdcd",
+    "title": "DP21729 Bank Runs, Lender of Last Resort, and Liquidity Regulation",
+    "url": "https://cepr.org/publications/dp21729",
+    "description": "",
+    "date": "2026-07-10",
+    "authors": "Ahnert; Anand",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-068ef3db",
+    "title": "DP21728 Digitalization and Credit Markets: Evidence from eInvoicing",
+    "url": "https://cepr.org/publications/dp21728",
+    "description": "",
+    "date": "2026-07-10",
+    "authors": "Martinez-Miera; Casado; Giometti; Gutierrez; Matyunina; Terracciano",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2599da6d",
+    "title": "DP21727 How Social Learning Overcomes Confirmation Bias",
+    "url": "https://cepr.org/publications/dp21727",
+    "description": "",
+    "date": "2026-07-10",
+    "authors": "Bohren; Hauser",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-eb44e3ea",
+    "title": "DP21726 Retrieval Failures and Consumption Smoothing: A Field Experiment on Seasonal Poverty",
+    "url": "https://cepr.org/publications/dp21726",
+    "description": "",
+    "date": "2026-07-10",
+    "authors": "Augenblick; Jack; Kaur; Masiye; Swanson",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-41311fa9",
     "title": "DP21725 Firm Exit and Financial Frictions",
     "url": "https://cepr.org/publications/dp21725",
