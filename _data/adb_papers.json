@@ -1,5 +1,18 @@
 [
   {
+    "id": "adb-b67c2934",
+    "title": "Enhancing Digital Services Trade: The Case of the People's Republic of China",
+    "url": "https://www.adb.org/publications/digital-services-trade-peoples-republic-china",
+    "description": "This paper examines the drivers of digital services trade in the People’s Republic of China and the role of regulatory reforms in shaping services competitiveness.",
+    "date": "2026-07-09",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
     "id": "adb-b8a27f6a",
     "title": "Economic Policy Uncertainty and Carbon Emissions in Emerging Markets",
     "url": "https://www.adb.org/publications/economic-policy-uncertainty-carbon-emissions",
@@ -239,19 +252,6 @@
     "url": "https://www.adb.org/publications/workers-exposure-artificial-intelligence",
     "description": "This paper finds that workers in low-income countries face lower exposure to artificial intelligence than those in high-income countries, mainly due to within-occupation task differences, and discusses the implications.",
     "date": "2026-01-30",
-    "source": "ADB",
-    "tags": [
-      "economics",
-      "development"
-    ],
-    "featured": false
-  },
-  {
-    "id": "adb-66ad5a7a",
-    "title": "Heat Stress, Air Pollution Risk and Population Exposure: Evidence from Selected Asian Countries",
-    "url": "https://www.adb.org/publications/heat-stress-air-pollution-risk",
-    "description": "This paper examines heat stress and air pollution in Bangladesh, Indonesia, Pakistan, Thailand, and Viet Nam, looking at patterns of exposure among different population groups and discussing policy implications.",
-    "date": "2026-01-27",
     "source": "ADB",
     "tags": [
       "economics",
