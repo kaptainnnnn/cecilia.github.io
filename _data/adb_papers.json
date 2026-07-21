@@ -1,5 +1,18 @@
 [
   {
+    "id": "adb-f9446466",
+    "title": "Business Climate, Economic Complexity, and Performance at the Provincial Level in Viet Nam",
+    "url": "https://www.adb.org/publications/business-climate-economic-complexity-performance-provincial-viet-nam",
+    "description": "This paper investigates how subnational institutions impact the manufacturing sector in Viet Nam, comparing foreign-invested and domestic firms.",
+    "date": "2026-07-13",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
     "id": "adb-b67c2934",
     "title": "Enhancing Digital Services Trade: The Case of the People's Republic of China",
     "url": "https://www.adb.org/publications/digital-services-trade-peoples-republic-china",
@@ -239,19 +252,6 @@
     "url": "https://www.adb.org/publications/private-sector-development-timor-leste",
     "description": "This paper empirically investigates what drives the growth of private businesses in Timor-Leste and the policy actions needed to facilitate growth amid global uncertainty, especially for micro, small, and medium-sized enterprises (MSMEs).",
     "date": "2026-02-02",
-    "source": "ADB",
-    "tags": [
-      "economics",
-      "development"
-    ],
-    "featured": false
-  },
-  {
-    "id": "adb-24ec9792",
-    "title": "Workers’ Exposure to Artificial Intelligence Across Development Stages",
-    "url": "https://www.adb.org/publications/workers-exposure-artificial-intelligence",
-    "description": "This paper finds that workers in low-income countries face lower exposure to artificial intelligence than those in high-income countries, mainly due to within-occupation task differences, and discusses the implications.",
-    "date": "2026-01-30",
     "source": "ADB",
     "tags": [
       "economics",

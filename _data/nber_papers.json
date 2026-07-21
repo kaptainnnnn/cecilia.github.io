@@ -962,6 +962,513 @@
     ]
   },
   {
+    "id": "nber-000b6441",
+    "title": "Cognitive Aging and Long-Term Care in Italy",
+    "url": "https://www.nber.org/papers/w35441",
+    "description": "This chapter examines the incidence and economic burden of cognitive impairment among older individuals in Italy within the long-term care (LTC) system. Using SHARE Wave 9 data (2022), cognitive impairment is measured through standardized memory and numeracy tests, classifying 8.6% of individuals...",
+    "date": "2026-07",
+    "authors": "Agar Brugiavini, Ludovico Carrino, Gloria Moroni, Rinaldo Naci & Giacomo Pasini",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-15c2c110",
+    "title": "Spreading Out Across Expanding Idea Space",
+    "url": "https://www.nber.org/papers/w35499",
+    "description": "Over nearly two centuries, US inventions have become increasingly dissimilar: not just fewer head-to-head collisions between inventors, but growing distance between neighboring inventions. We document this secular decline in similarity using validated neural language models applied to the full text...",
+    "date": "2026-07",
+    "authors": "Ina Ganguli, Jeffrey Lin, Vitaly Meursault & Nicholas F. Reynolds",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-d8bcb9b8",
+    "title": "Inference with AI-Generated Covariates",
+    "url": "https://www.nber.org/papers/w35481",
+    "description": "Empirical researchers increasingly use large language models (LLMs) to extract structured features, such as sentiment scores, classifications, and expectations, from unstructured data and treat these generated features as observed covariates in downstream estimation. This practice can invalidate...",
+    "date": "2026-07",
+    "authors": "Junting Duan & Markus Pelger",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-88e2808d",
+    "title": "Structural Estimation with Unstructured Data",
+    "url": "https://www.nber.org/papers/w35487",
+    "description": "Standard macroeconomic data do not cleanly separate the systematic and nonsystematic components of monetary policy. We show that incorporating unstructured text data into the structural estimation of a DSGE model can sharpen this distinction. We augment a standard state-space model with a non-core...",
+    "date": "2026-07",
+    "authors": "Sara Casella, Jesús Fernández-Villaverde, Stephen Hansen, Ryohei Oishi & Minchul Shin",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-bc396937",
+    "title": "Learning and the Efficiency of Expert Referrals",
+    "url": "https://www.nber.org/papers/w35486",
+    "description": "Buyers of complex goods and services often rely on the advice of expert intermediaries who are themselves imperfectly informed about the quality of the available options. How well do these intermediaries learn about that quality and act on it? We study this question in the setting of referrals from...",
+    "date": "2026-07",
+    "authors": "Ian McCarthy & Seth Richards-Shubik",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-d7102d56",
+    "title": "Ambiguity vs. Risk in Investment Decisions: A Continuous Decomposition",
+    "url": "https://www.nber.org/papers/w35488",
+    "description": "This paper provides a novel framework for assessing the effect of ambiguity on asset values within the Klibanoff-Marinacci-Mukerji (KMM) smooth ambiguity framework. By shifting the analysis into a continuous space of prior probabilities, we establish that ambiguity leads to an adjustment of beliefs...",
+    "date": "2026-07",
+    "authors": "Geoffrey Heal & Marcella Lucchetta",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-a801808d",
+    "title": "Diagnostic Thresholds, Written Consent Requirements, and the Utilization of Scarce Organs",
+    "url": "https://www.nber.org/papers/w35489",
+    "description": "Diagnostic Thresholds, Written Consent Requirements, and the Utilization of Scarce Organs",
+    "date": "2026-07",
+    "authors": "Hannah Bae & Jeffrey Clemens",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b5a8d4e7",
+    "title": "Training AI for When Humans Will Use It",
+    "url": "https://www.nber.org/papers/w35490",
+    "description": "AI predicts; humans use its predictions to make decisions. These predictions are combined with human verification and analysis, queries to other statistical models, and so on. The economic value of an AI, therefore, depends on how it interacts with the surrounding decision environment. We describe...",
+    "date": "2026-07",
+    "authors": "Kevin A. Bryan & Joshua S. Gans",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-f74b2b4c",
+    "title": "Retreating from Science: The Long-Run Effects of the 1970s U.S. Military Disinvestment from University Research",
+    "url": "https://www.nber.org/papers/w35491",
+    "description": "Retreating from Science: The Long-Run Effects of the 1970s U.S. Military Disinvestment from University Research",
+    "date": "2026-07",
+    "authors": "Daniel P. Gross, Bhaven N. Sampat & Hansen Zhang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1e1faf5d",
+    "title": "No-Poach Agreements",
+    "url": "https://www.nber.org/papers/w35492",
+    "description": "We study no-poach cartels using a wage-posting model that puts worker poaching at the center of labor market competition. Even when just two out of ten employers in a local labor market collude, wages fall by almost 5% market-wide. The reason is that no-poach agreements suppress competition along...",
+    "date": "2026-07",
+    "authors": "Axel Gottfries & Gregor Jarosch",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-59b3fce5",
+    "title": "Immigrants' Legal Status and Firms: Evidence from the 2007 EU Enlargement",
+    "url": "https://www.nber.org/papers/w35493",
+    "description": "We study how firms and workers adjust when previously restricted migrants gain full and portable work rights in a labor market with substantial informality. We exploit the 2007 EU accession of Bulgaria and Romania, which granted unrestricted work rights to Italy's largest migrant group. Using...",
+    "date": "2026-07",
+    "authors": "Vittoria Dicandia & Silvia Vannutelli",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-2fe9c915",
+    "title": "The Price of Political Ties: Reputational Risk and the Strategic Divestment of Corporate PACs",
+    "url": "https://www.nber.org/papers/w35494",
+    "description": "The Price of Political Ties: Reputational Risk and the Strategic Divestment of Corporate PACs",
+    "date": "2026-07",
+    "authors": "Eric A. Baldwin, Takuma Iwasaki, John J. Donohue & Charlie Grabois",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1faa3711",
+    "title": "Human Enhancement Technologies: A Survey Experiment on Private Demand and Governance Preferences.",
+    "url": "https://www.nber.org/papers/w35495",
+    "description": "Human Enhancement Technologies: A Survey Experiment on Private Demand and Governance Preferences.",
+    "date": "2026-07",
+    "authors": "Giovanni Immordino, Mario Macis, Immacolata Marino & Fabrizio Panebianco",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-a6194c96",
+    "title": "Optimal Currency Strategies Under Deviations From Interest Parity",
+    "url": "https://www.nber.org/papers/w35498",
+    "description": "This paper examines optimal currency demands for global equity and bond investors in a large cross-section of developed and emerging markets over the 1975-2023 period. It extends the framework of Campbell et al. (2010) by incorporating both optimal portfolio-risk minimizing currency exposures,...",
+    "date": "2026-07",
+    "authors": "Luis M. Viceira & Sally Shen",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-e1c518d5",
+    "title": "Supply Chain Risk, Trade and Economic Fragility",
+    "url": "https://www.nber.org/papers/w35496",
+    "description": "We study how equilibrium patterns of production, trade, and input sourcing in complex supply chains are shaped by aggregate risk. We develop a quantitative multi-country model with multi-sourcing across stages. We show that sourcing shares equal an inputs expected output elasticity its expected...",
+    "date": "2026-07",
+    "authors": "Juanma Castro-Vincenzi, Adry Gracio, Gaurav Khanna & Nitya Pandalai-Nayar",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b9e2c187",
+    "title": "Exorbitant Privilege of the Periodic Table? Geoeconomics, Endogenous Centrality and Strategic Minerals for the Green Transition",
+    "url": "https://www.nber.org/papers/w35497",
+    "description": "Exorbitant Privilege of the Periodic Table? Geoeconomics, Endogenous Centrality and Strategic Minerals for the Green Transition",
+    "date": "2026-07",
+    "authors": "Josh Kirk, Evgenia Passari & Hélène Rey",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-a3bcc0cb",
+    "title": "The Labor Market Impacts of GLP-1s",
+    "url": "https://www.nber.org/papers/w35475",
+    "description": "We estimate the causal impacts of GLP-1 treatment on labor market outcomes using linked Danish administrative data and a matched stacked difference-in-differences design. We compare patients who initiate GLP-1 treatment during the first two years of Semaglutide availability to observably similar...",
+    "date": "2026-07",
+    "authors": "N. Meltem Daysal, Camille JH. Fredrickson, Ida L. Kristiansen, Mircea Trandafir & Jonathan Zhang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-19c0cf90",
+    "title": "Better Together? The Impact of Cash Transfers and Couples' Financial Planning on Household Dynamics and Economic Outcomes",
+    "url": "https://www.nber.org/papers/w35478",
+    "description": "Better Together? The Impact of Cash Transfers and Couples' Financial Planning on Household Dynamics and Economic Outcomes",
+    "date": "2026-07",
+    "authors": "Sarika Gupta, Jessica Leight, Daniel W. Maggio & Simone G. Schaner",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-0be9f288",
+    "title": "Estimating the Economic Effects of Federally Funded R&D",
+    "url": "https://www.nber.org/papers/w35472",
+    "description": "In recent years, there has been Congressional interest in changing various policies related to research and development (R&D). Recent legislation has included provisions that would modify federal funding for R&D investments and tax provisions affecting the after-tax price of R&D. The Congressional...",
+    "date": "2026-07",
+    "authors": "Sheila Campbell, Jaeger Nelson, Eli A. Schrag, Heidi L. Williams & Caleb K. Wroblewski",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-69380bbf",
+    "title": "A Large-Scale Evaluation of Merger Simulations",
+    "url": "https://www.nber.org/papers/w35473",
+    "description": "Prospective merger simulations are a commonly used tool in industrial organization and antitrust, but evidence about their accuracy and predictive ability is limited. We study 101 mergers in consumer packaged goods and compare the realizations of price changes with predictions from merger...",
+    "date": "2026-07",
+    "authors": "Vivek Bhattacharya, Gastón Illanes, Avner A. Kreps, José D. Salas & David Stillerman",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-0216d86c",
+    "title": "Severe Cognitive Impairments and Long-term Care in Germany",
+    "url": "https://www.nber.org/papers/w35469",
+    "description": "Germany experiences an increase in LTC recipients, due to population ageing but also to reforms which made LTC benefits easier accessible for individuals with cognitive impairments. Previous studies documented the cost of long-term care, and how it evolved. However, less is known about the specific...",
+    "date": "2026-07",
+    "authors": "Elsa Perdrix, Axel H. Börsch-Supan, Johannes Geyer, Peter Haan & Sami Louahlia",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-30dc0db6",
+    "title": "The U.S. Mortality Crisis as a Preston Curve Reversal",
+    "url": "https://www.nber.org/papers/w35470",
+    "description": "U.S. life expectancy stagnated and declined in the 2010s despite continued growth in real per capita income. We use Preston curves to characterize this pattern as a change in the relationship between income and longevity. Using state-level data from 1980 to 2019 and county-level data from 2000 to...",
+    "date": "2026-07",
+    "authors": "Ritikaa Khanna, Rourke O'Brien, Andrew C. Stokes, Atheendar Venkataramani & Elizabeth Wrigley-Field",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-3e3ba41b",
+    "title": "Walking with Feet Tied to the Past: Childhood Exposure to the 1918 Influenza Pandemic and Later-Life Male Mortality",
+    "url": "https://www.nber.org/papers/w35471",
+    "description": "Walking with Feet Tied to the Past: Childhood Exposure to the 1918 Influenza Pandemic and Later-Life Male Mortality",
+    "date": "2026-07",
+    "authors": "Hamid Noghanibehambari & Jason Fletcher",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-9d0c9fc9",
+    "title": "Monopsony and Backloaded Compensation: Theory and Evidence from Public Accountants",
+    "url": "https://www.nber.org/papers/w35474",
+    "description": "Monopsony and Backloaded Compensation: Theory and Evidence from Public Accountants",
+    "date": "2026-07",
+    "authors": "Michael Rubens & Bernardo S. Silveira",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-0d2aa981",
+    "title": "Oligopsony and Collective Bargaining",
+    "url": "https://www.nber.org/papers/w35476",
+    "description": "Employers facing limited labor market competition may suppress wages below socially optimal levels. Unions can counteract wage suppression through collective bargaining, though they may also push wages above the socially optimal level and lead to job rationing. We estimate a structural model of...",
+    "date": "2026-07",
+    "authors": "Tirza J. Angerhofer, Allan Collard-Wexler & Matthew C. Weinberg",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-4286b1df",
+    "title": "In Sickness and in Health: Retirement Responses to Spousal Health Shocks",
+    "url": "https://www.nber.org/papers/w35477",
+    "description": "Health shocks are a major driver of retirement. However, the existing literature on this topic tends not to consider the marital context in which retirements occur. Using the 1992-2022 Health and Retirement Study and staggered difference-in-differences methods, we investigate how spousal health...",
+    "date": "2026-07",
+    "authors": "Hyeran Chung, Haena Lee & Sita Slavov",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-bcf9f806",
+    "title": "Estimating Trends In Mental Distress Using Survey Data",
+    "url": "https://www.nber.org/papers/w35480",
+    "description": "One way of examining how mental health has changed over time is to use information available in large national surveys. While these survey-based measures are valuable in principle, and have been widely employed in prior research, a number of challenges may limit their practical usefulness or require...",
+    "date": "2026-07",
+    "authors": "Christopher J. Ruhm",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-328fbb35",
+    "title": "Firm Exit and Financial Frictions",
+    "url": "https://www.nber.org/papers/w35479",
+    "description": "Governments often intervene to prevent firm closures during crises, fearing that financially constrained but viable firms may fail. We develop a firm dynamics model with incomplete financial markets and show how financial frictions generate excessive firm exit. A key statistic governing this dynamic...",
+    "date": "2026-07",
+    "authors": "Gideon Bornstein & Laura Castillo-Martinez",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b615e1fe",
+    "title": "Life After Divorce: Effects of Joint Custody on Parents and Children",
+    "url": "https://www.nber.org/papers/w35482",
+    "description": "Divorce reshapes family life, yet little is known about one of its most consequential features: the allocation of child custody. We study the impact of joint versus sole custody on both parents and children using rich administrative data from Sweden linked to over 25 years of newly-collected court...",
+    "date": "2026-07",
+    "authors": "Stella Canessa, Gordon B. Dahl, Anna Hasselqvist, Costas Meghir, Susan Niknami, Mårten Palme, Helmut Rainer, Olof Rosenqvist & Pengpeng Xiao",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-ad4683e9",
+    "title": "Sharpening Economic Interpretation with HARS",
+    "url": "https://www.nber.org/papers/w35483",
+    "description": "We develop a unified framework that combines shock volatility with sign and narrative restrictions and provides the theoretical foundation for the computationally efficient sampler HARS. HARS preserves the heteroskedastic likelihood and can be combined with any posterior simulator for the...",
+    "date": "2026-07",
+    "authors": "Dawis Kim & Tao Zha",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-01479328",
+    "title": "Critical Peak Rewards: Evidence from a Nationwide Demand Response Program",
+    "url": "https://www.nber.org/papers/w35485",
+    "description": "Demand flexibility at scale is likely to be an important part of the future energy system. This study evaluated the worlds first nationwide domestic and commercial demand flexibility program. We analyzed the policy using a natural field experiment, with a sample of 2.7 million, assigning 119,999...",
+    "date": "2026-07",
+    "authors": "Louise Bernard, Robert D. Metcalfe & Andrew Schein",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-730d975e",
+    "title": "Policy Thresholds as Growth Barriers: Theory and Evidence from a Payroll Tax Notch",
+    "url": "https://www.nber.org/papers/w35484",
+    "description": "Policy Thresholds as Growth Barriers: Theory and Evidence from a Payroll Tax Notch",
+    "date": "2026-07",
+    "authors": "Sami Jysmä, Youssef Benzarti & Jarkko Harju",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1d75bb83",
+    "title": "Bank Runs With and Without Bank Failure",
+    "url": "https://www.nber.org/papers/w35504",
+    "description": "We study the causes and consequences of bank runs. By applying large language models to historical newspapers, we create a comprehensive database of bank runs in U.S. history with information on 3,984 runs on individual banks from 1863 to 1934. Our novel data allow us to establish that runs are...",
+    "date": "2026-07",
+    "authors": "Sergio A. Correia, Stephan Luck & Emil Verner",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-2d8ff8ef",
+    "title": "Volatility Disagreement in the Options Market",
+    "url": "https://www.nber.org/papers/w35500",
+    "description": "We construct a novel stock-level measure of volatility disagreement as the cross-sectional dispersion of realized variance forecasts built from heterogeneous information sets and machine learning models. Sorting single-name delta-hedged straddles on this measure yields a long-short return of 5.14%...",
+    "date": "2026-07",
+    "authors": "Turan G. Bali, Bryan T. Kelly & Mathis Mörke",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-44d29e6e",
+    "title": "Human Capital in Venture Capital: Evidence From 100,000 Venture Capitalists",
+    "url": "https://www.nber.org/papers/w35501",
+    "description": "We study human capital in venture capital (VC) using a new dataset covering over 100,000 professionals affiliated with U.S. VC firms. Investment success is extremely concentrated: fewer than 40% of VCs with any investments are ever credited with a successful investment, and 90% of investment profits...",
+    "date": "2026-07",
+    "authors": "Blake Jackson & Ilya A. Strebulaev",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-bf125ae3",
+    "title": "Global Financial Transparency and Offshore Wealth Accumulation",
+    "url": "https://www.nber.org/papers/w35505",
+    "description": "This paper uses administrative data to analyze wealth flows from Norway to offshore tax havens before and after a major improvement of global financial transparency: automatic exchange of bank account information between tax authorities. We present three results suggesting that the policy is a...",
+    "date": "2026-07",
+    "authors": "Annette Alstadsæter, Niels Johannesen, Ségal Le Guern Herry & Gabriel Zucman",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-7d9ed391",
+    "title": "Who Wants to Break Up Big Firms? Harm, Fairness, and the Demand for Antitrust",
+    "url": "https://www.nber.org/papers/w35503",
+    "description": "The rise of superstar firms has made dominant companies central to modern economic life, and antitrust enforcement is one of the main policy tools for regulating their market power. Public opinion can shape the political and regulatory environment in which antitrust enforcement takes place, yet...",
+    "date": "2026-07",
+    "authors": "Ricardo Perez-Truglia & Jeffrey Yusof",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-41193418",
+    "title": "Economic Models of Identity Formation and Cultural Transmission",
+    "url": "https://www.nber.org/papers/w35506",
+    "description": "In this paper we survey recent advances in the economic theory of identity formation. We restrict our analysis to models which conceptualize identity formation as embedded into an inter-generational cultural transmission process, and therefore have implications for the dynamics of social identity....",
+    "date": "2026-07",
+    "authors": "Alberto Bisin & Thierry Verdier",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-44a50364",
+    "title": "Physician Learning and Forgetting: Evidence from the US Military",
+    "url": "https://www.nber.org/papers/w35502",
+    "description": "Physicians in the U.S. military health care system are quasi-randomly assigned to combat deployments, leading to gaps of varying durations in their clinical practice. We leverage this unique setting to provide novel causal evidence on skill depreciation (forgetting) and learning-by-doing among...",
+    "date": "2026-07",
+    "authors": "Trevor Fitzgerald, Atul Gupta & Stephen D. Schwab",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "nber-31179cb2",
     "title": "Health Care Reform and Firm Dynamics: Evidence from Medicare Part D and the Retail Pharmacy Industry",
     "url": "https://www.nber.org/papers/w35380",
