@@ -1,5 +1,95 @@
 [
   {
+    "id": "cepr-71818849",
+    "title": "DP21772 Preference Shocks and Policy Responses to Transition Risk",
+    "url": "https://cepr.org/publications/dp21772",
+    "description": "",
+    "date": "2026-07-22",
+    "authors": "Carattini; Melkadze; Mourelon",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-90785220",
+    "title": "DP21771 Platform Tying and its Effects",
+    "url": "https://cepr.org/publications/dp21771",
+    "description": "",
+    "date": "2026-07-21",
+    "authors": "Motta; Madio; Manenti",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-efbe38cf",
+    "title": "DP21770 Ambiguous Attribution: Theory and Evidence",
+    "url": "https://cepr.org/publications/dp21770",
+    "description": "",
+    "date": "2026-07-21",
+    "authors": "Alonso; Martinez-Bravo; Padro i Miquel; Sanz; Vannutelli",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-dcd5674a",
+    "title": "DP21769 Measuring the Culture of Useful Knowledge and the Roots of Innovation",
+    "url": "https://cepr.org/publications/dp21769",
+    "description": "",
+    "date": "2026-07-21",
+    "authors": "Klemp",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-9a9202ca",
+    "title": "DP21768 Spillover Effects in Complementary Markets:  A Study of the Indian Cell Phone and Wireless Service Markets",
+    "url": "https://cepr.org/publications/dp21768",
+    "description": "",
+    "date": "2026-07-21",
+    "authors": "Chatterjee; Fan; Mohapatra",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7e0e7c07",
+    "title": "DP21767 The Nature of Firm Financing and Growth",
+    "url": "https://cepr.org/publications/dp21767",
+    "description": "",
+    "date": "2026-07-21",
+    "authors": "Aragoneses; Hansman; Licher; Nanda",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-5cc0b36a",
     "title": "DP21766 Belief Disagreement, Instability, and Uncertainty under Stochastic Recall",
     "url": "https://cepr.org/publications/dp21766",
@@ -1474,6 +1564,23 @@
       "O33",
       "O40",
       "E24"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-cb8943b3",
+    "title": "DP1 Human Resources &amp; the Labour Force: Issues for Contemporary &amp; Comparative Research",
+    "url": "https://cepr.org/publications/dp1",
+    "description": "",
+    "date": "1984-01-01",
+    "authors": "John F Ermisch;  ",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources"
     ],
     "tags": [
       "economics"
