@@ -1,5 +1,140 @@
 [
   {
+    "id": "cepr-e092faf9",
+    "title": "DP21785 Free Banking with Tokenized Money",
+    "url": "https://cepr.org/publications/dp21785",
+    "description": "",
+    "date": "2026-07-23",
+    "authors": "Gersbach; Zelzner",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-3fb129d5",
+    "title": "DP21784 When Skills Are Specific: Labor Market Entry and Occupational Mismatch for Apprenticeship Graduates",
+    "url": "https://cepr.org/publications/dp21784",
+    "description": "",
+    "date": "2026-07-23",
+    "authors": "Eckardt",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f49a3a2a",
+    "title": "DP21783 Courts of Tomorrow: Evidence from a Nationwide Rollout of Generative AI",
+    "url": "https://cepr.org/publications/dp21783",
+    "description": "",
+    "date": "2026-07-23",
+    "authors": "Ash; Mehmood; Goessmann",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-53b367ad",
+    "title": "DP21782 Long-Run Effects of Universal Pre-Primary Education Expansion: Evidence from Argentina",
+    "url": "https://cepr.org/publications/dp21782",
+    "description": "",
+    "date": "2026-07-23",
+    "authors": "Berlinski; Cruces; Galiani; Gertler; Gonzalez",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8d6c0193",
+    "title": "DP21781 Immigrants' Regularization and Native Workers' Response",
+    "url": "https://cepr.org/publications/dp21781",
+    "description": "",
+    "date": "2026-07-23",
+    "authors": "Orefice; Peri; Santoni",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-523285a6",
+    "title": "DP21780 Life After Divorce: Effects of Joint Custody on Parents and Children",
+    "url": "https://cepr.org/publications/dp21780",
+    "description": "",
+    "date": "2026-07-23",
+    "authors": "Canessa; Dahl; Hasselqvist; Meghir; Niknami; Palme; Rainer; Rosenqvist; Xiao",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-0036dd99",
+    "title": "DP21779 Policy Thresholds as Growth Barriers: Theory and Evidence from a Payroll Tax Notch",
+    "url": "https://cepr.org/publications/dp21779",
+    "description": "",
+    "date": "2026-07-23",
+    "authors": "Jysmä; Benzarti; Harju",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-97e67a62",
+    "title": "DP21778 Spillovers from Science",
+    "url": "https://cepr.org/publications/dp21778",
+    "description": "",
+    "date": "2026-07-23",
+    "authors": "Verhoeven; Valero; Martin; Shah",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7eead22e",
+    "title": "DP21777 Taxi Market Deregulation: Effects on Market Outcomes, Tax Evasion and Crime",
+    "url": "https://cepr.org/publications/dp21777",
+    "description": "",
+    "date": "2026-07-23",
+    "authors": "Harju; Kankaanranta; Kotakorpi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-71818849",
     "title": "DP21772 Preference Shocks and Policy Responses to Transition Risk",
     "url": "https://cepr.org/publications/dp21772",
@@ -1624,6 +1759,242 @@
       "O33",
       "O40",
       "E24"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-af8be6ed",
+    "title": "DP11577 The Optimal Use of Government Purchases for Stabilization",
+    "url": "https://cepr.org/publications/dp11577",
+    "description": "",
+    "date": "2016-10-18",
+    "authors": "Pascal Michaillat; Emmanuel Saez",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "Public Economics",
+      "E32",
+      "E62",
+      "H21",
+      "H41"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-5d3d0baf",
+    "title": "DP11572 Earnings losses and labor mobility over the lifecycle",
+    "url": "https://cepr.org/publications/dp11572",
+    "description": "",
+    "date": "2016-10-14",
+    "authors": "Philip Jung; Moritz Kuhn",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "Monetary Economics and Fluctuations",
+      "E24",
+      "J63",
+      "J64"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-3ff80d6d",
+    "title": "DP11568 The New Keynesian Wage Phillips Curve: Calvo vs. Rotemberg",
+    "url": "https://cepr.org/publications/dp11568",
+    "description": "",
+    "date": "2016-10-09",
+    "authors": "Benjamin Born; Johannes Pfeifer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "E10",
+      "E30"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ca6600fc",
+    "title": "DP11561 Frictional Unemployment with Stochastic Bubbles",
+    "url": "https://cepr.org/publications/dp11561",
+    "description": "",
+    "date": "2016-10-06",
+    "authors": "Guillaume Vuillemey; Etienne Wasmer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "Monetary Economics and Fluctuations",
+      "E32",
+      "J60"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2b445220",
+    "title": "DP11560 Large Time-Varying Parameter VARs: A Non-Parametric Approach",
+    "url": "https://cepr.org/publications/dp11560",
+    "description": "",
+    "date": "2016-10-06",
+    "authors": "George Kapetanios; Massimiliano Marcellino; Fabrizio Venditti",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e5aa6e95",
+    "title": "DP11559 Point, interval and density forecasts of exchange rates with time-varying parameter models\u0003",
+    "url": "https://cepr.org/publications/dp11559",
+    "description": "",
+    "date": "2016-10-06",
+    "authors": "Angela Abbate; Massimiliano Marcellino",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-699ed41c",
+    "title": "DP11558 Have Standard VARs Remained Stable Since the Crisis?",
+    "url": "https://cepr.org/publications/dp11558",
+    "description": "",
+    "date": "2016-10-06",
+    "authors": "Knut Are Aastveit; Andrea Carriero; Todd Clark; Massimiliano Marcellino",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-9943ace7",
+    "title": "DP11544 Financial Frictions, Asset Prices, and the Great Recession",
+    "url": "https://cepr.org/publications/dp11544",
+    "description": "",
+    "date": "2016-09-28",
+    "authors": "Zhen Huo; José-Víctor Ríos-Rull",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "E20",
+      "E32",
+      "E44"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-24fbb041",
+    "title": "DP11543 Reputation Cycles",
+    "url": "https://cepr.org/publications/dp11543",
+    "description": "",
+    "date": "2016-09-28",
+    "authors": "Boyan Jovanovic; Julien Prat",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "E32",
+      "L14",
+      "E22"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7cdb283f",
+    "title": "DP11541 Aggregate Recruiting Intensity",
+    "url": "https://cepr.org/publications/dp11541",
+    "description": "",
+    "date": "2016-09-28",
+    "authors": "Alessandro Gavazza; Simon Mongey; Giovanni L. Violante",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "Monetary Economics and Fluctuations"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-42c62c29",
+    "title": "DP11537 ESBies: Safety in the Tranches",
+    "url": "https://cepr.org/publications/dp11537",
+    "description": "",
+    "date": "2016-09-26",
+    "authors": "Markus Brunnermeier; Sam Langfield; Marco Pagano; Ricardo Reis; Stijn Van Nieuwerburgh; Dimitri Vayanos",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "International Macroeconomics and Finance",
+      "Monetary Economics and Fluctuations",
+      "E5",
+      "F3",
+      "G1",
+      "G2",
+      "H6"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-073e83ce",
+    "title": "DP11535 Has Inﬂation Targeting Become Less Credible? Oil Prices, Global Aggregate Demand and Inﬂation Expectations during the Global Financial Crisis",
+    "url": "https://cepr.org/publications/dp11535",
+    "description": "",
+    "date": "2016-09-26",
+    "authors": "Nathan Sussman; Osnat Zohar",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "E52",
+      "E58",
+      "E31",
+      "E32"
     ],
     "tags": [
       "economics"
