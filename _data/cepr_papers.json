@@ -1,5 +1,35 @@
 [
   {
+    "id": "cepr-9968e57c",
+    "title": "DP21792 Salt Wars",
+    "url": "https://cepr.org/publications/dp21792",
+    "description": "",
+    "date": "2026-07-27",
+    "authors": "Desierto; Fitzsimmons; Koyama",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8b11b57f",
+    "title": "DP21791 The Equilibrium Impact of Credit Frictions: Evidence from Default Risk Using Firm-Level Data",
+    "url": "https://cepr.org/publications/dp21791",
+    "description": "",
+    "date": "2026-07-27",
+    "authors": "Besley; Lambert; Roland; Van Reenen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-b52eca1d",
     "title": "DP21790 Majority Lost: Global Evidence and Field Experiments on Electoral Miscoordination",
     "url": "https://cepr.org/publications/dp21790",
