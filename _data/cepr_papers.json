@@ -1,5 +1,35 @@
 [
   {
+    "id": "cepr-c5a8274a",
+    "title": "DP21794 Coherent shocks: External identification and internal validation with an application to geopolitical risk",
+    "url": "https://cepr.org/publications/dp21794",
+    "description": "",
+    "date": "2026-07-28",
+    "authors": "Schüler; Arndt; Bondarenko; Lewis; Rottner",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-67193b25",
+    "title": "DP21793 Identification and Estimation of Demand Models with Endogenous Product Entry and Exit",
+    "url": "https://cepr.org/publications/dp21793",
+    "description": "",
+    "date": "2026-07-28",
+    "authors": "Aguirregabiria; Iaria; Sokullu",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-9968e57c",
     "title": "DP21792 Salt Wars",
     "url": "https://cepr.org/publications/dp21792",
@@ -1864,6 +1894,268 @@
       "O33",
       "O40",
       "E24"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-88f1a461",
+    "title": "DP21458 Adam Smith and the Role of the Towns in Feudal Europe",
+    "url": "https://cepr.org/publications/dp21458",
+    "description": "",
+    "date": "2026-05-08",
+    "authors": "Mark Koyama",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Economic History"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-032be561",
+    "title": "DP21457 Organisational Values, Self-Image and Inclusion: Evidence from a Field Experiment",
+    "url": "https://cepr.org/publications/dp21457",
+    "description": "",
+    "date": "2026-05-07",
+    "authors": "Girum Abebe; Siân Brooke; Tom Gole; Simon Quinn; Tom Schwantje",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "Labour Economics",
+      "Organizational Economics",
+      "C93",
+      "D91",
+      "J16",
+      "J71",
+      "M51"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ef1ac927",
+    "title": "DP21456 Intertemporal Pass-Through",
+    "url": "https://cepr.org/publications/dp21456",
+    "description": "",
+    "date": "2026-05-07",
+    "authors": "Mishel Ghassibe; Boromeus Wanengkirtyo; Ivan Yotzov",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "C83",
+      "D25",
+      "D84",
+      "E31"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f7150c1b",
+    "title": "DP21455 Land Reforms in Developing Financial Markets: Lessons from England's Land Enclosures 1750-1830",
+    "url": "https://cepr.org/publications/dp21455",
+    "description": "",
+    "date": "2026-05-07",
+    "authors": "Tomer Ifergane; Walker Ray; Karine van der Beek; Lior Farbman",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Economic History",
+      "Macroeconomics and Growth",
+      "E44",
+      "G21",
+      "G33",
+      "K11",
+      "N13",
+      "N23",
+      "O11",
+      "O16",
+      "O43",
+      "Q15"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ffba494a",
+    "title": "DP21454 AI Safety and Competition",
+    "url": "https://cepr.org/publications/dp21454",
+    "description": "",
+    "date": "2026-05-07",
+    "authors": "Jay Pil Choi; Doh-Shin Jeon; Domenico Menicucci",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "D4",
+      "L1",
+      "L5"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b4d66d99",
+    "title": "DP21453 Weak Bundle, Strong Bundle: How AI Redraws Job Boundaries",
+    "url": "https://cepr.org/publications/dp21453",
+    "description": "",
+    "date": "2026-05-07",
+    "authors": "Luis Garicano; Jin Li; Yanhui Wu",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "Organizational Economics",
+      "J24",
+      "J23",
+      "O33",
+      "L23",
+      "D20",
+      "J31"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6a0ddc06",
+    "title": "DP21452 Third-Party Pricing Algorithms and Information Sharing",
+    "url": "https://cepr.org/publications/dp21452",
+    "description": "",
+    "date": "2026-05-06",
+    "authors": "STEPAN ALEKSENKO; Jeanine Miklos-Thal",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "L13",
+      "L41",
+      "L42",
+      "D43",
+      "L86"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ce4c3e38",
+    "title": "DP21451 Dynamic Recommendation Bias",
+    "url": "https://cepr.org/publications/dp21451",
+    "description": "",
+    "date": "2026-05-06",
+    "authors": "Mikhail Drugov; Doh-Shin Jeon",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "D83",
+      "L42"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1cc0b8b0",
+    "title": "DP21450 On the Political Economy of Urbanization: Experimental Evidence from Mozambique",
+    "url": "https://cepr.org/publications/dp21450",
+    "description": "",
+    "date": "2026-05-06",
+    "authors": "Alex Armand; Frederica Mendonça; Wayne Sandholtz; Pedro Vicente",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "D72",
+      "O18",
+      "R23",
+      "J61"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-9449e9b3",
+    "title": "DP21449 Authority Figures and the Polarization of Gender Norms",
+    "url": "https://cepr.org/publications/dp21449",
+    "description": "",
+    "date": "2026-05-06",
+    "authors": "Ali Abboud; Samuel Bazzi; Serena Canaan; Antoine Deeb; Pierre Mouganie",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "Labour Economics",
+      "Political Economy",
+      "I23",
+      "J16",
+      "J24",
+      "P00",
+      "Z12",
+      "Z13"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-06e07574",
+    "title": "DP21448 Money Uniformity and Retail CBDC",
+    "url": "https://cepr.org/publications/dp21448",
+    "description": "",
+    "date": "2026-05-06",
+    "authors": "Alistair Milne; Dirk Niepelt; David Skeie",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Fintech and Digital Currencies",
+      "Monetary Economics and Fluctuations",
+      "E42",
+      "E51",
+      "E58"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8b704cb6",
+    "title": "DP21447 Living in a Ghost Town: The Geography of Depopulation and Aging",
+    "url": "https://cepr.org/publications/dp21447",
+    "description": "",
+    "date": "2026-05-06",
+    "authors": "Elisa Giannone; Yuhei Miyauchi; Nuno Miguel Marques da Paixao; Xinle Pang; Yuta Suzuki",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "Macroeconomics and Growth",
+      "J11",
+      "J14"
     ],
     "tags": [
       "economics"

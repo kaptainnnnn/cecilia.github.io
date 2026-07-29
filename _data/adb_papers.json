@@ -1,5 +1,18 @@
 [
   {
+    "id": "adb-24fce221",
+    "title": "Bullets and Budgets: Measuring Defense Spending Multipliers",
+    "url": "https://www.adb.org/publications/bullets-budgets-measuring-defense-spending-multipliers",
+    "description": "This paper examines the macroeconomic effects of defense spending shocks in emerging markets and developing economies, with a focus on Asia and the Pacific during 1990–2023.",
+    "date": "2026-07-23",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
     "id": "adb-f9446466",
     "title": "Business Climate, Economic Complexity, and Performance at the Provincial Level in Viet Nam",
     "url": "https://www.adb.org/publications/business-climate-economic-complexity-performance-provincial-viet-nam",
@@ -239,19 +252,6 @@
     "url": "https://www.adb.org/publications/2025-us-tariffs-firm-export-behavior",
     "description": "This paper dissects the impact of United States (US) tariffs introduced in 2025 on firm exports by using comprehensive export customs data to the US from six selected Asian countries, concentrating on heterogeneity by firm size and product type for analyses.",
     "date": "2026-02-26",
-    "source": "ADB",
-    "tags": [
-      "economics",
-      "development"
-    ],
-    "featured": false
-  },
-  {
-    "id": "adb-57f0c222",
-    "title": "Private Sector Development and Policy Actions in Timor-Leste: Lessons from a Business Mapping Survey",
-    "url": "https://www.adb.org/publications/private-sector-development-timor-leste",
-    "description": "This paper empirically investigates what drives the growth of private businesses in Timor-Leste and the policy actions needed to facilitate growth amid global uncertainty, especially for micro, small, and medium-sized enterprises (MSMEs).",
-    "date": "2026-02-02",
     "source": "ADB",
     "tags": [
       "economics",
