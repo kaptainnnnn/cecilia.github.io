@@ -1,5 +1,35 @@
 [
   {
+    "id": "cepr-794b746a",
+    "title": "DP21801 How did Trump’s 2025 trade war affect the decoupling of US–China supply chains?",
+    "url": "https://cepr.org/publications/dp21801",
+    "description": "",
+    "date": "2026-07-30",
+    "authors": "Bown",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-221e0c45",
+    "title": "DP21800 Sovereign Risk Shocks and Fiscal Rules",
+    "url": "https://cepr.org/publications/dp21800",
+    "description": "",
+    "date": "2026-07-30",
+    "authors": "Eyquem; Poilly; Schwegler",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-88404141",
     "title": "DP21799 The Labor Demand Implications of Brand Capital: Evidence from Trademark Transactions",
     "url": "https://cepr.org/publications/dp21799",
@@ -2231,6 +2261,256 @@
       "Macroeconomics and Growth",
       "J11",
       "J14"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-78a4dbd8",
+    "title": "DP20666 Multigenerational Inequality",
+    "url": "https://cepr.org/publications/dp20666",
+    "description": "",
+    "date": "2025-09-22",
+    "authors": "Jan Stuhler",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "J62",
+      "J12"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f7678d61",
+    "title": "DP20665 Asset Elasticities and Currency Risk Transfer",
+    "url": "https://cepr.org/publications/dp20665",
+    "description": "",
+    "date": "2025-09-22",
+    "authors": "Carol Bertaut; Ester Faia; Sebnem Kalemli-Ozcan; Camilo Marchesini; Simon Paetzold; Martin Schmitz",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics and Finance",
+      "Asset Pricing"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-25b4cd8d",
+    "title": "DP20664 Playing with Blocs: Quantifying Decoupling",
+    "url": "https://cepr.org/publications/dp20664",
+    "description": "",
+    "date": "2025-09-22",
+    "authors": "Barthelemy Bonadio; Zhen Huo; Elliot Kang; Andrei Levchenko; Nitya Pandalai-Nayar; Hiroshi Toma; Petia Topalova",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics and Finance",
+      "International Trade and Regional Economics",
+      "F41",
+      "F44",
+      "F62",
+      "L16"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8965e84a",
+    "title": "DP20663 Identity as Self-Image",
+    "url": "https://cepr.org/publications/dp20663",
+    "description": "",
+    "date": "2025-09-22",
+    "authors": "Roland Bénabou; Luca Henkel",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Organizational Economics",
+      "Political Economy",
+      "Public Economics",
+      "D64",
+      "C90",
+      "D83"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b31ba496",
+    "title": "DP20662 Nature and Biodiversity Loss: A Research Agenda for Financial Economics",
+    "url": "https://cepr.org/publications/dp20662",
+    "description": "",
+    "date": "2025-09-22",
+    "authors": "Stefano Giglio; Theresa Kuchler; Johannes Ströbel; Olivier Wang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Asset Pricing",
+      "Banking and Corporate Finance",
+      "Climate Change and the Environment",
+      "Q3",
+      "Q5",
+      "G1"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-90f06a12",
+    "title": "DP20661 An Empirical Investigation of the Effects of Monetary Policy Shocks on the Italian Economy",
+    "url": "https://cepr.org/publications/dp20661",
+    "description": "",
+    "date": "2025-09-22",
+    "authors": "Massimiliano Marcellino; Tommaso Tornese",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "C11",
+      "C32",
+      "E32",
+      "E52"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7e81463f",
+    "title": "DP20660 Do Billionaires Pay Taxes?",
+    "url": "https://cepr.org/publications/dp20660",
+    "description": "",
+    "date": "2025-09-22",
+    "authors": "Laurent Bach; Antoine Bozio; Arthur Guillouzouic; Clément Malgouyres",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Public Economics",
+      "E62",
+      "H25"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-33323f3a",
+    "title": "DP20659 Macroeconomics and Climate Change",
+    "url": "https://cepr.org/publications/dp20659",
+    "description": "",
+    "date": "2025-09-21",
+    "authors": "Adrien Bilal; James Stock",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Macroeconomics and Growth",
+      "Climate Change and the Environment",
+      "E60",
+      "F55",
+      "H23",
+      "H41",
+      "Q43",
+      "Q50",
+      "R10"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b36d05f7",
+    "title": "DP20658 Frictions in News Consumption: Evidence from Social Media",
+    "url": "https://cepr.org/publications/dp20658",
+    "description": "",
+    "date": "2025-09-20",
+    "authors": "Luca Braghieri; Ro'ee Levy; Hannah Trachtman",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Political Economy",
+      "D90",
+      "L82",
+      "P00"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-db398a55",
+    "title": "DP20657 U.S. Risk and Treasury Convenience",
+    "url": "https://cepr.org/publications/dp20657",
+    "description": "",
+    "date": "2025-09-19",
+    "authors": "Giancarlo Corsetti; Simon Lloyd; Emile Marin; Daniel Ostry",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics and Finance",
+      "Asset Pricing",
+      "F30",
+      "F31",
+      "G12"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-00805c47",
+    "title": "DP20656 On Pendular Voting",
+    "url": "https://cepr.org/publications/dp20656",
+    "description": "",
+    "date": "2025-09-19",
+    "authors": "Hans Gersbach",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Political Economy",
+      "C72",
+      "D70",
+      "D72"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2208b05d",
+    "title": "DP20655 The Dual Strategy of Exclusion and Engagement: Impact on Asset Prices and Green Transition",
+    "url": "https://cepr.org/publications/dp20655",
+    "description": "",
+    "date": "2025-09-18",
+    "authors": "Madhushree Ayalasomayajula; Eric Jondeau",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Asset Pricing",
+      "Climate Change and the Environment",
+      "G11",
+      "G12",
+      "Q51"
     ],
     "tags": [
       "economics"
