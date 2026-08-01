@@ -806,5 +806,341 @@
     "date": "July 19, 2026",
     "type": "Conference",
     "has_program": true
+  },
+  {
+    "id": "nber-conf-89be015a",
+    "title": "Digital Economics and AI Tutorial, Spring 2027",
+    "url": "https://www.nber.org/conferences/digital-economics-and-ai-tutorial-spring-2027",
+    "date": "January 20-21, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-61725075",
+    "title": "Digital Economics and AI Meeting, Spring 2027",
+    "url": "https://www.nber.org/conferences/digital-economics-and-ai-meeting-spring-2027",
+    "date": "January 21-22, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-be78c34f",
+    "title": "Industrial Organization Program Meeting, Spring 2027",
+    "url": "https://www.nber.org/conferences/industrial-organization-program-meeting-spring-2027",
+    "date": "February 5-6, 2027",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-ecde3fe3",
+    "title": "Economics of Crime Working Group, Spring 2027",
+    "url": "https://www.nber.org/conferences/economics-crime-working-group-spring-2027",
+    "date": "February 5, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-f34b6c63",
+    "title": "The Economics of Firearm Markets, Crime, and Gun Violence, Spring 2027",
+    "url": "https://www.nber.org/conferences/economics-firearm-markets-crime-and-gun-violence-spring-2027",
+    "date": "February 6, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-55b9c728",
+    "title": "Economic Fluctuations and Growth Program Meeting, Winter 2027",
+    "url": "https://www.nber.org/conferences/economic-fluctuations-and-growth-program-meeting-winter-2027",
+    "date": "February 26, 2027",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-2b19dbca",
+    "title": "Demographic Forces and US Labor Market Dynamics, Spring 2027",
+    "url": "https://www.nber.org/conferences/demographic-forces-and-us-labor-market-dynamics-spring-2027",
+    "date": "March 5, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-f5f5f4d5",
+    "title": "Law and Economics Program Meeting, Spring 2027",
+    "url": "https://www.nber.org/conferences/law-and-economics-program-meeting-spring-2027",
+    "date": "March 5, 2027",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-58b1da78",
+    "title": "Monetary Economics Program Meeting, Spring 2027",
+    "url": "https://www.nber.org/conferences/monetary-economics-program-meeting-spring-2027",
+    "date": "March 5, 2027",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-834fd5e5",
+    "title": "Economics of Aging Program Meeting, Spring 2027",
+    "url": "https://www.nber.org/conferences/economics-aging-program-meeting-spring-2027",
+    "date": "March 5, 2027",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-0305ccf0",
+    "title": "CRIW Conference on Disaggregated Regional Accounts, Spring 2027",
+    "url": "https://www.nber.org/conferences/criw-conference-disaggregated-regional-accounts-spring-2027",
+    "date": "March 11-12, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-5b3a24b5",
+    "title": "Environment and Energy Economics Program Meeting, Spring 2027",
+    "url": "https://www.nber.org/conferences/environment-and-energy-economics-program-meeting-spring-2027",
+    "date": "March 26, 2027",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-2f612468",
+    "title": "Development of the American Economy, Spring 2027",
+    "url": "https://www.nber.org/conferences/development-american-economy-spring-2027",
+    "date": "March 27, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-13b7e50f",
+    "title": "Microeconomic Policies and Economic Growth, Spring 2027",
+    "url": "https://www.nber.org/conferences/microeconomic-policies-and-economic-growth-spring-2027",
+    "date": "April 1-2, 2027",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-7eb1f7ed",
+    "title": "Tariffs and Economic Performance, Spring 2027",
+    "url": "https://www.nber.org/conferences/tariffs-and-economic-performance-spring-2027",
+    "date": "April 1, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-3ac982a9",
+    "title": "International Trade and Investment Program Meeting, Spring 2027",
+    "url": "https://www.nber.org/conferences/international-trade-and-investment-program-meeting-spring-2027",
+    "date": "April 2-3, 2027",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-2f9fa9df",
+    "title": "Economics of Race and Stratification, Spring 2027",
+    "url": "https://www.nber.org/conferences/economics-race-and-stratification-spring-2027",
+    "date": "April 2, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-dcac8117",
+    "title": "Children and Families Program Meeting, Spring 2027",
+    "url": "https://www.nber.org/conferences/children-and-families-program-meeting-spring-2027",
+    "date": "April 8-9, 2027",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-f8b99620",
+    "title": "Asset Pricing Program Meeting, Spring 2027",
+    "url": "https://www.nber.org/conferences/asset-pricing-program-meeting-spring-2027",
+    "date": "April 9, 2027",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-fa30fb2a",
+    "title": "Corporate Finance Program Meeting, Spring 2027",
+    "url": "https://www.nber.org/conferences/corporate-finance-program-meeting-spring-2027",
+    "date": "April 9, 2027",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-af71a895",
+    "title": "Spatial Spillovers from Transport Infrastructure Investments, Spring 2027",
+    "url": "https://www.nber.org/conferences/spatial-spillovers-transport-infrastructure-investments-spring-2027",
+    "date": "April 9-10, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-b2c354bf",
+    "title": "Behavioral Finance Working Group Meeting, Spring 2027",
+    "url": "https://www.nber.org/conferences/behavioral-finance-working-group-meeting-spring-2027",
+    "date": "April 10, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-a072dcfb",
+    "title": "New Developments in Long-Term Asset Management, Spring 2027",
+    "url": "https://www.nber.org/conferences/new-developments-long-term-asset-management-spring-2027",
+    "date": "April 10, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-2f42788f",
+    "title": "Organizational Economics Working Group, Spring 2027",
+    "url": "https://www.nber.org/conferences/organizational-economics-working-group-spring-2027",
+    "date": "April 15-16, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-9bbeb470",
+    "title": "Investments in Early Career Scientists, Spring 2027",
+    "url": "https://www.nber.org/conferences/investments-early-career-scientists-spring-2027",
+    "date": "April 16, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-2c39f522",
+    "title": "Public Economics Program Meeting, Spring 2027",
+    "url": "https://www.nber.org/conferences/public-economics-program-meeting-spring-2027",
+    "date": "April 22-23, 2027",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-9e540ab6",
+    "title": "42nd Annual Conference on Macroeconomics, 2027",
+    "url": "https://www.nber.org/conferences/42nd-annual-conference-macroeconomics-2027",
+    "date": "April 29-30, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-361418ef",
+    "title": "Economics of Executive Compensation Research Conference, Spring 2027",
+    "url": "https://www.nber.org/conferences/economics-executive-compensation-research-conference-spring-2027",
+    "date": "May 7, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-64ce21f5",
+    "title": "Megafirms and the Economy, Spring 2027",
+    "url": "https://www.nber.org/conferences/megafirms-and-economy-spring-2027",
+    "date": "May 7, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-54450012",
+    "title": "NBER Entrepreneurship and Innovation Policy and the Economy Conference, 2027",
+    "url": "https://www.nber.org/conferences/nber-entrepreneurship-and-innovation-policy-and-economy-conference-2027",
+    "date": "May 13, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-fba9175a",
+    "title": "Measuring and Modeling Market Power in the Labor Market, Spring 2027",
+    "url": "https://www.nber.org/conferences/measuring-and-modeling-market-power-labor-market-spring-2027",
+    "date": "May 14, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-9982ebc8",
+    "title": "Health and Healthcare Variations across the Population, Spring 2027",
+    "url": "https://www.nber.org/conferences/health-and-healthcare-variations-across-population-spring-2027",
+    "date": "May 14, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-e68068ef",
+    "title": "Long Term Budget Deficits: Economic Effects and Potential Responses, Spring 2027",
+    "url": "https://www.nber.org/conferences/long-term-budget-deficits-economic-effects-and-potential-responses-spring-2027",
+    "date": "May 20-21, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-5d08de3c",
+    "title": "9th Annual NBER Environmental and Energy Policy and the Economy Conference, Spring 2027",
+    "url": "https://www.nber.org/conferences/9th-annual-nber-environmental-and-energy-policy-and-economy-conference-spring-2027",
+    "date": "May 27, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-bcf362de",
+    "title": "Resilience in Supply Chains, Spring 2027",
+    "url": "https://www.nber.org/conferences/resilience-supply-chains-spring-2027",
+    "date": "June 3, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-f2085671",
+    "title": "International Seminar on Macroeconomics, 2027",
+    "url": "https://www.nber.org/conferences/international-seminar-macroeconomics-2027",
+    "date": "June 18-19, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-ec56b87a",
+    "title": "Asset Pricing Program Meeting, Fall 2027",
+    "url": "https://www.nber.org/conferences/asset-pricing-program-meeting-fall-2027",
+    "date": "November 5, 2027",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-68f09018",
+    "title": "Corporate Finance Program Meeting, Fall 2027",
+    "url": "https://www.nber.org/conferences/corporate-finance-program-meeting-fall-2027",
+    "date": "November 5, 2027",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-a1d1c400",
+    "title": "Behavioral Finance Working Group Meeting, Fall 2027",
+    "url": "https://www.nber.org/conferences/behavioral-finance-working-group-meeting-fall-2027",
+    "date": "November 12, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-5c970bd7",
+    "title": "Asset Pricing Program Meeting, Spring 2028",
+    "url": "https://www.nber.org/conferences/asset-pricing-program-meeting-spring-2028",
+    "date": "April 14, 2028",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-f8571a0d",
+    "title": "Corporate Finance Program Meeting, Spring 2028",
+    "url": "https://www.nber.org/conferences/corporate-finance-program-meeting-spring-2028",
+    "date": "April 14, 2028",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-336eae41",
+    "title": "Trans-Atlantic Public Economics Symposium, Spring 2028",
+    "url": "https://www.nber.org/conferences/trans-atlantic-public-economics-symposium-spring-2028",
+    "date": "June 8-9, 2028",
+    "type": "Conference",
+    "has_program": false
   }
 ]
