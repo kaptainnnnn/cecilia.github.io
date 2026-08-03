@@ -2828,6 +2828,250 @@
     ]
   },
   {
+    "id": "cepr-4a3c846d",
+    "title": "DP2713 Macroeconomic Effects of Regulation and Deregulation in Goods and Labour Markets",
+    "url": "https://cepr.org/publications/dp2713",
+    "description": "",
+    "date": "2001-02-27",
+    "authors": "Olivier Blanchard; Francesco Giavazzi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "Labour Economics",
+      "J38",
+      "K20",
+      "L50"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-efe6da57",
+    "title": "DP2712 Complementarities in Innovation Policy",
+    "url": "https://cepr.org/publications/dp2712",
+    "description": "",
+    "date": "2001-02-27",
+    "authors": "Lars Hendrik Röller; Pierre Mohnen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "L5",
+      "O31",
+      "O38"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e225287a",
+    "title": "DP2711 Modelling Scale-Consistent VaR with the Truncated Lévy Flight",
+    "url": "https://cepr.org/publications/dp2711",
+    "description": "",
+    "date": "2001-02-27",
+    "authors": "Christian Wolff; Thorsten Lehnert",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "C22",
+      "C52",
+      "G10"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b09fce2f",
+    "title": "DP2710 Estimating the Wage Costs of Inter- and Intra-Sectoral Adjustment",
+    "url": "https://cepr.org/publications/dp2710",
+    "description": "",
+    "date": "2001-02-27",
+    "authors": "Peter Wright; Michelle Haynes; Richard Upward",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "C33",
+      "F16",
+      "J30",
+      "J62"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-0d57646d",
+    "title": "DP2709 Open Covenants, Privately Arrived At",
+    "url": "https://cepr.org/publications/dp2709",
+    "description": "",
+    "date": "2001-02-27",
+    "authors": "John Fingleton; Michael Raith",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "C78",
+      "D70",
+      "D82"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e210d686",
+    "title": "DP2708 Agency Conflicts, Ownership Concentration, and Legal Shareholder Protection",
+    "url": "https://cepr.org/publications/dp2708",
+    "description": "",
+    "date": "2001-02-27",
+    "authors": "Fausto Panunzi; Mike Burkart",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "G34"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b8135b0e",
+    "title": "DP2707 Wages and Productivity Growth in a Dynamic Monopoly",
+    "url": "https://cepr.org/publications/dp2707",
+    "description": "",
+    "date": "2001-02-27",
+    "authors": "Helmut Bester; Emmanuel Petrakis",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "D24",
+      "D42",
+      "D92",
+      "J30",
+      "J51"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-3d575a40",
+    "title": "DP2706 Geographic Localization of International Technology Diffusion",
+    "url": "https://cepr.org/publications/dp2706",
+    "description": "",
+    "date": "2001-02-27",
+    "authors": "Wolfgang Keller",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "E0",
+      "F10",
+      "F20",
+      "O30"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7edbb4d5",
+    "title": "DP2705 Should Mergers Be Controlled?",
+    "url": "https://cepr.org/publications/dp2705",
+    "description": "",
+    "date": "2001-02-27",
+    "authors": "Johan Stennek; Sven-Olof Fridolfsson",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "C78",
+      "L12",
+      "L41"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-267053e2",
+    "title": "DP2704 The EMS Crisis in Retrospect",
+    "url": "https://cepr.org/publications/dp2704",
+    "description": "",
+    "date": "2001-02-27",
+    "authors": "Barry Eichengreen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E42",
+      "E44",
+      "F36"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d12dfdfe",
+    "title": "DP2703 Theories of Fairness and Reciprocity - Evidence and Economic Applications",
+    "url": "https://cepr.org/publications/dp2703",
+    "description": "",
+    "date": "2001-02-27",
+    "authors": "Klaus Schmidt; Ernst Fehr",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "C70",
+      "C90",
+      "D0",
+      "J30"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7737e425",
+    "title": "DP2702 The Wage Performance of Immigrant Women: Full-Time Jobs, Part-Time Jobs and the Role of Selection",
+    "url": "https://cepr.org/publications/dp2702",
+    "description": "",
+    "date": "2001-02-27",
+    "authors": "Christoph Schmidt; Christian Dustmann",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "J22",
+      "J31",
+      "J61"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-cb8943b3",
     "title": "DP1 Human Resources &amp; the Labour Force: Issues for Contemporary &amp; Comparative Research",
     "url": "https://cepr.org/publications/dp1",
