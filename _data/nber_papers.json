@@ -1,5 +1,408 @@
 [
   {
+    "id": "nber-13d464d6",
+    "title": "Time Travel on Professional Profiles",
+    "url": "https://www.nber.org/papers/w35546",
+    "description": "Economists increasingly use professional profile data to reconstruct employment histories and measure skill supply. We show that these records are not fixed historical snapshots, but mutable accounts that workers revise over time. Using monthly vintages of Revelio Labs data from 20202026, we...",
+    "date": "2026-08",
+    "authors": "Nicholas Bloom, Gideon Moore, Lisa K. Simon & Caelan Wilkie-Rogers",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-4992d93f",
+    "title": "Designing Around Selection: Identification and Inference Under Multi-Dimensional Unobserved Heterogeneity",
+    "url": "https://www.nber.org/papers/w35547",
+    "description": "Designing Around Selection: Identification and Inference Under Multi-Dimensional Unobserved Heterogeneity",
+    "date": "2026-08",
+    "authors": "Brent R. Hickman, John A. List, Ian Muir & Gregory K. Sun",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-21e10163",
+    "title": "Reserves and the Buyer of Last Resort",
+    "url": "https://www.nber.org/papers/w35548",
+    "description": "We examine the role of central bank reserves and public liquidity when secondary markets may freeze. Central bank reserves help intermediaries purchase assets during stress but crowd out investment. Under laissez-faire, intermediaries hold insufficient reserves, overlooking how aggregate liquidity...",
+    "date": "2026-08",
+    "authors": "Frederic Boissay & Harald Uhlig",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-0780e8e8",
+    "title": "Tying Incentives to Information: Diagnosis-Contingent Contracts and Biased Beliefs in Healthcare",
+    "url": "https://www.nber.org/papers/w35543",
+    "description": "Tying Incentives to Information: Diagnosis-Contingent Contracts and Biased Beliefs in Healthcare",
+    "date": "2026-08",
+    "authors": "Maria Dieci, Paul Gertler, Jonathan T. Kolstad & Carlos Paramo",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b6231140",
+    "title": "Predictive Risk Scores in the Public Sector: Experimental Evidence from Child-Protection Investigations",
+    "url": "https://www.nber.org/papers/w35540",
+    "description": "Predictive Risk Scores in the Public Sector: Experimental Evidence from Child-Protection Investigations",
+    "date": "2026-08",
+    "authors": "E. Jason Baron, Arkadev Ghosh & Richard Lombardo",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-62e43c7d",
+    "title": "Cognitive Limitations and Long-Term Care Use in the Netherlands: Evidence from the Lifelines Cohort Study",
+    "url": "https://www.nber.org/papers/w35538",
+    "description": "Cognitive Limitations and Long-Term Care Use in the Netherlands: Evidence from the Lifelines Cohort Study",
+    "date": "2026-08",
+    "authors": "Gaia Bagnasco, Pieter Bakx, Stijn Coremans & Bram Wouterse",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-dfdbea10",
+    "title": "The China Backlash: Quantifying the Narrative Discourse on China",
+    "url": "https://www.nber.org/papers/w35539",
+    "description": "Using text-as-data methods, we quantify the U.S. discourse on China, place it in historical perspective, and compare its evolution across different sources of public narrative. Our analysis is based on a large corpus of materials drawn from public records (presidential and congressional records,...",
+    "date": "2026-08",
+    "authors": "Mert Geyiktepe & Dani Rodrik",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-69f4292c",
+    "title": "Financial Interdependence and Currency Internationalization",
+    "url": "https://www.nber.org/papers/w35541",
+    "description": "Does financial opening necessarily lead to currency internationalization? To study the competition between incumbent and rising powers under financial interdependence, we develop a model of asset demand with microfounded network effects. Search frictions with currency-specialized intermediaries...",
+    "date": "2026-08",
+    "authors": "Zhengyang Jiang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-2513df27",
+    "title": "Winners and Losers: Competition, Creative Destruction, and Labor Income Risk",
+    "url": "https://www.nber.org/papers/w35542",
+    "description": "Using U.S. administrative data, we find that technology-driven creative destruction in the product market passes through to worker earnings. The passthrough to incumbent worker earnings is both asymmetric and concentrated: profit drops from rival innovations lead to proportionally greater earnings...",
+    "date": "2026-08",
+    "authors": "Brice C. Green, Leonid Kogan, Dimitris Papanikolaou & Lawrence D.W. Schmidt",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-164db4af",
+    "title": "Two Selection Problems, One Bias Term: Experimental Sign-Up Is Treatment Choice in Disguise",
+    "url": "https://www.nber.org/papers/w35544",
+    "description": "Two Selection Problems, One Bias Term: Experimental Sign-Up Is Treatment Choice in Disguise",
+    "date": "2026-08",
+    "authors": "John A. List",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-9d7b22b2",
+    "title": "Improving Financial Literacy: From Corporate Finance to Personal Finance",
+    "url": "https://www.nber.org/papers/w35564",
+    "description": "This article provides an overview of the literature on financial literacy. It covers the initial measurement that created the Big Three questions and measures of personal finance knowledge featuring 28 questions. It shows that levels of financial literacy are low and have not been improving over...",
+    "date": "2026-08",
+    "authors": "Annamaria Lusardi",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-611028f9",
+    "title": "Ambiguous Attribution: Theory and Evidence",
+    "url": "https://www.nber.org/papers/w35550",
+    "description": "Clarity of responsibility is an essential element of political accountability. We develop a rational model of Bayesian updating in the presence of ambiguous attribution and we test its predictions using an original survey. We show that respondents partisanship, assessment of public healthcare...",
+    "date": "2026-08",
+    "authors": "Ricardo Alonso, Monica Martinez-Bravo, Gerard Padró I Miquel, Carlos Sanz & Silvia Vannutelli",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-882114f0",
+    "title": "The Equilibrium Impact of Credit Frictions: Evidence from Default Risk Using Firm-Level Data",
+    "url": "https://www.nber.org/papers/w35552",
+    "description": "The Equilibrium Impact of Credit Frictions: Evidence from Default Risk Using Firm-Level Data",
+    "date": "2026-08",
+    "authors": "Timothy J. Besley, Peter John Lambert, Isabelle A. Michalski-Roland & John Van Reenen",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-e5c12dbf",
+    "title": "Sharing the Burden: The Impacts of Pharmacy Sector Reforms on the Labor Market for Pharmacists in Portugal",
+    "url": "https://www.nber.org/papers/w35553",
+    "description": "Sharing the Burden: The Impacts of Pharmacy Sector Reforms on the Labor Market for Pharmacists in Portugal",
+    "date": "2026-08",
+    "authors": "David Card, Ana Rute Cardoso & Pedro Luis Silva",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-5aca3eed",
+    "title": "A Theory of Firm Wage Dynamics",
+    "url": "https://www.nber.org/papers/w35554",
+    "description": "We develop a theory of firm wage dynamics that integrates the canonical wage-posting model la Burdett and Mortensen (1998) with firm dynamics. Firms offer dynamic wage contracts under an equal-treatment constraint in the presence of search frictions. We provide an analytical characterization of...",
+    "date": "2026-08",
+    "authors": "Marc de la Barrera & Masao Fukui",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-8d3a10ef",
+    "title": "The United States and Its Creditors: Assessing Foreign Demand for U.S. Assets",
+    "url": "https://www.nber.org/papers/w35555",
+    "description": "This paper analyzes foreign demand for U.S. assets, with particular emphasis on U.S. Treasury securities. It documents compositional shifts in U.S. bilateral external positions across geographic regions and asset classes, providing estimates of creditor positions closer to a nationality-based...",
+    "date": "2026-08",
+    "authors": "Anusha Chari & Gian Maria Milesi Ferretti",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-fab251cd",
+    "title": "Meritocracy and the Networks It Forged: China’s Imperial Examination",
+    "url": "https://www.nber.org/papers/w35556",
+    "description": "Institutions that claim to reward merit often also serve as engines that drive the formation of important social networks. We examine this dual role in Chinas Imperial Examination, one of historys longest-lived meritocratic systems. We draw on exam performance data for 24,269 individuals across 112...",
+    "date": "2026-08",
+    "authors": "Ying Bai & Ruixue Jia",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-af969afc",
+    "title": "Demand for Safety in the Crypto Ecosystem",
+    "url": "https://www.nber.org/papers/w35557",
+    "description": "We study the demand for safety and liquidity in the crypto ecosystem. We do so under a framework in which a representative investor allocates liquidity across stablecoin deposits in lending pools and traditional safe assets (e.g., MMF shares). Our model delivers three main predictions: (i) the...",
+    "date": "2026-08",
+    "authors": "Murillo Campello, Angela Gallo, Lira Mota & Tammaro Terracciano",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-0ea62784",
+    "title": "Unpacking Treatment Effect Heterogeneity in a Large-Scale Dropout-Prevention Experiment",
+    "url": "https://www.nber.org/papers/w35558",
+    "description": "Unpacking Treatment Effect Heterogeneity in a Large-Scale Dropout-Prevention Experiment",
+    "date": "2026-08",
+    "authors": "Thomas Dee, Chloe R. Gibbs, Rebecca Margolit-Chan, Lillian Morrell & James X. Sullivan",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-9ea34e87",
+    "title": "Replaceable but Employed: Automation and the Meaning of Work",
+    "url": "https://www.nber.org/papers/w35559",
+    "description": "Can automation harm workers without replacing them? We study jobs in which workers value both producing useful output and knowing that the output depends on their own contribution. A credible machine alternative can weaken that second source of meaning even when the firm retains the worker. Our...",
+    "date": "2026-08",
+    "authors": "Joshua S. Gans",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-4d250be9",
+    "title": "Detecting Critical Junctures as They Unfold: Foundations, Measurement, and Applications from 120 Years of Reporting",
+    "url": "https://www.nber.org/papers/w35545",
+    "description": "Detecting Critical Junctures as They Unfold: Foundations, Measurement, and Applications from 120 Years of Reporting",
+    "date": "2026-08",
+    "authors": "Michael Callen, Gregory Levy, Saipremnath Muthukumaran, Jonathan L. Weigel & Noam Yuchtman",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-2757aec3",
+    "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy",
+    "url": "https://www.nber.org/papers/w35560",
+    "description": "We study the effects of H-1B immigration on U.S. industries that employ H-1B workers and their trading partners. Using a novel cross-industry design and the 19992003 expansion of the H-1B visa cap for identification, we find that H-1B exposure raised incomes for natives and pre-existing immigrants,...",
+    "date": "2026-08",
+    "authors": "Ran Abramitzky, Leah Platt Boustan, Ahmet Gulek & Jens Hainmueller",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-ad0e8992",
+    "title": "The Anatomy of Tariff Pass-through into Consumer Prices",
+    "url": "https://www.nber.org/papers/w35561",
+    "description": "Tariffs raise the prices of goods made at home, not just the imports they taxan effect that standard pass-through estimates largely miss. Studying the 2025 U.S. tariffs, we find that about 26 percent of the tariff increase passes through to consumer prices. These estimates are measured relative to...",
+    "date": "2026-08",
+    "authors": "Mary Amiti, Sebastian Heise & David Weinstein",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-73501a58",
+    "title": "Chinese Sputnik Moments?",
+    "url": "https://www.nber.org/papers/w35551",
+    "description": "Chinas technological progress in recent decades has been viewed with admiration, alarm, and (in some cases) doubt. To better understand the Chinese innovation ecosystem, we compile a dataset of almost 14 million domestic Chinese patent publications. We focus on the subset of critical technologies...",
+    "date": "2026-08",
+    "authors": "Josh Lerner, Namrata Narain, Dimitris Papanikolaou, Amit Seru & Zunda Winston Xu",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-fbe50072",
+    "title": "Monetary Policy in Mandarin Capitalism",
+    "url": "https://www.nber.org/papers/w35562",
+    "description": "This paper investigates why Chinas recurrent credit expansions have coincided with persistently weak inflation. We argue that this pattern reflects the countrys production-oriented monetary regime. At the aggregate level, faster monetary-financial expansion temporarily raises PPI inflation but...",
+    "date": "2026-08",
+    "authors": "Jeffery (Jinfan) Chang & Wei Xiong",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-28b05ab7",
+    "title": "Incomplete Information and Self-Fulfilling Inflation Dynamics—Lucas meets Keynes",
+    "url": "https://www.nber.org/papers/w35563",
+    "description": "This paper incorporates the Lucas (1973) island model into a standard DSGE framework. It demonstrates that self-fulfilling stochastic inflation equilibria, which are driven by intrinsic uncertainty or pure sentiments, can exist under rational expectations. Furthermore, it shows that these sentiment...",
+    "date": "2026-08",
+    "authors": "Jess Benhabib, Pengfei Wang & Yi Wen",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-ed585b3d",
+    "title": "Selecting Innovation Funding Mechanisms: A Framework for Policymakers",
+    "url": "https://www.nber.org/papers/w35549",
+    "description": "The U.S. federal government spends roughly $150 billion a year on research and development through mechanisms ranging from grants and contracts to prizes, advance market commitments, and tax credits. These funding mechanisms differ markedly in risk allocation, decision authority, and incentive power...",
+    "date": "2026-08",
+    "authors": "Matthew S. Clancy, Matthew Esche, Siddhartha Haria, Claire T. McMahon, Christopher M. Snyder & Caleb Watney",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-352d592c",
+    "title": "Common Ownership and Collusion",
+    "url": "https://www.nber.org/papers/w35565",
+    "description": "We provide the first empirical evidence that common ownership can facilitate explicit collusion. Our unique setting, the population of legal cartels in Sweden, lets us observe cartel formation, duration, and dissolution without the sample-selection bias that plagues studies of detected cartels....",
+    "date": "2026-08",
+    "authors": "Vincent Abraham, Florian Ederer & Catarina Marvao",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-9d5351a6",
+    "title": "The Economics of Civil Service Protections",
+    "url": "https://www.nber.org/papers/w35568",
+    "description": "The study of bureaucracy as a key dimension of state capacity has gained increasing attention in economics. What organizational features create an effective bureaucracy, however, remains subject to debate. This paper focuses on the central role of civil service protections in delineating the...",
+    "date": "2026-08",
+    "authors": "Guo Xu",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-48614ce2",
+    "title": "Childhood Cognitive and Behavioral Impairments and Adult Health",
+    "url": "https://www.nber.org/papers/w35566",
+    "description": "We use U.S. nationally representative longitudinal data to estimate the effects of cognitive and behavioral impairments in childhood on health in adulthood. We focus on work-limiting health conditions and fair or poor self-rated health but also consider adequacy of sleep, body weight, and health...",
+    "date": "2026-08",
+    "authors": "Hope Corman, Kelly Noonan & Nancy Reichman",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b6f27a1f",
+    "title": "The Value of Behavioral Policies",
+    "url": "https://www.nber.org/papers/w35567",
+    "description": "Behavioral interventions have become central to modern public policy, but their empirical promise remains contested because estimated treatment effects often appear small. We argue that a policy response is economically meaningful only relative to the response generated by alternative policies. We...",
+    "date": "2026-08",
+    "authors": "John A. List, Matthias Rodemeier, Sutanuka Roy & Gregory K. Sun",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "nber-f5bce1cb",
     "title": "Let’s Chat: Leveraging Chatbot Outreach for Improved Course Performance",
     "url": "https://www.nber.org/papers/w35397",

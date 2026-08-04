@@ -1,5 +1,198 @@
 [
   {
+    "id": "cepr-6881e1fc",
+    "title": "DP21818 Refutation-Resistant Beliefs",
+    "url": "https://cepr.org/publications/dp21818",
+    "description": "",
+    "date": "2026-08-03",
+    "authors": "Mechtenberg; Xefteris; Zudenkova",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-037f1806",
+    "title": "DP21817 Ideas and Firm Dynamics When It Takes Two to Tango",
+    "url": "https://cepr.org/publications/dp21817",
+    "description": "",
+    "date": "2026-08-03",
+    "authors": "Kim; Olmstead-Rumsey; Wang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d6f1e9df",
+    "title": "DP21816 A Currency Premium Puzzle",
+    "url": "https://cepr.org/publications/dp21816",
+    "description": "",
+    "date": "2026-08-03",
+    "authors": "Hassan; Mertens; Wang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1f988348",
+    "title": "DP21815 Openness, Integration, and the International Monetary Order",
+    "url": "https://cepr.org/publications/dp21815",
+    "description": "",
+    "date": "2026-08-03",
+    "authors": "Hassan; Mertens; Wang; Zhang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d29ee553",
+    "title": "DP21813 Administrative litigation and public procurement outcomes: Evidence from Italy",
+    "url": "https://cepr.org/publications/dp21813",
+    "description": "",
+    "date": "2026-08-03",
+    "authors": "Maltese; Rovigatti",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-83f7f3bc",
+    "title": "DP21812 Balancing Growth in a Warming World",
+    "url": "https://cepr.org/publications/dp21812",
+    "description": "",
+    "date": "2026-08-03",
+    "authors": "Bilal; Ingrand; Känzig",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-3eef0d7c",
+    "title": "DP21811 Unfree Wills: Inheritance Rules, Bequest Motives, and Wealth Diffusion",
+    "url": "https://cepr.org/publications/dp21811",
+    "description": "",
+    "date": "2026-08-03",
+    "authors": "Brülhart",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-be676f42",
+    "title": "DP21810 Taxes and Transfers with Nonlinear Wage Dynamics",
+    "url": "https://cepr.org/publications/dp21810",
+    "description": "",
+    "date": "2026-08-03",
+    "authors": "Guner; Renedo; Yavuz",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-a6c9e06d",
+    "title": "DP21809 Personal Holding Companies, Tax Progressivity, and Inequality",
+    "url": "https://cepr.org/publications/dp21809",
+    "description": "",
+    "date": "2026-08-03",
+    "authors": "Seim; Zucman; Ring",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-a3f61386",
+    "title": "DP21808 Solar Adoption by Mandates",
+    "url": "https://cepr.org/publications/dp21808",
+    "description": "",
+    "date": "2026-08-03",
+    "authors": "Carattini; Davis; Figge; Heimerdinger",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e5c37fe8",
+    "title": "DP21814 Meritocracy and the Networks It Forged: China's Imperial Examination",
+    "url": "https://cepr.org/publications/dp21814",
+    "description": "",
+    "date": "2026-08-03",
+    "authors": "Ying Bai; Ruixue Jia",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "Economic History",
+      "Political Economy",
+      "Public Economics",
+      "D73",
+      "N45",
+      "Z13"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-92ca235f",
+    "title": "DP21807 The Anatomy of Tariff Pass-through into Consumer Prices",
+    "url": "https://cepr.org/publications/dp21807",
+    "description": "",
+    "date": "2026-08-03",
+    "authors": "Mary Amiti; Sebastian Heise; David Weinstein",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "E31",
+      "F13",
+      "F14"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-14395ce6",
     "title": "DP21806 Chaste Widowhood",
     "url": "https://cepr.org/publications/dp21806",
