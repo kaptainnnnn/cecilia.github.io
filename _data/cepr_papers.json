@@ -1,5 +1,35 @@
 [
   {
+    "id": "cepr-3c413abc",
+    "title": "DP21820 Covered Interest Parity: The Long Run Evidence",
+    "url": "https://cepr.org/publications/dp21820",
+    "description": "",
+    "date": "2026-08-04",
+    "authors": "Accominotti; Cen; Chambers; Degorce",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-5e21f3ce",
+    "title": "DP21819 Dynamic Effects of Trade",
+    "url": "https://cepr.org/publications/dp21819",
+    "description": "",
+    "date": "2026-08-04",
+    "authors": "Kleinman; Liu; Redding",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-6881e1fc",
     "title": "DP21818 Refutation-Resistant Beliefs",
     "url": "https://cepr.org/publications/dp21818",
