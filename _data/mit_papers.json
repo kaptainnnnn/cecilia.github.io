@@ -36,6 +36,26 @@
     "year": 2026,
     "month": 6,
     "pdf_url": "https://economics.mit.edu/sites/default/files/2026-06/Baby%20Busts%20and%20Growth%20Booms%20-%20Demographic%20Change%20and%20the%20Macroeconomy.pdf",
+    "faculty": "Daron Acemoglu",
+    "faculty_slug": "daron-acemoglu"
+  },
+  {
+    "title": "Automation and Repression",
+    "authors": "Daron Acemoglu, A. Arda Gitmez, Mehdi Shadmehr",
+    "date": "June 2026",
+    "year": 2026,
+    "month": 6,
+    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-06/Automation%20and%20Repression.pdf",
+    "faculty": "Daron Acemoglu",
+    "faculty_slug": "daron-acemoglu"
+  },
+  {
+    "title": "Baby Busts and Growth Booms: Demographic Change and the Macroeconomy",
+    "authors": "Daron Acemoglu, David Autor, Keelan Beirne, and Andrew Scott",
+    "date": "June 2026",
+    "year": 2026,
+    "month": 6,
+    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-06/Baby%20Busts%20and%20Growth%20Booms%20-%20Demographic%20Change%20and%20the%20Macroeconomy.pdf",
     "faculty": "David H. Autor",
     "faculty_slug": "david-h-autor"
   },
@@ -50,12 +70,32 @@
     "faculty_slug": "ricardo-caballero"
   },
   {
-    "title": "Automation and Polarization",
-    "authors": "Daron Acemoglu, Jonas Loebbing",
+    "title": "Employment and Community: Socioeconomic Cooperation and Its Breakdown",
+    "authors": "Daron Acemoglu and Alexander Wolitzky",
+    "date": "May 2026",
+    "year": 2026,
+    "month": 5,
+    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-06/Employment%20and%20Community%20-%20Socioeconomic%20Cooperation%20and%20Its%20Breakdown.pdf",
+    "faculty": "Daron Acemoglu",
+    "faculty_slug": "daron-acemoglu"
+  },
+  {
+    "title": "AI, Human Cognition and Knowledge Collapse",
+    "authors": "Daron Acemoglu, Dingwen Kong, and Asuman Ozdaglar",
+    "date": "May 2026",
+    "year": 2026,
+    "month": 5,
+    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-05/AI%2C%20Human%20Cognition%20and%20Knowledge%20Collapse%2005-05-26.pdf",
+    "faculty": "Daron Acemoglu",
+    "faculty_slug": "daron-acemoglu"
+  },
+  {
+    "title": "How AI Aggregation Affects Knowledge",
+    "authors": "Daron Acemoglu, Tianyi Lin, Asuman Ozdaglar, James Siderius",
     "date": "March 2026",
     "year": 2026,
     "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-03/Automation%20and%20Polarization.pdf",
+    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-03/How%20AI%20Aggregation%20Affects%20Knowledge.pdf",
     "faculty": "Daron Acemoglu",
     "faculty_slug": "daron-acemoglu"
   },
@@ -110,12 +150,12 @@
     "faculty_slug": "alberto-abadie"
   },
   {
-    "title": "Building Pro-Worker Artificial Intelligence",
-    "authors": "Daron Acemoglu, David Autor and Simon Johnson",
+    "title": "Multidimensional Signaling and the Rise of Cultural Politics",
+    "authors": "Daron Acemoglu, Georgy Egorov, and Konstantin Sonin",
     "date": "February 2026",
     "year": 2026,
     "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-03/Building%20Pro-Worker%20Artificial%20Intelligence.pdf",
+    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-02/Multidimensional%20Signaling%20and%20the%20Rise%20of%20Cultural%20Politics_02_20_26.pdf",
     "faculty": "Daron Acemoglu",
     "faculty_slug": "daron-acemoglu"
   },
@@ -148,16 +188,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/2026-02/Doubly%20Robust%20Inference%20in%20Causal%20Latent%20Factor%20Models%20Feb%202026%20supplementary%20appendix.pdf",
     "faculty": "Alberto Abadie",
     "faculty_slug": "alberto-abadie"
-  },
-  {
-    "title": "Technology and Economic Development",
-    "authors": "Daron Acemoglu, Ufuk Akcigit, Simon Johnson",
-    "date": "January 2026",
-    "year": 2026,
-    "month": 1,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-01/Technology%20and%20Economic%20Development.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Resolving the Automation Paradox: Falling Labor Share, Rising Wages",
@@ -220,16 +250,6 @@
     "faculty_slug": "alberto-abadie"
   },
   {
-    "title": "Automation and Rent Dissipation: Implications for Wages, Inequality, and Productivity",
-    "authors": "Daron Acemoglu and Pascual Restrepo",
-    "date": "November 2025",
-    "year": 2025,
-    "month": 11,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2025-11/Automation%20and%20Rent%20Dissipation%20-%20Implications%20for%20Wages%20Inequality%20and%20Productivity.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Misaligned by Design: Incentive Failures in Machine Learning",
     "authors": "David Autor, Andrew Caplin, Daniel Martin, and Philip Marx",
     "date": "November 2025",
@@ -248,26 +268,6 @@
     "pdf_url": "",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "Online Business Models, Digital Ads, and User Welfare",
-    "authors": "Daron Acemoglu, Daniel Huttenlocher, Asuman Ozdaglar, James Siderius",
-    "date": "October 2025",
-    "year": 2025,
-    "month": 10,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2025-10/Online%20Business%20Models%2C%20Digital%20Ads%2C%20and%20User%20Welfare.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Tasks at Work: Comparative Advantage, Technology and Labor Demand",
-    "authors": "Daron Acemoglu, Fredric Kong, Pascual Restrepo",
-    "date": "September 2025",
-    "year": 2025,
-    "month": 9,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-01/Tasks%20at%20Work%20-%20Comparative%20Advantage%2C%20Technology%20and%20Labor%20Demand.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "The Algorithm Advantage: Ranked Application Systems Outperform Decentralized and Common Applications in Boston and Beyond",
@@ -300,72 +300,12 @@
     "faculty_slug": "arnaud-costinot"
   },
   {
-    "title": "Eclipse of Rent-Sharing: The Effects of Managers Business Education on Wages and the Labor Share in the US and Denmark",
-    "authors": "Daron Acemoglu, Alex Xi He, Daniel le Maire",
-    "date": "June 2025",
-    "year": 2025,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2025-10/Eclipse%20of%20Rent-Sharing%20-%20the%20Effects%20of%20Managers%20Business%20Education%20on%20wages%20and%20the%20Labor%20Share%20in%20the%20US%20and%20Denmark.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Institutions, Technology and Prosperity: Nobel Lecture",
-    "authors": "Daron Acemoglu",
-    "date": "June 2025",
-    "year": 2025,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-01/Institutions%2C%20Technology%20and%20Prosperity.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Culture, Institutions and Social Equilibria: A Framework",
-    "authors": "Daron Acemoglu, James A. Robinson",
-    "date": "June 2025",
-    "year": 2025,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-03/Culture%2C%20Institutions%20and%20Social%20Equilibria%20-%20A%20Framework.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "AI and Social Media: A Political Economy Perspective",
-    "authors": "Daron Acemoglu, Asuman Ozdaglar, James Siderius",
-    "date": "May 2025",
-    "year": 2025,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2025-05/AI%20and%20Social%20Media%20-%20A%20Political%20Economy%20Perspective.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "When Big Data Enables Behavioral Manipulation",
-    "authors": "Daron Acemoglu, Ali Makhdoumi, Azarakhsh Malekian and Asuman Ozdaglar",
+    "title": "Misperceptions and Demand for Democracy under Authoritarianism",
+    "authors": "Daron Acemoglu, Cevat Giray Aksoy, Ceren Baysan, Carlos Molina and Gamze Zeki",
     "date": "March 2025",
     "year": 2025,
     "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2025-05/When%20Big%20Data%20Enables%20Behavioral%20Manipulation.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "The Macroeconomics of Supply Chain Disruptions",
-    "authors": "Daron Acemoglu, Alireza Tahbaz-Salehi",
-    "date": "March 2025",
-    "year": 2025,
-    "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2025-05/The%20Macroeconomics%20of%20Supply%20Chain%20Disruptions.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "(Successful) Democracies Breed Their Own Support",
-    "authors": "Daron Acemoglu, Nicolás Ajzenman, Cevat Giray Aksoy, Martin Fiszbein, Carlos Molina",
-    "date": "March 2025",
-    "year": 2025,
-    "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2024-12/Successful%20Democracies%20Breed%20Their%20Own%20Support.pdf",
+    "pdf_url": "https://economics.mit.edu/sites/default/files/2025-10/Misperceptions%20and%20Demand%20for%20Democracy%20under%20Authoritarianism.pdf",
     "faculty": "Daron Acemoglu",
     "faculty_slug": "daron-acemoglu"
   },
@@ -390,26 +330,6 @@
     "faculty_slug": "parag-pathak"
   },
   {
-    "title": "The Making of Social Democracy: The Economic and Electoral Consequences of Norway’s 1936 Folk School Reform",
-    "authors": "Daron Acemoglu, Tuomas Pekkarinen, Kjell G. Salvanes, Matti Sarvimäki",
-    "date": "February 2025",
-    "year": 2025,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2025-02/The%20Making%20of%20Social%20Democracy.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Capital and Wages",
-    "authors": "Daron Acemoglu",
-    "date": "February 2025",
-    "year": 2025,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2025-02/capital%20and%20wages.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Dissertation Paths: Advisors and Students in the Economics Research Production Function",
     "authors": "Joshua Angrist and Marc Diederichs",
     "date": "February 2025",
@@ -430,32 +350,12 @@
     "faculty_slug": "josh-angrist"
   },
   {
-    "title": "Mistrust, Misperception, and Misunderstanding: Imperfect Information and Conflict Dynamics",
-    "authors": "Daron Acemoglu, Alexander Wolitzky",
-    "date": "December 2024",
-    "year": 2024,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2025-01/Mistrust%2C%20Misperception%2C%20and%20Misunderstanding%20-%20Imperfect%20Information%20and%20Conflict%20Dynamics.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "A Model of Online Misinformation",
-    "authors": "Daron Acemoglu, Asuman Ozdaglar, James Siderius",
-    "date": "November 2024",
-    "year": 2024,
-    "month": 11,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2024-12/A%20Model%20of%20Online%20Misinformation.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Regulating Transformative Technologies",
-    "authors": "Daron Acemoglu, Todd Lensman",
+    "title": "Climate Change, Directed Innovation, and Energy Transition: The Long-run Consequences of the Shale Gas Revolution",
+    "authors": "Daron Acemoglu, Philippe Aghion, Lint Barrage, David Hémous",
     "date": "September 2024",
     "year": 2024,
     "month": 9,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2024-10/Regulating%20Transformative%20Technologies.pdf",
+    "pdf_url": "https://economics.mit.edu/sites/default/files/2024-09/Climate%20Change%2C%20Directed%20Innovation%2C%20and%20Energy%20Transistion%20-%20The%20Long-run%20Consequences%20of%20the%20Shale%20Gas%20Revolution.pdf",
     "faculty": "Daron Acemoglu",
     "faculty_slug": "daron-acemoglu"
   },
@@ -468,26 +368,6 @@
     "pdf_url": "",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "The Simple Macroeconomics of AI",
-    "authors": "Daron Acemoglu",
-    "date": "August 2024",
-    "year": 2024,
-    "month": 8,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2024-10/The%20Simple%20Macroeconomics%20of%20AI.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Learning from Ricardo and Thompson: Machinery and Labor in the Early Industrial Revolution - And in the Age of AI",
-    "authors": "Daron Acemoglu, Simon Johnson",
-    "date": "August 2024",
-    "year": 2024,
-    "month": 8,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2024-10/Learning%20from%20Ricardo%20and%20Thompson%20-%20Machinery%20and%20Labor%20in%20the%20Early%20Industrial%20Revolution%20-%20and%20in%20the%20Age%20of%20AI.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Does automation replace experts or augment expertise? The answer is yes",
@@ -508,16 +388,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/2024-08/Help_for_the_Heartland_20240815.pdf",
     "faculty": "David H. Autor",
     "faculty_slug": "david-h-autor"
-  },
-  {
-    "title": "A Task-Based Approach to Inequality",
-    "authors": "Daron Acemoglu, Pascual Restrepo",
-    "date": "July 2024",
-    "year": 2024,
-    "month": 7,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2024-07/A%20Task-Based%20Approach%20to%20Inequality.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Still Worth the Trip? School Busing Effects in Boston and New York",
@@ -550,12 +420,12 @@
     "faculty_slug": "robert-m-townsend"
   },
   {
-    "title": "Automation and the Workforce: A Firm-Level View from the 2019 Annual Business Survey",
-    "authors": "Daron Acemoglu, Gary W. Anderson, David N. Beede, Cathy Buffington, Eric E. Childress, Emin Dinlersoz, Lucia S. Foster, Nathan Goldschlag, John C. Haltiwanger, Zachary Kroff, Pascual Restrepo, and Nikolas Zolas",
-    "date": "June 2024",
+    "title": "Learning, Diversity and Adaptation in Changing Environments: The Role of Weak Links",
+    "authors": "Daron Acemoglu, Asuman Ozdaglar, Sarath Pattathil",
+    "date": "May 2024",
     "year": 2024,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2022-11/Automation%20and%20the%20Workforce%20-%20A%20Firm-Level%20View%20from%20the%202019%20Annual%20Business%20Survey.pdf",
+    "month": 5,
+    "pdf_url": "https://economics.mit.edu/sites/default/files/2024-05/Learning%2C%20Diversity%20and%20Adaptation%20in%20Changing%20Environments%20-%20The%20Role%20of%20Weak%20Links.pdf",
     "faculty": "Daron Acemoglu",
     "faculty_slug": "daron-acemoglu"
   },
@@ -580,16 +450,6 @@
     "faculty_slug": "ricardo-caballero"
   },
   {
-    "title": "Testing, Voluntary Social Distancing and the Spread of an Infection",
-    "authors": "Daron Acemoglu, Ali Makhdoumi, Azarakhsh Malekian, Asu Ozdaglar",
-    "date": "April 2024",
-    "year": 2024,
-    "month": 4,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2024-07/Testing%2C%20Voluntary%20Social%20Distancing%20and%20the%20Spread%20of%20an%20Infection.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "The Unexpected Compression: Competition at Work in the Low Wage Labor Market",
     "authors": "David Autor, Arindrajit Dube, Annie McGrew",
     "date": "April 2024",
@@ -608,16 +468,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/2024-11/Annual%20Review%20of%20Financial%20Economics_0.pdf",
     "faculty": "Ricardo Caballero",
     "faculty_slug": "ricardo-caballero"
-  },
-  {
-    "title": "Equilibrium Analysis in Behavioral One-Sector Growth Models",
-    "authors": "Daron Acemoglu, Martin Kaae Jensen",
-    "date": "March 2024",
-    "year": 2024,
-    "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2024-07/Equilibrium%20Analysis%20in%20Behavioral%20One-Sector%20Growth%20Models.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "The Local Scarring Effect of Negative Trade Shocks: Evidence from the Collapse of Finnish-Soviet Trade",
@@ -650,12 +500,12 @@
     "faculty_slug": "david-h-autor"
   },
   {
-    "title": "Bottlenecks: Sectoral Imbalances and the US Productivity Slowdown",
-    "authors": "Daron Acemoglu, David Autor, and Christina Patterson",
+    "title": "How Good Are Privacy Guarantees? Platform Architecture and Violation of User Privacy",
+    "authors": "Daron Acemoglu, Alireza Fallah, Ali Makhdoumi, Azarakhsh Malekian, Asuman Ozdaglar",
     "date": "June 2023",
     "year": 2023,
     "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2024-07/Bottlenecks%20-%20Sectoral%20Imbalances%20and%20the%20US%20Productivity%20Slowdown.pdf",
+    "pdf_url": "https://economics.mit.edu/sites/default/files/2023-06/How%20Good%20Are%20Privacy%20Guarantees%20-%20Platform%20Architecture%20and%20Violation%20of%20User%20Privacy.pdf",
     "faculty": "Daron Acemoglu",
     "faculty_slug": "daron-acemoglu"
   },
@@ -680,46 +530,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Advanced Technology Adoption: Selection or Causal Effects?",
-    "authors": "Daron Acemoglu, Gary Anderson, David Beede, Catherine Buffington, Eric Childress, Emin Dinlersoz, Lucia Foster, Nathan Goldschlag, John Haltiwanger, Zachary Kroff, Pascual Restrepo, Nikolas Zolas",
-    "date": "May 2023",
-    "year": 2023,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2023-06/Advanced%20Technology%20Adoption%20-%20Selection%20of%20Causal%20Effects.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Distorted Innovation: Does the Market Get the Direction of Technology Right?",
-    "authors": "Daron Acemoglu",
-    "date": "May 2023",
-    "year": 2023,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2023-06/Distorted%20Innovation%20-%20Does%20the%20Market%20Get%20the%20Direction%20of%20Technology%20Right.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Weak, Despotic or Inclusive? How State Type Emerges from State versus Civil Society Competition",
-    "authors": "Daron Acemoglu, James A. Robinson",
-    "date": "May 2023",
-    "year": 2023,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2023-03/Weak%2C%20Depotic%20or%20Inclusive%20-%20How%20State%20Type%20Emerges%20from%20State%20versus%20Civil%20Society%20Comeptition.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Robots and Workers: Evidence from the Netherlands",
-    "authors": "Daron Acemoglu, Hans R. A. Koster, Ceren Ozgen",
-    "date": "March 2023",
-    "year": 2023,
-    "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2023-03/Robots%20ad%20Workers%20-%20Evidence%20from%20the%20Netherlands.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Inspiring Regime Change",
     "authors": "Stephen Morris and Mehdi Shadmehr",
     "date": "March 2023",
@@ -740,36 +550,6 @@
     "faculty_slug": "alberto-abadie"
   },
   {
-    "title": "Mirage on the Horizon: Geoengineering and Carbon Taxation Without Commitment",
-    "authors": "Daron Acemoglu, Will Rafey",
-    "date": "December 2022",
-    "year": 2022,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2023-02/Mirage%20on%20the%20Horizon%20-%20Geoengineering%20and%20Carbon%20Taxation%20Without%20Commitment.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Too Much Data: Prices and Inefficiencies in Data Markets",
-    "authors": "Daron Acemoglu, Ali Makhdoumi, Azarakhsh Malekian, Asu Ozdaglar",
-    "date": "November 2022",
-    "year": 2022,
-    "month": 11,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2023-06/Too%20Much%20data%20-%20Prices%20and%20Inefficiencies%20in%20Data%20Markets.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Learning From Reviews: The Selection Effect and the Speed of Learning",
-    "authors": "Daron Acemoglu, Ali Makhdoumi, Azarakhsh Malekian, Asu Ozdaglar",
-    "date": "November 2022",
-    "year": 2022,
-    "month": 11,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2022-11/Learning%20From%20Reviews%20-%20The%20Selection%20Effect%20and%20the%20Speed%20of%20Learning.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Coordination and Continuous Stochastic Choice",
     "authors": "Stephen Morris and Ming Yang",
     "date": "October 2022",
@@ -780,26 +560,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "The Rise of Age-Friendly Jobs",
-    "authors": "Daron Acemoglu, Nicolaj Søndergaard Mühlbach, Andrew J. Scott",
-    "date": "September 2022",
-    "year": 2022,
-    "month": 9,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2022-12/The%20Rise%20of%20Age-Friendly%20Jobs.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Tasks, Automation and the Rise in US Wage Inequality",
-    "authors": "Daron Acemoglu, Pascual Restrepo",
-    "date": "September 2022",
-    "year": 2022,
-    "month": 9,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Optimal Information Disclosure in Classic Auctions",
     "authors": "Dirk Bergemann, Tibor Heumann, Stephen Morris, Constantine Sorokin and Eyal Winter",
     "date": "September 2022",
@@ -808,16 +568,6 @@
     "pdf_url": "",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "Radical and Incremental Innovation: The Roles of Firms, Managers and Innovators",
-    "authors": "Daron Acemoglu, Ufuk Akcigit, Murat Alp Celik",
-    "date": "July 2022",
-    "year": 2022,
-    "month": 7,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2022-09/Radical%20and%20Incremental%20Innovation%20-%20The%20Roles%20of%20Firms%2C%20Managers%20and%20Innovataors.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "An Evaluation of the Paycheck Protection Program Using Administrative Payroll Microdata",
@@ -870,46 +620,6 @@
     "faculty_slug": "arnaud-costinot"
   },
   {
-    "title": "Forward to the Handbook of Turkish Politics",
-    "authors": "Daron Acemoglu",
-    "date": "April 2022",
-    "year": 2022,
-    "month": 4,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Forward%20to%20the%20Handbook%20of%20Turkish%20Politics.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Artificial Intelligence and Jobs - Evidence from Online Vacancies",
-    "authors": "Daron Acemoglu, David Autor, Jonathon Hazell, Pascual Restrepo",
-    "date": "April 2022",
-    "year": 2022,
-    "month": 4,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Harms of AI",
-    "authors": "Daron Acemoglu",
-    "date": "February 2022",
-    "year": 2022,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2023-07/Harms%20of%20AI.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Non-Modernization: Power-Culture Trajectories and the Dynamics of Political Institutions",
-    "authors": "Daron Acemoglu, James A. Robinson",
-    "date": "February 2022",
-    "year": 2022,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Non-Modernization%20-%20Power-Culture%20Trajectories%20and.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Demand Composition and the Strength of Recoveries",
     "authors": "Martin Beraja, Christian K. Wolf",
     "date": "February 2022",
@@ -928,26 +638,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/robust_web_supplement.pdf",
     "faculty": "Alberto Abadie",
     "faculty_slug": "alberto-abadie"
-  },
-  {
-    "title": "Obedience in the Labor Market and Social Mobility: A Socio-Economic Approach",
-    "authors": "Daron Acemoglu",
-    "date": "January 2022",
-    "year": 2022,
-    "month": 1,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Obedience%20in%20the%20Labor%20Market%20and%20Social%20Mobility%20.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Converging to Converge: A Comment",
-    "authors": "Daron Acemoglu, Carlos Molina",
-    "date": "January 2022",
-    "year": 2022,
-    "month": 1,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Converging%20to%20Converge%20-%20A%20Comment.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "The $800 Billion Paycheck Protection Program: Where Did the Money Go and Why Did it Go There?",
@@ -980,16 +670,6 @@
     "faculty_slug": "alberto-abadie"
   },
   {
-    "title": "Optimal Targeted Lockdowns in a Multi-Group SIR Model",
-    "authors": "Daron Acemoglu, Victor Chernozhukov, Iván Werning, Michael D. Whinston",
-    "date": "December 2021",
-    "year": 2021,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Optimal%20Tageted%20Lockdowns%20in%20a%20Multi-Group%20SIR%20Mod.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Global Imbalances and Policy Wars at the Zero Lower Bound",
     "authors": "Ricardo Caballero, Emmanuel Farhi, Pierre-Olivier Gourinchas",
     "date": "November 2021",
@@ -1020,16 +700,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Systemic Credit Freezes in Financial Lending Networks",
-    "authors": "Daron Acemoglu, Asuman Ozdaglar, James Siderius, Alireza Tahbaz-Salehi",
-    "date": "July 2021",
-    "year": 2021,
-    "month": 7,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Systemic%20Credit%20Freezes%20in%20Financial%20Lending%20Netwo.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects",
     "authors": "Alberto Abadie",
     "date": "June 2021",
@@ -1038,26 +708,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/jel.20191450.pdf",
     "faculty": "Alberto Abadie",
     "faculty_slug": "alberto-abadie"
-  },
-  {
-    "title": "Demographics and Automation",
-    "authors": "Daron Acemoglu, Pascual Restrepo",
-    "date": "June 2021",
-    "year": 2021,
-    "month": 6,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "A Theory of Equality Before the Law",
-    "authors": "Daron Acemoglu, Alexander Wolitzky",
-    "date": "May 2021",
-    "year": 2021,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2022-09/A%20Theory%20of%20Equality%20Before%20the%20Law.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Information, Market Power and Price Volatility",
@@ -1078,36 +728,6 @@
     "pdf_url": "",
     "faculty": "Parag Pathak",
     "faculty_slug": "parag-pathak"
-  },
-  {
-    "title": "War, Socialism and the Rise of Fascism: An Empirical Exploration",
-    "authors": "Daron Acemoglu, Giuseppe De Feo, Giacomo De Luca, Gianluca Russo",
-    "date": "January 2021",
-    "year": 2021,
-    "month": 1,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "The Political Agenda Effect and State Centralization",
-    "authors": "Daron Acemoglu, James A. Robinson, Ragnar Torvik",
-    "date": "December 2020",
-    "year": 2020,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/The%20Political%20Agenda%20Effect%20and%20State%20Centralizati.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "High-Quality Versus Low-Quality Growth in Turkey - Causes and Consequences",
-    "authors": "Daron Acemoglu, Murat Üçer",
-    "date": "November 2020",
-    "year": 2020,
-    "month": 11,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/High-Quality%20Versus%20Low-Quality%20Growth%20in%20Turkey%20-.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Countering the Winner’s Curse: Optimal Auction Design in a Common Value Model",
@@ -1140,36 +760,6 @@
     "faculty_slug": "robert-m-townsend"
   },
   {
-    "title": "Institutional Change and Institutional Persistence",
-    "authors": "Daron Acemoglu, Georgy Egorov, Konstantin Sonin",
-    "date": "September 2020",
-    "year": 2020,
-    "month": 9,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2022-09/Institutional%20Change%20and%20Institutional%20Persistence.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "The Perils of High Powered Incentives: Evidence from Colombia's False Positives",
-    "authors": "Daron Acemoglu, Leopoldo Fergusson, James Robinson, Dario Romero, Juan F. Vargask",
-    "date": "August 2020",
-    "year": 2020,
-    "month": 8,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/The%20Perils%20of%20High%20Powered%20Incentives.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Trust in State and Non-State Actors: Evidence from Dispute Resolution in Pakistan",
-    "authors": "Daron Acemoglu, Ali Cheema, Asim I. Khwaja, James A. Robinson",
-    "date": "August 2020",
-    "year": 2020,
-    "month": 8,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Trust%20in%20State%20and%20Non-State%20Actors%20-%20Evidence%20fro.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "A Risk-centric Model of Demand Recessions and Speculation",
     "authors": "Ricardo Caballero, Alp Simsek",
     "date": "August 2020",
@@ -1178,16 +768,6 @@
     "pdf_url": "",
     "faculty": "Ricardo Caballero",
     "faculty_slug": "ricardo-caballero"
-  },
-  {
-    "title": "Population and Conflict",
-    "authors": "Daron Acemoglu, Leopoldo Fergusson, Simon Johnson",
-    "date": "July 2020",
-    "year": 2020,
-    "month": 7,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Population%20and%20Conflict.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Statistical Nonsignificance in Empirical Economics",
@@ -1200,36 +780,6 @@
     "faculty_slug": "alberto-abadie"
   },
   {
-    "title": "Robots and Jobs: Evidence from US Labor Markets",
-    "authors": "Daron Acemoglu, Pascual Restrepo",
-    "date": "June 2020",
-    "year": 2020,
-    "month": 6,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Competing with Robots: Firm-Level Evidence from France",
-    "authors": "Daron Acemoglu, Claire LeLarge, Pascual Restrepo",
-    "date": "May 2020",
-    "year": 2020,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Competing%20with%20Robots%20-%20Firm-Level%20Evidence%20from%20F.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Unpacking Skill Bias: Automation and New Tasks",
-    "authors": "Daron Acemoglu, Pascual Restrepo",
-    "date": "May 2020",
-    "year": 2020,
-    "month": 5,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Paying it Backward and Forward: Expanding Access to Convalescent Plasma Therapy Through Market Design",
     "authors": "Scott Duke Kominers, Parag A. Pathak, Tayfun Sönmez and M. Utku Ünver",
     "date": "May 2020",
@@ -1240,16 +790,6 @@
     "faculty_slug": "parag-pathak"
   },
   {
-    "title": "Sustaining Cooperation: Community Enforcement Versus Specialized Enforcement",
-    "authors": "Daron Acemoglu, Alexander Wolitzky",
-    "date": "April 2020",
-    "year": 2020,
-    "month": 4,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2022-09/Sustaining%20Cooperation%20-%20Community%20Enforcement%20vs%20Specialized%20Enforcement.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "A Model of Fickle Capital Flows and Retrenchment",
     "authors": "Ricardo Caballero, Alp Simsek",
     "date": "April 2020",
@@ -1258,26 +798,6 @@
     "pdf_url": "",
     "faculty": "Ricardo Caballero",
     "faculty_slug": "ricardo-caballero"
-  },
-  {
-    "title": "Weak States: Causes and Consequences of the Sicilian Mafia",
-    "authors": "Daron Acemoglu, Giuseppe De Feo, Giacomo De Luca",
-    "date": "March 2020",
-    "year": 2020,
-    "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Weak%20States%20Causes%20and%20Consequences%20of%20the%20Sicilia.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Does the US Tax Code Favor Automation?",
-    "authors": "Daron Acemoglu, Andrea Manera, Pascual Restrepo",
-    "date": "March 2020",
-    "year": 2020,
-    "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Does%20the%20US%20Tax%20Code%20Favor%20Automation.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Prudential Monetary Policy",
@@ -1300,16 +820,6 @@
     "faculty_slug": "alberto-abadie"
   },
   {
-    "title": "Endogenous Production Networks",
-    "authors": "Daron Acemoglu, Pablo D. Azar",
-    "date": "January 2020",
-    "year": 2020,
-    "month": 1,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Endogenous%20Production%20Networks.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Observational Implications of Non-Exponential Discounting",
     "authors": "Stephen Morris and Andrew Postlewaite",
     "date": "January 2020",
@@ -1330,16 +840,6 @@
     "faculty_slug": "alberto-abadie"
   },
   {
-    "title": "Artificial Intelligence, Automation, and Work",
-    "authors": "Daron Acemoglu, Pascual Restrepo",
-    "date": "December 2019",
-    "year": 2019,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Artificial%20Intelligence%2C%20Automation%2C%20and%20Work.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Refinements and Higher Order Beliefs: A Unified Survey",
     "authors": "Atsushi Kajii and Stephen Morris",
     "date": "December 2019",
@@ -1350,16 +850,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "The Wrong Kind of AI? Artificial Intelligence and the Future of Labor Demand",
-    "authors": "Daron Acemoglu, Pascual Restrepo",
-    "date": "November 2019",
-    "year": 2019,
-    "month": 11,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/The%20Wrong%20Kind%20of%20AI%20-%20Artificial%20Intelligence%20and.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Crises: Equilibrium Shifts and Large Shocks",
     "authors": "Stephen Morris and Muhamet Yildiz",
     "date": "August 2019",
@@ -1368,16 +858,6 @@
     "pdf_url": "",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "Automation and New Tasks: How Technology Displaces and Reinstates Labor",
-    "authors": "Daron Acemoglu, Pascual Restrepo",
-    "date": "May 2019",
-    "year": 2019,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Online%20Appendix%20for%20Automation%20and%20New%20Tasks%20-%20How.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Revenue Guarantee Equivalence",
@@ -1420,16 +900,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Democracy Does Cause Growth",
-    "authors": "Daron Acemoglu, Suresh Naidu, Pascual Restrepo, James A. Robinson",
-    "date": "February 2019",
-    "year": 2019,
-    "month": 2,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "On the Global Impact of Risk-off Shocks and Policy-put Frameworks",
     "authors": "Ricardo Caballero, Gunes Kamber",
     "date": "February 2019",
@@ -1448,16 +918,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/ARE-typo-Fig4-corrected.pdf",
     "faculty": "Alberto Abadie",
     "faculty_slug": "alberto-abadie"
-  },
-  {
-    "title": "Innovation, Reallocation and Growth",
-    "authors": "Daron Acemoglu, Ufuk Akcigit, Nicholas Bloom, William Kerr",
-    "date": "November 2018",
-    "year": 2018,
-    "month": 11,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Innovation%2C%20Reallocation%20and%20Growth.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Missing Aggregate Dynamics and VAR Approximations of Lumpy Adjustment Models",
@@ -1490,36 +950,6 @@
     "faculty_slug": "ricardo-caballero"
   },
   {
-    "title": "Low-Skill and High-Skill Automation",
-    "authors": "Daron Acemoglu, Pascual Restrepo",
-    "date": "August 2018",
-    "year": 2018,
-    "month": 8,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Low-Skill%20and%20High-Skill%20Automation.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Informational Braess Paradox: The Effect of Information on Traffic Congestion",
-    "authors": "Daron Acemoglu, Ali Makhdoumi, Azarakhsh Malekian, Asuman Ozdaglar",
-    "date": "August 2018",
-    "year": 2018,
-    "month": 8,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Informational%20Braess%20Paradox%20-%20The%20Effect%20of%20Infor.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "The Race Between Man and Machine: Implications of Technology for Growth, Factor Shares and Employment",
-    "authors": "Daron Acemoglu, Pascual Restrepo",
-    "date": "June 2018",
-    "year": 2018,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/The%20Race%20Between%20Man%20and%20Machine%20-%20Implications%20of.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "First Price Auction with General Information Structures: A Short Introduction",
     "authors": "Dirk Bergemann, Benjamin Brooks and Stephen Morris",
     "date": "June 2018",
@@ -1528,26 +958,6 @@
     "pdf_url": "https://www.sigecom.org/exchanges/volume_16/2/BERGEMANN.pdf",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "Modeling Automation",
-    "authors": "Daron Acemoglu, Pascual Restrepo",
-    "date": "May 2018",
-    "year": 2018,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Modeling%20Automation.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Social Mobility and Stability of Democracy: Reevaluating De Tocqueville",
-    "authors": "Daron Acemoglu, Georgy Egorov, Konstantin Sonin",
-    "date": "May 2018",
-    "year": 2018,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Social%20Mobility%20and%20Stability%20of%20Democracy%20-%20Re-ev.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Reach for Yield and Fickle Capital Flows",
@@ -1568,16 +978,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/online_appendix.pdf",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "The Power of the Street: Evidence from Egypt's Arab Spring",
-    "authors": "Daron Acemoglu, Tarek A. Hassan, Ahmed Tahoun",
-    "date": "January 2018",
-    "year": 2018,
-    "month": 1,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/The%20Power%20of%20the%20Street%20-%20Evidence%20from%20Egypts%20Ara.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "The Safety Trap",
@@ -1610,26 +1010,6 @@
     "faculty_slug": "parag-pathak"
   },
   {
-    "title": "Asymmetric Growth and Institutions in an Interdependent World",
-    "authors": "Daron Acemoglu, James A. Robinson, Thierry Verdier",
-    "date": "August 2017",
-    "year": 2017,
-    "month": 8,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Asymmetric%20Growth%20and%20Institutions%20in%20an%20Interdepe.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Privacy-Constrained Network Formation",
-    "authors": "Daron Acemoglu, Ali Makhdoumi, Azarakhsh Malekian, Asuman Ozdaglar",
-    "date": "August 2017",
-    "year": 2017,
-    "month": 8,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Privacy-Constrained%20Network%20Formation.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "The Safe Assets Shortage Conundrum",
     "authors": "Ricardo Caballero, Emmanuel Farhi, Pierre-Olivier Gourinchas",
     "date": "August 2017",
@@ -1660,16 +1040,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Secular Stagnation? The Effect of Aging on Economic Growth in the Age of Automation",
-    "authors": "Daron Acemoglu, Pascual Restrepo",
-    "date": "May 2017",
-    "year": 2017,
-    "month": 5,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Does Delay Cause Decay? The Effect of Administrative Decision Time on the Labor Force Participation and Earnings of Disability Applicants",
     "authors": "David H. Autor, Nicole Maestas, Kathleen J. Mullen, Alexander Strand",
     "date": "May 2017",
@@ -1688,16 +1058,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/AERPP_060317_rc.pdf",
     "faculty": "Ricardo Caballero",
     "faculty_slug": "ricardo-caballero"
-  },
-  {
-    "title": "Social Norms and the Enforcement of Laws",
-    "authors": "Daron Acemoglu, Matthew O. Jackson",
-    "date": "April 2017",
-    "year": 2017,
-    "month": 4,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Social%20Norms%20and%20the%20Enforcement%20of%20Laws.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Response to Robert Feenstra, Hong Ma, and Yuan Xu’s Comment on Autor, Dorn, and Hanson (AER 2013)",
@@ -1750,16 +1110,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Microeconomic Origins of Macroeconomic Tail Risks",
-    "authors": "Daron Acemoglu, Asuman Ozdaglar, Alireza Tahbaz-Salehi",
-    "date": "January 2017",
-    "year": 2017,
-    "month": 1,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Microeconomic%20Origins%20of%20Macroeconomic%20Tail%20Risks..pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "A Note on the Effect of Rising Trade Exposure on the 2016 Presidential Election",
     "authors": "David Autor, David Dorn, Gordon Hanson, Kaveh Majlesi",
     "date": "January 2017",
@@ -1788,16 +1138,6 @@
     "pdf_url": "",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "Paths to Inclusive Political Institutions",
-    "authors": "Daron Acemoglu, James A. Robinson",
-    "date": "December 2016",
-    "year": 2016,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Paths%20to%20Inclusive%20Political%20Institutions.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Evaluating Post-Secondary Aid: Enrollment, Persistence, and Projected Completion Effects",
@@ -1850,66 +1190,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Innovation Network",
-    "authors": "Daron Acemoglu, Ufuk Akcigit, William Kerr",
-    "date": "October 2016",
-    "year": 2016,
-    "month": 10,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Innovation%20network.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Network Security and Contagion",
-    "authors": "Daron Acemoglu, Azarakhsh Malekian, Asuman Ozdaglar",
-    "date": "October 2016",
-    "year": 2016,
-    "month": 10,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Network%20Security%20and%20Contagion.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "The Value of Connections in Turbulent Times: Evidence from the United States",
-    "authors": "Daron Acemoglu, Simon Johnson, Amir Kermani, James Kwak, Todd Mitton",
-    "date": "August 2016",
-    "year": 2016,
-    "month": 8,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Networks and the Macroeconomy: An Empirical Exploration",
-    "authors": "Daron Acemoglu, Ufuk Akcigit, William Kerr",
-    "date": "July 2016",
-    "year": 2016,
-    "month": 7,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Networks, Shocks, and Systemic Risk",
-    "authors": "Daron Acemoglu, Asuman Ozdaglar, Alireza Tahbaz-Salehi",
-    "date": "June 2016",
-    "year": 2016,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Networks%2C%20Shocks%2C%20and%20Systemic%20Risk.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "State Capacity and American Technology: Evidence from the 19th Century",
-    "authors": "Daron Acemoglu, Jacob Moscona, James A. Robinson",
-    "date": "May 2016",
-    "year": 2016,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/State%20Capacity%20and%20American%20Technology%20-%20Evidence%20.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Safe Asset Scarcity and Aggregate Demand",
     "authors": "Ricardo Caballero, Emmanuel Farhi, Pierre-Olivier Gourinchas",
     "date": "May 2016",
@@ -1950,36 +1230,6 @@
     "faculty_slug": "alberto-abadie"
   },
   {
-    "title": "Transition to Clean Technology",
-    "authors": "Daron Acemoglu, Ufuk Akcigit, Douglas Hanley, William Kerr",
-    "date": "February 2016",
-    "year": 2016,
-    "month": 2,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Import Competition and the Great US Employment Sag of the 2000s",
-    "authors": "Daron Acemoglu, David Autor, David Dorn, Gordon H. Hanson, Brendan Price",
-    "date": "January 2016",
-    "year": 2016,
-    "month": 1,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "The Ups and Downs of Turkish Growth, 2002-2015: Political Dynamics, the European Union and the Institutional Slide",
-    "authors": "Daron Acemoglu, Murat Ucer",
-    "date": "January 2016",
-    "year": 2016,
-    "month": 1,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/The%20Ups%20and%20Downs%20of%20Turkish%20Growth%2C%202002-2015%20-%20P.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Risk Premium Shifts and Monetary Policy: A Coordination Approach",
     "authors": "Stephen Morris and Hyun Song Shin",
     "date": "January 2016",
@@ -1988,16 +1238,6 @@
     "pdf_url": "",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "The Rise and Decline of General Laws of Capitalism",
-    "authors": "Daron Acemoglu, James A. Robinson",
-    "date": "December 2015",
-    "year": 2015,
-    "month": 12,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Economic Policies in Emerging-Market Economies: An Overview",
@@ -2020,36 +1260,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Political Economy in a Changing World",
-    "authors": "Daron Acemoglu, Georgy Egorov, Konstantin Sonin",
-    "date": "October 2015",
-    "year": 2015,
-    "month": 10,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Political%20Economy%20in%20a%20Changing%20World.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "State Capacity and Economic Development: A Network Approach",
-    "authors": "Daron Acemoglu, Camilo Garcia-Jimeno , James A. Robinson",
-    "date": "July 2015",
-    "year": 2015,
-    "month": 7,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Offshoring and Directed Technical Change",
-    "authors": "Daron Acemoglu, Gino Gancia, Fabrizio Zilibotti",
-    "date": "July 2015",
-    "year": 2015,
-    "month": 7,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Offshoring%20and%20Directed%20Technical%20Change.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Information and Volatility",
     "authors": "Dirk Bergemann, Tibor Heumann and Stephen Morris",
     "date": "July 2015",
@@ -2058,26 +1268,6 @@
     "pdf_url": "",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "Robust Comparative Statics in Large Dynamic Economies",
-    "authors": "Daron Acemoglu, Martin Kaae Jensen",
-    "date": "June 2015",
-    "year": 2015,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Robust%20Comparative%20Statics%20in%20Large%20Dynamic%20Econom.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Innovation by Entrants and Incumbents",
-    "authors": "Daron Acemoglu, Dan Cao",
-    "date": "May 2015",
-    "year": 2015,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Innovation%20by%20Entrants%20and%20Incumbents.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Comparative Politics and the Synthetic Control Method",
@@ -2090,16 +1280,6 @@
     "faculty_slug": "alberto-abadie"
   },
   {
-    "title": "Localised and Biased Technologies: Atkinson and Stiglitz's New View, Induced Innovations, and Directed Technological Change",
-    "authors": "Daron Acemoglu",
-    "date": "March 2015",
-    "year": 2015,
-    "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Localized%20and%20Biased%20Technologies.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "The Limits of Price Discrimination",
     "authors": "Dirk Bergemann, Benjamin Brooks and Stephen Morris",
     "date": "March 2015",
@@ -2108,36 +1288,6 @@
     "pdf_url": "https://assets.aeaweb.org/asset-server/articles-attachments/aer/app/10503/20130848_app.pdf",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "Fragility of Asymptotic Agreement under Bayesian Learning",
-    "authors": "Daron Acemoglu, Victor Chernozkukov, Muhamet Yildiz",
-    "date": "February 2015",
-    "year": 2015,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2022-09/fragility%20of%20asymptotic%20agreement%20under%20bayesian%20learning.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Systemic Risk and Stability in Financial Networks",
-    "authors": "Daron Acemoglu, Asuman Ozdaglar, Alireza Tahbaz-Salehi",
-    "date": "February 2015",
-    "year": 2015,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Systemic%20Risk%20and%20Stability%20in%20Financial%20Networks..pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "History, Expectations, and Leadership in the Evolution of Social Norms",
-    "authors": "Daron Acemoglu, Matthew O. Jackson",
-    "date": "January 2015",
-    "year": 2015,
-    "month": 1,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/History%2C%20Expectations%2C%20and%20Leadership%20in%20the%20Evolu.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Demand Modeling, Forecasting, and Counterfactuals, Part I",
@@ -2160,26 +1310,6 @@
     "faculty_slug": "alberto-abadie"
   },
   {
-    "title": "Disease and Development - A Reply to Bloom, Canning and Fink",
-    "authors": "Daron Acemoglu, Simon Johnson",
-    "date": "December 2014",
-    "year": 2014,
-    "month": 12,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Democracy, Redistribution and Inequality",
-    "authors": "Daron Acemoglu, Suresh Naidu, Pascual Restrepo, James A. Robinson",
-    "date": "December 2014",
-    "year": 2014,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Democracy%2C%20Redistribution%20and%20Inequality.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Coordination, Timing and Common Knowledge",
     "authors": "Stephen Morris",
     "date": "December 2014",
@@ -2188,16 +1318,6 @@
     "pdf_url": "",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "Search with Multi-Worker Firms",
-    "authors": "Daron Acemoglu, William Hawkins",
-    "date": "September 2014",
-    "year": 2014,
-    "month": 9,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Search%20with%20Multi-Worker%20Firms.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "On the Role of Safe Asset Shortages in Secular Stagnation",
@@ -2220,72 +1340,12 @@
     "faculty_slug": "ricardo-caballero"
   },
   {
-    "title": "Chiefs: Economic Developement and Elite Control of Civil Soceity in Sierra Leone",
-    "authors": "Daron Acemoglu, Tristan Reed, James A. Robinson",
-    "date": "April 2014",
-    "year": 2014,
-    "month": 4,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Chiefs%20-%20Economic%20Developement%20and%20Elite%20Control%20o.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Cycles of Conflict: An Economic Model",
-    "authors": "Daron Acemoglu, Alexander Wolitzky",
-    "date": "April 2014",
-    "year": 2014,
-    "month": 4,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2022-09/Cycles%20of%20Conflict%20-%20An%20Economic%20Model.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Institutions, Human Capital and Development",
-    "authors": "Daron Acemoglu, Francisco A. Gallego, James A. Robinson",
+    "title": "Managing Innovation in a Crowd",
+    "authors": "Daron Acemoglu, Mohamed Mostagir, Asuman Ozdaglar",
     "date": "January 2014",
     "year": 2014,
     "month": 1,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Return of the Solow Paradox: IT, Productivity, and Employment in US Manufacturing",
-    "authors": "Daron Acemoglu, David Autor, David Dorn, Gordon H. Hanson, Brendan Price",
-    "date": "January 2014",
-    "year": 2014,
-    "month": 1,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Equalizing Superstars: The Internet and the Democratization of Education",
-    "authors": "Daron Acemoglu, David Laibson, John A. List",
-    "date": "January 2014",
-    "year": 2014,
-    "month": 1,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Equalizing%20Superstars%20-%20The%20Internet%20and%20the%20Democ.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "The World Our Grandchildren Will Inherit: The Rights Revolution and Beyond",
-    "authors": "Daron Acemoglu",
-    "date": "January 2014",
-    "year": 2014,
-    "month": 1,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/The%20World%20Our%20Grandchildren%20Will%20Inherit%20-%20The%20Rig.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Dynamics of Information Exchange in Endogenous Social Networks",
-    "authors": "Daron Acemoglu, Kostas Bimpikis, Asuman Ozdaglar",
-    "date": "January 2014",
-    "year": 2014,
-    "month": 1,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Dynamics%20of%20Information%20Exchange%20in%20Endogenous%20Soc.pdf",
+    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Managing%20Innovation%20in%20a%20Crowd.pdf",
     "faculty": "Daron Acemoglu",
     "faculty_slug": "daron-acemoglu"
   },
@@ -2298,16 +1358,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Fire%20Sales%20in%20a%20Model%20of%20Complexity.pdf",
     "faculty": "Ricardo Caballero",
     "faculty_slug": "ricardo-caballero"
-  },
-  {
-    "title": "Income and Health Spending: Evidence from Oil Price Shocks",
-    "authors": "Daron Acemoglu, Amy Finkelstein, Matthew J. Notowidigdo",
-    "date": "October 2013",
-    "year": 2013,
-    "month": 10,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Income%20and%20Health%20Spending%20-%20Evidence%20from%20Oil%20Pri.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Aggregate Implications of Lumpy Investment: New Evidence and a DSGE Model",
@@ -2340,26 +1390,6 @@
     "faculty_slug": "parag-pathak"
   },
   {
-    "title": "Aggregate Comparative Statics",
-    "authors": "Daron Acemoglu, Martin Kaae Jensen",
-    "date": "September 2013",
-    "year": 2013,
-    "month": 9,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Aggregate%20Comparative%20Statics.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Why Do Voters Dismantle Checks and Balances?",
-    "authors": "Daron Acemoglu, James A. Robinson, Ragnar Torvik",
-    "date": "July 2013",
-    "year": 2013,
-    "month": 7,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Why%20Do%20Voters%20Dismantle%20Checks%20and%20Balances%20APPEND.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Robust Predictions in Games of Incomplete Information",
     "authors": "Dirk Bergemann and Stephen Morris",
     "date": "July 2013",
@@ -2380,6 +1410,16 @@
     "faculty_slug": "stephen-morris"
   },
   {
+    "title": "The Network Origins of Large Economic Downturns",
+    "authors": "Daron Acemoglu, Asuman Ozdaglar, Alireza Tahbaz-Salehi",
+    "date": "June 2013",
+    "year": 2013,
+    "month": 6,
+    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/The%20Network%20Origins%20of%20Large%20Economic%20Downturns.pdf",
+    "faculty": "Daron Acemoglu",
+    "faculty_slug": "daron-acemoglu"
+  },
+  {
     "title": "Optimal Social Insurance with Heterogeneity",
     "authors": "Isaiah Andrews, Conrad Miller",
     "date": "June 2013",
@@ -2398,26 +1438,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/the%20changing%20task%20comp%202013.pdf",
     "faculty": "David H. Autor",
     "faculty_slug": "david-h-autor"
-  },
-  {
-    "title": "Economics versus Politics: Pitfalls of Policy Advice",
-    "authors": "Daron Acemoglu, James A. Robinson",
-    "date": "May 2013",
-    "year": 2013,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Economics%20versus%20Politics%20-%20Pitfalls%20of%20Policy%20Adv.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "A Political Theory of Populism",
-    "authors": "Daron Acemoglu, Georgy Egorov, Konstantin Sonin",
-    "date": "May 2013",
-    "year": 2013,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/A%20Political%20Theory%20of%20Populism.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "A Model of the Safe Asset Mechanism (SAM): Safety Traps and Economic Policy",
@@ -2450,16 +1470,6 @@
     "faculty_slug": "ricardo-caballero"
   },
   {
-    "title": "Opinion Fluctuations and Disagreement in Social Networks",
-    "authors": "Daron Acemoglu, Giacomo Como, Fabio Fagnani, Asuman Ozdaglar",
-    "date": "February 2013",
-    "year": 2013,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Opinion%20Fluctuations%20and%20Disagreement%20in%20Social%20Ne.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "An Introduction to Robust Mechanism Design",
     "authors": "Dirk Bergemann and Stephen Morris",
     "date": "February 2013",
@@ -2470,16 +1480,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "The Monopoly of Violence: Evidence from Colombia",
-    "authors": "Daron Acemoglu, James A. Robinson, Rafael J. Santos-Villagran",
-    "date": "January 2013",
-    "year": 2013,
-    "month": 1,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Simulating Alternative School Choice Options in Boston",
     "authors": "Parag A. Pathak and Peng Shi",
     "date": "January 2013",
@@ -2488,26 +1488,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/main_final.pdf",
     "faculty": "Parag Pathak",
     "faculty_slug": "parag-pathak"
-  },
-  {
-    "title": "The Consequences of Radical Reform - The French Revolution",
-    "authors": "Daron Acemoglu, Davide Cantoni, Simon Johnson, James A. Robinson",
-    "date": "December 2012",
-    "year": 2012,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/The%20Consequences%20of%20Radical%20Reform%20-%20The%20French%20Re.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Diversity and Technological Progress",
-    "authors": "Daron Acemoglu",
-    "date": "December 2012",
-    "year": 2012,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Diversity%20and%20Technological%20Progress.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "A Mean Likelihood Ratio Specification Test",
@@ -2540,26 +1520,6 @@
     "faculty_slug": "ricardo-caballero"
   },
   {
-    "title": "Finding Eldorado: Slavery and Long-run Development in Colombia",
-    "authors": "Daron Acemoglu, Camilo Garcia-Jimeno , James A. Robinson",
-    "date": "November 2012",
-    "year": 2012,
-    "month": 11,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "The Colonial Origins of Comparative Development: An Empirical Investigation: Reply",
-    "authors": "Daron Acemoglu, Simon Johnson, James A. Robinson",
-    "date": "October 2012",
-    "year": 2012,
-    "month": 10,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Hither%20Thou%20Shalt%20Come%20Appendix.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Macroeconomics after the Crisis: Time to Deal with the Pretense-of-Knowledge Syndrome",
     "authors": "Ricardo Caballero",
     "date": "October 2012",
@@ -2568,26 +1528,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/macro%20after%20the%20crisis%20-%20time%20to%20deal.pdf",
     "faculty": "Ricardo Caballero",
     "faculty_slug": "ricardo-caballero"
-  },
-  {
-    "title": "The Network Origins of Aggregate Fluctuations",
-    "authors": "Daron Acemoglu, Vasco M. Carvalho, Asuman Ozdaglar, Alireza Tahbaz-Salehi",
-    "date": "September 2012",
-    "year": 2012,
-    "month": 9,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Social Structure and Development - A Legacy of the Holocaust in Russia",
-    "authors": "Daron Acemoglu, Tarek A. Hassan, James A. Robinson",
-    "date": "August 2012",
-    "year": 2012,
-    "month": 8,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "A Martingale Representation for Matching Estimators",
@@ -2600,26 +1540,6 @@
     "faculty_slug": "alberto-abadie"
   },
   {
-    "title": "What Does Human Capital Do? A Review of Goldin and Katz's The Race between Education and Technology",
-    "authors": "Daron Acemoglu, David Autor",
-    "date": "June 2012",
-    "year": 2012,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/What%20Does%20Human%20Capital%20Do.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Dynamics and Stability of Constitutions, Coalitions, and Clubs",
-    "authors": "Daron Acemoglu, Georgy Egorov, Konstantin Sonin",
-    "date": "June 2012",
-    "year": 2012,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Dynamics%20and%20Stability%20of%20Constitutions%2C%20Coalition.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Efficient Auctions and Interdependent Types",
     "authors": "Dirk Bergemann, Stephen Morris and Satoru Takahashi",
     "date": "May 2012",
@@ -2628,16 +1548,6 @@
     "pdf_url": "",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "Competing Engines of Growth: Innovation and Standardization",
-    "authors": "Daron Acemoglu, Gino Gancia, Fabrizio Zilibotti",
-    "date": "March 2012",
-    "year": 2012,
-    "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Competing%20Engines%20of%20Growth%20-%20Innovation%20and%20Stand.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Robust Mechanism Design: The Role of Private Information and Higher Order Beliefs",
@@ -2650,36 +1560,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "The Environment and Directed Technical Change",
-    "authors": "Daron Acemoglu, Philippe Aghion, Leonardo Bursztyn, David Hemous",
-    "date": "February 2012",
-    "year": 2012,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/The%20Environment%20and%20Directed%20Technical%20Change.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "A Dynamic Theory of Resource Wars",
-    "authors": "Daron Acemoglu, Michael Golosov, Aleh Tsyvinski, Pierre Yared",
-    "date": "February 2012",
-    "year": 2012,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/A%20Dynamic%20Theory%20of%20Resource%20Wars.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Intellectual Property Rights Policy, Competition and Innovation",
-    "authors": "Daron Acemoglu, Ufuk Akcigit",
-    "date": "February 2012",
-    "year": 2012,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Online%20Appendix%20for%20Intellectual%20Property%20Rights%20P.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Contagious Adverse Selection",
     "authors": "Stephen Morris and Hyun Song Shin",
     "date": "January 2012",
@@ -2688,16 +1568,6 @@
     "pdf_url": "",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "A Political Model of Social Evolution",
-    "authors": "Daron Acemoglu, Georgy Egorov, Konstantin Sonin",
-    "date": "December 2011",
-    "year": 2011,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/A%20Political%20Model%20of%20Social%20Evolution.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Robust Rationalizability under Almost Common Certainty of Payoffs",
@@ -2720,36 +1590,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Political Economy of Ramsey Taxation",
-    "authors": "Daron Acemoglu, Michael Golosov, Aleh Tsyvinski",
-    "date": "August 2011",
-    "year": 2011,
-    "month": 8,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Political%20Economy%20of%20Ramsey%20Taxation.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Skills, Tasks and Technologies: Implications for Employment and Earnings",
-    "authors": "Daron Acemoglu, David Autor",
-    "date": "June 2011",
-    "year": 2011,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Skills%2C%20Tasks%20and%20Technologies%20-%20Implications%20for%20.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Power Fluctuations and Political Economy",
-    "authors": "Daron Acemoglu, Michael Golosov, Aleh Tsyvinski",
-    "date": "May 2011",
-    "year": 2011,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Power%20Fluctuations%20and%20Political%20Economy.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Long-Term Economic Consequences of Vietnam-Era Conscription: Schooling, Experience and Earnings",
     "authors": "Joshua D. Angrist, Stacey H. Chen",
     "date": "May 2011",
@@ -2770,46 +1610,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Persistence of Civil Wars",
-    "authors": "Daron Acemoglu, Davide Ticchi,rea Vindigni",
-    "date": "April 2011",
-    "year": 2011,
-    "month": 4,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Persistence%20of%20Civil%20Wars.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Emergence and Persistence of Inefficient States",
-    "authors": "Daron Acemoglu, Davide Ticchi,rea Vindigni",
-    "date": "April 2011",
-    "year": 2011,
-    "month": 4,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/emergence%20and%20persistence%20of%20inefficient%20states.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Bayesian Learning in Social Networks",
-    "authors": "Daron Acemoglu, Munzer A. Dahleh, Ilan Lobel, Asuman Ozdaglar",
-    "date": "March 2011",
-    "year": 2011,
-    "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Bayesian%20Learning%20in%20Social%20Networks.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "The Economics of Labor Coercion",
-    "authors": "Daron Acemoglu, Alexander Wolitzky",
-    "date": "March 2011",
-    "year": 2011,
-    "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/coercion%20corrigendum.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Robust Implementation in General Mechanisms",
     "authors": "Dirk Bergemann and Stephen Morris",
     "date": "March 2011",
@@ -2828,16 +1628,6 @@
     "pdf_url": "",
     "faculty": "Robert M. Townsend",
     "faculty_slug": "robert-m-townsend"
-  },
-  {
-    "title": "Experimentation, Patents and Innovation",
-    "authors": "Daron Acemoglu, Kostas Bimpikis, Asuman Ozdaglar",
-    "date": "February 2011",
-    "year": 2011,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Experimentation%2C%20Patents%20and%20Innovation.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Student Achievement in Massachusetts Charter Schools",
@@ -2880,36 +1670,6 @@
     "faculty_slug": "alberto-abadie"
   },
   {
-    "title": "When Does Labor Scarcity Encourage Innovation?",
-    "authors": "Daron Acemoglu",
-    "date": "December 2010",
-    "year": 2010,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/when%20does%20labor%20scarcity%20encourage%20innovation.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Spread of (Mis)Information in Social Networks",
-    "authors": "Daron Acemoglu, Asuman Ozdaglar, Ali ParandehGheibi",
-    "date": "November 2010",
-    "year": 2010,
-    "month": 11,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Spread%20of%20%28Mis%29Information%20in%20Social%20Networks.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Political Selection and Persistence of Bad Governments",
-    "authors": "Daron Acemoglu, Georgy Egorov, Konstantin Sonin",
-    "date": "November 2010",
-    "year": 2010,
-    "month": 11,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Political%20Selection%20and%20Persistence%20of%20Bad%20Governm.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "A Caricature (Model) of the World Economy",
     "authors": "Ricardo Caballero",
     "date": "November 2010",
@@ -2940,22 +1700,12 @@
     "faculty_slug": "ricardo-caballero"
   },
   {
-    "title": "Opinion Dynamics and Learning in Social Networks",
-    "authors": "Daron Acemoglu, Asuman Ozdaglar",
+    "title": "Cascades in Networks and Aggregate Volatility",
+    "authors": "Daron Acemoglu, Asuman Ozdaglarz, Alireza Tahbaz–Salehi",
     "date": "October 2010",
     "year": 2010,
     "month": 10,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Opinion%20Dynamics%20and%20Learning%20in%20Social%20Networks.p.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Vertical Integration and Technology: Theory and Evidence",
-    "authors": "Daron Acemoglu, Philippe Aghion, Rachel Griffith, Fabrizio Zilibotti",
-    "date": "September 2010",
-    "year": 2010,
-    "month": 9,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Vertical%20Integration%20and%20Technology-Theory%20and%20Evi.pdf",
+    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Cascades%20in%20Networks%20and%20Aggregate%20Volatility.pdf",
     "faculty": "Daron Acemoglu",
     "faculty_slug": "daron-acemoglu"
   },
@@ -2970,16 +1720,6 @@
     "faculty_slug": "arnaud-costinot"
   },
   {
-    "title": "Theory, General Equilibrium, Political Economy and Empirics in Development Economics",
-    "authors": "Daron Acemoglu",
-    "date": "August 2010",
-    "year": 2010,
-    "month": 8,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Theory%2C%20General%20Equilibrium%2C%20Political%20Economy%20and.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Sudden Financial Arrest",
     "authors": "Ricardo Caballero",
     "date": "August 2010",
@@ -2988,16 +1728,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Sudden%20Financial%20Arrest.pdf",
     "faculty": "Ricardo Caballero",
     "faculty_slug": "ricardo-caballero"
-  },
-  {
-    "title": "Dynamic Mirrlees Taxation Under Political Economy Constraints",
-    "authors": "Daron Acemoglu, Michael Golosov, Aleh Tsyvinski",
-    "date": "July 2010",
-    "year": 2010,
-    "month": 7,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/dynamic%20Mirrless%20Taxation%20Under%20Political%20Economy%20.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California's Tobacco Control Program",
@@ -3010,32 +1740,12 @@
     "faculty_slug": "alberto-abadie"
   },
   {
-    "title": "Why is Africa Poor?",
-    "authors": "Daron Acemoglu, James A. Robinson",
-    "date": "June 2010",
+    "title": "Moral Hazard and Efficiency in General Equilibrium with Anonymous Trading",
+    "authors": "Daron Acemoglu, Alp Simsek",
+    "date": "April 2010",
     "year": 2010,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Why%20is%20Africa%20Poor.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Institutions, Factor Prices and Taxation: Virtues of Strong States?",
-    "authors": "Daron Acemoglu",
-    "date": "May 2010",
-    "year": 2010,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Institutions%2C%20Factor%20Prices%20and%20Taxation%20-%20Virtues.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Political Limits to Globalization",
-    "authors": "Daron Acemoglu, Pierre Yared",
-    "date": "May 2010",
-    "year": 2010,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Political%20Limits%20to%20Globalization.pdf",
+    "month": 4,
+    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Moral%20Hazard%20and%20Efficiency%20in%20General%20Equilibrium.pdf",
     "faculty": "Daron Acemoglu",
     "faculty_slug": "daron-acemoglu"
   },
@@ -3048,26 +1758,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/ac_jeea_pp_published.pdf",
     "faculty": "Ricardo Caballero",
     "faculty_slug": "ricardo-caballero"
-  },
-  {
-    "title": "A Theory of Military Dictatorships",
-    "authors": "Daron Acemoglu, Davide Ticchi,rea Vindigni",
-    "date": "January 2010",
-    "year": 2010,
-    "month": 1,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/a%20theory%20of%20military%20dictatorships.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Productivity Differences Between and Within Countries",
-    "authors": "Daron Acemoglu, Melissa Dell",
-    "date": "January 2010",
-    "year": 2010,
-    "month": 1,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/readme.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "The 'Other' Imbalance and the Financial Crisis",
@@ -3090,22 +1780,12 @@
     "faculty_slug": "robert-m-townsend"
   },
   {
-    "title": "Reevaluating the Modernization Hypothesis",
-    "authors": "Daron Acemoglu, Simon Johnson, James A. Robinson, Pierre Yared",
-    "date": "November 2009",
-    "year": 2009,
-    "month": 11,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/reevaluating%20the%20modernization%20hypothesis.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Foundations of Societal Inequality",
-    "authors": "Daron Acemoglu, James A. Robinson",
+    "title": "Equilibrium Refinement in Dynamic Voting Games",
+    "authors": "Daron Acemoglu, Georgy Egorov, Konstantin Sonin",
     "date": "October 2009",
     "year": 2009,
     "month": 10,
-    "pdf_url": "http://www.sciencemag.org/cgi/reprint/326/5953/678.pdf",
+    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Equilibrium%20Refinement%20in%20Dynamic%20Voting%20Games.pdf",
     "faculty": "Daron Acemoglu",
     "faculty_slug": "daron-acemoglu"
   },
@@ -3180,26 +1860,6 @@
     "faculty_slug": "ricardo-caballero"
   },
   {
-    "title": "Price and Capacity Competition",
-    "authors": "Daron Acemoglu, Kostas Bimpikis, Asuman Ozdaglar",
-    "date": "May 2009",
-    "year": 2009,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/price%20and%20capacity%20competition.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Do Juntas Lead to Personal Rule?",
-    "authors": "Daron Acemoglu, Georgy Egorov, Konstantin Sonin",
-    "date": "May 2009",
-    "year": 2009,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Do%20Juntas%20Lead%20to%20Personal%20Rule.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Global Imbalances and Financial Fragility",
     "authors": "Ricardo Caballero, Arvind Krishnamurthy",
     "date": "May 2009",
@@ -3268,26 +1928,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/ON%20THE%20FAILURE%20OF%20THE%20BOOTSTRAP%20FOR.pdf",
     "faculty": "Alberto Abadie",
     "faculty_slug": "alberto-abadie"
-  },
-  {
-    "title": "Input and Technology Choices in Regulated Industries - Evidence from the Health Care Sector",
-    "authors": "Daron Acemoglu, Amy Finkelstein",
-    "date": "October 2008",
-    "year": 2008,
-    "month": 10,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Input%20and%20Technology%20Choices%20in%20Regulated%20Industri.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Incentives in Markets, Firms and Government",
-    "authors": "Daron Acemoglu, Michael Kremer, Atif Mian",
-    "date": "October 2008",
-    "year": 2008,
-    "month": 10,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/incentives%20in%20markets%2C%20firms%20and%20government.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Financial Crash, Commodity Prices, and Global Imbalances",
@@ -3360,76 +2000,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Determinants of Vertical Integration: Financial Development and Contracting Costs",
-    "authors": "Daron Acemoglu, Simon Johnson, Todd Mitton",
-    "date": "June 2008",
-    "year": 2008,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/determinants%20of%20vertical%20integration.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Income and Democracy",
-    "authors": "Daron Acemoglu, Simon Johnson, James A. Robinson, Pierre Yared",
-    "date": "June 2008",
-    "year": 2008,
-    "month": 6,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Economic and Political Inequality in Development: The Case of Cundinamarca, Colombia",
-    "authors": "Daron Acemoglu, Maria Angelica Bautista, Pablo Querubin, James A. Robinson",
-    "date": "June 2008",
-    "year": 2008,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Economic%20and%20Political%20Inequality%20in%20Development.p.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Capital Deepening and Nonbalanced Economic Growth",
-    "authors": "Daron Acemoglu, Veronica Guerrieri",
-    "date": "June 2008",
-    "year": 2008,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/capital%20deepening%20and%20non-balanced%20economic%20growth.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "When Does Policy Reform Work - The Case of Central Bank Independence",
-    "authors": "Daron Acemoglu, Simon Johnson, Pablo Querubin, James A. Robinson",
-    "date": "May 2008",
-    "year": 2008,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/When%20Does%20Policy%20Reform%20Work%20-%20The%20Case%20of%20Central.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Local Indices for Degenerate Variational Inequalities",
-    "authors": "Daron Acemoglu, Asuman Ozdaglar, Alp Simsek",
-    "date": "May 2008",
-    "year": 2008,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/local%20Indices%20for%20Degenerate%20Variational%20Inequalit.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Political Economy of Mechanisms",
-    "authors": "Daron Acemoglu, Michael Golosov, Aleh Tsyvinski",
-    "date": "May 2008",
-    "year": 2008,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/political%20economy%20of%20mechanisms.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "The Role of the Common Prior in Robust Implementation",
     "authors": "Dirk Bergemann and Stephen Morris",
     "date": "April 2008",
@@ -3440,26 +2010,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Persistence of Power, Elites and Institutions",
-    "authors": "Daron Acemoglu, James A. Robinson",
-    "date": "March 2008",
-    "year": 2008,
-    "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/persistence%20of%20power%2C%20elits%20and%20institutions.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Oligarchic vs. Democratic Societies",
-    "authors": "Daron Acemoglu",
-    "date": "March 2008",
-    "year": 2008,
-    "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/oligarchic%20vs%20democratic%20societies.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "An Equilibrium Model of \"Global Imbalances\" and Low Interest Rates",
     "authors": "Ricardo Caballero, Emmanuel Farhi, Pierre-Olivier Gourinchas",
     "date": "March 2008",
@@ -3468,16 +2018,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/aer.98.1.pdf",
     "faculty": "Ricardo Caballero",
     "faculty_slug": "ricardo-caballero"
-  },
-  {
-    "title": "Coalition Formation in Non-Democracies",
-    "authors": "Daron Acemoglu, Georgy Egorov, Konstantin Sonin",
-    "date": "February 2008",
-    "year": 2008,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/coalition%20formation%20in%20nondemocracies.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Hedging Sudden Stops and Precautionary Contractions",
@@ -3508,16 +2048,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Terrorism%20and%20the%20world%20economy.pdf",
     "faculty": "Alberto Abadie",
     "faculty_slug": "alberto-abadie"
-  },
-  {
-    "title": "Markets Versus Governments",
-    "authors": "Daron Acemoglu, Michael Golosov, Aleh Tsyvinski",
-    "date": "January 2008",
-    "year": 2008,
-    "month": 1,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/markets%20versus%20governments.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Creative Destruction",
@@ -3560,16 +2090,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Disease and Development: The Effect of Life Expectancy on Economic Growth",
-    "authors": "Daron Acemoglu, Simon Johnson",
-    "date": "December 2007",
-    "year": 2007,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Disease%20and%20Development%20-%20the%20effect%20of%20life%20expec.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Price Stickiness in Ss Models: New Interpretations of Old Results",
     "authors": "Ricardo Caballero, Eduardo M.R.A. Engel",
     "date": "December 2007",
@@ -3600,16 +2120,6 @@
     "faculty_slug": "arnaud-costinot"
   },
   {
-    "title": "Technology, Information and the Decentralization of the Firm",
-    "authors": "Daron Acemoglu, Philippe Aghion, Claire Lelarge, John Van Reenan, Fabrizio Zilibotti",
-    "date": "November 2007",
-    "year": 2007,
-    "month": 11,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/appendix%20to%20technology%2C%20information%20and%20the%20decent.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Risk and Wealth in a Model of Self-Fulfilling Currency Attacks",
     "authors": "Bernardo Guimaraes and Stephen Morris",
     "date": "November 2007",
@@ -3618,26 +2128,6 @@
     "pdf_url": "",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "On the Stability of P-Matrices",
-    "authors": "Daron Acemoglu, Asuman Ozdaglar, Alp Simsek, A. Kevin Tang",
-    "date": "October 2007",
-    "year": 2007,
-    "month": 10,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/on%20the%20stability%20of%20p-matrices.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Equilibrium Bias of Technology",
-    "authors": "Daron Acemoglu",
-    "date": "September 2007",
-    "year": 2007,
-    "month": 9,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Equilibrium%20Bias%20of%20Technology.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "A Global Equilibrium Model of Sudden Stops and External Liquidity Management",
@@ -3650,36 +2140,6 @@
     "faculty_slug": "ricardo-caballero"
   },
   {
-    "title": "Competition in Parallel-Serial Networks",
-    "authors": "Daron Acemoglu, Asuman Ozdaglar",
-    "date": "August 2007",
-    "year": 2007,
-    "month": 8,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Competition%20in%20Parallel-Serial%20Networks.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Partially Optimal Routing",
-    "authors": "Daron Acemoglu, Ramesh Johari, Asuman Ozdaglar",
-    "date": "August 2007",
-    "year": 2007,
-    "month": 8,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Partially%20Optimal%20Routing.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Competition in Parallel-Serial Networks",
-    "authors": "Daron Acemoglu, Asuman Ozdaglar",
-    "date": "August 2007",
-    "year": 2007,
-    "month": 8,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Competition%20in%20Parallel-Serial%20Networks.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Speculative Attacks and Risk Management",
     "authors": "Parag A. Pathak and Jean Tirole",
     "date": "August 2007",
@@ -3690,12 +2150,12 @@
     "faculty_slug": "parag-pathak"
   },
   {
-    "title": "Contracts and Technology Adoption",
-    "authors": "Daron Acemoglu, Pol Antràs, Elhanan Helpman",
-    "date": "June 2007",
+    "title": "Learning and Disagreement in an Uncertain World",
+    "authors": "Daron Acemoglu, Victor Chernozhukov and Muhamet Yildiz",
+    "date": "July 2007",
     "year": 2007,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/contracts%20and%20technology%20adoption.pdf",
+    "month": 7,
+    "pdf_url": "https://economics.mit.edu/sites/default/files/2022-09/learning%20and%20disagreement%20in%20an%20uncertain%20world.pdf",
     "faculty": "Daron Acemoglu",
     "faculty_slug": "daron-acemoglu"
   },
@@ -3730,26 +2190,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Competition and Efficiency in Congested Markets",
-    "authors": "Daron Acemoglu, Asuman E. Ozdaglar",
-    "date": "February 2007",
-    "year": 2007,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Competition%20and%20Efficiency%20in%20Congested%20Markets.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Generalized Poincare-Hopf Theorem for Compact Nonsmooth Regions",
-    "authors": "Daron Acemoglu, Asuman E. Ozdaglar, Alp Simsek",
-    "date": "February 2007",
-    "year": 2007,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Generalized%20Poincare-Hopf%20Theorem%20for%20Compact%20Nons.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Interim Correlated Rationalizability",
     "authors": "Eddie Dekel, Drew Fudenberg and Stephen Morris",
     "date": "January 2007",
@@ -3758,16 +2198,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/morris-interimcorrelatedrationalizabilitycorrectio.pdf",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "A Simple Model of Inefficient Institutions",
-    "authors": "Daron Acemoglu",
-    "date": "December 2006",
-    "year": 2006,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/A%20Simple%20Model%20of%20Inefficient%20Institutions.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Lead Them to Water and Pay Them to Drink: An Experiment with Services and Incentives for College Achievement",
@@ -3818,6 +2248,16 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/On%20the%20Macroeconomics%20of%20Asset%20Shortages.pdf",
     "faculty": "Ricardo Caballero",
     "faculty_slug": "ricardo-caballero"
+  },
+  {
+    "title": "Reply to the Revised (May 2006) version of David Albouy's \"The Colonial Origins of Comparitive Development: An Investigation of the Settler Morality Data\"",
+    "authors": "Daron Acemoglu, Simon Johnson, James A. Robinson",
+    "date": "September 2006",
+    "year": 2006,
+    "month": 9,
+    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Reply%20to%20the%20Revised%20%28May%202006%29%20version%20of%20David%20A.pdf",
+    "faculty": "Daron Acemoglu",
+    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Speculative Growth: Hints from the U.S. Economy",
@@ -3890,36 +2330,6 @@
     "faculty_slug": "alberto-abadie"
   },
   {
-    "title": "De Facto Political Power and Institutional Persistence",
-    "authors": "Daron Acemoglu, James A. Robinson",
-    "date": "May 2006",
-    "year": 2006,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/de%20facto%20political%20power%20and%20institutional%20persist.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Modeling Inefficient Institutions",
-    "authors": "Daron Acemoglu",
-    "date": "May 2006",
-    "year": 2006,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Modeling%20Inefficient%20Institutions.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Efficiency and Braess' Paradox under Pricing in General Networks",
-    "authors": "Daron Acemoglu, Asuman E. Ozdaglar, Xin Huang",
-    "date": "May 2006",
-    "year": 2006,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Efficiency%20and%20Braess%20Paradox%20under%20Pricing%20in%20Gen.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Inertia of Forward Looking Expectations",
     "authors": "Stephen Morris and Hyun Song Shin",
     "date": "May 2006",
@@ -3940,26 +2350,6 @@
     "faculty_slug": "parag-pathak"
   },
   {
-    "title": "Price Competition in Communication Networks",
-    "authors": "Daron Acemoglu, Asuman E. Ozdaglar",
-    "date": "April 2006",
-    "year": 2006,
-    "month": 4,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Price%20Competition%20in%20Communication%20Networks.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Distance to Frontier, Selection, and Economic Growth",
-    "authors": "Daron Acemoglu, Philippe Aghion, Fabrizio Zilibotti",
-    "date": "March 2006",
-    "year": 2006,
-    "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/distance-to-frontier-selection-econ-growth.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Social Value of Information: Morris and Shin (2002) is Actually Pro Transparency, Not Con: Reply",
     "authors": "Stephen Morris, Hyun Song Shin and Hui Tong",
     "date": "March 2006",
@@ -3968,16 +2358,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/morris-socialvalueofpublicinformationreply.pdf",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "Economic Backwardness in Political Perspective",
-    "authors": "Daron Acemoglu, James A. Robinson",
-    "date": "February 2006",
-    "year": 2006,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/economic%20backwardness%20in%20political%20perspective.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Bubbles and Capital Flow Volatility: Causes and Risk Management",
@@ -4020,36 +2400,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Politics and Economics in Weak and Strong States",
-    "authors": "Daron Acemoglu",
-    "date": "December 2005",
-    "year": 2005,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/politics%20and%20economics%20in%20weak%20and%20strong%20states.p.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Institutions as the Fundamental Cause of Long-Run Growth",
-    "authors": "Daron Acemoglu, Simon Johnson, James A. Robinson",
-    "date": "December 2005",
-    "year": 2005,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/institutions-as-the-fundamental-cause-of-long-run-.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Constitutions, Politics and Economics: A Review Essay on Persson and Tabellini's \"The Economic Effects of Constitutions\"",
-    "authors": "Daron Acemoglu",
-    "date": "December 2005",
-    "year": 2005,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/constitutions-politics-and-economics.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "New Evidence on the Causal Link Between the Quantity and Quality of Children",
     "authors": "Joshua D. Angrist, Victor Lavy, Analia Schlosser",
     "date": "December 2005",
@@ -4090,16 +2440,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Unbundling Institutions",
-    "authors": "Daron Acemoglu, Simon Johnson",
-    "date": "October 2005",
-    "year": 2005,
-    "month": 10,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/unbundling-institutions.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Generalized Potentials and Robust Sets of Equilibria",
     "authors": "Stephen Morris and Takashi Ui",
     "date": "September 2005",
@@ -4120,6 +2460,16 @@
     "faculty_slug": "david-h-autor"
   },
   {
+    "title": "On the Uniqueness of Solutions for Nonlinear and Mixed Complementarity Problems",
+    "authors": "Daron Acemoglu, Alp Simsek, Asuman E. Ozdaglar",
+    "date": "July 2005",
+    "year": 2005,
+    "month": 7,
+    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/On%20the%20Uniqueness%20of%20Solutions%20for%20Nonlinear%20and%20M.pdf",
+    "faculty": "Daron Acemoglu",
+    "faculty_slug": "daron-acemoglu"
+  },
+  {
     "title": "Productivity and the Post-1990 U.S. Economics: A Comment on E. McGrattan & Ed Prescott",
     "authors": "Ricardo Caballero",
     "date": "July 2005",
@@ -4130,26 +2480,6 @@
     "faculty_slug": "ricardo-caballero"
   },
   {
-    "title": "The Rise of Europe: Atlantic Trade, Institutional Change and Economic Growth",
-    "authors": "Daron Acemoglu, Simon Johnson, James A. Robinson",
-    "date": "June 2005",
-    "year": 2005,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/rise-of-europe.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "From Education to Democracy?",
-    "authors": "Daron Acemoglu, Simon Johnson, James A. Robinson, Pierre Yared",
-    "date": "May 2005",
-    "year": 2005,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/from-education-to-democracy.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "The Cost of Recessions Revisted: A Reverse-Liquidationist View",
     "authors": "Ricardo Caballero, M. Hammour",
     "date": "April 2005",
@@ -4158,6 +2488,16 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/RES%20April%2005%20Caballero%20Hammour.pdf",
     "faculty": "Ricardo Caballero",
     "faculty_slug": "ricardo-caballero"
+  },
+  {
+    "title": "A Response to Albouy's \"A Reexamination Based on Improved Settler Mortality Data\"",
+    "authors": "Daron Acemoglu, Simon Johnson, James A. Robinson",
+    "date": "March 2005",
+    "year": 2005,
+    "month": 3,
+    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/A%20Response%20to%20Albouys%20A%20Reexamination%20Based%20on%20Imp.pdf",
+    "faculty": "Daron Acemoglu",
+    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Semiparametric Difference-in-Differences Estimators",
@@ -4220,16 +2560,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "The Marginal User Principle for Resource Allocation in Wireless Networks",
-    "authors": "Daron Acemoglu, Asuman E. Ozdaglar, R. Srikant",
-    "date": "December 2004",
-    "year": 2004,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/The%20Marginal%20User%20Principle%20for%20Resource%20Allocatio.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Semiparametric Causality Tests Using the Policy Propensity Score",
     "authors": "Joshua D. Angrist, Guido M. Kuersteiner",
     "date": "December 2004",
@@ -4280,16 +2610,6 @@
     "faculty_slug": "ricardo-caballero"
   },
   {
-    "title": "Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry",
-    "authors": "Daron Acemoglu, Joshua Linn",
-    "date": "August 2004",
-    "year": 2004,
-    "month": 8,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Flexibilidad Microeconomica en America Latina",
     "authors": "Ricardo Caballero",
     "date": "August 2004",
@@ -4298,26 +2618,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Flexibilidad%20Microeconomica%20en%20America%20Latina.pdf",
     "faculty": "Ricardo Caballero",
     "faculty_slug": "ricardo-caballero"
-  },
-  {
-    "title": "Women, War and Wages: the Effect of Female Labor Supply on Labor Market Outcomes",
-    "authors": "Daron Acemoglu, David Autor with David Lyle",
-    "date": "June 2004",
-    "year": 2004,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/women-war-and-wages.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Kleptocracy and Divide-and-Rule: A Model of Personal Rule (The Alfred Marshall Lecture)",
-    "authors": "Daron Acemoglu, James A. Robinson, Thierry Verdier",
-    "date": "April 2004",
-    "year": 2004,
-    "month": 4,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Kleptocracy%20and%20Divide%20and%20Rule%2C%20A%20Model%20of%20Person.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Three Strikes and You're Out: Reply to Cooper and Willis",
@@ -4360,6 +2660,16 @@
     "faculty_slug": "stephen-morris"
   },
   {
+    "title": "Flow Control, Routing, and Performance from Service Provider Viewpoint",
+    "authors": "Daron Acemoglu, Asuman Ozdaglar",
+    "date": "December 2003",
+    "year": 2003,
+    "month": 12,
+    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Flow%20Control%2C%20Routing%2C%20and%20Performance%20from%20Servic.pdf",
+    "faculty": "Daron Acemoglu",
+    "faculty_slug": "daron-acemoglu"
+  },
+  {
     "title": "Comment on: “Crisis Resolution: Next Steps”",
     "authors": "Ricardo Caballero",
     "date": "December 2003",
@@ -4390,36 +2700,6 @@
     "faculty_slug": "alberto-abadie"
   },
   {
-    "title": "Why Not a Political Coase Theorem? Social Conflict, Commitment and Politics",
-    "authors": "Daron Acemoglu, Simon Johnson, James A. Robinson",
-    "date": "April 2003",
-    "year": 2003,
-    "month": 4,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/why-not-political-coase-theorem.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Disease and Development in Historical Perspective",
-    "authors": "Daron Acemoglu, Simon Johnson, James Robinson",
-    "date": "April 2003",
-    "year": 2003,
-    "month": 4,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2022-09/disease-development-historical-perspective.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Patterns of Skill Premia",
-    "authors": "Daron Acemoglu",
-    "date": "April 2003",
-    "year": 2003,
-    "month": 4,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/patterns-of-skill-premia.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Excessive Dollar Debt: Financial Development and Underinsurance",
     "authors": "Ricardo Caballero, Arvind Krishnamurthy",
     "date": "April 2003",
@@ -4440,16 +2720,6 @@
     "faculty_slug": "alberto-abadie"
   },
   {
-    "title": "Labor- and Capital-Augmenting Technical Change",
-    "authors": "Daron Acemoglu",
-    "date": "March 2003",
-    "year": 2003,
-    "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/labor-and-capital-augmenting.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "On the International Financial Architecture: Insuring Emerging Markets",
     "authors": "Ricardo Caballero",
     "date": "March 2003",
@@ -4458,46 +2728,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/On%20the%20International%20Financial%20Architecture%20-%20Insu.pdf",
     "faculty": "Ricardo Caballero",
     "faculty_slug": "ricardo-caballero"
-  },
-  {
-    "title": "Cross-Country Inequality Trends",
-    "authors": "Daron Acemoglu",
-    "date": "February 2003",
-    "year": 2003,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/cross%20country%20inequality%20trends.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "An African Success Story: Botswana",
-    "authors": "Daron Acemoglu, Simon Johnson, James A. Robinson",
-    "date": "February 2003",
-    "year": 2003,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/An%20African%20Success%20Story%20Botswana.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Factor Prices and Technical Change: from Induced Innovations to Recent Debates",
-    "authors": "Daron Acemoglu",
-    "date": "February 2003",
-    "year": 2003,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Factor%20Prices%20and%20Technical%20Change%20from%20Induced%20In.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Institutional Causes, Macroeconomic Symptoms: Volatility, Crises and Growth",
-    "authors": "Daron Acemoglu, Simon Johnson, James A. Robinson, Yunyong Thaicharoen",
-    "date": "January 2003",
-    "year": 2003,
-    "month": 1,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2022-09/institutional-causes-macroeeconomic-symptoms.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Equilibrium Selection in Global Games with Strategic Complementarities",
@@ -4518,16 +2748,6 @@
     "pdf_url": "",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "The Labor Market and Corporate Structure",
-    "authors": "Daron Acemoglu, Andrew Newman",
-    "date": "December 2002",
-    "year": 2002,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/labor-market-and-corporate-structure.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "The Effect of High School Matriculation Awards: Evidence from Randomized Trials",
@@ -4580,26 +2800,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
-    "authors": "Daron Acemoglu, Simon Johnson, James A. Robinson",
-    "date": "November 2002",
-    "year": 2002,
-    "month": 11,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/reversal-of-fortune.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Directed Technical Change",
-    "authors": "Daron Acemoglu",
-    "date": "October 2002",
-    "year": 2002,
-    "month": 10,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/directed-technical-change.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Coordination, Spillovers and Cheap Talk",
     "authors": "Sandeep Baliga and Stephen Morris",
     "date": "August 2002",
@@ -4618,16 +2818,6 @@
     "pdf_url": "",
     "faculty": "Ricardo Caballero",
     "faculty_slug": "ricardo-caballero"
-  },
-  {
-    "title": "The World Income Distribution",
-    "authors": "Daron Acemoglu, Jaume Ventura",
-    "date": "May 2002",
-    "year": 2002,
-    "month": 5,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "A Dual Liquidity Model of Emerging Markets",
@@ -4670,16 +2860,6 @@
     "faculty_slug": "alberto-abadie"
   },
   {
-    "title": "Technical Change, Inequality, and The Labor Market",
-    "authors": "Daron Acemoglu",
-    "date": "March 2002",
-    "year": 2002,
-    "month": 3,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Instrumental Variables Estimates of the Effect of Subsidized Training on the Quantiles of Trainee Earnings",
     "authors": "Alberto Abadie, Joshua Angrist, Guido Imbens",
     "date": "January 2002",
@@ -4720,16 +2900,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Deunionization, Technical Change and Inequality",
-    "authors": "Daron Acemoglu, Philippe Aghion, Gianluca Violante",
-    "date": "December 2001",
-    "year": 2001,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Deunionization%2C%20Technical%20Change%20and%20Inequality.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "International and Domestic Collateral Constraints in a Model of Emerging Market Crises",
     "authors": "Ricardo Caballero, Arvind Krishnamurthy",
     "date": "December 2001",
@@ -4750,36 +2920,16 @@
     "faculty_slug": "ricardo-caballero"
   },
   {
-    "title": "Consequences of Employment Protection? The Case of the Americans with Disabilities Act",
-    "authors": "Daron Acemoglu, Joshua Angrist",
-    "date": "October 2001",
+    "title": "Evolution of Perceptions and Play",
+    "authors": "Daron Acemoglu, Muhamet Yildiz",
+    "date": "June 2001",
     "year": 2001,
-    "month": 10,
+    "month": 6,
     "pdf_url": "",
     "faculty": "Daron Acemoglu",
     "faculty_slug": "daron-acemoglu"
   },
   {
-    "title": "Inefficient Redistribution",
-    "authors": "Daron Acemoglu, James A. Robinson",
-    "date": "September 2001",
-    "year": 2001,
-    "month": 9,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Inefficient%20Redistribution.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "A Theory of Political Transitions",
-    "authors": "Daron Acemoglu, James A. Robinson",
-    "date": "September 2001",
-    "year": 2001,
-    "month": 9,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/theory-of-political-transitions.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Macroeconomic Volatility in Latin America: A View and Three Case Studies (Economia 1(1), Fall 2000, 31-108)",
     "authors": "Ricardo Caballero",
     "date": "June 2001",
@@ -4798,46 +2948,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Macroeconomic%20Volatility%20in%20Latin%20America%20-%20A%20Conc.pdf",
     "faculty": "Ricardo Caballero",
     "faculty_slug": "ricardo-caballero"
-  },
-  {
-    "title": "The Colonial Origins of Comparative Development: An Empirical Investigation",
-    "authors": "Daron Acemoglu, Simon Johnson, James A. Robinson",
-    "date": "May 2001",
-    "year": 2001,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/colonial-origins-of-comparative-development.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Credit Market Imperfections and Persistent Unemployment",
-    "authors": "Daron Acemoglu",
-    "date": "May 2001",
-    "year": 2001,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Credit%20Market%20Imperfections%20and%20Persistent%20Unemplo.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Productivity Differences",
-    "authors": "Daron Acemoglu, Fabrizio Zilibotti",
-    "date": "May 2001",
-    "year": 2001,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Productivity%20Differences.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Changes in the Wage Structure, Family Income, and Children's Education",
-    "authors": "Daron Acemoglu, Jorn-Steffen Pischke",
-    "date": "April 2001",
-    "year": 2001,
-    "month": 4,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Changes%20in%20the%20Wage%20Structure%2C%20Family%20Income%2C%20and.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Political Correctness",
@@ -4860,26 +2970,6 @@
     "faculty_slug": "ricardo-caballero"
   },
   {
-    "title": "Good Jobs Versus Bad Jobs",
-    "authors": "Daron Acemoglu",
-    "date": "January 2001",
-    "year": 2001,
-    "month": 1,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Good%20Jobs%20Versus%20Bad%20Jobs.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "How Large Are Human Capital Externalities Evidence? Evidence from Compulsory Schooling Laws",
-    "authors": "Daron Acemoglu, Joshua Angrist",
-    "date": "January 2001",
-    "year": 2001,
-    "month": 1,
-    "pdf_url": "",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Game Theory Models In Finance",
     "authors": "Franklin Allen and Stephen Morris",
     "date": "January 2001",
@@ -4898,26 +2988,6 @@
     "pdf_url": "",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "Why Did the West Extend the Franchise? Democracy, Inequlaity and Growth in Historical Perpective",
-    "authors": "Daron Acemoglu, James A. Robinson",
-    "date": "November 2000",
-    "year": 2000,
-    "month": 11,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Why%20Did%20the%20West%20Extend%20the%20Franchise%20Democracy%2C%20I.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Wage and Technology Dispersion",
-    "authors": "Daron Acemoglu, Robert Shimer",
-    "date": "October 2000",
-    "year": 2000,
-    "month": 10,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Wage%20and%20Technology%20Dispersion.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Structural Volatility in Mexico: A Policy Report[policy paper], IADB Working Paper #420",
@@ -4950,26 +3020,6 @@
     "faculty_slug": "ricardo-caballero"
   },
   {
-    "title": "Productivity Gains from Unemployment Insurance",
-    "authors": "Daron Acemoglu, Robert Shimer",
-    "date": "June 2000",
-    "year": 2000,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Productivity%20Gains%20from%20Unemployment%20Insurance.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Political Losers as a Barrier to Economic Development",
-    "authors": "Daron Acemoglu, James A. Robinson",
-    "date": "May 2000",
-    "year": 2000,
-    "month": 5,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Political%20Losers%20as%20a%20Barrier%20to%20Economic%20Developm.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "International Liquidity Management: Sterilization Policy in Illiquid Financial Markets",
     "authors": "Ricardo Caballero, Arvind Krishnamurthy",
     "date": "May 2000",
@@ -4990,26 +3040,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Democratization or Repression?",
-    "authors": "Daron Acemoglu, James A. Robinson",
-    "date": "April 2000",
-    "year": 2000,
-    "month": 4,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Democratization%20or%20Repression.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Certification of Training and Training Outcomes",
-    "authors": "Daron Acemoglu, Jorn-Steffen Pischke",
-    "date": "April 2000",
-    "year": 2000,
-    "month": 4,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Certification%20of%20Training%20and%20Training%20Outcomes.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Creative Destruction and Development: Institutions, Crises, and Restructuring",
     "authors": "Ricardo Caballero",
     "date": "April 2000",
@@ -5028,16 +3058,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Creative%20Destruction%20and%20Development%20-%20Institution.pdf",
     "faculty": "Ricardo Caballero",
     "faculty_slug": "ricardo-caballero"
-  },
-  {
-    "title": "The Choice between Market Failures and Corruption",
-    "authors": "Daron Acemoglu, Thierry Verdier",
-    "date": "March 2000",
-    "year": 2000,
-    "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/choice-between-market-failures-corruption.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Emerging Market Crises: An Asset Markets Perspective",
@@ -5080,16 +3100,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Changes in Unemployment and Wage Inequality: An Alternative Theory and Some Evidence",
-    "authors": "Daron Acemoglu",
-    "date": "December 1999",
-    "year": 1999,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/changes-in-unemployment-and-wage-inequality.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Aggregate Investment",
     "authors": "Ricardo Caballero",
     "date": "December 1999",
@@ -5118,26 +3128,6 @@
     "pdf_url": "",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "Holdups and Efficieny Search Frictions",
-    "authors": "Daron Acemoglu, Robert Shimer",
-    "date": "November 1999",
-    "year": 1999,
-    "month": 11,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/holdups-and-efficieny-search-frictions.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Efficient Unemployment Insurance",
-    "authors": "Daron Acemoglu, Robert Shimer",
-    "date": "October 1999",
-    "year": 1999,
-    "month": 10,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/efficient-unemployment-insurance.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Skills Training in the Temporary Help Sector: Employer Motivations and Worker Impacts",
@@ -5180,36 +3170,6 @@
     "faculty_slug": "ricardo-caballero"
   },
   {
-    "title": "The Structure of Wages and Investment in General Training",
-    "authors": "Daron Acemoglu, Jorn-Steffen Pischke",
-    "date": "June 1999",
-    "year": 1999,
-    "month": 6,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/structure-of-wages-and-investment-in-general-train.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Information Accumulation in Development",
-    "authors": "Daron Acemoglu, Fabrizio Zilibotti",
-    "date": "March 1999",
-    "year": 1999,
-    "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Information%20Accumulation%20in%20Development.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Beyond Becker: Training in Imperfect Labour Markets",
-    "authors": "Daron Acemoglu, Jorn-Steffen Pischke",
-    "date": "February 1999",
-    "year": 1999,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/beyond-becker-training-in-imperfect-labor-markets..pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "A Theory of the Onset of Currency Attacks",
     "authors": "Stephen Morris and Hyun Song Shin",
     "date": "January 1999",
@@ -5218,26 +3178,6 @@
     "pdf_url": "https://www.nuff.ox.ac.uk/economics/papers/1998/w20/onset_3.pdf",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "Why Do New Technologies Complement Skills? Directed Technical Change and Wage Inequality",
-    "authors": "Daron Acemoglu",
-    "date": "November 1998",
-    "year": 1998,
-    "month": 11,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/why-do-new-technologies-complement-skills.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Property Rights, Corruption and the Allocation of Talent: A General Equilibrium Approach",
-    "authors": "Daron Acemoglu, Thierry Verdier",
-    "date": "September 1998",
-    "year": 1998,
-    "month": 9,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/property-rights-corruption-allocation-of-talent.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Payoff Continuity in Incomplete Information Games",
@@ -5298,66 +3238,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Palestinian%20Labor%20Market.pdf",
     "faculty": "Josh Angrist",
     "faculty_slug": "josh-angrist"
-  },
-  {
-    "title": "Why Do Firms Train? Theory and Evidence",
-    "authors": "Daron Acemoglu, Jorn-Steffen Pischke",
-    "date": "February 1998",
-    "year": 1998,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/why-do-firms-train.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Credit Market Imperfections and the Separation of Ownership from Control",
-    "authors": "Daron Acemoglu",
-    "date": "February 1998",
-    "year": 1998,
-    "month": 2,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Credit%20Market%20Imperfections%20and%20the%20Separation%20of%20.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Asymmetric Business Cycles: Theory and Time Series Evidence",
-    "authors": "Daron Acemoglu, Andrew Scott",
-    "date": "December 1997",
-    "year": 1997,
-    "month": 12,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Asymmetric%20Business%20Cycles%20Theory%20and%20Time%20Series.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Was Prometheus Unbound by Chance? Risk, Diversification, and Growth",
-    "authors": "Daron Acemoglu, Fabrizio Zilibotti",
-    "date": "August 1997",
-    "year": 1997,
-    "month": 8,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/prometheus-unbound-by-choice.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Training and Innovation in an Imperfect Labour Market",
-    "authors": "Daron Acemoglu",
-    "date": "July 1997",
-    "year": 1997,
-    "month": 7,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/training-innovation-imperfect-labor-market.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
-    "title": "Matching, Heterogeneity, and the Evolution of Income Distribution",
-    "authors": "Daron Acemoglu",
-    "date": "March 1997",
-    "year": 1997,
-    "month": 3,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Matching%2C%20Heterogeneity%2C%20and%20the%20Evolution%20of%20Inco.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Aggregate Employment Dynamics: Building from Microeconomics",
@@ -5440,16 +3320,6 @@
     "faculty_slug": "josh-angrist"
   },
   {
-    "title": "A Microfoundation for Social Increasing Returns in Human Capital Accumulation",
-    "authors": "Daron Acemoglu",
-    "date": "August 1996",
-    "year": 1996,
-    "month": 8,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/microfoundation-for-social-increasing-returns.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "On the Timing and Efficiency of Creative Destruction",
     "authors": "Ricardo Caballero, M. Hammour",
     "date": "August 1996",
@@ -5500,16 +3370,6 @@
     "faculty_slug": "stephen-morris"
   },
   {
-    "title": "Asymmetric Information, Bargaining, and Unemployment Fluctuations",
-    "authors": "Daron Acemoglu",
-    "date": "November 1995",
-    "year": 1995,
-    "month": 11,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/asymmetric-information-bargaining-unemployment-flu.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
-  },
-  {
     "title": "Conditioning on the Probability of Selection to Control Selection Bias",
     "authors": "Joshua D. Angrist",
     "date": "June 1995",
@@ -5538,16 +3398,6 @@
     "pdf_url": "",
     "faculty": "Stephen Morris",
     "faculty_slug": "stephen-morris"
-  },
-  {
-    "title": "Reward Structures and the Allocation of Talent",
-    "authors": "Daron Acemoglu",
-    "date": "January 1995",
-    "year": 1995,
-    "month": 1,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/publications/Reward%20Structures%20and%20the%20Allocation%20of%20Talent.pdf",
-    "faculty": "Daron Acemoglu",
-    "faculty_slug": "daron-acemoglu"
   },
   {
     "title": "Plant Level Adjustment and Aggregate Investment Dynamics",
