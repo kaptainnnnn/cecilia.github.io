@@ -1,5 +1,20 @@
 [
   {
+    "id": "cepr-b3c8ca6a",
+    "title": "DP21832 Local Trade Wars",
+    "url": "https://cepr.org/publications/dp21832",
+    "description": "",
+    "date": "2026-08-09",
+    "authors": "Li; Ouyang; Qiu; Wang; Zi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-7e06fb74",
     "title": "DP21831 Communities of Commerce: The Legacy of Chinese Immigration on Java",
     "url": "https://cepr.org/publications/dp21831",
@@ -3454,6 +3469,246 @@
       "J22",
       "J31",
       "J61"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-238ad5ef",
+    "title": "DP1336 The Unit Root Hypothesis in Long-term Output: Evidence from Two Structural Breaks for 16 Countries",
+    "url": "https://cepr.org/publications/dp1336",
+    "description": "",
+    "date": "1996-02-29",
+    "authors": "Dan Ben-David; David Papell; Robin L Lumsdaine",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "C22",
+      "O1",
+      "O47",
+      "O5"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c9c0a8b2",
+    "title": "DP1335 Knowledge Dissemination, Capital Accumulation, Trade and Endogenous Growth",
+    "url": "https://cepr.org/publications/dp1335",
+    "description": "",
+    "date": "1996-02-29",
+    "authors": "Dan Ben-David; Michael B Loewy",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "International Trade and Regional Economics",
+      "E6",
+      "F1",
+      "F43",
+      "O3"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-dcca3697",
+    "title": "DP1334 Hysteresis and Economic Fluctuations (Spain, 1970-94)",
+    "url": "https://cepr.org/publications/dp1334",
+    "description": "",
+    "date": "1996-02-29",
+    "authors": "Juan J Dolado; J David López-Salido",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "C32",
+      "E32",
+      "J23"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f1d838f4",
+    "title": "DP1332 Why Do Companies Go Public? An Empirical Analysis",
+    "url": "https://cepr.org/publications/dp1332",
+    "description": "",
+    "date": "1996-02-29",
+    "authors": "Marco Pagano; Luigi Zingales; Fabio Panetta",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "G30",
+      "G31",
+      "G32"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e074038b",
+    "title": "DP1331 Testing for Trade-induced Investment-led Growth",
+    "url": "https://cepr.org/publications/dp1331",
+    "description": "",
+    "date": "1996-02-29",
+    "authors": "Richard Baldwin; Elena Seghezza",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "F10",
+      "F43"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-67963163",
+    "title": "DP1327 Monopolistic Competition, Trade, and Endogenous Spatial Fluctuations",
+    "url": "https://cepr.org/publications/dp1327",
+    "description": "",
+    "date": "1996-02-29",
+    "authors": "Gianmarco Ottaviano",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "E32",
+      "F12",
+      "F22",
+      "R12"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-bcdd6440",
+    "title": "DP1326 Country Asymmetries, Endogenous Product Choice and the Speed of Trade Liberalization",
+    "url": "https://cepr.org/publications/dp1326",
+    "description": "",
+    "date": "1996-02-29",
+    "authors": "Massimo Motta",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "F12",
+      "F15"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b2c95414",
+    "title": "DP1325 Managerial Incentives for Mergers",
+    "url": "https://cepr.org/publications/dp1325",
+    "description": "",
+    "date": "1996-02-29",
+    "authors": "Massimo Motta; Ramon Faulí-Oller",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "G34",
+      "L12",
+      "L2"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-60634919",
+    "title": "DP1333 Endogenous Growth: Lessons for and from Economic History",
+    "url": "https://cepr.org/publications/dp1333",
+    "description": "",
+    "date": "1996-01-31",
+    "authors": "Nicholas Crafts",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "N10",
+      "O47",
+      "O52"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2f256744",
+    "title": "DP1330 High Yields: The Spread on German Interest Rates",
+    "url": "https://cepr.org/publications/dp1330",
+    "description": "",
+    "date": "1996-01-31",
+    "authors": "Luigi Spaventa; Francesco Giavazzi; Carlo A. Favero",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E44",
+      "F30"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e45ea7dc",
+    "title": "DP1329 Investment, Liquidity Constraints and Bank Relationships: Evidence from German Manufacturing Firms",
+    "url": "https://cepr.org/publications/dp1329",
+    "description": "",
+    "date": "1996-01-31",
+    "authors": "Julie Ann Elston",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "E22",
+      "E44",
+      "G32"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6ad3aee2",
+    "title": "DP1328 From Local to Global Competition",
+    "url": "https://cepr.org/publications/dp1328",
+    "description": "",
+    "date": "1996-01-31",
+    "authors": "Simon Anderson; André de Palma",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "D43",
+      "L13"
     ],
     "tags": [
       "economics"
