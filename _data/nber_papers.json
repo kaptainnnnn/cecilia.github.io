@@ -403,6 +403,292 @@
     ]
   },
   {
+    "id": "nber-12c3f097",
+    "title": "AI Financial Advice: Supply, Demand, and Life Cycle Implications",
+    "url": "https://www.nber.org/papers/w35574",
+    "description": "We ask a representative sample to write prompts seeking spending and investing advice from LLMs, then simulate the lifetime effects of following the advice under realistic asset and labor market conditions. Applying this method to GPT-5.2, we find following the advice would move respondents toward...",
+    "date": "2026-08",
+    "authors": "Taha Choukhmane, Tim de Silva, Weidong Lin & Matthew Akuzawa",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-8448496b",
+    "title": "Fortunate Sons: Elite Political Selection in American History",
+    "url": "https://www.nber.org/papers/w35569",
+    "description": "We trace the family origins of Members of Congress (MC) born between 1830 and 1950, linking each MC, their parents, and their brothers to the complete-count censuses. Future MCs have always been economic outliers. By 1940, close to 60 percent of MCs aged 18--40 held a college degree, against under 5...",
+    "date": "2026-08",
+    "authors": "James J. Feigenbaum, Andrew B. Hall, Daniel M. Thompson & Jesse Yoder",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-5d4f016d",
+    "title": "A Currency Premium Puzzle",
+    "url": "https://www.nber.org/papers/w35572",
+    "description": "We show that quantitative asset pricing models, built to address the equity premium and risk-free rate puzzles, systematically fail when applied to open economies: they cannot generate the large and persistent interest rate differentials we observe between risky and safe currencies. This failure...",
+    "date": "2026-08",
+    "authors": "Tarek Alexander Hassan, Thomas Mertens & Jingye Wang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-34a4d012",
+    "title": "Balancing Growth in a Warming World",
+    "url": "https://www.nber.org/papers/w35573",
+    "description": "This paper develops a theory of balanced growth and optimal climate policy in an integrated assessment framework. Balanced growth is possible despite climate change, but at a slower rate. Two distinct policy regimes emerge because emissions permanently raise carbon stocks. For low damages, optimal...",
+    "date": "2026-08",
+    "authors": "Adrien Bilal, Thibault Ingrand & Diego R. Känzig",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-95c5194a",
+    "title": "Winning is Contagious: Social Learning and the Dynamics of Union Support",
+    "url": "https://www.nber.org/papers/w35571",
+    "description": "Union growth has historically happened in spurts. We combine union election data from 19612025 with a large-scale information experiment involving 9,000 low-wage workers to study the role of social learning in union growth. Observationally, close election wins cause future wins within state...",
+    "date": "2026-08",
+    "authors": "Ellora Derenoncourt, Arindrajit Dube, Suresh Naidu, Heather Sarsons & Niharika Singh",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-bc045c08",
+    "title": "Robust Signal Maximization in Spillover Experiments",
+    "url": "https://www.nber.org/papers/w35570",
+    "description": "We study the optimal design and analysis of experiments for estimating spillover effects. Assuming a known (e.g., linear) exposure mapping, we characterize the treatment-assignment distribution and regression-based estimator that minimize worst-case asymptotic variance against a broad class of...",
+    "date": "2026-08",
+    "authors": "Kirill Borusyak, Peter Hull & Evan M. Munro",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-65ab86d9",
+    "title": "Reconstructing a Century of U.S. Corporate Bonds: Credit Risk in Historical Perspective",
+    "url": "https://www.nber.org/papers/w35578",
+    "description": "Reconstructing a Century of U.S. Corporate Bonds: Credit Risk in Historical Perspective",
+    "date": "2026-08",
+    "authors": "Mohammad Ghaderi, Sébastien Plante, Nikolai Roussanov & Sang Byung Seo",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-e64d62dc",
+    "title": "Common Risk Factors in the Returns on Stocks, Bonds (and Options), Redux",
+    "url": "https://www.nber.org/papers/w35579",
+    "description": "We identify a strong common risk factor structure that is pervasive across corporate securities: stocks, corporate bonds, and options. The common factors are closely linked to observable factors and key economic indicators. These factors explain much of the variation in individual asset returns,...",
+    "date": "2026-08",
+    "authors": "Zhongtian Chen, Nikolai Roussanov, Xiaoliang Wang & Dongchen Zou",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-26580719",
+    "title": "Cautious Careers: Job Mobility under Incomplete Markets",
+    "url": "https://www.nber.org/papers/w35580",
+    "description": "Job mobility is risky, workers are risk averse, and insurance markets are incomplete. This paper studies how these features curb and distort job-to-job transitions by making workers excessively cautious: they place too much weight on job safety over wage and productivity gains. We demonstrate this...",
+    "date": "2026-08",
+    "authors": "Alex Clymo, Piotr Denderski, Yusuf Mercan & Benjamin Schoefer",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-d14f4850",
+    "title": "Observability and Social Interactions in Consumption",
+    "url": "https://www.nber.org/papers/w35575",
+    "description": "Using a randomized survey experiment in the Italian Survey of Consumer Expectations, we study how observability and commonality shape responses to a 1,000 employer bonus. Making an idiosyncratic bonus observable to coworkers lowers the marginal propensity to consume by 3 percentage points....",
+    "date": "2026-08",
+    "authors": "Tullio Jappelli & Luigi Pistaferri",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-71dbd124",
+    "title": "Do Children's Genes Evoke Educational Expectations? Direct Genetic Effects on Parents' and Teachers' College Encouragement",
+    "url": "https://www.nber.org/papers/w35576",
+    "description": "Do Children's Genes Evoke Educational Expectations? Direct Genetic Effects on Parents' and Teachers' College Encouragement",
+    "date": "2026-08",
+    "authors": "Philipp Dierker & Dalton Conley",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-a9b2d139",
+    "title": "The Value Gap: Europe Cannot Scale",
+    "url": "https://www.nber.org/papers/w35577",
+    "description": "In 2008, the aggregate market value of U.S.-listed firms was roughly one-third higher than that of European-listed firms. By 2023, it was more than 300% higher, a difference of $34 trillion. The valuation gap is broad-based, rather than concentrated among a few superstar firms, and is driven by...",
+    "date": "2026-08",
+    "authors": "Bo Becker, Efraim Benmelech & Joao Monteiro",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-bb0e6dc0",
+    "title": "How Steep is the Phillips Curve in Developing Economies? A Sufficient Statistics Approach and Estimates for India",
+    "url": "https://www.nber.org/papers/w35581",
+    "description": "How Steep is the Phillips Curve in Developing Economies? A Sufficient Statistics Approach and Estimates for India",
+    "date": "2026-08",
+    "authors": "Juan Herreño, Noémie Pinardon-Touati & Malte Thie",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b2b87d5d",
+    "title": "Immigrant Earnings Assimilation, 1981–2021",
+    "url": "https://www.nber.org/papers/w35582",
+    "description": "In this paper, we characterize trends in the earnings assimilation of immigrant workers from 1981 to 2021. We use administrative longitudinal data that contain the earnings of workers beginning in their first year of residence in the United States and in each year thereafter, allowing us to identify...",
+    "date": "2026-08",
+    "authors": "Randall Akee, Jimmy Chin & Daniel L. Crown",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-6b23c28e",
+    "title": "Spending to Save: The Subscription Model for Eradicating Hepatitis C in Louisiana",
+    "url": "https://www.nber.org/papers/w35583",
+    "description": "Spending to Save: The Subscription Model for Eradicating Hepatitis C in Louisiana",
+    "date": "2026-08",
+    "authors": "Kevin Callison, Rena M. Conti, Jonathan Gruber & Jacob Wallace",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-2ea09eee",
+    "title": "The Displacement Effects of Domestic Outsourcing",
+    "url": "https://www.nber.org/papers/w35584",
+    "description": "Evidence that domestic outsourcing lowers pay comes largely from on-site transfers, in which workers move to a contractor but keep the same jobs. Displacement is rarely observed: whether workers lose their jobs, where they go, how earnings evolve. In Brazils 19931994 pro-outsourcing reforms, which...",
+    "date": "2026-08",
+    "authors": "Mayara Felix & Michael B. Wong",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-42c2a955",
+    "title": "Cycles of Infertility: Intergenerational Transmission and the Role of Assisted Reproduction",
+    "url": "https://www.nber.org/papers/w35585",
+    "description": "Cycles of Infertility: Intergenerational Transmission and the Role of Assisted Reproduction",
+    "date": "2026-08",
+    "authors": "Viktoria Falk, Andreas Madestam & Emilia Simeonova",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-52ae4c04",
+    "title": "Staged Access and Liability for Dual-Use Artificial Intelligence",
+    "url": "https://www.nber.org/papers/w35586",
+    "description": "How should regulators combine staged access to a dual-use AI model with developer liability? I model a defender and an adversary searching for the same software flaws. After release, liability induces more defensive search but also makes the adversary search harder, limiting its effect on harm....",
+    "date": "2026-08",
+    "authors": "Joshua S. Gans",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-d7464b70",
+    "title": "Property Taxes and Housing Allocation Under Financial Constraints",
+    "url": "https://www.nber.org/papers/w35587",
+    "description": "Low property taxes amplify lock-in among elderly homeowners, limiting housing access for young families. Raising them reallocates housing toward the young through two channels: capitalization into lower prices reduces required downpayments for financially constrained buyers, a form of embedded...",
+    "date": "2026-08",
+    "authors": "Joshua Coven, Sebastian Golder, Arpit Gupta & Abdoulaye Ndiaye",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-6b43f7c4",
+    "title": "AI Agents and Prompt Engineering in Econometric Coding",
+    "url": "https://www.nber.org/papers/w35588",
+    "description": "We study how large language models write code for econometric analysis. We compare three dimensions of AI-assisted coding: statistical software (Stata, R, or Python), prompting (zero-shot versus few-shot), and the degree of agency, from a chatbot that writes a single script to an agent that executes...",
+    "date": "2026-08",
+    "authors": "Sebastian Galiani, Federico Ariel López & Raul A. Sosa",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1b34fe05",
+    "title": "Income Shocks and Intrahousehold Dynamics: Evidence from a Guaranteed Income Experiment",
+    "url": "https://www.nber.org/papers/w35589",
+    "description": "Income Shocks and Intrahousehold Dynamics: Evidence from a Guaranteed Income Experiment",
+    "date": "2026-08",
+    "authors": "Elizabeth Rhodes, David E. Broockman, Eva Vivalt, Patrick K. Krause, Sarah Miller ⓡ Alexander W. Bartik",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1f6a81ae",
+    "title": "The Perils of Bilateral Sovereign Debt",
+    "url": "https://www.nber.org/papers/w35590",
+    "description": "Motivated by the emergence of new official creditors outside the Paris Club framework, we study the interaction between senior official lending and market debt. We develop a quantitative sovereign default model featuring a large senior lender with whom borrowing terms are negotiated. Obtaining more...",
+    "date": "2026-08",
+    "authors": "Francisco Roldan & César Sosa-Padilla",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "nber-f5bce1cb",
     "title": "Let’s Chat: Leveraging Chatbot Outreach for Improved Course Performance",
     "url": "https://www.nber.org/papers/w35397",
