@@ -1222,5 +1222,45 @@
     "date": "July 12-30, 2027",
     "type": "Conference",
     "has_program": false
+  },
+  {
+    "id": "nber-conf-cca8dca7",
+    "title": "NBER Tax Policy and the Economy Conference, 2026",
+    "url": "https://www.nber.org/conferences/nber-tax-policy-and-economy-conference-2026",
+    "date": "September 17, 2026",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-3abbf042",
+    "title": "Annual Conference on Macroeconomics, 2027",
+    "url": "https://www.nber.org/conferences/annual-conference-macroeconomics-2027",
+    "date": "April 29-30, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-3d2a87e5",
+    "title": "Innovation in the Agricultural Sector, Spring 2027",
+    "url": "https://www.nber.org/conferences/innovation-agricultural-sector-spring-2027",
+    "date": "May 21, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-549c2a48",
+    "title": "Financing Higher Education, Fall 2027",
+    "url": "https://www.nber.org/conferences/financing-higher-education-fall-2027",
+    "date": "October 15, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-06615b73",
+    "title": "Economics of Health Program Meeting, Fall 2027",
+    "url": "https://www.nber.org/conferences/economics-health-program-meeting-fall-2027",
+    "date": "December 2-3, 2027",
+    "type": "Conference",
+    "has_program": true
   }
 ]
