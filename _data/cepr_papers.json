@@ -1,5 +1,35 @@
 [
   {
+    "id": "cepr-f0e3caf8",
+    "title": "DP21844 Offshoring and Voting Patterns in the US",
+    "url": "https://cepr.org/publications/dp21844",
+    "description": "",
+    "date": "2026-08-14",
+    "authors": "Mayda; Oldenski; Steingress",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-31b56b8c",
+    "title": "DP21843 Perceived Budget Constraint of the Government",
+    "url": "https://cepr.org/publications/dp21843",
+    "description": "",
+    "date": "2026-08-14",
+    "authors": "Sergeyev; Maugeri",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-d9015106",
     "title": "Building Resilience through Psychological Intervention",
     "url": "https://cepr.org/publications/dp21842",
@@ -3626,6 +3656,252 @@
       "J22",
       "J31",
       "J61"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-da7723cf",
+    "title": "DP1757 Enterprise Break-ups and Performance During the Transition",
+    "url": "https://cepr.org/publications/dp1757",
+    "description": "",
+    "date": "1997-12-30",
+    "authors": "Jan Svejnar; Miroslav Singer;  ",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Transition Economics",
+      "D21",
+      "D24",
+      "L11",
+      "P11"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f6195e93",
+    "title": "DP1764 Approval Rules for Sequential Horizontal Mergers",
+    "url": "https://cepr.org/publications/dp1764",
+    "description": "",
+    "date": "1997-12-19",
+    "authors": "Pedro Barros",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "D43",
+      "L41",
+      "L43"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-59253321",
+    "title": "DP1763 Staggered Wages and Disinflation Dynamics: What Can More Microfoundations Tell Us?",
+    "url": "https://cepr.org/publications/dp1763",
+    "description": "",
+    "date": "1997-12-19",
+    "authors": "Neil Rankin; Guido Ascari",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E31",
+      "E52"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-86b85cf7",
+    "title": "DP1762 Modelling the Impact of Demographic Change Upon the Economy",
+    "url": "https://cepr.org/publications/dp1762",
+    "description": "",
+    "date": "1997-12-19",
+    "authors": "David Miles",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "International Macroeconomics",
+      "D58",
+      "D91",
+      "E21",
+      "J11"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e59543ef",
+    "title": "DP1761 New Technologies, Wages and Worker Selection",
+    "url": "https://cepr.org/publications/dp1761",
+    "description": "",
+    "date": "1997-12-19",
+    "authors": "Horst Entorf; Francis Kramarz; Michel Gollac",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "J31",
+      "J64",
+      "O33"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-db42f3a6",
+    "title": "DP1760 Commercial Links Between Western Europe and East Asia: Retrospect and Prospects",
+    "url": "https://cepr.org/publications/dp1760",
+    "description": "",
+    "date": "1997-12-19",
+    "authors": "Kym Anderson; Joseph Francois",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "F11",
+      "F13",
+      "F14",
+      "F15",
+      "F17"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-98bf4ee7",
+    "title": "DP1759 Political Economics and Macroeconomic Policy",
+    "url": "https://cepr.org/publications/dp1759",
+    "description": "",
+    "date": "1997-12-19",
+    "authors": "Torsten Persson; Guido Tabellini",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E5",
+      "E6",
+      "H2",
+      "H3",
+      "O1"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7fd0bfb0",
+    "title": "DP1758 Why Does the Yield Curve Predict Economic Activity? Dissecting the Evidence for Germany and the United States",
+    "url": "https://cepr.org/publications/dp1758",
+    "description": "",
+    "date": "1997-12-19",
+    "authors": "Frank Smets; Kostas Tsatsaronis",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E43",
+      "E44",
+      "E58"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-41c935c3",
+    "title": "DP1756 The Sources of Irish Growth",
+    "url": "https://cepr.org/publications/dp1756",
+    "description": "",
+    "date": "1997-12-19",
+    "authors": "Xavier Vives; Angel de la Fuente",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E60",
+      "L40",
+      "O40",
+      "O52"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e1e8aa73",
+    "title": "DP1755 Fiscal Policy and Growth in the OECD",
+    "url": "https://cepr.org/publications/dp1755",
+    "description": "",
+    "date": "1997-12-19",
+    "authors": "Angel de la Fuente",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E62",
+      "O40"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-eae4e3f6",
+    "title": "DP1753 Growth and External Debt: A New Perspective on the African and Latin American Tragedies",
+    "url": "https://cepr.org/publications/dp1753",
+    "description": "",
+    "date": "1997-12-19",
+    "authors": "Daniel Cohen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "F34"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d0b92bac",
+    "title": "DP1754 The Winner's Curse and the Failure of the Law of Demand",
+    "url": "https://cepr.org/publications/dp1754",
+    "description": "",
+    "date": "1997-11-30",
+    "authors": "Jeremy Bulow; Paul Klemperer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "Industrial Organization",
+      "D44",
+      "G24",
+      "G30",
+      "L96"
     ],
     "tags": [
       "economics"
