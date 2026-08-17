@@ -1,5 +1,20 @@
 [
   {
+    "id": "cepr-cf291140",
+    "title": "DP21845 Improving Financial Literacy: From Corporate Finance to Personal Finance",
+    "url": "https://cepr.org/publications/dp21845",
+    "description": "",
+    "date": "2026-08-16",
+    "authors": "Lusardi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-f0e3caf8",
     "title": "DP21844 Offshoring and Voting Patterns in the US",
     "url": "https://cepr.org/publications/dp21844",
@@ -2926,6 +2941,274 @@
       "Macroeconomics and Growth",
       "J11",
       "J14"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ff718bdc",
+    "title": "DP21141 Central Bank Digital Currency and Monetary Architecture",
+    "url": "https://cepr.org/publications/dp21141",
+    "description": "",
+    "date": "2026-02-09",
+    "authors": "Dirk Niepelt",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Fintech and Digital Currencies",
+      "International Macroeconomics and Finance",
+      "Monetary Economics and Fluctuations",
+      "Political Economy",
+      "Banking and Corporate Finance",
+      "E42",
+      "E51",
+      "G21",
+      "G28"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7bef8ea0",
+    "title": "DP21140 Competition, Procurement and Learning-By-Doing in the Space Launch Industry",
+    "url": "https://cepr.org/publications/dp21140",
+    "description": "",
+    "date": "2026-02-09",
+    "authors": "Ruibing Su; Chenyu Yang; Andrew Sweeting",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "C73",
+      "D21",
+      "D43",
+      "L13",
+      "L41"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-194f2dfd",
+    "title": "DP21139 Specialization, Complexity, and Resilience in Supply Chains",
+    "url": "https://cepr.org/publications/dp21139",
+    "description": "",
+    "date": "2026-02-09",
+    "authors": "Alessandro Ferrari; Lorenzo Pesaresi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics and Finance",
+      "International Trade and Regional Economics",
+      "Macroeconomics and Growth",
+      "D21",
+      "L14",
+      "L22",
+      "L23"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f5439f52",
+    "title": "DP21138 Monetary Stabilization of Export Shocks, Revisited",
+    "url": "https://cepr.org/publications/dp21138",
+    "description": "",
+    "date": "2026-02-09",
+    "authors": "Sushant Acharya; Edouard Challe; Giancarlo Corsetti",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics and Finance",
+      "Monetary Economics and Fluctuations",
+      "F41",
+      "F44"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-273da5c8",
+    "title": "DP21137 The Personal Characteristics that Affect Trust in Government: A Global Analysis Across Regions",
+    "url": "https://cepr.org/publications/dp21137",
+    "description": "",
+    "date": "2026-02-09",
+    "authors": "Charles Goodhart; Ly Hoang Vu",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Political Economy",
+      "A13",
+      "H10",
+      "H11",
+      "L82",
+      "O5",
+      "P17",
+      "P47",
+      "P52"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-a827b068",
+    "title": "DP21136 Bank Governance: Lessons Still Not Learned",
+    "url": "https://cepr.org/publications/dp21136",
+    "description": "",
+    "date": "2026-02-09",
+    "authors": "Marco Becht; Patrick Bolton; Ailsa Röell",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Banking and Corporate Finance",
+      "G21",
+      "G28",
+      "G34",
+      "G38",
+      "K22",
+      "L51"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-bfa1400f",
+    "title": "DP21135 Gender Norms and the Quantity–Quality Tradeoff: Evidence from Free Primary Education in Africa",
+    "url": "https://cepr.org/publications/dp21135",
+    "description": "",
+    "date": "2026-02-09",
+    "authors": "Matthew Collins; Eleonora Guarnieri; Helmut Rainer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "Political Economy",
+      "J13",
+      "I25",
+      "N37",
+      "Z1"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e44ccfcd",
+    "title": "DP21134 Granular Portfolios, Expectations, and International Capital Flows",
+    "url": "https://cepr.org/publications/dp21134",
+    "description": "",
+    "date": "2026-02-09",
+    "authors": "Kenza Benhima; Elio Bolliger; Margaret Davenport",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics and Finance",
+      "D84",
+      "F32",
+      "G11",
+      "G15",
+      "G23"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-58bca386",
+    "title": "DP21133 Multidimensional Signaling and the Rise of Cultural Politics",
+    "url": "https://cepr.org/publications/dp21133",
+    "description": "",
+    "date": "2026-02-08",
+    "authors": "Daron Acemoglu; Georgy Egorov; Konstantin Sonin",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Political Economy",
+      "D72",
+      "D84",
+      "P00"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b179bbf7",
+    "title": "DP21132 Should Charitable and Political Donations Benefit from Similar Tax Treatments? Evidence from a Survey Experiment",
+    "url": "https://cepr.org/publications/dp21132",
+    "description": "",
+    "date": "2026-02-08",
+    "authors": "Julia Cage; Malka Guillot; Yuchen Huang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Political Economy",
+      "Public Economics",
+      "H24",
+      "H31",
+      "L38"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d01eb64a",
+    "title": "DP21131 Differential Land Efficiency and the Environmental Consequences of Agricultural Productivity Growth",
+    "url": "https://cepr.org/publications/dp21131",
+    "description": "",
+    "date": "2026-02-07",
+    "authors": "Tiago Cavalcanti; Kilian Kamkar",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "Q15",
+      "Q23",
+      "Q24",
+      "O13",
+      "O33"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-feb8bcf8",
+    "title": "DP21130 Using Life Satisfaction Data to Measure Parents' Child Gender Preferences",
+    "url": "https://cepr.org/publications/dp21130",
+    "description": "",
+    "date": "2026-02-07",
+    "authors": "Anna Barbeta-Margarit; Seema Jayachandran; Suanna Oh",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "I31",
+      "J13",
+      "J16",
+      "N47",
+      "O12",
+      "Z13"
     ],
     "tags": [
       "economics"
