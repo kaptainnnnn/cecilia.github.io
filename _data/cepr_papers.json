@@ -1,11 +1,86 @@
 [
   {
+    "id": "cepr-a98206ec",
+    "title": "DP21850 Dust in the Wind: Causes and Consequences of Managerial Replacements",
+    "url": "https://cepr.org/publications/dp21850",
+    "description": "",
+    "date": "2026-08-17",
+    "authors": "van Ours",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-25a35978",
+    "title": "DP21849 Innovation, industry equilibrium, and discount rates",
+    "url": "https://cepr.org/publications/dp21849",
+    "description": "",
+    "date": "2026-08-17",
+    "authors": "Bustamante; D'Acunto; Zucchi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b4dde134",
+    "title": "DP21848 Credit Cycles and Creditor Rights",
+    "url": "https://cepr.org/publications/dp21848",
+    "description": "",
+    "date": "2026-08-17",
+    "authors": "Kornejew; Kundu; Müller",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-cf291140",
     "title": "DP21845 Improving Financial Literacy: From Corporate Finance to Personal Finance",
     "url": "https://cepr.org/publications/dp21845",
     "description": "",
     "date": "2026-08-16",
     "authors": "Lusardi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-bf940bdd",
+    "title": "DP21847 Broad and Focused Learning",
+    "url": "https://cepr.org/publications/dp21847",
+    "description": "",
+    "date": "2026-08-16",
+    "authors": "Wagner; Zhao",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ef0a04a7",
+    "title": "DP21846 Subordinates in Charge: Does Delegation Improve Bank Supervision?",
+    "url": "https://cepr.org/publications/dp21846",
+    "description": "",
+    "date": "2026-08-16",
+    "authors": "Dessein; Gong; Lambert; Wagner",
     "series": "CEPR Discussion Papers",
     "source": "CEPR",
     "type": "Discussion paper",
@@ -3459,6 +3534,258 @@
       "G11",
       "G12",
       "Q51"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2ed7befc",
+    "title": "DP13231 Looking into Crystal Balls: A Laboratory Experiment on Reputational Cheap Talk",
+    "url": "https://cepr.org/publications/dp13231",
+    "description": "",
+    "date": "2018-10-09",
+    "authors": "Debrah Meloso; Salvatore Nunnari; Marco Ottaviani",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "C91",
+      "D83"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e7052cf6",
+    "title": "DP13230 Completing Markets with Contracts: Evidence from the First Central Clearing Counterparty",
+    "url": "https://cepr.org/publications/dp13230",
+    "description": "",
+    "date": "2018-10-09",
+    "authors": "Guillaume Vuillemey",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "G23",
+      "F14"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-0ee52401",
+    "title": "DP13229 Credit Shocks and Equilibrium Dynamics in Consumer Durable Goods Markets",
+    "url": "https://cepr.org/publications/dp13229",
+    "description": "",
+    "date": "2018-10-09",
+    "authors": "Alessandro Gavazza; Andrea Lanteri",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "Monetary Economics and Fluctuations",
+      "E21",
+      "E32",
+      "L62"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-80ac75e6",
+    "title": "DP13228 Cheap Trade Credit and Competition in Downstream Markets",
+    "url": "https://cepr.org/publications/dp13228",
+    "description": "",
+    "date": "2018-10-08",
+    "authors": "Mariassunta Giannetti; Nicolas Serrano-Velarde; Emanuele Tarantino",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "Industrial Organization",
+      "G3",
+      "D2",
+      "L1"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ecd8daf3",
+    "title": "DP13227 Long-Term Employment Relations When Agents are Present Biased",
+    "url": "https://cepr.org/publications/dp13227",
+    "description": "",
+    "date": "2018-10-08",
+    "authors": "Florian Englmaier; Matthias Fahn; Marco Schwarz",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "D03",
+      "D21",
+      "J31",
+      "M52"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b6ba30c3",
+    "title": "DP13226 The Effect of Incentives in Non-Routine Analytical Team Tasks - Evidence from a Field Experiment",
+    "url": "https://cepr.org/publications/dp13226",
+    "description": "",
+    "date": "2018-10-08",
+    "authors": "Florian Englmaier; Stefan Grimm; David Schindler; Simeon Schudy",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "C92",
+      "C93",
+      "J33",
+      "D03",
+      "M52"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ca8262fc",
+    "title": "DP13225 A General Equilibrium Theory of Occupational Choice under Optimistic Beliefs about Entrepreneurial Ability",
+    "url": "https://cepr.org/publications/dp13225",
+    "description": "",
+    "date": "2018-10-07",
+    "authors": "Michele Dell’Era; Luca David Opromolla; Luis Santos-Pinto",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "Labour Economics",
+      "Macroeconomics and Growth",
+      "D50",
+      "H21",
+      "J24",
+      "L26"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-89cda42e",
+    "title": "DP13224 Regulation with Experimentation: Ex Ante Approval, Ex Post Withdrawal, and Liability",
+    "url": "https://cepr.org/publications/dp13224",
+    "description": "",
+    "date": "2018-10-07",
+    "authors": "Emeric Henry; Marco Loseto; Marco Ottaviani",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "D18",
+      "D83",
+      "K13",
+      "K2",
+      "M38"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ee83cc6c",
+    "title": "DP13223 State Dependent Effects of Monetary Policy: the Refinancing Channel",
+    "url": "https://cepr.org/publications/dp13223",
+    "description": "",
+    "date": "2018-10-07",
+    "authors": "Martin Eichenbaum; Sergio Rebelo; Arlene Wong",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Macroeconomics and Growth",
+      "Monetary Economics and Fluctuations",
+      "E52",
+      "G21"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-25a44750",
+    "title": "DP13222 Unlucky Cohorts: Estimating the Long-term Effects of Entering the Labor Market in a Recession in Large Cross-sectional Data Sets",
+    "url": "https://cepr.org/publications/dp13222",
+    "description": "",
+    "date": "2018-10-06",
+    "authors": "Hannes Schwandt; Till von Wachter",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "Public Economics",
+      "E32",
+      "I14",
+      "I23",
+      "I32",
+      "J22",
+      "J31"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-39b9e489",
+    "title": "DP13221 Friendship and Female Education: Evidence from a Field Experiment in Bangladeshi Primary Schools",
+    "url": "https://cepr.org/publications/dp13221",
+    "description": "",
+    "date": "2018-10-05",
+    "authors": "Youjin Hahn; Asad Islam; Eleonora Patacchini; Yves Zenou",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "I25",
+      "J16",
+      "O12"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1b0cacf9",
+    "title": "DP13220 New Technologies, Global Value Chains, and Developing Economies",
+    "url": "https://cepr.org/publications/dp13220",
+    "description": "",
+    "date": "2018-10-05",
+    "authors": "Dani Rodrik",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "International Trade and Regional Economics",
+      "O33",
+      "O40"
     ],
     "tags": [
       "economics"
