@@ -1,5 +1,35 @@
 [
   {
+    "id": "cepr-a4004648",
+    "title": "DP21852 Monetary Transmission to Firm-level R&amp;D",
+    "url": "https://cepr.org/publications/dp21852",
+    "description": "",
+    "date": "2026-08-18",
+    "authors": "Datsenko; Holm",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-03d7159a",
+    "title": "DP21851 The Data Revolution, and It's Uses, in International Trade",
+    "url": "https://cepr.org/publications/dp21851",
+    "description": "",
+    "date": "2026-08-18",
+    "authors": "Atkin; Faber",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-a98206ec",
     "title": "DP21850 Dust in the Wind: Causes and Consequences of Managerial Replacements",
     "url": "https://cepr.org/publications/dp21850",
@@ -4752,6 +4782,239 @@
       "International Trade and Regional Economics",
       "D43",
       "L13"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6dadb7bd",
+    "title": "DP245 The European Monetary System and the Franc-Mark Asymmetry",
+    "url": "https://cepr.org/publications/dp245",
+    "description": "",
+    "date": "1988-06-01",
+    "authors": "Gilles Oudiz; Jacques Melitz; Daniel Cohen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "F",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-845d2f55",
+    "title": "DP239 Resolving Debt Crises: An Historical Perspective",
+    "url": "https://cepr.org/publications/dp239",
+    "description": "",
+    "date": "1988-06-01",
+    "authors": "Barry Eichengreen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "F",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-34900d91",
+    "title": "DP244 Consumption and Capital Market Imperfection: An International Comparison",
+    "url": "https://cepr.org/publications/dp244",
+    "description": "",
+    "date": "1988-05-01",
+    "authors": "Marco Pagano; Tullio Jappelli",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "International Macroeconomics",
+      "E",
+      "G"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-09eb9872",
+    "title": "DP243 Brazilian Debt: A Requiem for Muddling Through",
+    "url": "https://cepr.org/publications/dp243",
+    "description": "",
+    "date": "1988-05-01",
+    "authors": "Rudiger Dornbusch; Eliana Cardoso",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "N",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-15013fcf",
+    "title": "DP242 Did Tariffs Matter That Much? Ireland since the 1920s",
+    "url": "https://cepr.org/publications/dp242",
+    "description": "",
+    "date": "1988-05-01",
+    "authors": "Cormac Ó Gráda",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "N",
+      "E",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-cb9ebc45",
+    "title": "DP241 The Swinging Dollar: Is Europe Out of Step?",
+    "url": "https://cepr.org/publications/dp241",
+    "description": "",
+    "date": "1988-05-01",
+    "authors": "Charles Wyplosz",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4844f185",
+    "title": "DP240 Exchange Rates and Policy Coordination in an Asymmetric Model",
+    "url": "https://cepr.org/publications/dp240",
+    "description": "",
+    "date": "1988-05-01",
+    "authors": "Peter Kenen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "H",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6d52c6f0",
+    "title": "DP238 Purchased Child Care, Optimal Family Size and Mother's Employment",
+    "url": "https://cepr.org/publications/dp238",
+    "description": "",
+    "date": "1988-03-01",
+    "authors": "John F Ermisch",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "J",
+      "D"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-680d0649",
+    "title": "DP237 A Labour-Based Theory of International Trade",
+    "url": "https://cepr.org/publications/dp237",
+    "description": "",
+    "date": "1988-03-01",
+    "authors": "Patrick Minford",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "F",
+      "F",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8e2bf327",
+    "title": "DP236 Covered Interest Arbitrage and Market Turbulence: An Empirical Analysis",
+    "url": "https://cepr.org/publications/dp236",
+    "description": "",
+    "date": "1988-03-01",
+    "authors": "Mark Taylor",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "International Macroeconomics",
+      "F",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e343a2f7",
+    "title": "DP235 International Monetary Cooperation under Tariff Threats",
+    "url": "https://cepr.org/publications/dp235",
+    "description": "",
+    "date": "1988-03-01",
+    "authors": "Flavio Delbono; Giorgio Basevi; Vincenzo Denicolo",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "International Trade and Regional Economics",
+      "E"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ed681c93",
+    "title": "DP234 Women's Wages in Full- and Part-Time Jobs in Great Britain",
+    "url": "https://cepr.org/publications/dp234",
+    "description": "",
+    "date": "1988-03-01",
+    "authors": "John F Ermisch; Robert E. Wright",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "J",
+      "J",
+      "D"
     ],
     "tags": [
       "economics"
