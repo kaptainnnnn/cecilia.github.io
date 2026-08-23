@@ -1,5 +1,50 @@
 [
   {
+    "id": "cepr-3235b7a8",
+    "title": "DP21870 Cultural Evolution",
+    "url": "https://cepr.org/publications/dp21870",
+    "description": "",
+    "date": "2026-08-22",
+    "authors": "Galor; Klemp; Wainstock",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8802c2b2",
+    "title": "DP21869 Paying Not to Know: News Avoidance in Times of War",
+    "url": "https://cepr.org/publications/dp21869",
+    "description": "",
+    "date": "2026-08-22",
+    "authors": "Levy; Shayo; Yanay",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b5be12e2",
+    "title": "DP21868 News Consumption in the Digital Age",
+    "url": "https://cepr.org/publications/dp21868",
+    "description": "",
+    "date": "2026-08-22",
+    "authors": "Capozza; Haaland; Roth; Wohlfart",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-df7be922",
     "title": "DP21867 AI in a Fragmenting World",
     "url": "https://cepr.org/publications/dp21867",
@@ -3539,6 +3584,265 @@
       "N47",
       "O12",
       "Z13"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-5d167ea1",
+    "title": "DP20835 The Asymmetric and Heterogeneous Pass-through of Input Prices to Firms’ Expectations and Decisions",
+    "url": "https://cepr.org/publications/dp20835",
+    "description": "",
+    "date": "2025-11-13",
+    "authors": "Fiorella De Fiore; Marco Lombardi; Giacomo Mangiante",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "D22",
+      "D84",
+      "E31",
+      "E50"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-32df289d",
+    "title": "DP20834 Equilibrium VIX in Inelastic Markets",
+    "url": "https://cepr.org/publications/dp20834",
+    "description": "",
+    "date": "2025-11-13",
+    "authors": "Albert J. Menkveld",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Asset Pricing",
+      "G12",
+      "G13"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-61627f8e",
+    "title": "DP20833 Stablecoins: A Revolutionary Payment Technology with Financial Risks",
+    "url": "https://cepr.org/publications/dp20833",
+    "description": "",
+    "date": "2025-11-12",
+    "authors": "Rashad Ahmed; Alessandro Rebucci; James Clouse; Fabio Natalucci; Geyue Sun",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics and Finance",
+      "Monetary Economics and Fluctuations",
+      "Asset Pricing",
+      "Banking and Corporate Finance",
+      "E42",
+      "F33",
+      "G21",
+      "G23",
+      "O33"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f0078b6d",
+    "title": "DP20832 Job Loss, Unemployment Insurance, and Health: Evidence from Brazil",
+    "url": "https://cepr.org/publications/dp20832",
+    "description": "",
+    "date": "2025-11-12",
+    "authors": "Guilherme Amorim; Diogo Britto; Alexandre Fonseca; Breno Sampaio",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "Labour Economics",
+      "Public Economics",
+      "I12",
+      "J63",
+      "J65"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4c560bc4",
+    "title": "DP20831 Cisterns, Climate Adaptation, and Economic Development",
+    "url": "https://cepr.org/publications/dp20831",
+    "description": "",
+    "date": "2025-11-12",
+    "authors": "Yuri Barreto; Diogo Britto; Daniel Da Mata; Lucas Emanuel; Bladimir Carrillo; Breno Sampaio",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "Labour Economics",
+      "Q54",
+      "Q25",
+      "Q58",
+      "J01"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e4f00873",
+    "title": "DP20830 State Capacity and Subjective Well-Being in Early Modern Spain",
+    "url": "https://cepr.org/publications/dp20830",
+    "description": "",
+    "date": "2025-11-12",
+    "authors": "Carlos Álvarez-Nogal; Leandro Prados de la Escosura",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Economic History",
+      "E70",
+      "H27",
+      "I31",
+      "N33",
+      "Z12"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-3616a899",
+    "title": "DP20829 Narrative Entanglement",
+    "url": "https://cepr.org/publications/dp20829",
+    "description": "",
+    "date": "2025-11-11",
+    "authors": "Adam Brzezinski; Luis Garicano",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Political Economy",
+      "Climate Change and the Environment",
+      "D72",
+      "D91",
+      "Q58"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ea248769",
+    "title": "DP20828 Parsing the Pulse: Decomposing Macroeconomic Sentiment with LLMs",
+    "url": "https://cepr.org/publications/dp20828",
+    "description": "",
+    "date": "2025-11-11",
+    "authors": "Byeungchun Kwon; Taejin Park; Phurichai Rungcharoenkitkul; Frank Smets",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "E30",
+      "E44",
+      "E60",
+      "C55",
+      "C82"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-604563e9",
+    "title": "DP20827 Family Institutions and the Global Fertility Transition",
+    "url": "https://cepr.org/publications/dp20827",
+    "description": "",
+    "date": "2025-11-11",
+    "authors": "Paula Eugenia Gobbi; Anne Hannusch; Pauline Rossi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "Macroeconomics and Growth",
+      "J1"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c2e1c2f7",
+    "title": "DP20826 Tariffs and Technological Hegemony",
+    "url": "https://cepr.org/publications/dp20826",
+    "description": "",
+    "date": "2025-11-10",
+    "authors": "Luca Fornaro; Martin Wolf",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics and Finance",
+      "International Trade and Regional Economics",
+      "Macroeconomics and Growth",
+      "E22",
+      "F12",
+      "F13",
+      "F42",
+      "F43",
+      "O24",
+      "O33"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e128670f",
+    "title": "DP20825 Unveiling the J-curve: How Intangibles Drive Productivity Mismeasurement",
+    "url": "https://cepr.org/publications/dp20825",
+    "description": "",
+    "date": "2025-11-10",
+    "authors": "Gert Bijnens; Jozef Konings; Aaron Putseys",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Organizational Economics",
+      "E01",
+      "E22",
+      "E23",
+      "O32"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6dec60ca",
+    "title": "DP20824 Nothing to Hide? Gender and Age Differences in Willingness to Share Data",
+    "url": "https://cepr.org/publications/dp20824",
+    "description": "",
+    "date": "2025-11-10",
+    "authors": "Olivier Armantier; Sebastian Doerr; Jon Frost; Andreas Fuster; Kelly Shue",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Banking and Corporate Finance",
+      "C8",
+      "D8"
     ],
     "tags": [
       "economics"
