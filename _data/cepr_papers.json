@@ -1,5 +1,35 @@
 [
   {
+    "id": "cepr-591be2d7",
+    "title": "DP21872 Immiserizing Automation",
+    "url": "https://cepr.org/publications/dp21872",
+    "description": "",
+    "date": "2026-08-23",
+    "authors": "Asriyan; Reichardt; Shelegia",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7a8b5b21",
+    "title": "DP21871 Firm Productivity and the Internal-Versus-External Hiring Decision",
+    "url": "https://cepr.org/publications/dp21871",
+    "description": "",
+    "date": "2026-08-23",
+    "authors": "Alonso; DeVaro; Kauhanen; Valmari",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-3235b7a8",
     "title": "DP21870 Cultural Evolution",
     "url": "https://cepr.org/publications/dp21870",
@@ -4093,6 +4123,266 @@
       "G11",
       "G12",
       "Q51"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-9deaf9ea",
+    "title": "DP14826 J'Accuse! Antisemitism and Financial Markets in the time of the Dreyfus Affair",
+    "url": "https://cepr.org/publications/dp14826",
+    "description": "",
+    "date": "2020-05-29",
+    "authors": "Quoc-Anh Do; Roberto Galbiati; Benjamin Marx; Miguel Angel Ortiz Serrano",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Economic History",
+      "Labour Economics",
+      "Public Economics",
+      "J15",
+      "J71",
+      "N23",
+      "G14",
+      "G41"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-edf2f35c",
+    "title": "DP14825 The first weeks of the coronavirus crisis: Who got hit, when   and why? Evidence from Norway",
+    "url": "https://cepr.org/publications/dp14825",
+    "description": "",
+    "date": "2020-05-29",
+    "authors": "Annette Alstadsæter; Bernt Bratsberg; Gaute Eielsen; Wojciech Kopczuk; Simen Markussen; Oddbjørn Raaum; Knut Røed",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "Monetary Economics and Fluctuations",
+      "J6",
+      "E24"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f048f7ed",
+    "title": "DP14824 In Crisis, We Pray: Religiosity and the COVID-19 Pandemic",
+    "url": "https://cepr.org/publications/dp14824",
+    "description": "",
+    "date": "2020-05-29",
+    "authors": "Jeanet Bentzen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "Economic History",
+      "Macroeconomics and Growth",
+      "Public Economics",
+      "Z12",
+      "D91",
+      "I15",
+      "O57",
+      "Q54"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-677b888d",
+    "title": "DP14823 Plants in Space",
+    "url": "https://cepr.org/publications/dp14823",
+    "description": "",
+    "date": "2020-05-28",
+    "authors": "Ezra Oberfield; Esteban Rossi-Hansberg; Pierre-Daniel Sarte; Nicholas Trachter",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "International Trade and Regional Economics",
+      "Macroeconomics and Growth",
+      "R3",
+      "L25",
+      "D24"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-441f989a",
+    "title": "DP14822 COVID-19 Doesn't Need Lockdowns to Destroy Jobs: The Effect of Local Outbreaks in Korea",
+    "url": "https://cepr.org/publications/dp14822",
+    "description": "",
+    "date": "2020-05-28",
+    "authors": "Sangmin Aum; Sang Yoon (Tim) Lee; Yongseok Shin",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "Macroeconomics and Growth"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ec5ff9e2",
+    "title": "DP14821 Covid-19 Crisis Fuels Hostility against Foreigners",
+    "url": "https://cepr.org/publications/dp14821",
+    "description": "",
+    "date": "2020-05-28",
+    "authors": "Vojtěch Bartoš; Michal Bauer; Jana Cahlíková; Julie Chytilová",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "C90",
+      "D01",
+      "D63",
+      "D91",
+      "J15"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d8761661",
+    "title": "DP14820 Asocial Capital: Civic Culture and Social Distancing during COVID-19",
+    "url": "https://cepr.org/publications/dp14820",
+    "description": "",
+    "date": "2020-05-28",
+    "authors": "Ruben Durante; Luigi Guiso; Giorgio Gulino",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Public Economics",
+      "Z1",
+      "D91"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e570cf4b",
+    "title": "DP14818 Connective Financing - Chinese Infrastructure Projects and the Diffusion of Economic Activity in Developing Countries",
+    "url": "https://cepr.org/publications/dp14818",
+    "description": "",
+    "date": "2020-05-27",
+    "authors": "Richard Bluhm; Axel Dreher; Andreas Fuchs; Bradley Parks; Austin Strange; Michael Tierney",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "International Trade and Regional Economics",
+      "Macroeconomics and Growth",
+      "Public Economics",
+      "F15",
+      "F35",
+      "R11",
+      "R12",
+      "P33",
+      "O18",
+      "O19"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d1e5fd96",
+    "title": "DP14817 Debt De-risking",
+    "url": "https://cepr.org/publications/dp14817",
+    "description": "",
+    "date": "2020-05-27",
+    "authors": "Jannic Cutura; Gianpaolo Parise; Andreas Schrimpf",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "G11",
+      "G23",
+      "G32",
+      "E43"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-cc5003c8",
+    "title": "DP14816 Growth, War, and Pandemics: Europe in the Very Long-run",
+    "url": "https://cepr.org/publications/dp14816",
+    "description": "",
+    "date": "2020-05-26",
+    "authors": "Leandro Prados de la Escosura; Carlos Vladimir Rodriguez-Caballero",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Economic History",
+      "E01",
+      "N10",
+      "N30",
+      "N40",
+      "O10",
+      "O47"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ddd277bb",
+    "title": "DP14815 Multiproduct Intermediaries",
+    "url": "https://cepr.org/publications/dp14815",
+    "description": "",
+    "date": "2020-05-25",
+    "authors": "Andrew Rhodes; Makoto Watanabe; Jidong Zhou",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "D83",
+      "L42",
+      "L81"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-57c4315d",
+    "title": "DP14814 Closed for business",
+    "url": "https://cepr.org/publications/dp14814",
+    "description": "",
+    "date": "2020-05-25",
+    "authors": "Dion Bongaerts; Francesco Mazzola; Wolf Wagner",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Public Economics",
+      "H12",
+      "I18"
     ],
     "tags": [
       "economics"
