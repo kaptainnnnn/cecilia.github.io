@@ -1,5 +1,20 @@
 [
   {
+    "id": "cepr-b1060b7f",
+    "title": "DP21873 Market power, growth, and wealth inequality",
+    "url": "https://cepr.org/publications/dp21873",
+    "description": "",
+    "date": "2026-08-24",
+    "authors": "Impullitti; Rendahl",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-591be2d7",
     "title": "DP21872 Immiserizing Automation",
     "url": "https://cepr.org/publications/dp21872",
@@ -4871,6 +4886,259 @@
       "E58",
       "E31",
       "E32"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e5534469",
+    "title": "DP9865 Bank Capital and Dividend Externalities",
+    "url": "https://cepr.org/publications/dp9865",
+    "description": "",
+    "date": "2014-03-02",
+    "authors": "Hyun Song Shin; Viral Acharya; Hanh Le",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "G01",
+      "G21",
+      "G24",
+      "G28",
+      "G32",
+      "G35",
+      "G38"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d1a9226f",
+    "title": "DP9864 Hidden Insurance in a Moral Hazard Economy",
+    "url": "https://cepr.org/publications/dp9864",
+    "description": "",
+    "date": "2014-03-02",
+    "authors": "Giuseppe Bertola; Winfried Koeniger",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "Industrial Organization",
+      "Labour Economics",
+      "D81",
+      "D82",
+      "E21"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-08920689",
+    "title": "DP9863 Cross-border mergers and domestic-firm wages: Integrating ?spillover effects? and ?bargaining effects?",
+    "url": "https://cepr.org/publications/dp9863",
+    "description": "",
+    "date": "2014-03-02",
+    "authors": "Lars Sørgard; Klaus Peter Gugler; Joseph A. Clougherty",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "International Trade and Regional Economics",
+      "Labour Economics",
+      "F23",
+      "F66",
+      "J30",
+      "L21"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e0e39ba4",
+    "title": "DP9862 Tuition fees as a commitment device",
+    "url": "https://cepr.org/publications/dp9862",
+    "description": "",
+    "date": "2014-03-02",
+    "authors": "Hessel Oosterbeek; Bas van der Klaauw; Nadine Ketel; Jona Linde",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "C93",
+      "D03",
+      "I22"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-5789c022",
+    "title": "DP9861 The Quiet Revolution and the Family: Gender Composition of Tertiary Education and Early Fertility Patterns",
+    "url": "https://cepr.org/publications/dp9861",
+    "description": "",
+    "date": "2014-03-02",
+    "authors": "Štěpán Jurajda; Alena Bičáková",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "I23",
+      "J13",
+      "J16"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-479d7aa5",
+    "title": "DP9860 Feeling the blues. Moral hazard and debt dilution in Eurobonds before 1914",
+    "url": "https://cepr.org/publications/dp9860",
+    "description": "",
+    "date": "2014-03-02",
+    "authors": "Rui Esteves; Ali Coskun Tuncer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Economic History",
+      "International Macroeconomics",
+      "F34",
+      "H63",
+      "H77",
+      "N24",
+      "N44"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c11d39ca",
+    "title": "DP9859 Misallocation, Property Rights, and Access to Finance: Evidence from Within and Across Africa",
+    "url": "https://cepr.org/publications/dp9859",
+    "description": "",
+    "date": "2014-03-02",
+    "authors": "Bent E Sørensen; Sebnem Kalemli-Ozcan",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "International Macroeconomics",
+      "D24",
+      "O14"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-810d112d",
+    "title": "DP9858 Structural FECM: Cointegration in large-scale structural FAVAR models",
+    "url": "https://cepr.org/publications/dp9858",
+    "description": "",
+    "date": "2014-03-02",
+    "authors": "Anindya Banerjee; Massimiliano Marcellino; Igor Masten",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "C32",
+      "E17"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-811dd3c4",
+    "title": "DP9857 Targeting Nominal GDP or Prices: Guidance and Expectation Dynamics",
+    "url": "https://cepr.org/publications/dp9857",
+    "description": "",
+    "date": "2014-03-02",
+    "authors": "Seppo Honkapohja; Kaushik Mitra",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E52",
+      "E58",
+      "E63"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-98357f63",
+    "title": "DP9856 Policing Cannabis and Drug Related Hospital Admissions: Evidence from Administrative Records",
+    "url": "https://cepr.org/publications/dp9856",
+    "description": "",
+    "date": "2014-03-02",
+    "authors": "Imran Rasul; Elaine Kelly",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Public Economics",
+      "H75",
+      "I18",
+      "K42"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c9bdc807",
+    "title": "DP9855 Firm Dynamics and Residual Inequality in Open Economies",
+    "url": "https://cepr.org/publications/dp9855",
+    "description": "",
+    "date": "2014-03-02",
+    "authors": "Gabriel Felbermayr; Julien Prat; Giammario Impullitti",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "Labour Economics",
+      "E24",
+      "F12",
+      "F16"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-a9db1c1e",
+    "title": "DP9854 Scale and Skill in Active Management",
+    "url": "https://cepr.org/publications/dp9854",
+    "description": "",
+    "date": "2014-03-02",
+    "authors": "Robert F. Stambaugh; Luboš Pástor; Lucian Taylor",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "Labour Economics",
+      "G10",
+      "G23",
+      "J24"
     ],
     "tags": [
       "economics"

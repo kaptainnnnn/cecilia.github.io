@@ -1235,6 +1235,344 @@
     ]
   },
   {
+    "id": "nber-a8c5016a",
+    "title": "Political Entrepreneurs",
+    "url": "https://www.nber.org/papers/w35637",
+    "description": "Firms shape public policy not only from the outside through lobbying and campaign contributions, but also from the inside when business owners hold public office. We study this channel using a novel dataset that links state legislators personal financial disclosures to bill sponsorship records...",
+    "date": "2026-08",
+    "authors": "Aaron Chatterji, Jorge Guzman, Joyce Ma & Ryan C. McDevitt",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-729264ef",
+    "title": "The Meritocratic Consensus and Stratification in Higher Education",
+    "url": "https://www.nber.org/papers/w35650",
+    "description": "American colleges and universities are highly stratified by pre-college academic achievement, family background, and institutional resources. We study the meritocratic consensus in American higher education: colleges that high-testing students (who are generally also from high-income families)...",
+    "date": "2026-08",
+    "authors": "Zachary Bleemer & Jesse Rothstein",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-0b60b73c",
+    "title": "Instrument Hacking",
+    "url": "https://www.nber.org/papers/w35633",
+    "description": "In instrumental-variable (IV) studies, researchers often evaluate multiple candidate instruments and selectively report the specification with the most favorable first- or second-stage statistics. We show that this form of instrument selection (instrument-hacking) induces median bias in IV...",
+    "date": "2026-08",
+    "authors": "Michael P. Keane, Timothy Neal & Patrick Vu",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-88ee3384",
+    "title": "The Yeoman's Portfolio: Measuring Historical Risk Preferences Using Crop Choice",
+    "url": "https://www.nber.org/papers/w35634",
+    "description": "We design a method for measuring the risk preferences of agents in the deep past. The method combines a structural model of crop choice as a portfolio allocation with machine-learning prediction of expected crop returns, using historic agronomic and climate data. We estimate county-level risk...",
+    "date": "2026-08",
+    "authors": "Remy Levin & Daniela Vidart",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-9c026997",
+    "title": "Occupational Licensing of Uber Drivers",
+    "url": "https://www.nber.org/papers/w35635",
+    "description": "We examine whether occupational licensing improves service quality and safety using trip-level Uber data that include driver ratings and telematics-based measures of driving behavior. Exploiting quasi-random assignment from proximity-based dispatch, we compare trips served by licensed and unlicensed...",
+    "date": "2026-08",
+    "authors": "Jonathan Hall, Jason Hicks, Morris M. Kleiner & Yun taek Oh",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-0660735e",
+    "title": "Rate Risk and Rate Insurance",
+    "url": "https://www.nber.org/papers/w35636",
+    "description": "I decompose stock returns into a duration-matched Treasury component, identified from monetary policy surprises, and a payoff component. Risk and returns rise much less with duration for stocks than for their matched Treasuries. Stock volatility is dampened by rate insurance: rates fall in bad times...",
+    "date": "2026-08",
+    "authors": "Olivier Wang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-955a79f0",
+    "title": "Tracing the Impact of Payment Convenience on Deposits: Evidence from Depositor Activeness",
+    "url": "https://www.nber.org/papers/w35638",
+    "description": "Tracing the Impact of Payment Convenience on Deposits: Evidence from Depositor Activeness",
+    "date": "2026-08",
+    "authors": "Xu Lu, Yang Song & Yao Zeng",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-3e16e857",
+    "title": "Local Labor Demand and Achievement Gaps: Evidence from the Great Recession",
+    "url": "https://www.nber.org/papers/w35639",
+    "description": "We examine how contractions in local labor demand during the Great Recession affected children's academic achievement. We combine county-level test scores for grades 38 from the Stanford Education Data Archive with a shift-share design that interacts counties' 2005 industry composition with national...",
+    "date": "2026-08",
+    "authors": "Karla Cordova & Jessamyn Schaller",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-af13f20b",
+    "title": "Survival Analysis with Limited Overlap and Censoring Distribution Shift",
+    "url": "https://www.nber.org/papers/w35643",
+    "description": "Survival analysis methods are often used to predict the time until the onset of an event in settings when the true time-to-event (TTE) may be censored during training. Such approaches typically assume uncensored data are representative of censored data and that the probability of censoring...",
+    "date": "2026-08",
+    "authors": "Meera Krishnamoorthy, Donna Tjandra, Divya Shanmugam, Amanda E. Kowalski & Jenna Wiens",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c9c185df",
+    "title": "Labor Market Power with Worker and Firm Heterogeneity",
+    "url": "https://www.nber.org/papers/w35640",
+    "description": "How do firms set wages? How should governments set income taxes? If labor supply is inelastic to wages, firms can pay workers less than their marginal products, and governments can increase taxes without eroding the base. However, the structure of labor supply elasticities in the economy is complex....",
+    "date": "2026-08",
+    "authors": "David W. Berger, Kyle F. Herkenhoff, Jaehun Jeong & Simon Mongey",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1319cb6f",
+    "title": "Monetary-Fiscal Interactions: A Reappraisal",
+    "url": "https://www.nber.org/papers/w35642",
+    "description": "The possibility of fiscal dominance in the representative-agent New Keynesian model (RANK) hinges on the assumption that income is perpetually demand-determined: fiscal deficits can drive output and inflation within that model only insofar as they trigger infinitely lasting, self-sustained shifts in...",
+    "date": "2026-08",
+    "authors": "George-Marios Angeletos, Chen Lian, Christian K. Wolf & Dalton Rongxuan Zhang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-6cc42070",
+    "title": "Benchmark Mineability and the Financing of AI Innovation",
+    "url": "https://www.nber.org/papers/w35641",
+    "description": "Public AI benchmarks steer research and allocate investments. They are therefore market designs. Public examples can reveal the process behind a private final test, while a finite public score cannot cover a broad task space inherent to general intelligence. I show how both gaps become profitable...",
+    "date": "2026-08",
+    "authors": "Alex Chan",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-7c358988",
+    "title": "Measuring the Welfare Gains from Cardinal-Preference Mechanisms in School Choice",
+    "url": "https://www.nber.org/papers/w35658",
+    "description": "Ordinal mechanisms use rankings but not preference intensities. Cardinal mechanisms also elicit school utilities, allowing them to use students preferences over assignment lotteries. We compare probabilistic serial with four cardinal mechanisms that maximize the same welfare objective under...",
+    "date": "2026-08",
+    "authors": "Hülya Eraslan, Jeremy T. Fox & YingHua He",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-8fa33f89",
+    "title": "Where the Grass Seems Greener: Economic Misperceptions and Support for Democracy",
+    "url": "https://www.nber.org/papers/w35644",
+    "description": "Support for populist and authoritarian regimes is rising worldwide, despite evidence that they tend to underperform economically. We examine the role of (mis)perceptions of regime performance as drivers of political attitudes, leveraging two survey experiments with 11,377 respondents during...",
+    "date": "2026-08",
+    "authors": "Daron Acemoglu, Nicolas Ajzenman, Guillermo Cruces, Martin Fiszbein, Gaston Garcia Zavaleta & Carlos Molina",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-79cebf56",
+    "title": "Stress Testing Cardiac Care Markets through Deregulation",
+    "url": "https://www.nber.org/papers/w35645",
+    "description": "The diffusion of technological innovation depends on incentives, regulations, and firms strategic behaviors. We study these intersections within cardiac procedure markets following Medicares expansion of non-hospital facility options for treatment, enabled by clinical advancements. State-level...",
+    "date": "2026-08",
+    "authors": "Daniel R. Arnold, Michael R. Richards, Yashaswini Singh & Christopher M. Whaley",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-5bb64181",
+    "title": "Do Local Synthetic Opioid Overdose Deaths Affect Provider Prescribing of Buprenorphine?",
+    "url": "https://www.nber.org/papers/w35648",
+    "description": "Do Local Synthetic Opioid Overdose Deaths Affect Provider Prescribing of Buprenorphine?",
+    "date": "2026-08",
+    "authors": "Nicole Siegal, Sumedha Gupta, Matthew C. Aalsma, Stephen Crystal, Jennifer Miles, Hillary Samples, Allen Campbell, Kosali I. Simon & Rosalie Liccardo Pacula",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-9b8e5dd2",
+    "title": "The Effect of Childcare on Female Labor Supply and Child Development in Low and Middle Income Countries",
+    "url": "https://www.nber.org/papers/w35649",
+    "description": "The Effect of Childcare on Female Labor Supply and Child Development in Low and Middle Income Countries",
+    "date": "2026-08",
+    "authors": "Serena Goldberg & Costas Meghir",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-3523e4ea",
+    "title": "Falling Fertility: The Changing Value of Freedom, Fulfillment, and Family",
+    "url": "https://www.nber.org/papers/w35651",
+    "description": "Fertility has fallen in nearly all high-income countries. People also report wanting fewer children: between 2012 and 2022 the ideal number of children fell from 2.42 to 2.31 and the share of respondents intending a child within three years fell from 28 to 21 percent over a similar period. Why?...",
+    "date": "2026-08",
+    "authors": "Raquel Fernández, Inés Berniell ⓡ Milagros Onofri",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-d50222d5",
+    "title": "A Model of Global Firms and Capital Markets",
+    "url": "https://www.nber.org/papers/w35652",
+    "description": "We develop a general-equilibrium model of the global economy that integrates heterogeneous firms competing in product markets with countries that allocate capital around the world. Combining a hedonic demand system on the product side with a mean-variance portfolio system on the asset side, we...",
+    "date": "2026-08",
+    "authors": "Loukas Karabarbounis, Bruno Pellegrino & Juliana Salomao",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-ee13ccc0",
+    "title": "To Tax or To Ax? Marginal Tax and Spending Multipliers in Consolidations",
+    "url": "https://www.nber.org/papers/w35653",
+    "description": "We introduce the notion of marginal cumulative multiplier the effect of either government spending or taxation on output holding the other fiscal instrument constant and apply it to a well known panel of consolidation episodes in 16 countries in the period 1978-2020. In our benchmark specification...",
+    "date": "2026-08",
+    "authors": "Roberto Perotti & Luca Sala",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-06d70aa4",
+    "title": "Critical Minerals, Geopolitics, and the Green Transition",
+    "url": "https://www.nber.org/papers/w35654",
+    "description": "The green energy transition will be powered by the mining and processing of lithium, nickel, and cobalt, which are critical for the production of advanced batteries. These minerals are concentrated geographically but traded globally, allowing key mining countries to exercise market power through...",
+    "date": "2026-08",
+    "authors": "Tomás Domínguez-Iino, Jonathan T. Elliott & Allan Hsiao",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-5bc8385b",
+    "title": "Crypto Capture of Foreign Aid",
+    "url": "https://www.nber.org/papers/w35655",
+    "description": "The 2016 Panama Papers leak tightened regulatory enforcement around money laundering and offshore banking. We investigate whether the diversion of foreign aid in developing countries led to a shift to cryptocurrency as an alternative laundering platform. We develop a disbursement-timed forensic...",
+    "date": "2026-08",
+    "authors": "Sumit Agarwal, Peiyi Jin, Eswar S. Prasad & Daniel Rabetti",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-92f8601d",
+    "title": "Cultural Evolution",
+    "url": "https://www.nber.org/papers/w35656",
+    "description": "What gave rise to the mosaic of cultural expressions across the globe? Why are some societies more culturally diverse than others? This study develops a unified theory of cultural evolution, characterizing the forces that have governed this process over the course of human existence. The research...",
+    "date": "2026-08",
+    "authors": "Oded Galor, Marc Klemp & Daniel C. Wainstock",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-e63a69c6",
+    "title": "The Data Revolution, and Its Uses, in International Trade",
+    "url": "https://www.nber.org/papers/w35657",
+    "description": "In recent decades, economists studying international trade have gained access to an unprecedented volume and variety of data. These data have provided new insights and a more granular understanding of the mechanics of trade. Analyzing a large corpus of papers, we document that the nature of research...",
+    "date": "2026-08",
+    "authors": "David Atkin & Benjamin Faber",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-52aec3e1",
+    "title": "The Effects of SNAP Sugary Drink Restrictions on Consumption and Welfare",
+    "url": "https://www.nber.org/papers/w35659",
+    "description": "As of July 2026, 23 states had approved policies that disallow spending of SNAP benefits on sugary drinks. The effects of such restrictions on consumption are unclear, however, since most households can simply switch to buying sugary drinks with non-SNAP funds. Using a difference-in- differences...",
+    "date": "2026-08",
+    "authors": "Hunt Allcott, Amy Finkelstein, Anna Grummon & Matthew J. Notowidigdo",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-6e128d82",
+    "title": "Currency Dominance Is Not Forever: Some Insights from a Non-Linear Dynamic Model",
+    "url": "https://www.nber.org/papers/w35647",
+    "description": "We propose stress tests based on an original International Monetary System (IMS) model with regime switchings. The model is calibrated for nine reference currencies from the beginning of the Classical Gold Standard to the present. Regime switchings in currency dominance are related to combinations...",
+    "date": "2026-08",
+    "authors": "Michael D. Bordo & Cécile Bastidon",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "nber-f5bce1cb",
     "title": "Let’s Chat: Leveraging Chatbot Outreach for Improved Course Performance",
     "url": "https://www.nber.org/papers/w35397",

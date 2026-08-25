@@ -1,5 +1,18 @@
 [
   {
+    "id": "adb-53b5c19b",
+    "title": "The Role of Remittances in Household Resilience to Extreme Weather in the Kyrgyz Republic: Evidence from Panel Data",
+    "url": "https://www.adb.org/publications/remittances-household-resilience-kyrgyz-republic",
+    "description": "This paper examines how remittances influence household expenditure during drought and excess rainfall in the Kyrgyz Republic.",
+    "date": "2026-08-24",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
     "id": "adb-24fce221",
     "title": "Bullets and Budgets: Measuring Defense Spending Multipliers",
     "url": "https://www.adb.org/publications/bullets-budgets-measuring-defense-spending-multipliers",
@@ -239,19 +252,6 @@
     "url": "https://www.adb.org/publications/work-home-and-fertility",
     "description": "This study examines how realized and planned fertility are associated with work from home (WFH) arrangements.",
     "date": "2026-03-23",
-    "source": "ADB",
-    "tags": [
-      "economics",
-      "development"
-    ],
-    "featured": false
-  },
-  {
-    "id": "adb-feffd728",
-    "title": "Impact of the 2025 United States Tariffs on Firm Export Behavior: Evidence from Asian Customs Data",
-    "url": "https://www.adb.org/publications/2025-us-tariffs-firm-export-behavior",
-    "description": "This paper dissects the impact of United States (US) tariffs introduced in 2025 on firm exports by using comprehensive export customs data to the US from six selected Asian countries, concentrating on heterogeneity by firm size and product type for analyses.",
-    "date": "2026-02-26",
     "source": "ADB",
     "tags": [
       "economics",
