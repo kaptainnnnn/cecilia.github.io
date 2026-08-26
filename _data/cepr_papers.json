@@ -1,5 +1,95 @@
 [
   {
+    "id": "cepr-15bf49d6",
+    "title": "DP21879 Differing environmental preferences, fiscal competition, and taxation of goods and pollution",
+    "url": "https://cepr.org/publications/dp21879",
+    "description": "",
+    "date": "2026-08-25",
+    "authors": "Cremer; Gahvari",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4fe25766",
+    "title": "DP21878 A Model of Global Firms and Capital Markets",
+    "url": "https://cepr.org/publications/dp21878",
+    "description": "",
+    "date": "2026-08-25",
+    "authors": "Karabarbounis; Pellegrino; Salomao",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-3fbfb2be",
+    "title": "DP21877 What the Iran War Teaches Us about the Price Elasticity of Oil Supply",
+    "url": "https://cepr.org/publications/dp21877",
+    "description": "",
+    "date": "2026-08-25",
+    "authors": "Kilian; Patel",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-31e95eea",
+    "title": "DP21876 Productivity and Inflation Dynamics",
+    "url": "https://cepr.org/publications/dp21876",
+    "description": "",
+    "date": "2026-08-25",
+    "authors": "Ambrosino; Chan; Tenreyro",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-178d234c",
+    "title": "DP21875 To Tax or To Ax? Marginal Tax and  Spending  Multipliers in  Consolidations",
+    "url": "https://cepr.org/publications/dp21875",
+    "description": "",
+    "date": "2026-08-25",
+    "authors": "Perotti; Sala",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-48f8f270",
+    "title": "DP21874 This Time Is (Mostly) Different: U.S. Tightening Cycles and Global Resilience in the 1980s vs 2020s",
+    "url": "https://cepr.org/publications/dp21874",
+    "description": "",
+    "date": "2026-08-25",
+    "authors": "Banerjee; Hale; Shieh",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-b1060b7f",
     "title": "DP21873 Market power, growth, and wealth inequality",
     "url": "https://cepr.org/publications/dp21873",
@@ -6102,6 +6192,253 @@
       "J",
       "J",
       "D"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1d65cf97",
+    "title": "DP176 Cable and Satellite - The Market for Programmes",
+    "url": "https://cepr.org/publications/dp176",
+    "description": "",
+    "date": "1987-04-01",
+    "authors": "Cento G Veljanovski",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "L",
+      "O",
+      "L",
+      "L"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e2743d47",
+    "title": "DP175 Commercial Broadcasting in the UK - Over-Regulation and Misregulation?",
+    "url": "https://cepr.org/publications/dp175",
+    "description": "",
+    "date": "1987-04-01",
+    "authors": "Cento G Veljanovski",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "L",
+      "L",
+      "L"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c10217dc",
+    "title": "DP174 Road User Charges in Britain",
+    "url": "https://cepr.org/publications/dp174",
+    "description": "",
+    "date": "1987-04-01",
+    "authors": "David Newbery",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "L",
+      "I"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-3d074843",
+    "title": "DP173 Modelling Energy Demand and Household Welfare Using Micro-Data",
+    "url": "https://cepr.org/publications/dp173",
+    "description": "",
+    "date": "1987-04-01",
+    "authors": "Richard Blundell; John Micklewright; Paul Baker",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "C",
+      "Z",
+      "D"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2969fab2",
+    "title": "DP172 A Two-Country Model with Asymmetric Phillips Curves and Intervention in the Foreign Exchange Market",
+    "url": "https://cepr.org/publications/dp172",
+    "description": "",
+    "date": "1987-04-01",
+    "authors": "Michael Artis; Saziye Gazioglu",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E",
+      "F",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-baf925a2",
+    "title": "DP171 The Effects of the Tax-Benefit System on UK Unemployment: A Microeconomic Analysis",
+    "url": "https://cepr.org/publications/dp171",
+    "description": "",
+    "date": "1987-04-01",
+    "authors": "Michael Beenstock",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "C",
+      "H",
+      "J",
+      "J"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-0089ef49",
+    "title": "DP170 Regret and Jubilation in Union Wage Bargaining",
+    "url": "https://cepr.org/publications/dp170",
+    "description": "",
+    "date": "1987-03-01",
+    "authors": "Michael Beenstock",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "B",
+      "J",
+      "J",
+      "J"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7d7decd9",
+    "title": "DP169 International Policy Coordination in Interdependent Monetary Economies",
+    "url": "https://cepr.org/publications/dp169",
+    "description": "",
+    "date": "1987-03-01",
+    "authors": "Frederick van der Ploeg",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E",
+      "Z",
+      "F",
+      "F",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-38759819",
+    "title": "DP168 Wage Rigidity and Capital Mobility in an Optimizing Model of a Small Open Economy",
+    "url": "https://cepr.org/publications/dp168",
+    "description": "",
+    "date": "1987-03-01",
+    "authors": "Frederick van der Ploeg; Theo van de Klundert",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E",
+      "E",
+      "H",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-db735af2",
+    "title": "DP167 Monetary and Fiscal Policy in an Optimizing Model with Capital Accumulation and Finite Lives",
+    "url": "https://cepr.org/publications/dp167",
+    "description": "",
+    "date": "1987-03-01",
+    "authors": "Frederick van der Ploeg; Giancarlo Marini",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E",
+      "E",
+      "H"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d2b6fe75",
+    "title": "DP166 'Locomotive' and Other Channels of Transmission under Flexible Exchange Rates",
+    "url": "https://cepr.org/publications/dp166",
+    "description": "",
+    "date": "1987-03-01",
+    "authors": "Jorge Braga de Macedo",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-794476c9",
+    "title": "DP165 The Balance of Payments of Oil Importing Countries: An Aggregate Econometric Analysis",
+    "url": "https://cepr.org/publications/dp165",
+    "description": "",
+    "date": "1987-03-01",
+    "authors": "Michael Beenstock",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "D",
+      "E",
+      "C",
+      "F",
+      "F",
+      "Z"
     ],
     "tags": [
       "economics"
