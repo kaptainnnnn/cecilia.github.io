@@ -1,5 +1,18 @@
 [
   {
+    "id": "adb-d198d742",
+    "title": "More Jobs or Widening Inequality? Public Data Governance and Low-Skilled Labor in the People’s Republic of China",
+    "url": "https://www.adb.org/publications/more-jobs-widening-inequality-prc",
+    "description": "This paper examines the labor market effects of public data governance using the staggered rollout of open government data platforms across 218 cities in the People’s Republic of China.",
+    "date": "2026-08-27",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
     "id": "adb-53b5c19b",
     "title": "The Role of Remittances in Household Resilience to Extreme Weather in the Kyrgyz Republic: Evidence from Panel Data",
     "url": "https://www.adb.org/publications/remittances-household-resilience-kyrgyz-republic",
@@ -239,19 +252,6 @@
     "url": "https://www.adb.org/publications/when-manufacturing-matters-most",
     "description": "The findings of this study suggest that low-income economies could boost productivity through strategies that combine manufacturing development with investments in institutional quality, technological infrastructure, and human capital formation.",
     "date": "2026-04-07",
-    "source": "ADB",
-    "tags": [
-      "economics",
-      "development"
-    ],
-    "featured": false
-  },
-  {
-    "id": "adb-b6121751",
-    "title": "Work from Home and Fertility",
-    "url": "https://www.adb.org/publications/work-home-and-fertility",
-    "description": "This study examines how realized and planned fertility are associated with work from home (WFH) arrangements.",
-    "date": "2026-03-23",
     "source": "ADB",
     "tags": [
       "economics",

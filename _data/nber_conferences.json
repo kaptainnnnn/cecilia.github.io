@@ -1270,5 +1270,13 @@
     "date": "October 2, 2026",
     "type": "Conference",
     "has_program": false
+  },
+  {
+    "id": "nber-conf-d02201e4",
+    "title": "Household Finance Working Group Meeting, Fall 2026",
+    "url": "https://www.nber.org/conferences/household-finance-working-group-meeting-fall-2026",
+    "date": "December 11, 2026",
+    "type": "Conference",
+    "has_program": false
   }
 ]

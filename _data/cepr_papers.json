@@ -1,5 +1,65 @@
 [
   {
+    "id": "cepr-909ef10d",
+    "title": "DP21883 Activation Costs, Fair Value, and Real Exchange Rate Adjustment",
+    "url": "https://cepr.org/publications/dp21883",
+    "description": "",
+    "date": "2026-08-28",
+    "authors": "Taylor",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1613d980",
+    "title": "DP21882 Training novices to think, or giving them LLMs? Evidence from an RCT",
+    "url": "https://cepr.org/publications/dp21882",
+    "description": "",
+    "date": "2026-08-27",
+    "authors": "Asirvatham; Betti; Brown; Camuffo; Chatterji; Fumagalli; Gambardella; Mariani; Pandey; Ramos; Salvucci; Simic",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f7774e9b",
+    "title": "DP21881 Beyond the Smokestack: Supply Chains and the Industrial Incidence of Net Zero",
+    "url": "https://cepr.org/publications/dp21881",
+    "description": "",
+    "date": "2026-08-27",
+    "authors": "Jondeau; Poirier; Vermandel",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2c295bb1",
+    "title": "DP21880 A Deep Case for Shallow Integration",
+    "url": "https://cepr.org/publications/dp21880",
+    "description": "",
+    "date": "2026-08-27",
+    "authors": "Becko; Costinot",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-15bf49d6",
     "title": "DP21879 Differing environmental preferences, fiscal competition, and taxation of goods and pollution",
     "url": "https://cepr.org/publications/dp21879",
@@ -5959,6 +6019,245 @@
       "International Trade and Regional Economics",
       "D43",
       "L13"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7a967555",
+    "title": "DP749 Regional Versus Multilateral Liberalization of Trade in Services",
+    "url": "https://cepr.org/publications/dp749",
+    "description": "",
+    "date": "1993-02-28",
+    "authors": "Bernard Hoekman",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "F13"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-686fa61f",
+    "title": "DP756 Information, Forecasts and Measurement of the Business Cycle",
+    "url": "https://cepr.org/publications/dp756",
+    "description": "",
+    "date": "1993-01-31",
+    "authors": "Lucrezia Reichlin; George W. Evans",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "C32",
+      "E32"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-bdb60407",
+    "title": "DP755 The European Community: A Case of Successful Integration?",
+    "url": "https://cepr.org/publications/dp755",
+    "description": "",
+    "date": "1993-01-31",
+    "authors": "L Alan Winters",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "F15"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8b1094f2",
+    "title": "DP754 Who Are the Insiders? Wage Setting in Spanish Manufacturing Firms",
+    "url": "https://cepr.org/publications/dp754",
+    "description": "",
+    "date": "1993-01-31",
+    "authors": "Juan J Dolado; Samuel Bentolila",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "E42",
+      "J23"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-410e1da5",
+    "title": "DP753 Asymmetry in the ERM: A Case Study of French and German Interest Rates Since Basel-Nyborg",
+    "url": "https://cepr.org/publications/dp753",
+    "description": "",
+    "date": "1993-01-31",
+    "authors": "William Perraudin; Edward H Gardner",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "E40",
+      "E50",
+      "F36"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1fd5527f",
+    "title": "DP752 Central Banking as a Political Principal-Agent Problem",
+    "url": "https://cepr.org/publications/dp752",
+    "description": "",
+    "date": "1993-01-31",
+    "authors": "Michele Fratianni; Jurgen von Hagen; Christopher Waller",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Central Banking",
+      "International Macroeconomics",
+      "E31",
+      "E32",
+      "E58"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-352173be",
+    "title": "DP751 Multiple Equilibria in a Growth Model with Monopolistic Competition",
+    "url": "https://cepr.org/publications/dp751",
+    "description": "",
+    "date": "1993-01-31",
+    "authors": "Jordi Galí",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E21",
+      "E22",
+      "E23",
+      "L13",
+      "L16",
+      "O41"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8e2a2889",
+    "title": "DP748 Holes and Loopholes in Integration Agreements: History and Prospects",
+    "url": "https://cepr.org/publications/dp748",
+    "description": "",
+    "date": "1993-01-31",
+    "authors": "Michael P Leidy",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "F13"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8079f89d",
+    "title": "DP747 What to Expect from Regional and Multilateral Trade Negotiations: A Public Choice Perspective",
+    "url": "https://cepr.org/publications/dp747",
+    "description": "",
+    "date": "1993-01-31",
+    "authors": "Michael P Leidy; Bernard Hoekman",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "F13"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-0653bc49",
+    "title": "DP750 `Excessive Deficits': Sense and Nonsense in the Treaty of Maastricht",
+    "url": "https://cepr.org/publications/dp750",
+    "description": "",
+    "date": "1992-12-31",
+    "authors": "Willem Buiter; Nouriel Roubini; Giancarlo Corsetti",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E62",
+      "E63",
+      "F33",
+      "H62",
+      "H63"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-67ea1e18",
+    "title": "DP745 Environmental Policy, Public Finance and the Labour Market in a Second-best World",
+    "url": "https://cepr.org/publications/dp745",
+    "description": "",
+    "date": "1992-12-31",
+    "authors": "Frederick van der Ploeg; Lans Bovenberg",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "International Macroeconomics",
+      "E60",
+      "H21",
+      "H41",
+      "Q28"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1c9c9eaf",
+    "title": "DP746 Unemployment, Labour Market Institutions and Structural Change in Eastern Europe",
+    "url": "https://cepr.org/publications/dp746",
+    "description": "",
+    "date": "1992-11-30",
+    "authors": "Michael Burda",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "International Macroeconomics",
+      "J41",
+      "J65",
+      "P52"
     ],
     "tags": [
       "economics"
