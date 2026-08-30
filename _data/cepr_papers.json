@@ -1,5 +1,35 @@
 [
   {
+    "id": "cepr-48681eca",
+    "title": "DP21886 The Allocative Cost of War:  A View to a Kill…ing of Productivity",
+    "url": "https://cepr.org/publications/dp21886",
+    "description": "",
+    "date": "2026-08-29",
+    "authors": "Gorodnichenko; Amann; Talavera",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b5240a7e",
+    "title": "DP21885 Fluctuations in the Treasury General Account and their effect on the Fed’s balance sheet",
+    "url": "https://cepr.org/publications/dp21885",
+    "description": "",
+    "date": "2026-08-29",
+    "authors": "Vissing-Jørgensen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-909ef10d",
     "title": "DP21883 Activation Costs, Fair Value, and Real Exchange Rate Adjustment",
     "url": "https://cepr.org/publications/dp21883",
@@ -6273,6 +6303,241 @@
       "J41",
       "J65",
       "P52"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-9847b2ce",
+    "title": "DP697 National Insurance Against Unevenly Distributed Shocks in a European Monetary Union",
+    "url": "https://cepr.org/publications/dp697",
+    "description": "",
+    "date": "1992-09-15",
+    "authors": "Jacques Melitz; Silvia Vori",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "F41",
+      "F42",
+      "H77"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-563398e5",
+    "title": "DP692 The Debt Crisis: A Post Mortem",
+    "url": "https://cepr.org/publications/dp692",
+    "description": "",
+    "date": "1992-08-29",
+    "authors": "Daniel Cohen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "F21"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-29653791",
+    "title": "DP691 Tests of the `Convergence Hypothesis': A Critical Note",
+    "url": "https://cepr.org/publications/dp691",
+    "description": "",
+    "date": "1992-08-29",
+    "authors": "Daniel Cohen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E22",
+      "O40"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c3010494",
+    "title": "DP690 A Model of Labour Demand with Linear Adjustment Costs",
+    "url": "https://cepr.org/publications/dp690",
+    "description": "",
+    "date": "1992-08-27",
+    "authors": "Samuel Bentolila; Gilles Saint-Paul",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "J23"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-5b127698",
+    "title": "DP701 Fiscal and Monetary Policy Under EMU: Credible Inflation Targets or Unpleasant Monetary Arithmetic?",
+    "url": "https://cepr.org/publications/dp701",
+    "description": "",
+    "date": "1992-08-18",
+    "authors": "Paul Levine; Joseph Pearlman",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E52",
+      "E62",
+      "F15",
+      "F33"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-fc7dc3b2",
+    "title": "DP698 Target Zone Models with Price Inertia: Some Testable Implications",
+    "url": "https://cepr.org/publications/dp698",
+    "description": "",
+    "date": "1992-08-03",
+    "authors": "Alan Sutherland",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "F31",
+      "F33"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d9f86719",
+    "title": "DP693 Ageing and Unemployment",
+    "url": "https://cepr.org/publications/dp693",
+    "description": "",
+    "date": "1992-08-03",
+    "authors": "Christoph Schmidt",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "J14",
+      "J51",
+      "J64"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-13db141f",
+    "title": "DP694 Wage Bargaining Structure, Employment and Economic Integration",
+    "url": "https://cepr.org/publications/dp694",
+    "description": "",
+    "date": "1992-07-30",
+    "authors": "Jean-Pierre Danthine; Jennifer Hunt",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "International Macroeconomics",
+      "E24",
+      "F15",
+      "J51",
+      "J61",
+      "L16"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7b910ca8",
+    "title": "DP700 Restructuring Enterprises in Eastern Europe",
+    "url": "https://cepr.org/publications/dp700",
+    "description": "",
+    "date": "1992-07-18",
+    "authors": "Colin Mayer; Wendy Carlin",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "G32",
+      "P11",
+      "P12"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6d343fa1",
+    "title": "DP699 Earnings Uncertainty and Precautionary Saving",
+    "url": "https://cepr.org/publications/dp699",
+    "description": "",
+    "date": "1992-06-30",
+    "authors": "Luigi Guiso; Tullio Jappelli; Daniele Terlizzese",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "D81",
+      "E21"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-40d827a2",
+    "title": "DP696 Taxes and Subsidies in the Transforming Hungarian Economy",
+    "url": "https://cepr.org/publications/dp696",
+    "description": "",
+    "date": "1992-06-30",
+    "authors": "Erno Zalai; Tamas Revesz",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "H20"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-131757ab",
+    "title": "DP695 Enterprise Debt and Economic Transformation: Financial Restructuring of the State Sector in Central and Eastern Europe",
+    "url": "https://cepr.org/publications/dp695",
+    "description": "",
+    "date": "1992-06-30",
+    "authors": "David Begg; Richard Portes",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "E44",
+      "G33",
+      "O16"
     ],
     "tags": [
       "economics"
