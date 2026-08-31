@@ -30,6 +30,21 @@
     ]
   },
   {
+    "id": "cepr-c21cf154",
+    "title": "DP21887 Subjective Expectations of Husbands and Wives and Couples’ Decision-Making Under Uncertainty",
+    "url": "https://cepr.org/publications/dp21887",
+    "description": "",
+    "date": "2026-08-29",
+    "authors": "de Paula; Valente",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-909ef10d",
     "title": "DP21883 Activation Costs, Fair Value, and Real Exchange Rate Adjustment",
     "url": "https://cepr.org/publications/dp21883",
@@ -3556,6 +3571,273 @@
       "Macroeconomics and Growth",
       "J11",
       "J14"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-27a0de72",
+    "title": "DP21208 Not-so-Cleansing-Recessions",
+    "url": "https://cepr.org/publications/dp21208",
+    "description": "",
+    "date": "2026-02-23",
+    "authors": "Igli Bajo; Frederik Bennhoff; Alessandro Ferrari",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "Monetary Economics and Fluctuations",
+      "Macroeconomics and Growth",
+      "E32",
+      "D31",
+      "L11"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-eeaa9604",
+    "title": "DP21207 Minimum Wages, Earnings, and Worker–Firm Sorting",
+    "url": "https://cepr.org/publications/dp21207",
+    "description": "",
+    "date": "2026-02-23",
+    "authors": "Suphanit Piyapromdee; Tanisa Tawichsri; Nada Wasi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "J31",
+      "J38",
+      "J60",
+      "J64"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-00e49d49",
+    "title": "DP21206 Modern Communication Technologies, Protests, and Service Blocking",
+    "url": "https://cepr.org/publications/dp21206",
+    "description": "",
+    "date": "2026-02-21",
+    "authors": "Maxim Ananyev; Maria Petrova; Dimitrios Xefteris; Galina Zudenkova",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Political Economy",
+      "D7",
+      "D8"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-61f90d25",
+    "title": "DP21205 Low Frequency Movements and SVAR Analyses",
+    "url": "https://cepr.org/publications/dp21205",
+    "description": "",
+    "date": "2026-02-21",
+    "authors": "Fabio Canova; Luca Fosso",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "E32",
+      "C32",
+      "E52"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-73b3cf7f",
+    "title": "DP21204 Remittances, Trade Deficit, and Output Dynamics in Nepal",
+    "url": "https://cepr.org/publications/dp21204",
+    "description": "",
+    "date": "2026-02-21",
+    "authors": "Anelí Bongers; Fabio Canova; Kul Luintel; José Luis Torres",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "F22",
+      "F24",
+      "F41",
+      "E32"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-49b11848",
+    "title": "DP21203 Intertemporal MPC and Shock Size",
+    "url": "https://cepr.org/publications/dp21203",
+    "description": "",
+    "date": "2026-02-20",
+    "authors": "Tullio Jappelli; Ettore Savoia; Alessandro Sciacchetano",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Macroeconomics and Growth",
+      "D12",
+      "D14",
+      "D15",
+      "C8",
+      "C99"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-34635771",
+    "title": "DP21202 Nonparametric Identification of Demand without Exogenous Product Characteristics",
+    "url": "https://cepr.org/publications/dp21202",
+    "description": "",
+    "date": "2026-02-19",
+    "authors": "Kirill Borusyak; Jiafeng Chen; Peter Hull; Lihua Lei",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "C14",
+      "C36",
+      "L13"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-71cda671",
+    "title": "DP21201 Managers and the Cultural Transmission of Gender Norms",
+    "url": "https://cepr.org/publications/dp21201",
+    "description": "",
+    "date": "2026-02-19",
+    "authors": "Virginia Minni; Kieutrang Nguyen; Heather Sarsons; Carla Srebot",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Inequality and the Role of Firms",
+      "Labour Economics",
+      "Organizational Economics",
+      "J16",
+      "J24",
+      "F23",
+      "M14",
+      "M5"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1dc73e89",
+    "title": "DP21200 New Technology and Entrepreneurship",
+    "url": "https://cepr.org/publications/dp21200",
+    "description": "",
+    "date": "2026-02-19",
+    "authors": "Hans K. Hvide; Tom G. Meling",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "Labour Economics",
+      "Macroeconomics and Growth",
+      "Organizational Economics",
+      "Public Economics",
+      "Banking and Corporate Finance",
+      "D21",
+      "D24",
+      "J23",
+      "L11",
+      "L25",
+      "G39"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-9d3bbf43",
+    "title": "DP21199 Regulatory Reform and Opportunistic Insider Trading",
+    "url": "https://cepr.org/publications/dp21199",
+    "description": "",
+    "date": "2026-02-19",
+    "authors": "Anantha Divakaruni; Hans K. Hvide; Hedda Rytter Tveiten",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "Organizational Economics",
+      "Public Economics",
+      "Banking and Corporate Finance",
+      "G14",
+      "G18",
+      "K22",
+      "K42",
+      "G34",
+      "J33"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-cd34068e",
+    "title": "DP21198 Cross-Border Spillovers: How U.S. Monetary Conditions Affect M&amp;As Around the World",
+    "url": "https://cepr.org/publications/dp21198",
+    "description": "",
+    "date": "2026-02-19",
+    "authors": "Katharina Bergant; Prachi Mishra; Raghuram Rajan; Freddy Pinzon-Puerto",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics and Finance",
+      "Monetary Economics and Fluctuations",
+      "Banking and Corporate Finance",
+      "F63",
+      "F65",
+      "G34"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7fc195ec",
+    "title": "DP21197 Supply Shocks in the Fog: The Role of Endogenous Uncertainty",
+    "url": "https://cepr.org/publications/dp21197",
+    "description": "",
+    "date": "2026-02-19",
+    "authors": "Anastasiia Antonova; Mykhailo Matvieiev; Céline Poilly",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "E32",
+      "D81",
+      "E52",
+      "D83",
+      "E21"
     ],
     "tags": [
       "economics"
