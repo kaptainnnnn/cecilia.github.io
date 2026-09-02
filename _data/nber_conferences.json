@@ -1278,5 +1278,13 @@
     "date": "December 11, 2026",
     "type": "Conference",
     "has_program": false
+  },
+  {
+    "id": "nber-conf-f8c17a2d",
+    "title": "Community Colleges and Local Labor Markets, Fall 2026",
+    "url": "https://www.nber.org/conferences/community-colleges-and-local-labor-markets-fall-2026",
+    "date": "October 30, 2026",
+    "type": "Conference",
+    "has_program": false
   }
 ]
