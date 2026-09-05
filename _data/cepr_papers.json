@@ -1,5 +1,20 @@
 [
   {
+    "id": "cepr-82e9e659",
+    "title": "DP21904 A General Randomized Test for Alpha",
+    "url": "https://cepr.org/publications/dp21904",
+    "description": "",
+    "date": "2026-09-04",
+    "authors": "Sarno; Massacci; Trapani; Vallarino",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-062f5cc0",
     "title": "DP21903 Beyond Optimization and Blind Selection: Reflexive Agency in Economic Evolution",
     "url": "https://cepr.org/publications/dp21903",
@@ -3549,6 +3564,251 @@
       "O33",
       "O40",
       "E24"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e5f97389",
+    "title": "DP21647 Morals and the Political Economy of Corrective Taxes",
+    "url": "https://cepr.org/publications/dp21647",
+    "description": "",
+    "date": "2026-06-21",
+    "authors": "Felix Bierbrauer; Mattias Polborn; Marten Ritterrath; Georg Weizsäcker",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Political Economy",
+      "Public Economics",
+      "C9",
+      "D11",
+      "D72",
+      "H23"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4f101c8e",
+    "title": "DP21645 Pension Income and Post-Retirement Labor Supply",
+    "url": "https://cepr.org/publications/dp21645",
+    "description": "",
+    "date": "2026-06-19",
+    "authors": "Fabian Kindermann; Carla Krolage; Sebastian Kunz; Manuel Pannier; Karoline Ströhlein",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "Macroeconomics and Growth",
+      "Public Economics",
+      "J14",
+      "J22",
+      "J26",
+      "H31",
+      "H55"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-210a69e8",
+    "title": "DP21644 Housing Search and Liquidity in Spatial Equilibrium",
+    "url": "https://cepr.org/publications/dp21644",
+    "description": "",
+    "date": "2026-06-19",
+    "authors": "Tuuli Vanhapelto; Thierry Magnac",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "Public Economics"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8dae78ee",
+    "title": "DP21643 Consumption responses to rising mortgage rates: Unpacking the cash-flow channel of monetary policy",
+    "url": "https://cepr.org/publications/dp21643",
+    "description": "",
+    "date": "2026-06-19",
+    "authors": "Asger Lau Andersen; Andreas Jakobsen; Mads Rahbek Jørgensen; Niels Johannesen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "Public Economics",
+      "D12",
+      "D14",
+      "E21",
+      "E43",
+      "E52"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-32a33899",
+    "title": "DP21642 Does Global Financial Transparency Improve Tax Compliance in Developing Countries?",
+    "url": "https://cepr.org/publications/dp21642",
+    "description": "",
+    "date": "2026-06-19",
+    "authors": "Niels Johannesen; Lauge Larsen; Nadine Riedel",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Public Economics"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2e9c94e8",
+    "title": "DP21619 Information Shocks, Attitudes toward Immigrants, and Hate Crime",
+    "url": "https://cepr.org/publications/dp21619",
+    "description": "",
+    "date": "2026-06-13",
+    "authors": "Jake Bradley; Facundo Albornoz-Crespo; Silvia Sonderegger; Jesus Rodriguez; Devesh Rustagi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Political Economy",
+      "Public Economics",
+      "C72",
+      "D80",
+      "P0"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d9b32236",
+    "title": "DP21616 Unequal Lives, Unequal Benefits: Life Expectancy and Social Security Rules",
+    "url": "https://cepr.org/publications/dp21616",
+    "description": "",
+    "date": "2026-06-13",
+    "authors": "Javier Fernández-Blanco; Virginia Sánchez-Marcos",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Macroeconomics and Growth",
+      "Public Economics",
+      "J22",
+      "I14"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-9daac651",
+    "title": "DP21613 Is Income Inequality on the Rise Everywhere?",
+    "url": "https://cepr.org/publications/dp21613",
+    "description": "",
+    "date": "2026-06-12",
+    "authors": "Facundo Alvaredo; Francois Bourguignon; Francisco Ferreira; Christoph Lakner; Nora Lustig",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "Public Economics",
+      "D31",
+      "D63"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d4b4eba6",
+    "title": "DP21612 Explaining the Atomistic versus Ecological Fallacies in SES-Health Gradients",
+    "url": "https://cepr.org/publications/dp21612",
+    "description": "",
+    "date": "2026-06-12",
+    "authors": "William Parker; Johannes Spinnewijn",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Public Economics"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-9bb4f1c1",
+    "title": "DP21611 An Early Capital Taxation Principle",
+    "url": "https://cepr.org/publications/dp21611",
+    "description": "",
+    "date": "2026-06-12",
+    "authors": "Gaetano Bloise; Pietro Reichlin",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics and Finance",
+      "Macroeconomics and Growth",
+      "Public Economics",
+      "E20",
+      "E21",
+      "E60",
+      "H2",
+      "H21"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-977c4076",
+    "title": "DP21605 Limited Means, Limited Care? Healthcare Expenditures of the Financially Constrained in the Netherlands",
+    "url": "https://cepr.org/publications/dp21605",
+    "description": "",
+    "date": "2026-06-08",
+    "authors": "Mats Frijlink; Minke Remmerswaal; Jan Boone; Lily Davies; Rudy Douven",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Public Economics"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c8a31a5f",
+    "title": "DP21596 Do Incentives and Organizational Innovations Affect the Performance of Public Administrations? Lessons from the Italian NRRP",
+    "url": "https://cepr.org/publications/dp21596",
+    "description": "",
+    "date": "2026-06-06",
+    "authors": "Antonio Accetturo; Audinga Baltrunaite; Elena Lazzaro; Anna Laura Mancini",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Organizational Economics",
+      "Political Economy",
+      "Public Economics",
+      "D73",
+      "H57",
+      "H83"
     ],
     "tags": [
       "economics"
