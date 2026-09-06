@@ -1,5 +1,20 @@
 [
   {
+    "id": "cepr-7f2dba50",
+    "title": "DP21905 Off-Path Beliefs",
+    "url": "https://cepr.org/publications/dp21905",
+    "description": "",
+    "date": "2026-09-05",
+    "authors": "Gonçalves; Kneeland; Ziegler",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-82e9e659",
     "title": "DP21904 A General Randomized Test for Alpha",
     "url": "https://cepr.org/publications/dp21904",
@@ -4071,6 +4086,261 @@
       "Macroeconomics and Growth",
       "J11",
       "J14"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d5f960d5",
+    "title": "DP21437 The Political Impact of Refugees in Africa",
+    "url": "https://cepr.org/publications/dp21437",
+    "description": "",
+    "date": "2026-05-04",
+    "authors": "Cansu Demir; Anna Maria Mayda; Jean-Francois Maystadt",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Political Economy of Migration",
+      "Development Economics",
+      "International Trade and Regional Economics",
+      "Political Economy",
+      "O15",
+      "I15"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8a5700e8",
+    "title": "DP21436 Understanding the Transatlantic Divide in Labor Income Shares",
+    "url": "https://cepr.org/publications/dp21436",
+    "description": "",
+    "date": "2026-05-04",
+    "authors": "Drago Bergholt; Francesco Furlanetto; Nicolò Maffei Faccioli; Evi Pappa",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "E2",
+      "D2",
+      "D4",
+      "J3",
+      "L1"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-bfe940df",
+    "title": "DP21435 A Political Economy Approach to State Religion and Holy Wars",
+    "url": "https://cepr.org/publications/dp21435",
+    "description": "",
+    "date": "2026-05-04",
+    "authors": "Emmanuelle Auriol; Jean-Philippe Platteau; Thierry Verdier",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "Political Economy",
+      "D02",
+      "D72",
+      "N40",
+      "O57",
+      "P48",
+      "Z12"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-53a0ab38",
+    "title": "DP21434 The Sisyphean Pursuit of Evidence for Poverty Traps",
+    "url": "https://cepr.org/publications/dp21434",
+    "description": "",
+    "date": "2026-04-30",
+    "authors": "Dean Karlan; Amol Raswan; Christopher Udry",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "I32",
+      "I38",
+      "J24",
+      "O12",
+      "R23"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-204e8441",
+    "title": "DP21433 Carbon Pricing and Investors’ Reactions: Evidence from Washington State",
+    "url": "https://cepr.org/publications/dp21433",
+    "description": "",
+    "date": "2026-04-29",
+    "authors": "Marc-Philipp Bohnet; Stefano Carattini; Suphi Sen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Asset Pricing",
+      "Climate Change and the Environment",
+      "G12",
+      "H23",
+      "H71",
+      "L50",
+      "Q58"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-95001b8c",
+    "title": "DP21432 The Social Media Externality",
+    "url": "https://cepr.org/publications/dp21432",
+    "description": "",
+    "date": "2026-04-28",
+    "authors": "Sarit Markovich; Luis Rayo",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Organizational Economics",
+      "D83",
+      "D86",
+      "D62",
+      "I31",
+      "L82"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-187e61fd",
+    "title": "DP21431 Motherhood and Constraints during Job Search",
+    "url": "https://cepr.org/publications/dp21431",
+    "description": "",
+    "date": "2026-04-28",
+    "authors": "Arnaud Philippe; Daphne Skandalis",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "J16",
+      "J22",
+      "J64"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ac984298",
+    "title": "DP21430 The Extreme Points of Mean-Preserving Contractions",
+    "url": "https://cepr.org/publications/dp21430",
+    "description": "",
+    "date": "2026-04-28",
+    "authors": "Andreas Kleiner; Benny Moldovanu; Philipp Strack; Mark Withmeyer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "Organizational Economics"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-81084281",
+    "title": "DP21429 Extreme Points and Majorization",
+    "url": "https://cepr.org/publications/dp21429",
+    "description": "",
+    "date": "2026-04-28",
+    "authors": "Andreas Kleiner; Benny Moldovanu; Philipp Strack",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "Organizational Economics",
+      "D82"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2a170610",
+    "title": "DP21428 Violence, Political Selection, and State Formation: Evidence from Post-Unification Italy",
+    "url": "https://cepr.org/publications/dp21428",
+    "description": "",
+    "date": "2026-04-28",
+    "authors": "Paolo Buonanno; Giampaolo Lecce; Laura Ogliari; Giacomo Plevani",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Economic History",
+      "Political Economy",
+      "D72",
+      "N43",
+      "O43",
+      "H41"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ec0e5d50",
+    "title": "DP21427 When Do Secondary Stakeholder Attacks Matter to Financial Analysts? The Role of Analysts’ Political Ideology",
+    "url": "https://cepr.org/publications/dp21427",
+    "description": "",
+    "date": "2026-04-27",
+    "authors": "Mohammad Sadri; Ali Mohammadi; Pooyan Khashabi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Organizational Economics",
+      "Political Economy",
+      "Banking and Corporate Finance",
+      "G14",
+      "G24",
+      "D91",
+      "M14"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-95a41536",
+    "title": "DP21426 Inflexibility and the Stalled Progress of American Women in the Labor Market",
+    "url": "https://cepr.org/publications/dp21426",
+    "description": "",
+    "date": "2026-04-27",
+    "authors": "Stefania Albanesi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "Macroeconomics and Growth"
     ],
     "tags": [
       "economics"
