@@ -1,5 +1,65 @@
 [
   {
+    "id": "cepr-f432edb3",
+    "title": "DP21909 Decomposing Cyclical Grocery Prices: Store and Household Responses",
+    "url": "https://cepr.org/publications/dp21909",
+    "description": "",
+    "date": "2026-09-06",
+    "authors": "Friberg; Aursland; Steen; Ulsaker",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-94fb5a83",
+    "title": "DP21908 An Empirically-Grounded Theory of Voting Based on Prosocial Motives",
+    "url": "https://cepr.org/publications/dp21908",
+    "description": "",
+    "date": "2026-09-06",
+    "authors": "Bouton; Krasa; Squintani",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6ec1411b",
+    "title": "DP21907 Hey, Governors, Leave Them Kids Alone: Political Influence During Childhood",
+    "url": "https://cepr.org/publications/dp21907",
+    "description": "",
+    "date": "2026-09-06",
+    "authors": "Daniele; Galletta; Le Moglie; Masera",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-598da848",
+    "title": "DP21906 Male Dominance and Cultural Extinction",
+    "url": "https://cepr.org/publications/dp21906",
+    "description": "",
+    "date": "2026-09-06",
+    "authors": "Guarnieri",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-7f2dba50",
     "title": "DP21905 Off-Path Beliefs",
     "url": "https://cepr.org/publications/dp21905",
