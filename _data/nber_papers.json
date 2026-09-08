@@ -1,5 +1,434 @@
 [
   {
+    "id": "nber-291ddef4",
+    "title": "Comparisons",
+    "url": "https://www.nber.org/papers/w35694",
+    "description": "Economic decisions are often shaped by comparison points such as reference points, goals, expectations and peers. A long-standing puzzle is that decisions sometimes increase in these comparators (assimilation) and sometimes decrease in them (contrast). We develop a simple taxonomy that predicts the...",
+    "date": "2026-09",
+    "authors": "Thomas Graeber ⓡ Benjamin Enke",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-82b98cad",
+    "title": "Pensions and Turbulence: Automatic Adjustment, Risk, and Fairness in Long-Term Pension Design",
+    "url": "https://www.nber.org/papers/w35693",
+    "description": "Pensions and Turbulence: Automatic Adjustment, Risk, and Fairness in Long-Term Pension Design",
+    "date": "2026-09",
+    "authors": "Peter A. Diamond",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-979f7f99",
+    "title": "Rain Follows the Forest: Land Use Policy, Climate Change, and Adaptation",
+    "url": "https://www.nber.org/papers/w35695",
+    "description": "Human actions can alter the climate via land use. We analyze the 1930s Great Plains Shelterbelt, a large-scale forestation program across the US Midwest. The program increased precipitation and decreased temperatures for decades. We measure these changes in downwind counties where no trees were...",
+    "date": "2026-09",
+    "authors": "Florian Grosset-Touba, Anna Papp & Charles A. Taylor",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-3e77b38f",
+    "title": "Loan Rates as Incentive Instruments",
+    "url": "https://www.nber.org/papers/w35696",
+    "description": "Loan rates are usually viewed as prices that shape borrower incentives, but they can also serve another role in a principal-agent problem by determining how informative repayment is about unobservable effort inside the bank. I study how the two roles interact: because loan rates move repayment...",
+    "date": "2026-09",
+    "authors": "Kinda Cheryl Hachem",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b4fef5d5",
+    "title": "Do Online Job Postings Capture Job Vacancies?",
+    "url": "https://www.nber.org/papers/w35697",
+    "description": "We ask whether online job postings capture U.S. job vacancies, matching near-universal Burning Glass (BG) postings to the representative Job Openings and Labor Turnover Survey (JOLTS). BG converged toward JOLTS over 20072022, and its representativeness varies across establishment characteristics. We...",
+    "date": "2026-09",
+    "authors": "Michael Dalton, Lisa B. Kahn & Andreas I. Mueller",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-779e7dfc",
+    "title": "Is a Dollar a Dollar? How Transfer Design Shapes Household Spending",
+    "url": "https://www.nber.org/papers/w35698",
+    "description": "Government transfers vary along two design dimensions that standard models predict should not matter: whether benefits are paid in cash or kind, and whether they arrive as one-time or recurring payments. We test how these design choices affect household spending using sharp changes in four pandemic...",
+    "date": "2026-09",
+    "authors": "Therese Bonomo, Krista J. Ruffini & Diane Whitmore Schanzenbach",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-5718ae62",
+    "title": "PLRD: Partially Linear Regression Discontinuity Inference",
+    "url": "https://www.nber.org/papers/w35699",
+    "description": "Regression discontinuity designs have become one of the most popular research designs in empirical economics. We argue, however, that the widely used approaches to building confidence intervals in regression discontinuity designs often exhibit suboptimal behavior in practice. We propose a new...",
+    "date": "2026-09",
+    "authors": "Aditya Ghosh, Guido Imbens & Stefan Wager",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b1de0f3a",
+    "title": "Air Pollution and Learning",
+    "url": "https://www.nber.org/papers/w35670",
+    "description": "Nearly the entire world's population breathes air exceeding WHO pollution guidelines, but the extent to which that exposure impairs the accumulation of human capital is not well understood. We study this using longitudinal PSAT data on nearly 10 million U.S. high school students, comparing the same...",
+    "date": "2026-09",
+    "authors": "A. Patrick Behrer, Joshua Goodman, J. Parker Goyer & R. Jisung Park",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-cd603e7d",
+    "title": "Cross-Section Estimation of Long-Run Relations Using Time-Compressed Data",
+    "url": "https://www.nber.org/papers/w35700",
+    "description": "Many empirical investigations of long-run relations are based on cross-section regressions in averaged or long differenced data that effectively have the time dimension of a T N panel compressed. We analyze a class of time-compressed I(1) data and show that they have magnified variability stemming...",
+    "date": "2026-09",
+    "authors": "Serena Ng & Nikolay Gospodinov",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-ead333e8",
+    "title": "Tracking Inequality: Teachers and the Allocation of Educational Opportunities",
+    "url": "https://www.nber.org/papers/w35701",
+    "description": "Professionals routinely make consequential decisions for others without systematically observing how those decisions turn out. Whether such decisions reflect accurate forecasting or systematically distorted beliefs has important implications for equality of opportunity. We study this question in the...",
+    "date": "2026-09",
+    "authors": "Michela Carlana, Francesca Miserocchi & Eleonora Patacchini",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-fddc236e",
+    "title": "Rational Inattention to Discrete Choices with Stable Priors",
+    "url": "https://www.nber.org/papers/w35702",
+    "description": "How does prior information affect discrete choice? In the seminal rational inattention model of Matjka and McKay (2015), multinomial logit arises from the discrete choice of agents who are uncertain about choice payoffs and who have access to a flexible information acquisition technology (RI-logit)....",
+    "date": "2026-09",
+    "authors": "Bruno Pellegrino",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-48081126",
+    "title": "How Big is Small? The Economic Effects of Access to Small Business Government Support",
+    "url": "https://www.nber.org/papers/w35703",
+    "description": "How Big is Small? The Economic Effects of Access to Small Business Government Support",
+    "date": "2026-09",
+    "authors": "J. David Brown, Matthew Denes, Ran Duchin & John Hackney",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-25f1f850",
+    "title": "The Allocative Cost of War: A View to a Kill...ing of Productivity",
+    "url": "https://www.nber.org/papers/w35704",
+    "description": "Why is war so economically costly? Our answer is that modern war lowers output not only by destroying productive factors, but also by making the surviving economy work less efficiently. Using uniquely comprehensive firm-level data collected during Russias full-scale invasion of Ukraine in 2022, we...",
+    "date": "2026-09",
+    "authors": "Marvin Amann, Yuriy Gorodnichenko & Oleksandr Talavera",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-6809719f",
+    "title": "Unemployment Insurance in Macroeconomic Stabilization with Imperfect Expectations",
+    "url": "https://www.nber.org/papers/w35705",
+    "description": "Unemployment Insurance in Macroeconomic Stabilization with Imperfect Expectations",
+    "date": "2026-09",
+    "authors": "Bence Bardóczy & Joao Guerreiro",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-5f6ef68d",
+    "title": "Dynamic Investment and Product Market Rivalry: the Network Q Model",
+    "url": "https://www.nber.org/papers/w35707",
+    "description": "We present a new dynamic model of corporate investment in imperfectly competitive product markets that extends the neoclassical (Q) theory of capital to accommodate heterogeneous, multi-product firms and a rich hedonic demand system. Our model endogenizes firms' markups and generalizes Tobin's Q to...",
+    "date": "2026-09",
+    "authors": "M. Cecilia Bustamante & Bruno Pellegrino",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-a69f7bcf",
+    "title": "“Non-Marginal” Investor Beliefs",
+    "url": "https://www.nber.org/papers/w35708",
+    "description": "This paper provides evidence of how the beliefs of investors who step out of the market, or non-marginal investors, influence asset prices. Using more than two decades of respondent-level investor surveys, we construct wedge measures that quantify the distance between subjective investor beliefs and...",
+    "date": "2026-09",
+    "authors": "William N. Goetzmann, Dasol Kim & Robert J. Shiller",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-07fad53a",
+    "title": "Signals, Steps, and Setbacks: Age Discrimination in a Laddered Labor Market",
+    "url": "https://www.nber.org/papers/w35709",
+    "description": "We study age discrimination in a labor market with a job ladder, where worker productivity is revealed over time. Using data from a large Chinese recruitment platform that links job postings, applications, and employer responses, we document sharp declines in applications and callbacks at posted age...",
+    "date": "2026-09",
+    "authors": "Shuaizhang Feng, Lars Lefgren, Jieyi Liu, Brennan Platt & Xiaoyu Xia",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-4269c241",
+    "title": "Health Insurance Underwriting and the Heterogeneous Effects of the Affordable Care Act",
+    "url": "https://www.nber.org/papers/w35692",
+    "description": "Health Insurance Underwriting and the Heterogeneous Effects of the Affordable Care Act",
+    "date": "2026-09",
+    "authors": "Pietro Tebaldi, Andrea Scalenghe & Joseph Orsini",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b85e170c",
+    "title": "Risk Perceptions of E-Cigarettes and the Evaluation of EVALI Messaging",
+    "url": "https://www.nber.org/papers/w35724",
+    "description": "With the growth of sales of e-cigarettes and other alternative nicotine products, governments face the new challenge of crafting public health messages that provide information to consumers about these less risky but not risk-free products. Bayesian learning serves as the theoretical framework for...",
+    "date": "2026-09",
+    "authors": "Lawrence Jin, Donald S. Kenkel, Alan D. Mathios, Grace N. Phillips, Revathy Suryanarayana & Hua Wang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-d558f648",
+    "title": "Female Micro-Entrepreneurship and Child Development",
+    "url": "https://www.nber.org/papers/w35710",
+    "description": "Ultra-poor graduation programs (UPG) reliably reduce extreme poverty among adult recipients, yet their intergenerational effects on children remain largely undocumented. We study a child-focused UPG in rural Malawi that augments the standard graduation bundle with early childhood development (ECD)...",
+    "date": "2026-09",
+    "authors": "Andrew Foster, Moritz Poll & Hyun Soo Suh",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-ec2bcab8",
+    "title": "The Impact of Patient Capital",
+    "url": "https://www.nber.org/papers/w35711",
+    "description": "We show that investor patience shapes venture-capital (VC) investment strategies and outcomes. Through a randomized experiment with Chinese fund managers, we demonstrate that managers explicitly tailor fund duration and project holding periods to the perceived horizons of their limited partner (LP)...",
+    "date": "2026-09",
+    "authors": "Yingxiang Li, Tong Liu & Ting Xu",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-f6161535",
+    "title": "The Limits of Verifiability: Credibility and Flexibility in Communication",
+    "url": "https://www.nber.org/papers/w35712",
+    "description": "We compare verifiable and unverifiable communication in a senderreceiver setting with partially aligned preferences, where the sender knows more than what her evidence can prove. We identify a credibilityflexibility tradeoff: tying the senders claims to her evidence enhances her credibility, but...",
+    "date": "2026-09",
+    "authors": "Alessandro Lizzeri, Yichuan Lou & Jacopo Perego",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-a934a4c9",
+    "title": "Rust in Motion: The Political Environmental Trap of Vehicle Tax Exemptions",
+    "url": "https://www.nber.org/papers/w35713",
+    "description": "Transportation is a major source of greenhouse gas and air pollution emissions worldwide, with most automobile pollution coming from vehicles older than 10 years. Yet, many policies discourage the removal of older vehicles from the fleet, with potential consequences for pollution and public health....",
+    "date": "2026-09",
+    "authors": "Gabriel Facundes Monteiro & Edson R. Severnini",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-0e208392",
+    "title": "Behavioral Signatures of Cognitive Noise",
+    "url": "https://www.nber.org/papers/w35714",
+    "description": "The cognitive noise hypothesis is an increasingly popular explanation for a wide range of puzzling regularities in human behavior. Using simple, familiar tools and minimal assumptions drawn from neuroscience, cognitive noise models provide a parsimonious, unified explanation for a number of the most...",
+    "date": "2026-09",
+    "authors": "Ryan Oprea & Michael Woodford",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-070c4bd0",
+    "title": "Fiscal Policy and the Saving Glut of the Rich",
+    "url": "https://www.nber.org/papers/w35715",
+    "description": "Since the 1980s, the United States has experienced a pronounced saving glut of the rich, a large accumulation of assets among the top 1% of earners. We argue that this development partly reflects a shift in the financing of redistributive policies, from inflationary finance in the 1960s and 1970s to...",
+    "date": "2026-09",
+    "authors": "Francesco Bianchi, Nicolò Ceneri, Leonardo Melosi & Alessandro T. Villa",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-136d6846",
+    "title": "Expectations-based Capital Inflow Shocks",
+    "url": "https://www.nber.org/papers/w35716",
+    "description": "Identifying the impact of capital inflows on output is challenging because inflows are forward-looking and respond to expectations about future economic conditions. We develop a new measure of capital inflow shocks using a simple and broadly applicable expectations-based framework that isolates the...",
+    "date": "2026-09",
+    "authors": "Jongrim Ha, Dohan Kim, M. Ayhan Kose & Francis E. Warnock",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-06fab150",
+    "title": "The No Surprises Act’s Surprises: Arbitration, Provider Network, and Insurer Pricing",
+    "url": "https://www.nber.org/papers/w35717",
+    "description": "The No Surprises Act’s Surprises: Arbitration, Provider Network, and Insurer Pricing",
+    "date": "2026-09",
+    "authors": "Panle Jia Barwick, Anran Li, Tianli Xia & Shizhe Yu",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-95436f0b",
+    "title": "The Utility of AI Tools in Auditing Adherence to Pre-Analysis Plans",
+    "url": "https://www.nber.org/papers/w35719",
+    "description": "Pre-analysis plans (PAPs) can improve research reproducibility by reducing researchers degrees of freedom, but their value depends on adherence. We argue that large language models (LLMs) can provide an efficient, scalable, and systematic way for authors and reviewers to assess adherence to PAPs. In...",
+    "date": "2026-09",
+    "authors": "Jeffrey Clemens & Anwita Mahajan",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-d1744114",
+    "title": "Will New Transportation Technologies Increase Urban Density",
+    "url": "https://www.nber.org/papers/w35718",
+    "description": "Will 21st century transportation innovations work against urban density, as the car did in the 20th century, or promote urban centralization, as the railroad did in the 19th century? Reducing the cost of commuting always reduces urban centralization in the classic Alonso-Muth-Mills model but that...",
+    "date": "2026-09",
+    "authors": "Edward L. Glaeser",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b60c708b",
+    "title": "An Empirically-Grounded Theory of Voting Based on Prosocial Motives",
+    "url": "https://www.nber.org/papers/w35723",
+    "description": "We propose a model of costly voting in a canonical spatial setting that reconciles key empirical features of electoral turnout. We integrate citizens with prosocial voting motives who realize higher payoffs from voting when (i) they expect more fellow supporters to vote, (ii) such votes collectively...",
+    "date": "2026-09",
+    "authors": "Dan M. Bernhardt, Laurent Bouton, Stefan Krasa & Francesco Squintani",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1ebb6fe8",
+    "title": "Politics-driven Market Access and Its Cost: Evidence from China’s Grand Canal",
+    "url": "https://www.nber.org/papers/w35721",
+    "description": "Transportation networks often radiate from national capitals, reflecting political priorities as much as economic logic. How costly is infrastructure built for politics rather than markets? We study Chinas Grand Canal: when the Mongols moved the capital from the central plain to Beijing, the canal...",
+    "date": "2026-09",
+    "authors": "Ying Bai, Xiaoyu Bian & Ruixue Jia",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-db72f670",
+    "title": "Does AI Assistance Enhance or Erode Expertise? Evidence from a Three-Month Field Experiment in Patent Drafting",
+    "url": "https://www.nber.org/papers/w35720",
+    "description": "Does AI Assistance Enhance or Erode Expertise? Evidence from a Three-Month Field Experiment in Patent Drafting",
+    "date": "2026-09",
+    "authors": "David Autor, Tanya Rodchenko, Josh Martin, Zanna Iscenko, Scott Strand, David Pearl & Melissa Ferere",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-68a1f8d1",
+    "title": "The Multigenerational Effects of Legal Access to the Pill on Infant Health",
+    "url": "https://www.nber.org/papers/w35722",
+    "description": "We examine whether expanded legal access to the contraceptive pill for minors generated health benefits for subsequent generations. We use data from the restricted-use Natality files from 1970-2020, linking mothers to the level of access to the pill in their state and year of birth and the extent to...",
+    "date": "2026-09",
+    "authors": "Hamid Noghanibehambari, David Slusky, Erdal Tekin & Hoa Vu",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "nber-13d464d6",
     "title": "Time Travel on Professional Profiles",
     "url": "https://www.nber.org/papers/w35546",

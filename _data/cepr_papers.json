@@ -1,5 +1,80 @@
 [
   {
+    "id": "cepr-bde49f27",
+    "title": "DP21915 Employment Protection Reforms: From Firm-Level Effects to Aggregate Outcomes",
+    "url": "https://cepr.org/publications/dp21915",
+    "description": "",
+    "date": "2026-09-07",
+    "authors": "Cahuc; Carry; Malherbet; Silva Martins",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6637c813",
+    "title": "DP21913 Local Methods for Large Transfers",
+    "url": "https://cepr.org/publications/dp21913",
+    "description": "",
+    "date": "2026-09-07",
+    "authors": "Bayer; Briglia; Luetticke; Weiß; Winkelmann",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-5c8f0fef",
+    "title": "DP21912 Fiscal Policy and the Saving Glut of the Rich",
+    "url": "https://cepr.org/publications/dp21912",
+    "description": "",
+    "date": "2026-09-07",
+    "authors": "Bianchi; Melosi; Ceneri; Villa",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f7f0675d",
+    "title": "DP21911 Consumption Anchors Stock Prices",
+    "url": "https://cepr.org/publications/dp21911",
+    "description": "",
+    "date": "2026-09-07",
+    "authors": "Favero; Melone; Myers; Tamoni",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-347dbb4e",
+    "title": "DP21910 Innovation, Diffusion through Technology Standards and the Value of the Firm",
+    "url": "https://cepr.org/publications/dp21910",
+    "description": "",
+    "date": "2026-09-07",
+    "authors": "Bergeaud; Schmidt; Zago",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-f432edb3",
     "title": "DP21909 Decomposing Cyclical Grocery Prices: Store and Household Responses",
     "url": "https://cepr.org/publications/dp21909",
@@ -6690,6 +6765,249 @@
       "J22",
       "J31",
       "J61"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-84a11ecc",
+    "title": "DP2554 Damages and Injunctions in Protecting Proprietary Research Tools",
+    "url": "https://cepr.org/publications/dp2554",
+    "description": "",
+    "date": "2000-09-26",
+    "authors": "Mark Schankerman; Suzanne Scotchmer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-fd5f8cb6",
+    "title": "DP2553 Resale Price Maintenance and Collusion",
+    "url": "https://cepr.org/publications/dp2553",
+    "description": "",
+    "date": "2000-09-26",
+    "authors": "Patrick Rey; Bruno Jullien",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "K21",
+      "L13",
+      "L41",
+      "L42"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1c8a4362",
+    "title": "DP2552 Try Me! On Job Assignments as a Screening Device",
+    "url": "https://cepr.org/publications/dp2552",
+    "description": "",
+    "date": "2000-09-26",
+    "authors": "Juan D Carrillo",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "Public Economics",
+      "D21",
+      "D73",
+      "D80",
+      "L22"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7a66d7b2",
+    "title": "DP2551 In Search of New Foundations",
+    "url": "https://cepr.org/publications/dp2551",
+    "description": "",
+    "date": "2000-09-26",
+    "authors": "Luigi Zingales",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "Industrial Organization",
+      "G30"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1a9f4ca3",
+    "title": "DP2550 The Exchange Rate - A Shock-Absorber or Source of Shocks? A Study of Four Open Economies",
+    "url": "https://cepr.org/publications/dp2550",
+    "description": "",
+    "date": "2000-09-26",
+    "authors": "Michael Artis; Michael Ehrmann",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "C32",
+      "E42",
+      "F31",
+      "F33"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-0a096d7f",
+    "title": "DP2549 Household Portfolios in Italy",
+    "url": "https://cepr.org/publications/dp2549",
+    "description": "",
+    "date": "2000-09-26",
+    "authors": "Luigi Guiso; Tullio Jappelli",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "D80",
+      "E20",
+      "G10"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-630f4562",
+    "title": "DP2548 Should We be Afraid of Friedman's Rule?",
+    "url": "https://cepr.org/publications/dp2548",
+    "description": "",
+    "date": "2000-09-26",
+    "authors": "Harald Uhlig",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E31",
+      "E41",
+      "E50",
+      "E51",
+      "E52"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-973e24d7",
+    "title": "DP2547 Did Monetary Forces Cause the Great Depression?",
+    "url": "https://cepr.org/publications/dp2547",
+    "description": "",
+    "date": "2000-09-26",
+    "authors": "Albrecht Ritschl; Ulrich Woitek",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "C53",
+      "E37"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-48c1e595",
+    "title": "DP2546 Detecting Structural Breaks in Exchange Rates in Transition Economies",
+    "url": "https://cepr.org/publications/dp2546",
+    "description": "",
+    "date": "2000-08-29",
+    "authors": "Evzen Kocenda",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Transition Economics",
+      "C20",
+      "F30",
+      "P52"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-635123b9",
+    "title": "DP2545 Disintegration",
+    "url": "https://cepr.org/publications/dp2545",
+    "description": "",
+    "date": "2000-08-29",
+    "authors": "Simeon Djankov; Caroline Freund",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Transition Economics",
+      "International Trade and Regional Economics",
+      "F10",
+      "F14",
+      "F15",
+      "P20"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-74c9cef1",
+    "title": "DP2544 Efficiency and Market Share in the Hungarian Corporate Sector",
+    "url": "https://cepr.org/publications/dp2544",
+    "description": "",
+    "date": "2000-08-29",
+    "authors": "László Halpern; Gábor Kőrösi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Transition Economics",
+      "C23",
+      "D21",
+      "D24"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2e000d46",
+    "title": "DP2543 Why Pay More? Corporate Tax Avoidance Through Transfer Pricing in OECD Countries",
+    "url": "https://cepr.org/publications/dp2543",
+    "description": "",
+    "date": "2000-08-29",
+    "authors": "Roel Beetsma; Eric J Bartelsman",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "Public Economics",
+      "F20",
+      "H20"
     ],
     "tags": [
       "economics"
