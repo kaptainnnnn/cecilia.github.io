@@ -1,5 +1,65 @@
 [
   {
+    "id": "cepr-03d7425d",
+    "title": "DP21922 Firm Pay and Consumption Inequality",
+    "url": "https://cepr.org/publications/dp21922",
+    "description": "",
+    "date": "2026-09-11",
+    "authors": "Galaasen; Kostøl; Simmons",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7925797d",
+    "title": "DP21921 The United States and Its Creditors: Assessing Foreign Demand for U.S. Assets",
+    "url": "https://cepr.org/publications/dp21921",
+    "description": "",
+    "date": "2026-09-11",
+    "authors": "Chari; Milesi-Ferretti",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-3ae593cd",
+    "title": "DP21920 Immigration and Child Mortality During the Age of Mass Migration",
+    "url": "https://cepr.org/publications/dp21920",
+    "description": "",
+    "date": "2026-09-11",
+    "authors": "Eriksson; Lin; Niemesh",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-82e1706c",
+    "title": "DP21919 Digital (Killer?) Acquisitions",
+    "url": "https://cepr.org/publications/dp21919",
+    "description": "",
+    "date": "2026-09-11",
+    "authors": "Ederer; Seibel; Simcoe",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-d2fff56c",
     "title": "DP21918 Expectations and the Term Structure of Interest Rates",
     "url": "https://cepr.org/publications/dp21918",
