@@ -1,5 +1,35 @@
 [
   {
+    "id": "cepr-68001456",
+    "title": "DP21924 The monetization of innovation",
+    "url": "https://cepr.org/publications/dp21924",
+    "description": "",
+    "date": "2026-09-12",
+    "authors": "Zucchi; Warusawitharana",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4aa6808a",
+    "title": "DP21923 Optimal Belief Equilibrium",
+    "url": "https://cepr.org/publications/dp21923",
+    "description": "",
+    "date": "2026-09-12",
+    "authors": "Hagenbach; Koessler",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-03d7425d",
     "title": "DP21922 Firm Pay and Consumption Inequality",
     "url": "https://cepr.org/publications/dp21922",
@@ -8327,6 +8357,196 @@
     ]
   },
   {
+    "id": "cepr-0963d60b",
+    "title": "DP186 A Quarterly Model of the Labour Market in Interwar Britain",
+    "url": "https://cepr.org/publications/dp186",
+    "description": "",
+    "date": "1987-07-01",
+    "authors": "Tim Hatton",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "N",
+      "C",
+      "J"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-bd647d4a",
+    "title": "DP185 An Intertemporal Version of Mundell's Two-Country Flexible Exchange Rates Model with Disequilibrium Microfoundations: Is Policy Interdependence Inevitable?",
+    "url": "https://cepr.org/publications/dp185",
+    "description": "",
+    "date": "1987-06-01",
+    "authors": "Neil Rankin",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E",
+      "E",
+      "H",
+      "F",
+      "J"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-a9c6e65a",
+    "title": "DP184 Competitiveness, Oil Prices and Government Expenditure in the United Kingdom Business Cycle",
+    "url": "https://cepr.org/publications/dp184",
+    "description": "",
+    "date": "1987-06-01",
+    "authors": "George Alogoskoufis",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E",
+      "H",
+      "F",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-bf128fd7",
+    "title": "DP183 Monetary Policy and the International Implications of the Phillips Curve in an Open Economy",
+    "url": "https://cepr.org/publications/dp183",
+    "description": "",
+    "date": "1987-06-01",
+    "authors": "George Alogoskoufis",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E",
+      "E",
+      "C",
+      "E",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-633b64de",
+    "title": "DP182 Public Ownership: Concepts and Applications",
+    "url": "https://cepr.org/publications/dp182",
+    "description": "",
+    "date": "1987-06-01",
+    "authors": "Colin Mayer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "L",
+      "G",
+      "L",
+      "L"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2afa996d",
+    "title": "DP181 New Issues in Corporate Finance",
+    "url": "https://cepr.org/publications/dp181",
+    "description": "",
+    "date": "1987-06-01",
+    "authors": "Colin Mayer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "D",
+      "G",
+      "D",
+      "Z"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4e4472f6",
+    "title": "DP188 Exchange Rates, Innovations and Forecasting",
+    "url": "https://cepr.org/publications/dp188",
+    "description": "",
+    "date": "1987-05-01",
+    "authors": "Christian Wolff",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "E",
+      "C",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2d1c6382",
+    "title": "DP187 Forward Exchange Rates and Expected Future Spot Rates",
+    "url": "https://cepr.org/publications/dp187",
+    "description": "",
+    "date": "1987-05-01",
+    "authors": "Christian Wolff",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "E",
+      "C",
+      "G",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7abb2c78",
+    "title": "DP177 Sterling Misalignment and British Trade Performance",
+    "url": "https://cepr.org/publications/dp177",
+    "description": "",
+    "date": "1987-05-01",
+    "authors": "Charles Bean",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "International Trade and Regional Economics",
+      "E",
+      "E",
+      "F",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-1d65cf97",
     "title": "DP176 Cable and Satellite - The Market for Programmes",
     "url": "https://cepr.org/publications/dp176",
@@ -8442,6 +8662,70 @@
       "H",
       "J",
       "J"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-a689e21e",
+    "title": "DP180 Vehicle Currencies, Bank Debt and the Asset Market Approach to Exchange Rate Determination: The US Dollar, 1980-1985",
+    "url": "https://cepr.org/publications/dp180",
+    "description": "",
+    "date": "1987-04-01",
+    "authors": "Michael R. Wickens; Stephen H Thomas",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E",
+      "F",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-3848ef29",
+    "title": "DP179 Demographic Change, Economic Growth and Social Welfare in Europe",
+    "url": "https://cepr.org/publications/dp179",
+    "description": "",
+    "date": "1987-04-01",
+    "authors": "John F Ermisch;  ",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "E",
+      "O",
+      "J",
+      "I",
+      "J"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-34ee6093",
+    "title": "DP178 Monetary Discipline, Germany, and the European Monetary System",
+    "url": "https://cepr.org/publications/dp178",
+    "description": "",
+    "date": "1987-04-01",
+    "authors": "Jacques Melitz",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E",
+      "E",
+      "E",
+      "F",
+      "F"
     ],
     "tags": [
       "economics"
