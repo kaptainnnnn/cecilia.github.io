@@ -1,5 +1,125 @@
 [
   {
+    "id": "cepr-2eaa7a18",
+    "title": "DP21932 Time Costs and Behaviour Across Participant Pools",
+    "url": "https://cepr.org/publications/dp21932",
+    "description": "",
+    "date": "2026-09-13",
+    "authors": "Gonçalves; Zarate-Pina; Kneeland",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b9f65e01",
+    "title": "DP21931 Designing Low Emission Zones: Theory and Evidence",
+    "url": "https://cepr.org/publications/dp21931",
+    "description": "",
+    "date": "2026-09-13",
+    "authors": "Barahona; Fabra; Imelda; Montero",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-77e5798c",
+    "title": "DP21930 Ambiguous Attribution: Theory and Evidence",
+    "url": "https://cepr.org/publications/dp21930",
+    "description": "",
+    "date": "2026-09-13",
+    "authors": "Padro i Miquel; Martinez-Bravo; Sanz; Vannutelli",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-32be32fb",
+    "title": "DP21929 Populist Rule and the Formation of Zero-Sum Beliefs",
+    "url": "https://cepr.org/publications/dp21929",
+    "description": "",
+    "date": "2026-09-13",
+    "authors": "Ajzenman; Aksoy; Pickard",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-996d8960",
+    "title": "DP21928 A Nation of Emigrants: Transatlantic Emigration and Italian National Identity",
+    "url": "https://cepr.org/publications/dp21928",
+    "description": "",
+    "date": "2026-09-13",
+    "authors": "Coluccia; Lecce; Ogliari",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6d4a41e3",
+    "title": "DP21927 Migration, identity and political economy in a globalizing world",
+    "url": "https://cepr.org/publications/dp21927",
+    "description": "",
+    "date": "2026-09-13",
+    "authors": "Tabellini",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1de4db84",
+    "title": "DP21926 Expected Utility Maximization and the Optimal Portfolio of Risky Assets",
+    "url": "https://cepr.org/publications/dp21926",
+    "description": "",
+    "date": "2026-09-13",
+    "authors": "Whelan",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-11e57ba2",
+    "title": "DP21925 The Fiscal Implications of Parallel Currencies",
+    "url": "https://cepr.org/publications/dp21925",
+    "description": "",
+    "date": "2026-09-13",
+    "authors": "Bahaj; Reis",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-68001456",
     "title": "DP21924 The monetization of innovation",
     "url": "https://cepr.org/publications/dp21924",
@@ -7644,6 +7764,252 @@
       "International Trade and Regional Economics",
       "D43",
       "L13"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-dd85b01f",
+    "title": "DP962 Multilateral Tariff Cooperation During the Formation of Customs Unions",
+    "url": "https://cepr.org/publications/dp962",
+    "description": "",
+    "date": "1994-07-31",
+    "authors": "Robert Staiger; Kyle Bagwell",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "F13",
+      "F15"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2458e1c8",
+    "title": "DP960 Patterns of Unemployment: An Insider-Outsider Analysis",
+    "url": "https://cepr.org/publications/dp960",
+    "description": "",
+    "date": "1994-07-31",
+    "authors": "Dennis Snower; Assar Lindbeck",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "J31",
+      "J32",
+      "J38",
+      "J63",
+      "J64",
+      "J68"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ee52201b",
+    "title": "DP959 Price Inertia and Production Lags",
+    "url": "https://cepr.org/publications/dp959",
+    "description": "",
+    "date": "1994-07-31",
+    "authors": "Dennis Snower; Assar Lindbeck",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "D1",
+      "D43",
+      "D57",
+      "E12",
+      "E31",
+      "E32"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f0ffc16e",
+    "title": "DP958 Unemployment Persistence and the Unemployment-Productivity Relation",
+    "url": "https://cepr.org/publications/dp958",
+    "description": "",
+    "date": "1994-07-31",
+    "authors": "Dennis Snower",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "E31",
+      "E32",
+      "J23",
+      "J31",
+      "J64",
+      "O50"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-259f9fe2",
+    "title": "DP964 Migration and Growth: The Experience of Southern Europe",
+    "url": "https://cepr.org/publications/dp964",
+    "description": "",
+    "date": "1994-05-31",
+    "authors": "Riccardo Faini; Alessandra Venturini",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "O15"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-285868d7",
+    "title": "DP963 The Economic Performance of Germany's East European Immigrants",
+    "url": "https://cepr.org/publications/dp963",
+    "description": "",
+    "date": "1994-05-31",
+    "authors": "Christoph Schmidt",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "J15",
+      "J24",
+      "J31",
+      "J61"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c906e544",
+    "title": "DP961 Can Foreign Aid Accelerate Stabilization?",
+    "url": "https://cepr.org/publications/dp961",
+    "description": "",
+    "date": "1994-05-31",
+    "authors": "Barry Eichengreen; Alessandra Casella",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E63",
+      "F35"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e1936bc2",
+    "title": "DP957 Policy, Technology Adoption and Growth",
+    "url": "https://cepr.org/publications/dp957",
+    "description": "",
+    "date": "1994-05-31",
+    "authors": "Ross Levine; Sergio Rebelo; Robert G King; William Easterly",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E62",
+      "O1",
+      "O40"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-bd96b311",
+    "title": "DP955 Environmental Policy Under Oligopoly with Endogenous Market Structure",
+    "url": "https://cepr.org/publications/dp955",
+    "description": "",
+    "date": "1994-05-31",
+    "authors": "Yannis Katsoulacos; Anastasios Xepapadeas",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "D43",
+      "D62",
+      "H21"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ac1e8041",
+    "title": "DP954 Convergence Empirics Across Economies with (Some) Capital Mobility",
+    "url": "https://cepr.org/publications/dp954",
+    "description": "",
+    "date": "1994-05-31",
+    "authors": "Danny Quah",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "C23",
+      "F43",
+      "O47"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-69d0eb39",
+    "title": "DP953 Knowledge Spillovers and the Geography of Innovation and Production",
+    "url": "https://cepr.org/publications/dp953",
+    "description": "",
+    "date": "1994-05-31",
+    "authors": "David Audretsch; Maryann P Feldman",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "International Trade and Regional Economics",
+      "L0",
+      "O3"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-39491d23",
+    "title": "DP956 Unification and the Policy Predicament in Germany",
+    "url": "https://cepr.org/publications/dp956",
+    "description": "",
+    "date": "1994-05-30",
+    "authors": "Jacques Melitz; Yue Ma; Andrew Hughes Hallett",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "F15",
+      "F20",
+      "O40"
     ],
     "tags": [
       "economics"
