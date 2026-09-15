@@ -1,5 +1,65 @@
 [
   {
+    "id": "cepr-31cb22fc",
+    "title": "DP21936 The Demographic Impact of Leadership: Mayoral Education and COVID-19 Excess Mortality in Italy",
+    "url": "https://cepr.org/publications/dp21936",
+    "description": "",
+    "date": "2026-09-14",
+    "authors": "Mattioli; Nannicini; Minello",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f5de573d",
+    "title": "DP21935 So Far Away? Hiring Discrimination against Female Commuters",
+    "url": "https://cepr.org/publications/dp21935",
+    "description": "",
+    "date": "2026-09-14",
+    "authors": "Becker; Fernandes; Lalayev; Weichselbaumer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-fe4852dd",
+    "title": "DP21934 Causal State-Dependent Local Projections",
+    "url": "https://cepr.org/publications/dp21934",
+    "description": "",
+    "date": "2026-09-14",
+    "authors": "David; Giacomini; Jiao; Wang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ee26aebf",
+    "title": "DP21933 Price Gaps and Inflation Dynamics",
+    "url": "https://cepr.org/publications/dp21933",
+    "description": "",
+    "date": "2026-09-14",
+    "authors": "Bandeira; Castillo-Martinez; Wang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-2eaa7a18",
     "title": "DP21932 Time Costs and Behaviour Across Participant Pools",
     "url": "https://cepr.org/publications/dp21932",
@@ -5796,6 +5856,50 @@
     ]
   },
   {
+    "id": "cepr-a728b53b",
+    "title": "DP14139 Labor Market Frictions and Lowest Low Fertility",
+    "url": "https://cepr.org/publications/dp14139",
+    "description": "",
+    "date": "2022-03-25",
+    "authors": "Nezih Guner; Ezgi Kaya; Virginia Sánchez-Marcos",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "Macroeconomics and Growth",
+      "E24",
+      "J13",
+      "J21",
+      "J22"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6da78f4c",
+    "title": "DP14147 Reference Dependence in the Housing Market",
+    "url": "https://cepr.org/publications/dp14147",
+    "description": "",
+    "date": "2022-02-07",
+    "authors": "Steffen Andersen; Cristian Badarinza; Lu Liu; Julie Marx; Tarun Ramadorai",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "D03",
+      "D12",
+      "D14",
+      "G02",
+      "R21"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-9deaf9ea",
     "title": "DP14826 J'Accuse! Antisemitism and Financial Markets in the time of the Dreyfus Affair",
     "url": "https://cepr.org/publications/dp14826",
@@ -6050,6 +6154,208 @@
       "Public Economics",
       "H12",
       "I18"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b5dd77b6",
+    "title": "DP14146 Equilibrium Counterfactuals",
+    "url": "https://cepr.org/publications/dp14146",
+    "description": "",
+    "date": "2019-11-21",
+    "authors": "Gilles Chemla; Christopher Hennessy",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "Industrial Organization",
+      "Public Economics"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-218f92b8",
+    "title": "DP14145 The Intellectual Spoils of War? Defense R&amp;D, Productivity and International Spillovers",
+    "url": "https://cepr.org/publications/dp14145",
+    "description": "",
+    "date": "2019-11-21",
+    "authors": "Enrico Moretti; Claudia Steinwender; John Van Reenen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "Public Economics"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-3bdb67cb",
+    "title": "DP14144 Optimal Taxation with Homeownership and Wealth Inequality",
+    "url": "https://cepr.org/publications/dp14144",
+    "description": "",
+    "date": "2019-11-21",
+    "authors": "Nicola Borri; Pietro Reichlin",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Macroeconomics and Growth",
+      "E21",
+      "E62",
+      "H2",
+      "H21",
+      "G1"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-96be4f2e",
+    "title": "DP14143 Tech Clusters",
+    "url": "https://cepr.org/publications/dp14143",
+    "description": "",
+    "date": "2019-11-20",
+    "authors": "William Kerr; Frédéric Robert-Nicoud",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-70748ae0",
+    "title": "DP14142 Raising the Inflation Target: How Much Extra Room Does It Really Give?",
+    "url": "https://cepr.org/publications/dp14142",
+    "description": "",
+    "date": "2019-11-20",
+    "authors": "Jean-Paul L'Huillier; Raphael Schoenle",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "E31",
+      "E52",
+      "E58"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1bfd3a69",
+    "title": "DP14141 Social Interaction Methods",
+    "url": "https://cepr.org/publications/dp14141",
+    "description": "",
+    "date": "2019-11-20",
+    "authors": "Chih-Sheng Hsieh; Xu Lin; Eleonora Patacchini",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "Public Economics"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-413017bd",
+    "title": "DP14140 Checking if the Straitjacket Fits",
+    "url": "https://cepr.org/publications/dp14140",
+    "description": "",
+    "date": "2019-11-20",
+    "authors": "Adrian Pagan; Michael R. Wickens",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "C52",
+      "E3"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c0ded325",
+    "title": "DP14138 The Wheels of Change: Technology Adoption, Millwrights, and Persistence in Britain’s Industrialization",
+    "url": "https://cepr.org/publications/dp14138",
+    "description": "",
+    "date": "2019-11-20",
+    "authors": "Joel Mokyr; Assaf Sarid; Karine van der Beek",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Economic History",
+      "Macroeconomics and Growth",
+      "O14",
+      "O15",
+      "O33",
+      "N00",
+      "N13",
+      "N53",
+      "N73",
+      "N93"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e4022148",
+    "title": "DP14137 Globalization, Redistribution, and the Size of Government",
+    "url": "https://cepr.org/publications/dp14137",
+    "description": "",
+    "date": "2019-11-20",
+    "authors": "Raphael Espinoza; Jonathan D. Ostry; Xiaoxiao Zhang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "International Macroeconomics and Finance",
+      "Macroeconomics and Growth",
+      "Public Economics",
+      "H11",
+      "H53",
+      "F68"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-decc9bfc",
+    "title": "DP14136 Technology Boom, Labor Reallocation, and Human Capital Depreciation",
+    "url": "https://cepr.org/publications/dp14136",
+    "description": "",
+    "date": "2019-11-20",
+    "authors": "Johan Hombert; Adrien Matray",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Macroeconomics and Growth",
+      "J24",
+      "O33",
+      "E24"
     ],
     "tags": [
       "economics"

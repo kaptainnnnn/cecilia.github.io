@@ -429,6 +429,448 @@
     ]
   },
   {
+    "id": "nber-20354236",
+    "title": "Spillover Effects of Regulatory Inspections: Evidence from OSHA",
+    "url": "https://www.nber.org/papers/w35646",
+    "description": "Regulatory inspections might affect entities nearby those inspected. Such spillovers are difficult to identify because regulators target inspections and neighboring establishments face correlated shocks. We exploit the U.S. Occupational Safety and Health Administrations Site-Specific Targeting (SST)...",
+    "date": "2026-09",
+    "authors": "Matthew S. Johnson, David Levine & Michael W. Toffel",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-610d497d",
+    "title": "(Mis)measuring Uncertainty: Bunching in Probabilistic Expectations",
+    "url": "https://www.nber.org/papers/w35733",
+    "description": "Probabilistic expectation questions are often used to measure subjective uncertainty, but respondents frequently assign all probability to one outcome. We show that this bunching is partly a survey artifact rather than genuine certainty. In the (online) ECB Consumer Expectations Survey and the (in...",
+    "date": "2026-09",
+    "authors": "Carola Binder, Laura Crespo, Carlos Gento, Luis M. Guirola & Ernesto Villanueva",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-e48745fd",
+    "title": "How Disability Benefits in Early Life Affect Adult Outcomes",
+    "url": "https://www.nber.org/papers/w35725",
+    "description": "We estimate the effect of receiving Supplemental Security Income (SSI) in childhood on adult outcomes using multiple sources of variation. Using variation across and within two quasi-experiments, we find that the program has heterogeneous effects that vary with the parental earnings response to SSI...",
+    "date": "2026-09",
+    "authors": "Manasi Deshpande, Alessandra Voena & Jason B. Weitze",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-d244cc41",
+    "title": "The Federal Lands: An Economic Property Rights Perspective",
+    "url": "https://www.nber.org/papers/w35745",
+    "description": "The US federal government owns and administers 472,892,659 acres or 21% of the land area of the lower 48 states, the countrys largest landowner. The resource is held and managed as a collective resource, the Federal Lands, through political and bureaucratic interpretation of the Multiple Use...",
+    "date": "2026-09",
+    "authors": "Gary D. Libecap",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b94a09c2",
+    "title": "Racial Dynamics of Federal Property Buyouts in Flood-Prone Areas",
+    "url": "https://www.nber.org/papers/w35726",
+    "description": "The use of managed retreats, or buyouts, of flood-prone properties is likely to grow as an adaptation response to increasing flood risks. This paper investigates the role of race and ethnicity in buyout bargaining outcomes and how those outcomes affect longer-run neighborhood change. We combine...",
+    "date": "2026-09",
+    "authors": "Kay Jowers, Lala Ma & Christopher D. Timmins",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-dfdbbc2d",
+    "title": "Measuring Racial Disparities in Police Stops: Evidence from Telemetric Mobility Data",
+    "url": "https://www.nber.org/papers/w35727",
+    "description": "Measuring Racial Disparities in Police Stops: Evidence from Telemetric Mobility Data",
+    "date": "2026-09",
+    "authors": "Xiaofeng Gong, Yuling Han, Susan T. Parker, Matthew B. Ross & Stephen Ross",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-86219751",
+    "title": "Heritability and Social Interaction in Labor Market Outcomes: Evidence from the Population of Twins in the United States",
+    "url": "https://www.nber.org/papers/w35746",
+    "description": "Heritability and Social Interaction in Labor Market Outcomes: Evidence from the Population of Twins in the United States",
+    "date": "2026-09",
+    "authors": "David Card, Jesse Rothstein & Moises Yi",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-7784b28d",
+    "title": "Who Matters in College? Familiarity, Ability Signals, and Student Achievement",
+    "url": "https://www.nber.org/papers/w35728",
+    "description": "This study examines how social influences on academic performance evolve during transition to university when students encounter new social environments and publicly observable signals of academic ability. Using administrative data from a large, elite, and linguistically and culturally heterogeneous...",
+    "date": "2026-09",
+    "authors": "Isaac Ahimbisibwe, Scott E. Carrell & Travis Lybbert",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-0e9bc152",
+    "title": "When Microenterprises Grow, Are Consumers Better Off? Evidence from Large Loans to Microenterprises in Chile",
+    "url": "https://www.nber.org/papers/w35729",
+    "description": "When Microenterprises Grow, Are Consumers Better Off? Evidence from Large Loans to Microenterprises in Chile",
+    "date": "2026-09",
+    "authors": "Dean Karlan, Natalia Rigol & Benjamin N. Roth",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-5b0f8fdd",
+    "title": "Beyond the Conventional Narrative: Economic Heterogeneity and Human Capital Among American Indians",
+    "url": "https://www.nber.org/papers/w35730",
+    "description": "Beyond the Conventional Narrative: Economic Heterogeneity and Human Capital Among American Indians",
+    "date": "2026-09",
+    "authors": "Randall Akee & Emilia Simeonova",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-86d0f62a",
+    "title": "Housing Wealth Accumulation and Electoral Representation",
+    "url": "https://www.nber.org/papers/w35731",
+    "description": "Political representation is systematically aligned with economically consequential differences in individual behavior: homeowners who are most deeply incorporated into electoral institutions are systematically more effective at accumulating housing wealth. Using a nationwide voter-property dataset,...",
+    "date": "2026-09",
+    "authors": "Carlos Fernando Avenancio-León, Yutao He & Michael Reher",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-2e337bd8",
+    "title": "Social Capital and Innovation: Evidence from Facebook Friendship Networks",
+    "url": "https://www.nber.org/papers/w35732",
+    "description": "Using Facebook friendship data, we study how three aspects of social capital shape innovative activity. We find that the most important aspect of social capital in explaining innovation is Economic Connectedness (EC)--the share of high-income friendships. One standard deviation greater EC is...",
+    "date": "2026-09",
+    "authors": "Brad Cannon, David Hirshleifer & Joshua Thornton",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-4bc0997d",
+    "title": "Strategic Sovereignty: U.S.–Israeli Strikes and the Reversal of Anti-Regime Protest in Iran",
+    "url": "https://www.nber.org/papers/w35734",
+    "description": "Strategic Sovereignty: U.S.–Israeli Strikes and the Reversal of Anti-Regime Protest in Iran",
+    "date": "2026-09",
+    "authors": "Sultan Mehmood, Yaroslav Prokhorskoy & Leonard Wantchekon",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c39157fd",
+    "title": "Flowers of Invention: The Economic Impacts of Patent Rights",
+    "url": "https://www.nber.org/papers/w35735",
+    "description": "How do patent rights affect innovation and downstream production? Patent protection was introduced for plant biotechnology in the United States in 1985, and it affected crops differentially depending on their reproductive structures. Exploiting this unique feature of plant flower structure and a new...",
+    "date": "2026-09",
+    "authors": "Jacob Moscona",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-affdbf07",
+    "title": "The Welfare Impacts of Urban Renewal and Forced Relocation: Evidence from Chicago’s HOPE VI Demolitions",
+    "url": "https://www.nber.org/papers/w35736",
+    "description": "The Welfare Impacts of Urban Renewal and Forced Relocation: Evidence from Chicago’s HOPE VI Demolitions",
+    "date": "2026-09",
+    "authors": "Milena Almagro, Eric Chyn & Bryan A. Stuart",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c387e39d",
+    "title": "The City Through Her Eyes: Gender-Based Harassment in Public Spaces in Urban India",
+    "url": "https://www.nber.org/papers/w35738",
+    "description": "The City Through Her Eyes: Gender-Based Harassment in Public Spaces in Urban India",
+    "date": "2026-09",
+    "authors": "Lori A. Beaman, Seema Jayachandran & Anisha Sharma",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-275cef4c",
+    "title": "Food Labeling Policies: Aggregate Impacts and Heterogeneity Across Categories",
+    "url": "https://www.nber.org/papers/w35737",
+    "description": "We study the aggregate and heterogeneous effects of a front-of-package labeling policy implemented in Chile. We find that consumers reduced their sugar and caloric intake by 9% and 6%, respectively. On the demand side, labels prompt consumers to substitute within categories rather than switching...",
+    "date": "2026-09",
+    "authors": "Nano Barahona, Cristóbal Otero, Sebastián Otero & Joshua J. Kim",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-f638c6fd",
+    "title": "A Sin Ban, Not a Sin Tax? Consumption and Incidence of SNAP Soda Restrictions",
+    "url": "https://www.nber.org/papers/w35739",
+    "description": "We study the first statewide SNAP restrictions on sweetened beverages and candy. Restricted spending falls 11 percent; calories and sugar fall 58 percent. Substitution is asymmetric: eligible fruit drinks partly offset soda declines, while candy restrictions reduce purchases of eligible snacks....",
+    "date": "2026-09",
+    "authors": "Crossan Cooper, Katja Seim & Jintaek Song",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-745fab49",
+    "title": "When Resources Meet Relationships: The Returns to Personalized Supports for Low-Income Students",
+    "url": "https://www.nber.org/papers/w35740",
+    "description": "When Resources Meet Relationships: The Returns to Personalized Supports for Low-Income Students",
+    "date": "2026-09",
+    "authors": "Benjamin Goldman, Jamie Gracie & Sonya Porter",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1f034b1f",
+    "title": "Diamond-Mirrlees meets Sims: Optimal Taxation with Rational Inattention",
+    "url": "https://www.nber.org/papers/w35741",
+    "description": "We study optimal commodity taxation when consumers are rationally inattentive and the planner internalizes their attention costs. In our setting, consumers may underreact to taxes, may allocate attention unevenly across goods, and may display sparse behavior or mental accounting. Our main result is...",
+    "date": "2026-09",
+    "authors": "George-Marios Angeletos & Matias Bayas-Erazo",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-ad3a2fed",
+    "title": "Disappearing Dollar Convenience?",
+    "url": "https://www.nber.org/papers/w35742",
+    "description": "We measure the convenience yield on dollar safe assets over the last 5 years to answer this question. We find that within the set of U.S. dollar assets, safe asset convenience yields are about the same in 2025 as they were in 2019, and these levels are expected to persist for the next decade. Across...",
+    "date": "2026-09",
+    "authors": "Arvind Krishnamurthy & Miguel Chumbo",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-51479bec",
+    "title": "The Measurement Revolution? Credible Measurement and Inference in the Age of AI",
+    "url": "https://www.nber.org/papers/w35744",
+    "description": "Artificial intelligence (AI) is transforming measurement in economics. AI models convert unstructured data, such as text and images, into structured variables at low cost, making previously prohibitive measurement feasible at scale. This shifts the bottleneck from finding any scalable measure of a...",
+    "date": "2026-09",
+    "authors": "Melissa Dell & Ashesh Rambachan",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-994f2b9f",
+    "title": "Immigration and Child Mortality during the Age of Mass Migration",
+    "url": "https://www.nber.org/papers/w35743",
+    "description": "In the late nineteenth century, Americans feared that crowded immigrant neighborhoods were spreading disease through industrial cities. We study this claim using newly constructed town-level panel data from Massachusetts, 1860 to 1915, a setting uniquely suited to this exercise because its early...",
+    "date": "2026-09",
+    "authors": "Katherine Eriksson, Peter Zhixian Lin & Gregory Niemesh",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-fd7c81a4",
+    "title": "Automation and Optimal Taxation: A Task-Based Theory",
+    "url": "https://www.nber.org/papers/w35747",
+    "description": "We characterize optimal labor and capital income taxation in a task-based model of automation. Workers and machines are perfect substitutes in automatable tasks, which run from the bottom of the skill distribution up to a threshold. Workers supply labor on the extensive margin. Capitalists supply...",
+    "date": "2026-09",
+    "authors": "Henrik Kleven & Owen M. Zidar",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-ab40757a",
+    "title": "We've Got You Covered: Establishment-Level Evidence on California's Fast-Food Minimum Wage",
+    "url": "https://www.nber.org/papers/w35749",
+    "description": "We've Got You Covered: Establishment-Level Evidence on California's Fast-Food Minimum Wage",
+    "date": "2026-09",
+    "authors": "Vitor C. Melo, David Neumark, Liam Sigaud & Gary A. Wagner",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1fd15aa1",
+    "title": "Does Information Influence the Choice between Social Security Disability and Early Retirement Benefits?",
+    "url": "https://www.nber.org/papers/w35748",
+    "description": "Does Information Influence the Choice between Social Security Disability and Early Retirement Benefits?",
+    "date": "2026-09",
+    "authors": "Priyanka Anand, Tran Thi Phu-Duyen & Sita Slavov",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-2e8532cf",
+    "title": "Informed Choices: Gender Gaps in Career Advice",
+    "url": "https://www.nber.org/papers/w35750",
+    "description": "This paper provides the first causal evidence that gender affects the information an individual receives about careers. We conduct a large-scale field experiment in which real college students seek career information from 10,000 working professionals. We randomize whether a professional receives a...",
+    "date": "2026-09",
+    "authors": "Yana Gallen & Melanie Wasserman",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-440b2922",
+    "title": "Did the Affordable Care Act Save Lives?",
+    "url": "https://www.nber.org/papers/w35751",
+    "description": "While recent research has provided evidence that the Medicaid expansions of the Affordable Care Act (ACA) reduced mortality, there is no evidence on the effect of the Affordable Care Act (ACA) net of the Medicaid expansions on mortality. This is an important gap in knowledge because the ACA...",
+    "date": "2026-09",
+    "authors": "Anuj Gangopadhyaya, Cuiping Schiman & Robert Kaestner",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-a7a59dd0",
+    "title": "Did COVID Change the Black Neighborhood Startup Deficit? Evidence from the Startup Cartography Project",
+    "url": "https://www.nber.org/papers/w35752",
+    "description": "Did COVID Change the Black Neighborhood Startup Deficit? Evidence from the Startup Cartography Project",
+    "date": "2026-09",
+    "authors": "Catherine E. Fazio, Jorge Guzman, Scott Stern & Yan Xu",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-5bf032bf",
+    "title": "Correlation Neglect in Asset Prices",
+    "url": "https://www.nber.org/papers/w35753",
+    "description": "We document a strong negative serial correlation between stock market returns in i) the second month of a quarter and ii) the first month of the subsequent quarter. This pattern arises as investors fail to fully recognize the predictably repetitive aggregate earnings news conveyed by the late...",
+    "date": "2026-09",
+    "authors": "Hongye Guo & Jessica Wachter",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-f811d2f9",
+    "title": "Asset Privatization as Intergenerational Redistribution",
+    "url": "https://www.nber.org/papers/w35754",
+    "description": "Rapid economic growth creates large differences in lifetime incomes across generations. This paper examines the intergenerational redistribution generated by subsidized access to appreciating public assets in rapidly growing economies. We show that providing incumbent generations with subsidized...",
+    "date": "2026-09",
+    "authors": "Kaiji Chen, Hanming Fang & Yang Tang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-39a70a06",
+    "title": "The Macroeconomic Returns to School Finance Reforms: Micro-Calibrated Predictions Meet Causal Evidence",
+    "url": "https://www.nber.org/papers/w35755",
+    "description": "The Macroeconomic Returns to School Finance Reforms: Micro-Calibrated Predictions Meet Causal Evidence",
+    "date": "2026-09",
+    "authors": "C. Kirabo Jackson",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b9efda2a",
+    "title": "Do Social Norms Substitute for Enforcement? Evidence from Public Officials’ Home Purchases in Singapore",
+    "url": "https://www.nber.org/papers/w35756",
+    "description": "Do Social Norms Substitute for Enforcement? Evidence from Public Officials’ Home Purchases in Singapore",
+    "date": "2026-09",
+    "authors": "Tomasz Piskorski, Amit Seru, Jian Zhang & Chun Zhao",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-4a97ac0d",
+    "title": "Buying a Station or Relaxing a Constraint? Spectrum Repacking and Dirac's Conjecture",
+    "url": "https://www.nber.org/papers/w35757",
+    "description": "Buying a Station or Relaxing a Constraint? Spectrum Repacking and Dirac's Conjecture",
+    "date": "2026-09",
+    "authors": "Alex Chan",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "nber-13d464d6",
     "title": "Time Travel on Professional Profiles",
     "url": "https://www.nber.org/papers/w35546",

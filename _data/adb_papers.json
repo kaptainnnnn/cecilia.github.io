@@ -1,5 +1,18 @@
 [
   {
+    "id": "adb-6c26be46",
+    "title": "From Disclosure to Innovation: How Publicizing Pollution Information Shapes Firms’ Clean Technology Development",
+    "url": "https://www.adb.org/publications/pollution-information-shapes-firms-clean-technology",
+    "description": "Although publicizing pollution information may deter firms from polluting, its effect on the direction of innovation remains unclear.",
+    "date": "2026-09-14",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
     "id": "adb-d198d742",
     "title": "More Jobs or Widening Inequality? Public Data Governance and Low-Skilled Labor in the People’s Republic of China",
     "url": "https://www.adb.org/publications/more-jobs-widening-inequality-prc",
@@ -239,19 +252,6 @@
     "url": "https://www.adb.org/publications/structural-transformation-productivity-asia",
     "description": "This paper analyzes structural transformation across Asian economies and its implications for growth.",
     "date": "2026-04-13",
-    "source": "ADB",
-    "tags": [
-      "economics",
-      "development"
-    ],
-    "featured": false
-  },
-  {
-    "id": "adb-172be692",
-    "title": "When Manufacturing Matters Most: Structural Transformation and Productivity Growth Trajectories in Developing and Emerging Economies",
-    "url": "https://www.adb.org/publications/when-manufacturing-matters-most",
-    "description": "The findings of this study suggest that low-income economies could boost productivity through strategies that combine manufacturing development with investments in institutional quality, technological infrastructure, and human capital formation.",
-    "date": "2026-04-07",
     "source": "ADB",
     "tags": [
       "economics",
