@@ -1,5 +1,18 @@
 [
   {
+    "id": "adb-2da1fe9e",
+    "title": "Does Regional Cooperation and Integration Contribute to Inclusive Development? A Guide to Policymaking",
+    "url": "https://www.adb.org/publications/rci-inclusive-development-guide-policymaking",
+    "description": "This paper examines how regional cooperation and integration (RCI) has influenced employment and income inequality in Asia and the Pacific from 2006 to 2023.",
+    "date": "2026-09-16",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
     "id": "adb-6c26be46",
     "title": "From Disclosure to Innovation: How Publicizing Pollution Information Shapes Firms’ Clean Technology Development",
     "url": "https://www.adb.org/publications/pollution-information-shapes-firms-clean-technology",
@@ -239,19 +252,6 @@
     "url": "https://www.adb.org/publications/asia-structural-transformation",
     "description": "This paper explores structural transformation, premature deindustrialization, and industrial policy in Asia, highlighting the importance of context-specific policies.",
     "date": "2026-04-15",
-    "source": "ADB",
-    "tags": [
-      "economics",
-      "development"
-    ],
-    "featured": false
-  },
-  {
-    "id": "adb-52401937",
-    "title": "Structural Transformation and Productivity in Asia: An Overview",
-    "url": "https://www.adb.org/publications/structural-transformation-productivity-asia",
-    "description": "This paper analyzes structural transformation across Asian economies and its implications for growth.",
-    "date": "2026-04-13",
     "source": "ADB",
     "tags": [
       "economics",

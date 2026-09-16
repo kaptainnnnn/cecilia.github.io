@@ -1,5 +1,125 @@
 [
   {
+    "id": "cepr-040e6ef9",
+    "title": "DP21944 The Macroeconomic Effect of AI: Sizing the Software Engineering Channel",
+    "url": "https://cepr.org/publications/dp21944",
+    "description": "",
+    "date": "2026-09-15",
+    "authors": "Hazell; Lian; Schaab; Blumenfeld",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-aa2caaea",
+    "title": "DP21943 Macroeconomics of War and Recovery",
+    "url": "https://cepr.org/publications/dp21943",
+    "description": "",
+    "date": "2026-09-15",
+    "authors": "Balima; Ladreit; Lagerborg; Moreau; Presbitero; Weaver",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-57f9d25e",
+    "title": "DP21942 Subsidizing the Unknown:  The Hidden Trade-offs in Europe's AI Support Schemes",
+    "url": "https://cepr.org/publications/dp21942",
+    "description": "",
+    "date": "2026-09-15",
+    "authors": "Dietrich; Gehrig; Stenbacka",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4c744f1d",
+    "title": "DP21941 The Macroeconomic Effect of Stimulus Checks: Evidence from Postwar Veterans’ Payments",
+    "url": "https://cepr.org/publications/dp21941",
+    "description": "",
+    "date": "2026-09-15",
+    "authors": "Guerreiro; Hazell; Känzig; Manuel",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-86d7c13d",
+    "title": "DP21940 Measuring Economic Uncertainty and Its Effects on Investment and Employment: Evidence from Greece",
+    "url": "https://cepr.org/publications/dp21940",
+    "description": "",
+    "date": "2026-09-15",
+    "authors": "Gatopoulos; Louka; Prelorentzos; Valavanioti; Vettas",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1e848652",
+    "title": "DP21939 Economic Scenarios for Transformative AI",
+    "url": "https://cepr.org/publications/dp21939",
+    "description": "",
+    "date": "2026-09-15",
+    "authors": "Korinek; Jones; Sacher; Cotter; McCrory",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8d419c57",
+    "title": "DP21938 Markups and Mergers in the US Hospital Industry",
+    "url": "https://cepr.org/publications/dp21938",
+    "description": "",
+    "date": "2026-09-15",
+    "authors": "De Loecker; Fleitas",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d507d702",
+    "title": "DP21937 Expectations-Based Capital Inflow Shocks",
+    "url": "https://cepr.org/publications/dp21937",
+    "description": "",
+    "date": "2026-09-15",
+    "authors": "Ha; Kim; Kose; Warnock",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-31cb22fc",
     "title": "DP21936 The Demographic Impact of Leadership: Mayoral Education and COVID-19 Excess Mortality in Italy",
     "url": "https://cepr.org/publications/dp21936",
@@ -7097,6 +7217,252 @@
       "G10",
       "G23",
       "J24"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6b9a1a11",
+    "title": "DP6662 Does Responsive Pricing Smooth Demand Shocks?",
+    "url": "https://cepr.org/publications/dp6662",
+    "description": "",
+    "date": "2008-01-25",
+    "authors": "Pascal Courty; Mario Pagliero",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "D01",
+      "D12",
+      "L11",
+      "L86"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ba8d6d5b",
+    "title": "DP6661 Formal and Informal Risk Sharing in LDCs: Theory and Empirical Evidence",
+    "url": "https://cepr.org/publications/dp6661",
+    "description": "",
+    "date": "2008-01-25",
+    "authors": "Bruno Jullien; Thierry Magnac; Pierre Dubois",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "C14",
+      "D13",
+      "D91",
+      "L14",
+      "O12"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b0e87240",
+    "title": "DP6660 Varieties and the Transfer Problem: the Extensive Margin of Current Account Adjustment",
+    "url": "https://cepr.org/publications/dp6660",
+    "description": "",
+    "date": "2008-01-25",
+    "authors": "Paolo Pesenti; Philippe Martin; Giancarlo Corsetti",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "F32",
+      "F41"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-58564d91",
+    "title": "DP6659 Civil Wars and International Trade",
+    "url": "https://cepr.org/publications/dp6659",
+    "description": "",
+    "date": "2008-01-25",
+    "authors": "Philippe Martin; Thierry Mayer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "F10",
+      "F51",
+      "F52",
+      "F59"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e99b3f26",
+    "title": "DP6658 Creditor Protection, Contagion, and Stock Market Price Volatility",
+    "url": "https://cepr.org/publications/dp6658",
+    "description": "",
+    "date": "2008-01-25",
+    "authors": "Assaf Razin; Galina Hale; Hui Tong",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E1",
+      "G2"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-78af343e",
+    "title": "DP6657 Social Capital as Good Culture",
+    "url": "https://cepr.org/publications/dp6657",
+    "description": "",
+    "date": "2008-01-25",
+    "authors": "Luigi Guiso; Luigi Zingales; Paola Sapienza",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "International Macroeconomics",
+      "E00",
+      "P26",
+      "Z1"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-790fc338",
+    "title": "DP6656 Naturalization Proclivities, Ethnicity and Integration",
+    "url": "https://cepr.org/publications/dp6656",
+    "description": "",
+    "date": "2008-01-18",
+    "authors": "Klaus F. Zimmermann; Amelie Constant; Liliya Gataullina",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "F22",
+      "J15",
+      "J61"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c7ba0fad",
+    "title": "DP6655 Where Did All The Borrowing Go? A Forensic Analysis of the U.S. External Position",
+    "url": "https://cepr.org/publications/dp6655",
+    "description": "",
+    "date": "2008-01-18",
+    "authors": "Gian Maria Milesi-Ferretti; Philip Lane",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "F21",
+      "F32",
+      "F41"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-dc0fa6de",
+    "title": "DP6654 Should the Euro Area be Run as a Closed Economy?",
+    "url": "https://cepr.org/publications/dp6654",
+    "description": "",
+    "date": "2008-01-18",
+    "authors": "Francesco Giavazzi; Carlo A. Favero",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E43",
+      "E52",
+      "E58"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-354c93bf",
+    "title": "DP6653 Escaping Epidemics Through Migration? Quarantine Measures Under Asymmetric Information About Infection Risk.",
+    "url": "https://cepr.org/publications/dp6653",
+    "description": "",
+    "date": "2008-01-18",
+    "authors": "Paul Seabright; Alice Mesnard",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "I18",
+      "O15",
+      "O19",
+      "R23"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-684531a5",
+    "title": "DP6652 Banking Permits: Economic Efficiency and Distributional Effects",
+    "url": "https://cepr.org/publications/dp6652",
+    "description": "",
+    "date": "2008-01-18",
+    "authors": "Carlo Carraro; Valentina Bosetti; Emanuele Massetti",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "C72",
+      "H23",
+      "Q25",
+      "Q28"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d8632615",
+    "title": "DP6651 Migration and The Equilibrium Prevalence of Infectious Diseases",
+    "url": "https://cepr.org/publications/dp6651",
+    "description": "",
+    "date": "2008-01-18",
+    "authors": "Paul Seabright; Alice Mesnard",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "I18",
+      "O15",
+      "O19",
+      "R23"
     ],
     "tags": [
       "economics"
