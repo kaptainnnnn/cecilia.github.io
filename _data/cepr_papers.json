@@ -1,5 +1,110 @@
 [
   {
+    "id": "cepr-0f1156fa",
+    "title": "DP21951 Politics-driven Market Access and Its Cost: Evidence from China’s Grand Canal",
+    "url": "https://cepr.org/publications/dp21951",
+    "description": "",
+    "date": "2026-09-17",
+    "authors": "Bai; Bian; Jia",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-fc17fe7f",
+    "title": "DP21950 Inheritance Customs and the European Marriage Pattern",
+    "url": "https://cepr.org/publications/dp21950",
+    "description": "",
+    "date": "2026-09-16",
+    "authors": "Curtis; Gobbi; Goñi; Haddad",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ec0a9a9f",
+    "title": "DP21949 The China Shock in World Markets: Chinese Competition and German Exporters",
+    "url": "https://cepr.org/publications/dp21949",
+    "description": "",
+    "date": "2026-09-16",
+    "authors": "Bodenschatz; Egger; Nagengast",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b14b59ea",
+    "title": "DP21948 The Remains of the Trade: The U.S.-China Trade War and its Aftermath",
+    "url": "https://cepr.org/publications/dp21948",
+    "description": "",
+    "date": "2026-09-16",
+    "authors": "Antràs; Kulesza; Presbitero",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-dd3df37c",
+    "title": "DP21947 Home Bias in Early Labor Location Choices: Does University Location Matter?",
+    "url": "https://cepr.org/publications/dp21947",
+    "description": "",
+    "date": "2026-09-16",
+    "authors": "Díez-Rituerto; Gardeazabal; Iriberri; Rey Biel",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ea7edd4e",
+    "title": "DP21946 Assessing Hypothetical Scenarios for Estimating Labor Supply Responses: Evidence from a Pension Reform",
+    "url": "https://cepr.org/publications/dp21946",
+    "description": "",
+    "date": "2026-09-16",
+    "authors": "Fuchs-Schündeln; Jessen; Ong; Pan",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-915ebca3",
+    "title": "DP21945 Individual-Level Inequality",
+    "url": "https://cepr.org/publications/dp21945",
+    "description": "",
+    "date": "2026-09-16",
+    "authors": "Cherchye; De Rock; Vermeulen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-040e6ef9",
     "title": "DP21944 The Macroeconomic Effect of AI: Sizing the Software Engineering Channel",
     "url": "https://cepr.org/publications/dp21944",
@@ -7713,6 +7818,174 @@
     ]
   },
   {
+    "id": "cepr-b980bd3a",
+    "title": "DP2579 Self-Confidence &amp; Social Interactions",
+    "url": "https://cepr.org/publications/dp2579",
+    "description": "",
+    "date": "2000-10-24",
+    "authors": "Jean Tirole; Roland Bénabou",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "A12",
+      "C70",
+      "D10",
+      "D60",
+      "J22",
+      "J24",
+      "J53"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b995d30e",
+    "title": "DP2578 Basic Principles Of Asset Pricing Theory: Evidence From Large-Scale Experimental Financial Markets",
+    "url": "https://cepr.org/publications/dp2578",
+    "description": "",
+    "date": "2000-10-24",
+    "authors": "Peter Bossaerts; Charles Plott",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "D51",
+      "G12"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-dc7d45b4",
+    "title": "DP2577 Is the Household Demand for In-Home Services Sensitive to Tax Reductions? The French Case",
+    "url": "https://cepr.org/publications/dp2577",
+    "description": "",
+    "date": "2000-10-24",
+    "authors": "Denis Fougère; Anne Flipo; Lucile Olier",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "D13",
+      "J12"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-100f3a2d",
+    "title": "DP2576 Wages and the Size of Firms in Dynamic Matching Models",
+    "url": "https://cepr.org/publications/dp2576",
+    "description": "",
+    "date": "2000-10-24",
+    "authors": "Giuseppe Bertola; Pietro Garibaldi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "J30",
+      "J60"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6222fd40",
+    "title": "DP2575 Exchange Rates in Search of Fundamentals: The Case of the Euro-Dollar Rate",
+    "url": "https://cepr.org/publications/dp2575",
+    "description": "",
+    "date": "2000-10-24",
+    "authors": "Paul De Grauwe",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "F33",
+      "F36",
+      "F42"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2eeb2b97",
+    "title": "DP2574 Regulatory Protectionism, Developing Nations and a Two-Tier World Trade System",
+    "url": "https://cepr.org/publications/dp2574",
+    "description": "",
+    "date": "2000-10-24",
+    "authors": "Richard Baldwin",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "F13",
+      "F15"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-93083623",
+    "title": "DP2573 Competing for Ownership",
+    "url": "https://cepr.org/publications/dp2573",
+    "description": "",
+    "date": "2000-10-24",
+    "authors": "Andrew Newman; Patrick Legros",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "D23",
+      "D31",
+      "G34",
+      "L22"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-64c1721a",
+    "title": "DP2572 Why every Economist should Learn some Auction Theory",
+    "url": "https://cepr.org/publications/dp2572",
+    "description": "",
+    "date": "2000-10-24",
+    "authors": "Paul Klemperer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "D42",
+      "D43",
+      "D44",
+      "D45",
+      "G14",
+      "K41",
+      "L13",
+      "L81",
+      "L94",
+      "L96"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-84a11ecc",
     "title": "DP2554 Damages and Injunctions in Protecting Proprietary Research Tools",
     "url": "https://cepr.org/publications/dp2554",
@@ -7868,6 +8141,86 @@
       "International Macroeconomics",
       "C53",
       "E37"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-5c94ef87",
+    "title": "DP2571 Liability for Past Environmental Contamination and Privatization",
+    "url": "https://cepr.org/publications/dp2571",
+    "description": "",
+    "date": "2000-09-26",
+    "authors": "Dietrich Earnhart",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Transition Economics",
+      "D80",
+      "K32"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4e91c1cb",
+    "title": "DP2570 Trust Vs Illusion: What is Driving Demonetization in Russia?",
+    "url": "https://cepr.org/publications/dp2570",
+    "description": "",
+    "date": "2000-09-26",
+    "authors": "Dalia Marin",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Transition Economics",
+      "D20",
+      "G30",
+      "O10",
+      "P30"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4359b166",
+    "title": "DP2569 Gross Credit Flows",
+    "url": "https://cepr.org/publications/dp2569",
+    "description": "",
+    "date": "2000-09-26",
+    "authors": "Pietro Garibaldi; Giovanni Dell'Ariccia",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "International Macroeconomics",
+      "E40",
+      "E50"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-98eb5b87",
+    "title": "DP2568 Economic Geography and International Inequality",
+    "url": "https://cepr.org/publications/dp2568",
+    "description": "",
+    "date": "2000-09-26",
+    "authors": "Anthony Venables; Stephen Redding",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "F12",
+      "F14",
+      "O10"
     ],
     "tags": [
       "economics"
