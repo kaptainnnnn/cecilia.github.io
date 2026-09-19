@@ -1,5 +1,20 @@
 [
   {
+    "id": "cepr-61a64093",
+    "title": "DP21952 A Proposal for Enabling and Operating Power Systems with High Shares of Renewable Energy",
+    "url": "https://cepr.org/publications/dp21952",
+    "description": "",
+    "date": "2026-09-18",
+    "authors": "Fleitas; Hendel; Mendez Galain",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-0f1156fa",
     "title": "DP21951 Politics-driven Market Access and Its Cost: Evidence from China’s Grand Canal",
     "url": "https://cepr.org/publications/dp21951",
@@ -6075,6 +6090,241 @@
       "G11",
       "G12",
       "Q51"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f441ef2f",
+    "title": "DP20553 Shifting Preferences. Prices for den Oude and den Helschen Breughel during the Long Eighteenth century",
+    "url": "https://cepr.org/publications/dp20553",
+    "description": "",
+    "date": "2025-08-10",
+    "authors": "Anne-Sophie Radermecker; Kim Oosterlinck",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Economic History"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2eb2a233",
+    "title": "DP20552 Tradition Meets Innovation: Monasteries and the Adoption of Printing Technology",
+    "url": "https://cepr.org/publications/dp20552",
+    "description": "",
+    "date": "2025-08-10",
+    "authors": "Guillaume Wegmueller; Nathan Sussman",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Economic History"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-625642ac",
+    "title": "DP20551 Measuring Democracy Using the Wisdom of the Crowds",
+    "url": "https://cepr.org/publications/dp20551",
+    "description": "",
+    "date": "2025-08-10",
+    "authors": "Nathan Canen; Anujit Chakraborty",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Political Economy"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-3b42a7d9",
+    "title": "DP20550 When is Less More? Bank Arrangements for Liquidity vs Central Bank Support",
+    "url": "https://cepr.org/publications/dp20550",
+    "description": "",
+    "date": "2025-08-09",
+    "authors": "Viral Acharya; Raghuram Rajan; Zhi Quan (Bill) Shu",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "Banking and Corporate Finance"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8a5e5a99",
+    "title": "DP20549 Masculinity Norms and Their Economic Implications",
+    "url": "https://cepr.org/publications/dp20549",
+    "description": "",
+    "date": "2025-08-09",
+    "authors": "Ieda Matavelli; Pauline Grosjean; Ralph De Haas; Victoria Baranov",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Political Economy",
+      "Public Economics",
+      "D91",
+      "I12",
+      "J16",
+      "J24",
+      "Z13"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7a792128",
+    "title": "DP20548 Cooperation When Surrounded by Exploiters: The Role of Outside Options",
+    "url": "https://cepr.org/publications/dp20548",
+    "description": "",
+    "date": "2025-08-09",
+    "authors": "Omer Moav; Luigi Pascali; Ady Pauzner",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Macroeconomics and Growth",
+      "Political Economy",
+      "C72",
+      "C73",
+      "D82"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1428867b",
+    "title": "DP20547 Does High Involvement Management Drive Affective Commitment? Causal Tests on System Coherence and Complementarity",
+    "url": "https://cepr.org/publications/dp20547",
+    "description": "",
+    "date": "2025-08-09",
+    "authors": "Michael Beckmann; Philipp Grunau; Tobias Kretschmer; Elena Shvartsman",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Organizational Economics",
+      "M12",
+      "M50"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d758b4d4",
+    "title": "DP20546 Protected but Punished? Wage Effects of Whistleblower Protection",
+    "url": "https://cepr.org/publications/dp20546",
+    "description": "",
+    "date": "2025-08-09",
+    "authors": "Jae Cho; Jinju Rhee; Tobias Kretschmer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Organizational Economics",
+      "J50",
+      "K42",
+      "M14"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e4d4f1fe",
+    "title": "DP20545 Carbon Pricing and Inequality: A Normative Perspective",
+    "url": "https://cepr.org/publications/dp20545",
+    "description": "",
+    "date": "2025-08-09",
+    "authors": "Saki Bigio; Diego Känzig; Pablo Sánchez; Conor Walsh",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Macroeconomics and Growth",
+      "Public Economics",
+      "Climate Change and the Environment",
+      "D31",
+      "H23",
+      "Q58"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6d21ce23",
+    "title": "DP20544 Ruin Probabilities for Strategies with Asymmetric Risk",
+    "url": "https://cepr.org/publications/dp20544",
+    "description": "",
+    "date": "2025-08-09",
+    "authors": "Karl Whelan",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Asset Pricing",
+      "G11",
+      "G17"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ba8519f3",
+    "title": "DP20543 Gender Inequality in Expenditure: Great Britain 1978 to 2019",
+    "url": "https://cepr.org/publications/dp20543",
+    "description": "",
+    "date": "2025-08-09",
+    "authors": "Richard Blundell; Heidi Karjalainen; Valérie Lechene; Krishna Pendakur",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "D12",
+      "D13",
+      "J16",
+      "H31"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-add30c92",
+    "title": "DP20542 Understanding Cultural Change",
+    "url": "https://cepr.org/publications/dp20542",
+    "description": "",
+    "date": "2025-08-08",
+    "authors": "Raquel Fernández",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "Economic History",
+      "Labour Economics",
+      "Political Economy",
+      "Public Economics"
     ],
     "tags": [
       "economics"
