@@ -1,5 +1,50 @@
 [
   {
+    "id": "cepr-eb2bee64",
+    "title": "DP21955 Innovation, Business Cycles, and the Climate Transition",
+    "url": "https://cepr.org/publications/dp21955",
+    "description": "",
+    "date": "2026-09-19",
+    "authors": "Känzig; Konradt; Wang; Zhang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e59dbd6d",
+    "title": "DP21954 Pricing Cars Off the Road: E-bike Substitution and Welfare Gains from Transport Pricing",
+    "url": "https://cepr.org/publications/dp21954",
+    "description": "",
+    "date": "2026-09-19",
+    "authors": "Roth; Schwab; Hintermann; Götschi; Meister; Meyer de Freitas; Axhausen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ace3d4ed",
+    "title": "DP21953 The Political Foundations of Industrial Policy: Emergence, Endurance, and Exhaustion",
+    "url": "https://cepr.org/publications/dp21953",
+    "description": "",
+    "date": "2026-09-19",
+    "authors": "Field; Juhász; Zampa",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-61a64093",
     "title": "DP21952 A Proposal for Enabling and Operating Power Systems with High Shares of Renewable Energy",
     "url": "https://cepr.org/publications/dp21952",
@@ -7824,6 +7869,224 @@
     ]
   },
   {
+    "id": "cepr-e8e019df",
+    "title": "DP3115 What Does the European Union Do?",
+    "url": "https://cepr.org/publications/dp3115",
+    "description": "",
+    "date": "2002-01-12",
+    "authors": "Alberto Alesina; Ignazio Angeloni; Ludger Schuknecht",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Public Economics",
+      "D78",
+      "H11",
+      "H41"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-0131b1aa",
+    "title": "DP3124 Civil War, Public Goods and the Social Wealth of Nations",
+    "url": "https://cepr.org/publications/dp3124",
+    "description": "",
+    "date": "2002-01-01",
+    "authors": "Ravi Kanbur; David Pottebaum",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "Public Economics",
+      "H41",
+      "O10",
+      "O15"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ffaa9ab0",
+    "title": "DP3123 Private States and the Enforcement of Property Rights - Theory and Evidence on the Origins of the Sicilian Mafia",
+    "url": "https://cepr.org/publications/dp3123",
+    "description": "",
+    "date": "2002-01-01",
+    "authors": "Oriana Bandiera",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Public Economics",
+      "C70",
+      "D23",
+      "O17"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-9a137824",
+    "title": "DP3122 Banking Passivity and Regulatory Failure in Emerging Markets: Theory and Evidence from the Czech Republic",
+    "url": "https://cepr.org/publications/dp3122",
+    "description": "",
+    "date": "2002-01-01",
+    "authors": "Jan Hanousek; Gérard Roland",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "Transition Economics",
+      "C53",
+      "E58",
+      "G21",
+      "G33"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-0c060356",
+    "title": "DP3121 The Predictive Value of Subjective Labour Supply Data: A Dynamic Panel Data Model with Measurement Error",
+    "url": "https://cepr.org/publications/dp3121",
+    "description": "",
+    "date": "2002-01-01",
+    "authors": "Rob Euwals",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "C23",
+      "J22"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f6215cf7",
+    "title": "DP3120 A Theory of Currency Denomination of International Trade",
+    "url": "https://cepr.org/publications/dp3120",
+    "description": "",
+    "date": "2002-01-01",
+    "authors": "Philippe Bacchetta; Eric van Wincoop",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "F31",
+      "F41"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-0cbac1ee",
+    "title": "DP3119 Factor Forecasts for the UK",
+    "url": "https://cepr.org/publications/dp3119",
+    "description": "",
+    "date": "2002-01-01",
+    "authors": "Michael Artis; Anindya Banerjee; Massimiliano Marcellino",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "C22",
+      "C51",
+      "C52",
+      "C53"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e995503a",
+    "title": "DP3118 International Protection of Intellectual Property",
+    "url": "https://cepr.org/publications/dp3118",
+    "description": "",
+    "date": "2002-01-01",
+    "authors": "Gene M. Grossman; Edwin Lai",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "F13",
+      "O34"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1e27ac8a",
+    "title": "DP3114 Taste Heterogeneity, Labour Mobility and Economic Geography",
+    "url": "https://cepr.org/publications/dp3114",
+    "description": "",
+    "date": "2001-12-12",
+    "authors": "Jacques-François Thisse; Takatoshi Tabuchi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "O15",
+      "O18",
+      "R13"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c2fe8bba",
+    "title": "DP3113 Monetary Policy With Uncertain Central Bank Preferences",
+    "url": "https://cepr.org/publications/dp3113",
+    "description": "",
+    "date": "2001-12-12",
+    "authors": "Anne Sibert",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E58"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2a5e658d",
+    "title": "DP3116 Is Cannabis a Stepping-Stone for Cocaine?",
+    "url": "https://cepr.org/publications/dp3116",
+    "description": "",
+    "date": "2001-12-03",
+    "authors": "Jan C. van Ours",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Public Economics",
+      "C41",
+      "D12"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-4a3c846d",
     "title": "DP2713 Macroeconomic Effects of Regulation and Deregulation in Goods and Labour Markets",
     "url": "https://cepr.org/publications/dp2713",
@@ -8062,6 +8325,26 @@
       "J22",
       "J31",
       "J61"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-90ae46c9",
+    "title": "DP3117 The Political Economy of International Unions",
+    "url": "https://cepr.org/publications/dp3117",
+    "description": "",
+    "date": "2001-01-02",
+    "authors": "Alberto Alesina; Ignazio Angeloni; Federico Etro",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Public Economics",
+      "D78",
+      "H11",
+      "H41"
     ],
     "tags": [
       "economics"
