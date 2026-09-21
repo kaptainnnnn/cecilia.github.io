@@ -1,5 +1,50 @@
 [
   {
+    "id": "cepr-d5d84b1e",
+    "title": "DP21958 Estimating treatment-effect heterogeneity across sites, in multi-site randomized experiments with few units per site.",
+    "url": "https://cepr.org/publications/dp21958",
+    "description": "",
+    "date": "2026-09-20",
+    "authors": "Deeb; de Chaisemartin",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-5124d198",
+    "title": "DP21957 Do Immigrants Impact Local Public Finances? Evidence from Belgium",
+    "url": "https://cepr.org/publications/dp21957",
+    "description": "",
+    "date": "2026-09-20",
+    "authors": "Mayda; Gonnot; Fiore",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-78b53ad1",
+    "title": "DP21956 Terra Incognita: The Economics of a Shrinking World",
+    "url": "https://cepr.org/publications/dp21956",
+    "description": "",
+    "date": "2026-09-20",
+    "authors": "Fernández-Villaverde; Norrick",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-eb2bee64",
     "title": "DP21955 Innovation, Business Cycles, and the Climate Transition",
     "url": "https://cepr.org/publications/dp21955",
@@ -6376,6 +6421,113 @@
     ]
   },
   {
+    "id": "cepr-6a1d887d",
+    "title": "DP19885 American Life Histories",
+    "url": "https://cepr.org/publications/dp19885",
+    "description": "",
+    "date": "2025-01-27",
+    "authors": "David Lagakos; Stelios Michalopoulos; Hans-Joachim Voth",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Economic History",
+      "Political Economy",
+      "I00",
+      "I31",
+      "N32"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-0bcd941e",
+    "title": "DP19463 Free Trade Agreements and the Movement of Business People",
+    "url": "https://cepr.org/publications/dp19463",
+    "description": "",
+    "date": "2024-09-09",
+    "authors": "Thierry Mayer; Hillel Rapoport; Camilo Umana-Dajud",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "International Trade and Regional Economics",
+      "F13",
+      "F22",
+      "F23"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-bda55daf",
+    "title": "DP18788 Vax Populi: the Social Costs of Online Vaccine Skepticism",
+    "url": "https://cepr.org/publications/dp18788",
+    "description": "",
+    "date": "2024-01-29",
+    "authors": "Matilde Giaccherini; Joanna Kopinska; Gabriele Rovigatti",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Political Economy",
+      "I18",
+      "D85",
+      "L82",
+      "C81"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-204ee058",
+    "title": "DP16624 Visual Representation and Stereotypes in News Media",
+    "url": "https://cepr.org/publications/dp16624",
+    "description": "",
+    "date": "2022-05-01",
+    "authors": "Elliott Ash; Ruben Durante; Mariia Grebenshchikova; Carlo Schwarz",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Political Economy",
+      "Public Economics",
+      "L82",
+      "J15",
+      "J16",
+      "Z1",
+      "C45"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ad312906",
+    "title": "DP16774 Corporate Donations and Political Rhetoric: Evidence from a National Ban",
+    "url": "https://cepr.org/publications/dp16774",
+    "description": "",
+    "date": "2022-04-07",
+    "authors": "Julia Cage; Caroline Le Pennec-Caldichoury&nbsp;; Elisa Mougin",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Political Economy",
+      "Public Economics",
+      "D72",
+      "P48",
+      "H7"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-a728b53b",
     "title": "DP14139 Labor Market Frictions and Lowest Low Fertility",
     "url": "https://cepr.org/publications/dp14139",
@@ -6398,6 +6550,29 @@
     ]
   },
   {
+    "id": "cepr-ac937745",
+    "title": "DP17138 The Education-Innovation Gap",
+    "url": "https://cepr.org/publications/dp17138",
+    "description": "",
+    "date": "2022-03-25",
+    "authors": "Barbara Biasi; Song Ma",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "Public Economics",
+      "I23",
+      "I24",
+      "I26",
+      "J24",
+      "O33"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-6da78f4c",
     "title": "DP14147 Reference Dependence in the Housing Market",
     "url": "https://cepr.org/publications/dp14147",
@@ -6414,6 +6589,45 @@
       "D14",
       "G02",
       "R21"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-00809249",
+    "title": "DP16929 Eliciting People's First-Order Concerns: Text Analysis of Open-Ended Survey Questions",
+    "url": "https://cepr.org/publications/dp16929",
+    "description": "",
+    "date": "2022-01-18",
+    "authors": "Beatrice Ferrario; Stefanie Stantcheva",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "Political Economy",
+      "Public Economics",
+      "H20",
+      "D72",
+      "D91"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-384e8ea4",
+    "title": "DP15686 Mobilization and the Strategy of Populism Theory and Evidence from the United States",
+    "url": "https://cepr.org/publications/dp15686",
+    "description": "",
+    "date": "2021-01-20",
+    "authors": "Gloria Gennaro; Giampaolo Lecce; Massimo Morelli",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Public Economics"
     ],
     "tags": [
       "economics"
@@ -6680,6 +6894,27 @@
     ]
   },
   {
+    "id": "cepr-96cc970a",
+    "title": "DP14455 Terrorist Attacks, Cultural Incidents and the Vote for Radical Parties: Analyzing Text from Twitter",
+    "url": "https://cepr.org/publications/dp14455",
+    "description": "",
+    "date": "2020-02-29",
+    "authors": "Francesco Giavazzi; Felix Iglhaut; Giacomo Lemoli; Gaia Rubera",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Macroeconomics and Growth",
+      "Public Economics",
+      "C45",
+      "D72",
+      "H56"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-b5dd77b6",
     "title": "DP14146 Equilibrium Counterfactuals",
     "url": "https://cepr.org/publications/dp14146",
@@ -6876,6 +7111,24 @@
       "J24",
       "O33",
       "E24"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-67fd50eb",
+    "title": "DP13804 Intertemporal Evidence on the Strategy of Populism",
+    "url": "https://cepr.org/publications/dp13804",
+    "description": "",
+    "date": "2019-06-16",
+    "authors": "Gloria Gennaro; Giampaolo Lecce; Massimo Morelli",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Public Economics",
+      "D7"
     ],
     "tags": [
       "economics"
