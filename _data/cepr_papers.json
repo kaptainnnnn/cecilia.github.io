@@ -1,5 +1,110 @@
 [
   {
+    "id": "cepr-72bb7511",
+    "title": "DP21965 Risk Appetite and Monetary Transmission",
+    "url": "https://cepr.org/publications/dp21965",
+    "description": "",
+    "date": "2026-09-21",
+    "authors": "Bauer; Schmeling; Schrimpf",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-26f267d2",
+    "title": "DP21964 Who You Know, Who You Recommend: Referrals and Occupational Gender Segregation",
+    "url": "https://cepr.org/publications/dp21964",
+    "description": "",
+    "date": "2026-09-21",
+    "authors": "Alfonsi; Ferreira",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4687fff1",
+    "title": "DP21963 Meet Your Future: Experimental Evidence on the Labor Market Effects of Mentors",
+    "url": "https://cepr.org/publications/dp21963",
+    "description": "",
+    "date": "2026-09-21",
+    "authors": "Alfonsi; Namubiru; Spaziani",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8b8b4780",
+    "title": "DP21962 Firms’ Marginal Propensities to Invest",
+    "url": "https://cepr.org/publications/dp21962",
+    "description": "",
+    "date": "2026-09-21",
+    "authors": "Commault; Martin-Baillon",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-08453ca7",
+    "title": "DP21961 Heterogeneous Cross-Border Financial Allocations",
+    "url": "https://cepr.org/publications/dp21961",
+    "description": "",
+    "date": "2026-09-21",
+    "authors": "Carluccio; Varela",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d3949b62",
+    "title": "DP21960 The Karenina Principle: A Decision Rule for Contradicting Requirements",
+    "url": "https://cepr.org/publications/dp21960",
+    "description": "",
+    "date": "2026-09-21",
+    "authors": "Levermann",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-61014efd",
+    "title": "DP21959 Subjective Models of the Macroeconomy and the Transmission of Monetary Policy",
+    "url": "https://cepr.org/publications/dp21959",
+    "description": "",
+    "date": "2026-09-21",
+    "authors": "D'Acunto; Georgarakos; Kenny; Weber",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-d5d84b1e",
     "title": "DP21958 Estimating treatment-effect heterogeneity across sites, in multi-site randomized experiments with few units per site.",
     "url": "https://cepr.org/publications/dp21958",
@@ -11260,6 +11365,240 @@
       "F",
       "F",
       "Z"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2bb0b2e2",
+    "title": "DP49 Subsidisation vs Information Provision as Instruments of Technology Policy",
+    "url": "https://cepr.org/publications/dp49",
+    "description": "",
+    "date": "1985-02-01",
+    "authors": "Paul A. David; Paul Stoneman",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "O"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4ddab5e2",
+    "title": "DP48 Unemployment, Health and Welfare During the Depression",
+    "url": "https://cepr.org/publications/dp48",
+    "description": "",
+    "date": "1985-02-01",
+    "authors": "Charles Webster",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "J",
+      "J",
+      "Z"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-679f3c7f",
+    "title": "DP47 The Economics of Old Age in Britain: A Long-Run View, 1881-1981",
+    "url": "https://cepr.org/publications/dp47",
+    "description": "",
+    "date": "1985-02-01",
+    "authors": "Paul A Johnson",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "N",
+      "J"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-39639b19",
+    "title": "DP46 Net Energy Expenditure and Energy Demand in the UK",
+    "url": "https://cepr.org/publications/dp46",
+    "description": "",
+    "date": "1985-02-01",
+    "authors": "David Pearce; Richard Westoby",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "E",
+      "Z"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4ddb7d0d",
+    "title": "DP45 Macroeconomic Aspects of the Effectiveness of Foreign Aid: On the Two-Gap Model, Home Goods Disequilibrium and Real Exchange Rate Misalignment",
+    "url": "https://cepr.org/publications/dp45",
+    "description": "",
+    "date": "1985-02-01",
+    "authors": "Sweder van Wijnbergen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "E",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-50006edf",
+    "title": "DP44 Economic Implications of Demographic Change",
+    "url": "https://cepr.org/publications/dp44",
+    "description": "",
+    "date": "1985-01-01",
+    "authors": "John F Ermisch",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "J"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-71bd1ca8",
+    "title": "DP43 Wealth and Portfolio Composition: Theory and Evidence",
+    "url": "https://cepr.org/publications/dp43",
+    "description": "",
+    "date": "1985-01-01",
+    "authors": "Mervyn King; Jonathan Leape",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "D",
+      "G",
+      "H"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2a46d963",
+    "title": "DP42 Factor Shadow Prices in Distorted Open Economies",
+    "url": "https://cepr.org/publications/dp42",
+    "description": "",
+    "date": "1985-01-01",
+    "authors": "Alasdair Smith",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "B",
+      "D",
+      "H",
+      "H",
+      "F"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-056727a0",
+    "title": "DP41 Public Sector Shadow Prices in Distorted General Equilibrium Models",
+    "url": "https://cepr.org/publications/dp41",
+    "description": "",
+    "date": "1985-01-01",
+    "authors": "Alasdair Smith",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "B",
+      "D",
+      "H",
+      "H"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-03e3221d",
+    "title": "DP40 Participation in Paid Work: Multiple Regression Analysis of the Women and Employment Survey",
+    "url": "https://cepr.org/publications/dp40",
+    "description": "",
+    "date": "1985-01-01",
+    "authors": " ",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Human Resources",
+      "J",
+      "J",
+      "J"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7668cdc2",
+    "title": "DP39 What Will Take the Con Out of Econometrics?",
+    "url": "https://cepr.org/publications/dp39",
+    "description": "",
+    "date": "1985-01-01",
+    "authors": "Adrian Pagan; Michael McAleer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Applied Macroeconomics",
+      "C",
+      "C"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b3880d3c",
+    "title": "DP38 Customs Union, Tariff Reform and Trade in Differentiated Products",
+    "url": "https://cepr.org/publications/dp38",
+    "description": "",
+    "date": "1985-01-01",
+    "authors": "Anthony Venables",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "H",
+      "F"
     ],
     "tags": [
       "economics"
