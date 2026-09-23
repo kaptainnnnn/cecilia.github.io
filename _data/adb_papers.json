@@ -1,5 +1,18 @@
 [
   {
+    "id": "adb-24bc9791",
+    "title": "Assessing Financial Preparedness in Old Age in Asia: Evidence from the Republic of Korea",
+    "url": "https://www.adb.org/publications/financial-preparedness-old-age-asia-republic-korea",
+    "description": "This paper assesses financial preparedness for old age in the Republic of Korea by comparing expected retirement resources—including public pensions, family transfers, assets, and post-retirement earnings—with target consumption needs.",
+    "date": "2026-09-23",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
     "id": "adb-e6bd6a27",
     "title": "Better Technology, Worse Motivation: Generative Artificial Intelligence’s Mediocrity Trap",
     "url": "https://www.adb.org/publications/better-technology-worse-motivation",
@@ -239,19 +252,6 @@
     "url": "https://www.adb.org/publications/trade-de-specialization",
     "description": "Why do economies lose their export edge—and what drives it? This paper examines trade de-specialization, the often-overlooked flip side of economic development and structural transformation.",
     "date": "2026-05-08",
-    "source": "ADB",
-    "tags": [
-      "economics",
-      "development"
-    ],
-    "featured": false
-  },
-  {
-    "id": "adb-dd7d386f",
-    "title": "Predictors of Climate Change Concern and Climate Policy Support: An Analysis Across Asian Economies",
-    "url": "https://www.adb.org/publications/predictors-climate-change-concern",
-    "description": "Drawing on a survey of 13,547 respondents across 14 Asian economies, this paper examines public perceptions of climate change and support for key climate policies.",
-    "date": "2026-04-30",
     "source": "ADB",
     "tags": [
       "economics",
