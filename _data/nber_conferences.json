@@ -1286,5 +1286,61 @@
     "date": "October 30, 2026",
     "type": "Conference",
     "has_program": false
+  },
+  {
+    "id": "nber-conf-b39bdacb",
+    "title": "NBER Project on the Law and Economics of Permitting, Spring 2027",
+    "url": "https://www.nber.org/conferences/nber-project-law-and-economics-permitting-spring-2027",
+    "date": "January 14, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-cbf3c1ed",
+    "title": "Labor Studies Program Meeting, Spring 2027",
+    "url": "https://www.nber.org/conferences/labor-studies-program-meeting-spring-2027",
+    "date": "April 16, 2027",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-3a754e48",
+    "title": "Insurance Working Group Meeting, Spring 2027",
+    "url": "https://www.nber.org/conferences/insurance-working-group-meeting-spring-2027",
+    "date": "May 7, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-f13d0499",
+    "title": "Innovation in the Agricultural and Food System, Spring 2027",
+    "url": "https://www.nber.org/conferences/innovation-agricultural-and-food-system-spring-2027",
+    "date": "May 21, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-d2cd404c",
+    "title": "Heterogeneous-Agent Macroeconomics Workshop, Spring 2027",
+    "url": "https://www.nber.org/conferences/heterogeneous-agent-macroeconomics-workshop-spring-2027",
+    "date": "June 9-11, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-978c89bf",
+    "title": "NBER Tax Policy and the Economy Conference, 2027",
+    "url": "https://www.nber.org/conferences/nber-tax-policy-and-economy-conference-2027",
+    "date": "September 23, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-80b6c685",
+    "title": "The Economics of Community Colleges, Spring 2028",
+    "url": "https://www.nber.org/conferences/economics-community-colleges-spring-2028",
+    "date": "April 6-7, 2028",
+    "type": "Conference",
+    "has_program": false
   }
 ]

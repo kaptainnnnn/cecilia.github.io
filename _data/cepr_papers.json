@@ -1,5 +1,35 @@
 [
   {
+    "id": "cepr-5c26ab54",
+    "title": "DP21970 Platform Openness: Evidence from Bug Bounty Programs",
+    "url": "https://cepr.org/publications/dp21970",
+    "description": "",
+    "date": "2026-09-23",
+    "authors": "Zrahia; Kretschmer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-dae7f56f",
+    "title": "DP21969 Can Refugees Mitigate Local Decline? Evidence from the Forced Displacement of Serbs during the Yugoslav Wars (1991-2022)",
+    "url": "https://cepr.org/publications/dp21969",
+    "description": "",
+    "date": "2026-09-23",
+    "authors": "Buscemi; Miladinovic; Missiaia",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-7162ec76",
     "title": "DP21968 Innovation uncertainty shapes divergent pathways toward decarbonization",
     "url": "https://cepr.org/publications/dp21968",
@@ -8266,6 +8296,243 @@
       "O15",
       "O19",
       "R23"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-01a1ea78",
+    "title": "DP4486 A Prism into the PPP Puzzles: The Micro-Foundations of Big Mac Real Exchange Rates",
+    "url": "https://cepr.org/publications/dp4486",
+    "description": "",
+    "date": "2004-07-23",
+    "authors": "David Parsley; Shang-Jin Wei",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Institutions and Economic Performance",
+      "International Macroeconomics",
+      "International Trade and Regional Economics",
+      "F31"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4deca864",
+    "title": "DP4485 Was There A Nasdaq Bubble in the Late 1990s?",
+    "url": "https://cepr.org/publications/dp4485",
+    "description": "",
+    "date": "2004-07-23",
+    "authors": "Pietro Veronesi; Luboš Pástor",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "G12"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-497234d3",
+    "title": "DP4484 First and Second Prizes in Imperfectly Discriminating Contests",
+    "url": "https://cepr.org/publications/dp4484",
+    "description": "",
+    "date": "2004-07-23",
+    "authors": "Stefan Szymanski; Tommaso Valletti",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "D43",
+      "L13"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e66c6be7",
+    "title": "DP4483 Innovation Complimentarity and Scale of Production",
+    "url": "https://cepr.org/publications/dp4483",
+    "description": "",
+    "date": "2004-07-23",
+    "authors": "Eugenio Miravete; Jose C Pernías",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "C52",
+      "L20",
+      "O32"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8781421c",
+    "title": "DP4482 Business Cycles in Emerging Economies: The Role of Interest Rates",
+    "url": "https://cepr.org/publications/dp4482",
+    "description": "",
+    "date": "2004-07-23",
+    "authors": "Fabrizio Perri; Pablo Andrés Neumeyer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "E32",
+      "F32",
+      "F41"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-af0ce0b9",
+    "title": "DP4481 Benefits and Spillovers of Greater Competition in Europe: A Macroeconomic Assessment",
+    "url": "https://cepr.org/publications/dp4481",
+    "description": "",
+    "date": "2004-07-23",
+    "authors": "Paolo Pesenti; Tamim Bayoumi; Doug Laxton",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "C51",
+      "E31",
+      "E52"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-40fbb148",
+    "title": "DP4480 Group Decision-Making in the Shadow of Disagreement",
+    "url": "https://cepr.org/publications/dp4480",
+    "description": "",
+    "date": "2004-07-23",
+    "authors": "Debraj Ray; Ronny Razin; Kfir Eliaz",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Public Economics",
+      "D72",
+      "D78"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-037d7d1b",
+    "title": "DP4479 The Dynamics of R&amp;D and Innovation in the Short-Run and in the Long-Run",
+    "url": "https://cepr.org/publications/dp4479",
+    "description": "",
+    "date": "2004-07-23",
+    "authors": "Laura Bottazzi; Giovanni Peri",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "C23",
+      "F43",
+      "O31"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-5122a35c",
+    "title": "DP4478 Unmarried Parenthood and Redistributive Politics",
+    "url": "https://cepr.org/publications/dp4478",
+    "description": "",
+    "date": "2004-07-23",
+    "authors": "Rohini Pande; Lena Edlund; Laila Haider",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "Public Economics",
+      "H31",
+      "H42",
+      "J12",
+      "J13"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-bce2509f",
+    "title": "DP4477 Optimal Integration: Strategies for the Multinational Firm",
+    "url": "https://cepr.org/publications/dp4477",
+    "description": "",
+    "date": "2004-07-23",
+    "authors": "Elhanan Helpman; Gene M. Grossman; Adam Szeidl",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "F12",
+      "F23",
+      "L22"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4e1a4846",
+    "title": "DP4476 Transparency and International Portfolio Holdings",
+    "url": "https://cepr.org/publications/dp4476",
+    "description": "",
+    "date": "2004-07-23",
+    "authors": "Gaston Gelos; Shang-Jin Wei",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Financial Economics",
+      "Institutions and Economic Performance",
+      "Transition Economics",
+      "I20"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-aae52e4e",
+    "title": "DP4475 Growth Effects of the Exchange-Rate Regime and the Capital Account Openness in A Crisis-Prone World Market: A Nuanced View",
+    "url": "https://cepr.org/publications/dp4475",
+    "description": "",
+    "date": "2004-07-23",
+    "authors": "Assaf Razin; Yona Rubinstein",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics",
+      "F10",
+      "F30"
     ],
     "tags": [
       "economics"
