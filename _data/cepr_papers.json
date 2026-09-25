@@ -1,5 +1,65 @@
 [
   {
+    "id": "cepr-e4a446c3",
+    "title": "DP21974 Antitrust and Platforms: From of to in",
+    "url": "https://cepr.org/publications/dp21974",
+    "description": "",
+    "date": "2026-09-24",
+    "authors": "Bar-Isaac",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-75d06b51",
+    "title": "DP21973 Economic Growth and Greenhouse Gas Mitigation at the Environmental Limit",
+    "url": "https://cepr.org/publications/dp21973",
+    "description": "",
+    "date": "2026-09-24",
+    "authors": "Burda; Zessner-Spitzenberg",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ec24a9d8",
+    "title": "DP21972 Capital Adjustment Costs and Stranded Assets in an Optimal Energy Transition",
+    "url": "https://cepr.org/publications/dp21972",
+    "description": "",
+    "date": "2026-09-24",
+    "authors": "Burda; Goeth; Zessner-Spitzenberg",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-71d013e6",
+    "title": "DP21971 Organizing Expertise with Externalities: Evidence from Primary Care",
+    "url": "https://cepr.org/publications/dp21971",
+    "description": "",
+    "date": "2026-09-24",
+    "authors": "Dahlstrand; Huang; Le Nestour; Michaels",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-5c26ab54",
     "title": "DP21970 Platform Openness: Evidence from Bug Bounty Programs",
     "url": "https://cepr.org/publications/dp21970",

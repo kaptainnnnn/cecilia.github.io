@@ -50,16 +50,6 @@
     "faculty_slug": "arnaud-costinot"
   },
   {
-    "title": "Should We Tax Trade? A Pigouvian Perspective",
-    "authors": "Arnaud Costinot and Ivan Werning",
-    "date": "July 2026",
-    "year": 2026,
-    "month": 7,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-07/CW_JEP_060826.pdf",
-    "faculty": "Arnaud Costinot",
-    "faculty_slug": "arnaud-costinot"
-  },
-  {
     "title": "Double Robustness of Local Projections and Some Unpleasant VARithmetic",
     "authors": "José Luis Montiel Olea, Mikkel Plagborg-Møller, Eric Qian, Christian Wolf",
     "date": "July 2026",
@@ -318,16 +308,6 @@
     "pdf_url": "https://economics.mit.edu/sites/default/files/2025-08/optimal-curriculum.pdf",
     "faculty": "Parag Pathak",
     "faculty_slug": "parag-pathak"
-  },
-  {
-    "title": "Why is Trade Not Free? A Revealed Preference Approach",
-    "authors": "Rodrigo Adão, John Sturm Becko, Arnaud Costinot, and Dave Donaldson",
-    "date": "July 2025",
-    "year": 2025,
-    "month": 7,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-01/PolEcon_July2025_OSonly.pdf",
-    "faculty": "Arnaud Costinot",
-    "faculty_slug": "arnaud-costinot"
   },
   {
     "title": "Misperceptions and Demand for Democracy under Authoritarianism",
@@ -4010,22 +3990,22 @@
     "faculty_slug": "isaiah-andrews"
   },
   {
+    "title": "How Tariffs Affect Trade Deficits",
+    "authors": "Arnaud Costinot and Ivan WerningSeptember 2026",
+    "date": "",
+    "year": 0,
+    "month": 0,
+    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-09/TBdraft_091126.pdf",
+    "faculty": "Arnaud Costinot",
+    "faculty_slug": "arnaud-costinot"
+  },
+  {
     "title": "A World Trading System For Whom? Evidence from Global Tariffs",
     "authors": "Rodrigo Adão, John Sturm Becko, Arnaud Costinot, and Dave DonaldsonDecember 2025",
     "date": "",
     "year": 0,
     "month": 0,
     "pdf_url": "https://economics.mit.edu/sites/default/files/2026-01/GlobalEfficiency_122925.pdf",
-    "faculty": "Arnaud Costinot",
-    "faculty_slug": "arnaud-costinot"
-  },
-  {
-    "title": "How Tariffs Affect Trade Deficits",
-    "authors": "Arnaud Costinot and Ivan WerningJune 2025",
-    "date": "",
-    "year": 0,
-    "month": 0,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2025-06/TBdraftMITweb.pdf",
     "faculty": "Arnaud Costinot",
     "faculty_slug": "arnaud-costinot"
   },
