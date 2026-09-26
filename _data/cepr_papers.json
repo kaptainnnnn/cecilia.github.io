@@ -1,5 +1,50 @@
 [
   {
+    "id": "cepr-2c974d02",
+    "title": "DP21977 Shipping to America",
+    "url": "https://cepr.org/publications/dp21977",
+    "description": "",
+    "date": "2026-09-25",
+    "authors": "Bai; Fernández-Villaverde; Li; Marto; Zanetti",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2fa15c7b",
+    "title": "DP21976 Global Temperature and Global Mortality",
+    "url": "https://cepr.org/publications/dp21976",
+    "description": "",
+    "date": "2026-09-25",
+    "authors": "Bilal; Känzig; Lisiecki",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-818f746c",
+    "title": "DP21975 Collateral Advantage: Exchange Rates, Capital Flows, and Global Cycles",
+    "url": "https://cepr.org/publications/dp21975",
+    "description": "",
+    "date": "2026-09-25",
+    "authors": "Devereux; Engel; Wu",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-e4a446c3",
     "title": "DP21974 Antitrust and Platforms: From of to in",
     "url": "https://cepr.org/publications/dp21974",
@@ -6697,6 +6742,250 @@
       "F13",
       "F22",
       "F23"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6f042631",
+    "title": "DP18871 Product Liability Litigation and Innovation: Evidence from Medical Devices",
+    "url": "https://cepr.org/publications/dp18871",
+    "description": "",
+    "date": "2024-02-29",
+    "authors": "Alberto Galasso; Hong Luo",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "Organizational Economics",
+      "K13",
+      "K41",
+      "L51",
+      "O32"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d74a5ae5",
+    "title": "DP18870 Campaigning Against Populism Emotions and Information in Real Election Campaigns",
+    "url": "https://cepr.org/publications/dp18870",
+    "description": "",
+    "date": "2024-02-28",
+    "authors": "Cesi Cruz; Julien Labonne; Francesco Trebbi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Political Economy"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ee1f5b98",
+    "title": "DP18869 Capital Replacement and Innovation Dynamics",
+    "url": "https://cepr.org/publications/dp18869",
+    "description": "",
+    "date": "2024-02-28",
+    "authors": "Fabio Bertolotti; Andrea Lanteri",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "Macroeconomics and Growth",
+      "E22",
+      "O33"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-eeb3086a",
+    "title": "DP18868 A Theory of International Boycotts",
+    "url": "https://cepr.org/publications/dp18868",
+    "description": "",
+    "date": "2024-02-28",
+    "authors": "Abdoulaye Ndiaye",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics and Finance",
+      "International Trade and Regional Economics"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6eed6c42",
+    "title": "DP18867 Managing the transition to central bank digital currency",
+    "url": "https://cepr.org/publications/dp18867",
+    "description": "",
+    "date": "2024-02-28",
+    "authors": "Katrin Assenmacher; Massimo Ferrari Minesso; Arnaud Mehl; Maria Sole Pagliari",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics and Finance",
+      "E50",
+      "E58",
+      "F30",
+      "F41"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4ee8f75c",
+    "title": "DP18866 Ethnic salience and discrimination",
+    "url": "https://cepr.org/publications/dp18866",
+    "description": "",
+    "date": "2024-02-27",
+    "authors": "Zahra Murad; Emel Ozturk; Yi Sheng; Sigrid Suetens",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "C99",
+      "D91",
+      "J15",
+      "R23"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4b6f2e96",
+    "title": "DP18865 The How and Why of Household Reactions to Income Shocks",
+    "url": "https://cepr.org/publications/dp18865",
+    "description": "",
+    "date": "2024-02-27",
+    "authors": "Roberto Colarieti; Pierfrancesco Mei; Stefanie Stantcheva",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "Monetary Economics and Fluctuations",
+      "Macroeconomics and Growth",
+      "Public Economics",
+      "D12",
+      "D15",
+      "E21",
+      "E6",
+      "G51",
+      "H31"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c877af88",
+    "title": "DP18864 Shannon-Theil-Rawls: Information Theory, Inequality and the Veil of Ignorance",
+    "url": "https://cepr.org/publications/dp18864",
+    "description": "",
+    "date": "2024-02-27",
+    "authors": "Ravi Kanbur",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Public Economics"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-96f69d9d",
+    "title": "DP18862 Enhancing resilience with natural growth targeting",
+    "url": "https://cepr.org/publications/dp18862",
+    "description": "",
+    "date": "2024-02-26",
+    "authors": "Athanasios Orphanides",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "E32",
+      "E52",
+      "E58",
+      "E61"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-3e59ad4a",
+    "title": "DP18861 Heterogeneity in the Effects of Uncertainty Shocks on Labor Market Dynamics and Extensive vs. Intensive Margins of Adjustment",
+    "url": "https://cepr.org/publications/dp18861",
+    "description": "",
+    "date": "2024-02-26",
+    "authors": "Sangyup Choi; Davide Furceri; Seung Yong Yoo",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Monetary Economics and Fluctuations",
+      "Macroeconomics and Growth",
+      "E24",
+      "J20",
+      "J50"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-bd324a24",
+    "title": "DP18860 Trade and Domestic Distortions: The Case of Informality",
+    "url": "https://cepr.org/publications/dp18860",
+    "description": "",
+    "date": "2024-02-24",
+    "authors": "Rafael Dix-Carneiro; Pinelopi Koujianou Goldberg; Costas Meghir; Gabriel Ulyssea",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "Labour Economics",
+      "F14",
+      "F16",
+      "J46",
+      "O17"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2911d3f9",
+    "title": "DP18859 Austerity and Elections",
+    "url": "https://cepr.org/publications/dp18859",
+    "description": "",
+    "date": "2024-02-24",
+    "authors": "Alberto Alesina; Gabriele Ciminelli; Davide Furceri; Giorgio Saponaro",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Macroeconomics and Growth",
+      "Political Economy"
     ],
     "tags": [
       "economics"
