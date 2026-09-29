@@ -1,5 +1,125 @@
 [
   {
+    "id": "cepr-e801d58e",
+    "title": "DP21989 Too Little too Late? Nationwide Carbon Trading in China",
+    "url": "https://cepr.org/publications/dp21989",
+    "description": "",
+    "date": "2026-09-28",
+    "authors": "Zhang; Almond",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c8fa9dde",
+    "title": "DP21988 AI and the Market for Signals",
+    "url": "https://cepr.org/publications/dp21988",
+    "description": "",
+    "date": "2026-09-28",
+    "authors": "Ozdenoren",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-3d4ed9fd",
+    "title": "DP21987 Comparative Statics of Information Acquisition and Risk Aversion",
+    "url": "https://cepr.org/publications/dp21987",
+    "description": "",
+    "date": "2026-09-28",
+    "authors": "Cabrales; Curello; Gossner; Serrano",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-306fbf22",
+    "title": "DP21986 Governing Global Externalities: Investor Voice Amid Fragmented Policy",
+    "url": "https://cepr.org/publications/dp21986",
+    "description": "",
+    "date": "2026-09-28",
+    "authors": "Döttling; Levit; Malenko; Rola-Janicka",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-dd259ed8",
+    "title": "DP21985 Forward-Looking Credit Loss Recognition and Banks’ Internal Risk Models",
+    "url": "https://cepr.org/publications/dp21985",
+    "description": "",
+    "date": "2026-09-28",
+    "authors": "Bischof; Haselmann; Kohl; Schlueter",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1df50d96",
+    "title": "DP21984 Trust and Investment Loss: Evidence from UK Financial Corporate Failures",
+    "url": "https://cepr.org/publications/dp21984",
+    "description": "",
+    "date": "2026-09-28",
+    "authors": "Kosova; Michaelides",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c0a4586a",
+    "title": "DP21983 Do Female Directors Raise ESG Ratings? A Meta-Analysis",
+    "url": "https://cepr.org/publications/dp21983",
+    "description": "",
+    "date": "2026-09-28",
+    "authors": "Hozová; Havranek; Irsova",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-3d483dc9",
+    "title": "DP21982 Prompted to Start: How Generative AI is Transforming Entrepreneurship",
+    "url": "https://cepr.org/publications/dp21982",
+    "description": "",
+    "date": "2026-09-28",
+    "authors": "Bena; Bian; Giannetti",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-ab280d89",
     "title": "DP21981 Taming Original Sin Redux:  The Role of Benchmark-Driven Flows",
     "url": "https://cepr.org/publications/dp21981",

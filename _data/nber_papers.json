@@ -1248,6 +1248,565 @@
     ]
   },
   {
+    "id": "nber-7d6f4f54",
+    "title": "Beveridgean Phillips Curve",
+    "url": "https://www.nber.org/papers/w35804",
+    "description": "This paper develops a Beveridgean model of the Phillips curve. While the New Keynesian Phillips curve is based on monopolistic pricing under price-adjustment costs, the Beveridgean Phillips curve is based on directed-search pricing under price-adjustment costs. Under directed search, prices respond...",
+    "date": "2026-09",
+    "authors": "Pascal Michaillat & Emmanuel Saez",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-8ffd9686",
+    "title": "Network General Equilibrium as a Threat to Identification: The Failure of Time Fixed Effects",
+    "url": "https://www.nber.org/papers/w35807",
+    "description": "Network General Equilibrium as a Threat to Identification: The Failure of Time Fixed Effects",
+    "date": "2026-09",
+    "authors": "Bernard Herskovic & Gill Segal",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-58a45b38",
+    "title": "Shipping to America",
+    "url": "https://www.nber.org/papers/w35808",
+    "description": "We study the macroeconomic and trade-policy implications of disruptions to U.S.-bound shipping routes. Standard models treat them as iceberg-cost shocks, conflating the shock with the response to it. Using satellite vessel-tracking data, we construct route-level measures of potential and effective...",
+    "date": "2026-09",
+    "authors": "Xiwen Bai, Jesús Fernández-Villaverde, Yiliang Li, Ricardo Marto & Francesco Zanetti",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-6e2aba45",
+    "title": "Like a Good Neighbor: Childhood Neighbors Influence Occupation Choice",
+    "url": "https://www.nber.org/papers/w35810",
+    "description": "Occupation choice is a key determinant of economic mobility. This paper studies how childhood neighbors influence occupational choices and later-life earnings. Using linked historical U.S. census records for over six million boys and four million girls, we reconstruct neighborhood microgeography to...",
+    "date": "2026-09",
+    "authors": "Michael J. Andrews, Ryan R. Hill, Joseph Price & Riley Wilson",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b05945f7",
+    "title": "Terra Incognita: The Economics of a Shrinking World",
+    "url": "https://www.nber.org/papers/w35809",
+    "description": "As of 2026, humanity is likely below replacement fertility. That has never happened before, not in wars or pandemics. But the real surprise is that the fall has been concentrated in low- and middle-income countries and among poorer and less educated women. We fit a single-factor model to 236...",
+    "date": "2026-09",
+    "authors": "Jesús Fernández-Villaverde & Patrick Norrick",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-da6fbc67",
+    "title": "Evaluating the Spatial Consequences of a Climate Tipping Point",
+    "url": "https://www.nber.org/papers/w35811",
+    "description": "The Atlantic Meridional Overturning Circulation (AMOC) is a system of ocean currents that plays a key role in regulating global climate, including moderating temperatures in Europe and the North Atlantic. Its potential collapse due to global warming is widely considered one of the more likely...",
+    "date": "2026-09",
+    "authors": "José-Luis Cruz, Klaus Desmet & Esteban Rossi-Hansberg",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-7ab440b9",
+    "title": "Transportation Bottlenecks and Aggregate Shocks",
+    "url": "https://www.nber.org/papers/w35812",
+    "description": "Do transportation disruptions affect aggregate outcomes? We develop a tractable model of the transportation sector to study its impact on prices and international trade. By casting maritime transportation as a queueing network, the model identifies where the transportation bottlenecks lie and...",
+    "date": "2026-09",
+    "authors": "Giulia Brancaccio, Myrto Kalouptsidi, Theodore Papageorgiou & Yixin Zhou",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-7873d690",
+    "title": "The Dynamics of Development in a Zero-Sum World",
+    "url": "https://www.nber.org/papers/w35813",
+    "description": "This chapter examines the consequences of zero-sum environments for cultural change, innovation, and long-term economic growth. We introduce innovation into the framework developed by Bergeron et al. (forthcoming), in which zero-sum environments give rise to demotivating beliefs. Although...",
+    "date": "2026-09",
+    "authors": "Augustin Bergeron, Jean-Paul Carvalho, Joseph Henrich, Nathan Nunn & Jonathan L. Weigel",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-5fc3d3fa",
+    "title": "Foreign Opportunity and Regional Revival: Evidence from the French Rust Belt",
+    "url": "https://www.nber.org/papers/w35814",
+    "description": "This paper studies whether and how distressed regions can recover from industrial decline. We exploit differences in access to an increasingly thriving Luxembourg labor market for neighboring residents of the French Rust Belt. We document a three-phase expansion of treated local labor markets,...",
+    "date": "2026-09",
+    "authors": "Antoine B. Levy & Mathilde Muñoz",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-9c9e7569",
+    "title": "The Commoditization of Labor",
+    "url": "https://www.nber.org/papers/w35815",
+    "description": "Technical change often simplifies jobs. This increases productivity, but it also makes workers more substitutableor more \"commoditized.\" Commoditization of labor drives down worker bargaining power: anyone can do the job, implying workers are disposable, which improves the outside option of firms...",
+    "date": "2026-09",
+    "authors": "Masao Fukui, Emi Nakamura & Jón Steinsson",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-be12f476",
+    "title": "The Great Accretion and the Great Depression",
+    "url": "https://www.nber.org/papers/w35816",
+    "description": "The Second Industrial Revolution sparked a wave of new products and industrial processes, fueling an optimistic Roaring Twenties. But did excitement about technological progress contribute to an over accumulation of investment, despite a slowdown in new product development and satiated demand during...",
+    "date": "2026-09",
+    "authors": "Harold L. Cole, Stefano Cravero & Jeremy Greenwood",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-9778f3da",
+    "title": "Early Results from the RESET Demonstration Project: Inflation in Food at Home",
+    "url": "https://www.nber.org/papers/w35817",
+    "description": "This paper presents early results from the RESET Demonstration Project, an initiative that constructs price and sales indices using item-level transactions data. The projects overarching goal is to demonstrate the feasibility and advantages of leveraging modern transactions data for economic...",
+    "date": "2026-09",
+    "authors": "Steve Coffey, Gabriel Ehrlich, John C. Haltiwanger, Ron S. Jarmin, David Johnson, Tod Johnson & Matthew D. Shapiro",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-5f366760",
+    "title": "Subjective Models of the Macroeconomy and the Transmission of Monetary Policy",
+    "url": "https://www.nber.org/papers/w35831",
+    "description": "Standard macroeconomic theories assume that representative or heterogeneous agents share a common model of how the economy operates. Yet evidence shows that households hold heterogeneous subjective models---distinct beliefs about how macroeconomic variables interact. As a result, identical shocks or...",
+    "date": "2026-09",
+    "authors": "Francesco D’Acunto, Dimitris Georgarakos, Geoff Kenny & Michael Weber",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-870129e7",
+    "title": "Does Fertility Stabilize At Low Levels? Evidence from Period, Cohort, and Subnational Data",
+    "url": "https://www.nber.org/papers/w35824",
+    "description": "Does Fertility Stabilize At Low Levels? Evidence from Period, Cohort, and Subnational Data",
+    "date": "2026-09",
+    "authors": "Diane Coffey, Michael Geruso, Dean Spears & Sangita Vyas",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-0fd36137",
+    "title": "The Positive Spillovers to Risky Investments in Vacant, Abandoned, and Disinvested Properties",
+    "url": "https://www.nber.org/papers/w35825",
+    "description": "The Positive Spillovers to Risky Investments in Vacant, Abandoned, and Disinvested Properties",
+    "date": "2026-09",
+    "authors": "Edward W. Chen, Reagan L. Lengefeld & Omar Isaac Asensio",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c29316cb",
+    "title": "Optimal Population Growth in the Diamond OLG Model",
+    "url": "https://www.nber.org/papers/w35823",
+    "description": "This paper studies the effects of population growth on welfare in an OLG model, in which lower population growth raises output per worker but also reduces the ratio of workers to retirees. Under fairly mild restrictions on the models parameters, there exists an optimal population-growth rateone that...",
+    "date": "2026-09",
+    "authors": "Laurence M. Ball",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-d8cbd062",
+    "title": "Economics of Demand-Side and Supply-Side Climate Policies",
+    "url": "https://www.nber.org/papers/w35830",
+    "description": "Should a jurisdiction seeking to cut greenhouse gas emissions use demand-side climate policies that target fossil fuel consumption? Or should it introduce supply-side policies that target extraction? My analysis points to a policy portfolio rather than an either/or choice. ``Leakage'' of emissions...",
+    "date": "2026-09",
+    "authors": "Ryan Kellogg",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b3079733",
+    "title": "Crime in Covid Times",
+    "url": "https://www.nber.org/papers/w35827",
+    "description": "What caused the historically unique volatility in American homicides since 2019, driven by gun homicides? While there is no shortage of candidate explanations, a coherent understanding has been elusive because of the widely held view that gun violence, like other crimes, stems from a rational...",
+    "date": "2026-09",
+    "authors": "Jens Ludwig",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-33f186b1",
+    "title": "Liability and Pricing of Dual-Use AI",
+    "url": "https://www.nber.org/papers/w35828",
+    "description": "How much liability should AI providers bear when their services enable both attack and defence? Liability can improve welfare while increasing harm. Providers sell a common input to productive users, attackers and defenders. Within a defended contest, a higher common price reduces effort without...",
+    "date": "2026-09",
+    "authors": "Joshua S. Gans",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-d67501d9",
+    "title": "Importers, Market Power and Optimal Tariffs",
+    "url": "https://www.nber.org/papers/w35829",
+    "description": "Importers are few and large, have higher labor productivity and pass through cost changes to prices incompletely. We study optimal tariffs in a model consistent with these facts. Firms pay a fixed cost to import and charge markups that increase with size. Market power implies that importers are too...",
+    "date": "2026-09",
+    "authors": "Jonathan Becker, Corina Boar & Virgiliu Midrigan",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-603180de",
+    "title": "Global Temperature and Global Mortality",
+    "url": "https://www.nber.org/papers/w35832",
+    "description": "This paper documents large indirect mortality impacts of climate change. Exploiting natural global temperature variability, we find that 1C of warming increases annual mortality by 2.5 deaths per 1,000 individuals, compared to 0.1 deaths per 1,000 due to the associated local heat exposure. Using...",
+    "date": "2026-09",
+    "authors": "Adrien Bilal, Diego R. Känzig & Krzysztof Lisiecki",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-7c9d6abc",
+    "title": "An LLM Workflow That Reproduces, Improves, and Extends Published Economics Research",
+    "url": "https://www.nber.org/papers/w35782",
+    "description": "An LLM Workflow That Reproduces, Improves, and Extends Published Economics Research",
+    "date": "2026-09",
+    "authors": "Matthew Schwartz, Isaiah Andrews & Jesse M. Shapiro",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-59a33263",
+    "title": "The Early Impacts of AI on Employment among Recent College Graduates",
+    "url": "https://www.nber.org/papers/w35796",
+    "description": "The impact of AI on the employment prospects of recent college graduates is hotly debated with no consensus on the magnitude of impacts nor even the timing of those potential impacts. Using CPS microdata, we provide the first estimates of the effects of AI on the unemployment of recent college...",
+    "date": "2026-09",
+    "authors": "Robert W. Fairlie & Jane Wu",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-6b8cea5f",
+    "title": "Here, There, and Everywhere: Remote Work’s Impact on Employment in the UK",
+    "url": "https://www.nber.org/papers/w35791",
+    "description": "Remote work is often touted as a way for disabled and older workers to remain in the labour market. Post-Covid, the incidence of remote work has increased in the UK. Following Bloom et al. (2026), we test the effects of remote work on employment for these two groups using the pandemics increase in...",
+    "date": "2026-09",
+    "authors": "Ian Burn, Melissa D. Gentry & Joanna Lahey",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-29818a50",
+    "title": "Timing, Trading Frictions, and the Limits of Subsidy Capture in Livestock Risk Protection",
+    "url": "https://www.nber.org/papers/w35819",
+    "description": "Timing, Trading Frictions, and the Limits of Subsidy Capture in Livestock Risk Protection",
+    "date": "2026-09",
+    "authors": "Yifei Zhang, Andrew Keller, Shawn Arita & Sandro Steinbach",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-6d9c90b7",
+    "title": "Social Sorting and Political Cleavages: Evidence from 2.5 Million Electoral Candidates",
+    "url": "https://www.nber.org/papers/w35820",
+    "description": "Social Sorting and Political Cleavages: Evidence from 2.5 Million Electoral Candidates",
+    "date": "2026-09",
+    "authors": "Jesús Fernández-Villaverde & Carlos Sanz",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-a2062809",
+    "title": "Endogenous Rigidities and Capital Misallocation: Evidence from Containerships",
+    "url": "https://www.nber.org/papers/w35821",
+    "description": "We investigate how endogenous rigidities inhibit physical capital reallocation. We focus on the role of contract duration - a classic example of an adjustment rigidity. We argue that when agents sign longer contracts in booms when markets are thin, they generate a contracting externality which...",
+    "date": "2026-09",
+    "authors": "Maria Garcia-Osipenko, Nicholas Vreugdenhil & Nahim B. Zahur",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-230bdf98",
+    "title": "Windows of Opportunity in Early Childhood: A Dynamic Model of Multidimensional Development",
+    "url": "https://www.nber.org/papers/w35818",
+    "description": "Windows of Opportunity in Early Childhood: A Dynamic Model of Multidimensional Development",
+    "date": "2026-09",
+    "authors": "Orazio Attanasio, Raquel Bernal, Michele Giannola & Milagros Nores",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-38e20b32",
+    "title": "Financial Innovation and the International Monetary System",
+    "url": "https://www.nber.org/papers/w35822",
+    "description": "We show that the dollar remains dominant in most aspects of global finance. The euro and renminbi are competing in an increasingly fragmented second tier of currencies, leaving no clear rivals to the dollar. We study how financial innovation could reshape the international monetary system. In...",
+    "date": "2026-09",
+    "authors": "Gordon Y. Liao, Eswar S. Prasad & Tony Zhang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b84e86de",
+    "title": "Property Rights Uncertainty, Prices, and Speculation: Evidence from China's Housing Market",
+    "url": "https://www.nber.org/papers/w35797",
+    "description": "Property Rights Uncertainty, Prices, and Speculation: Evidence from China's Housing Market",
+    "date": "2026-09",
+    "authors": "Hanming Fang, Jing Wu & Vincent Yao",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-eb2f51c9",
+    "title": "Foreign Tax Advantages after the U.S. Tax Reform of 2017",
+    "url": "https://www.nber.org/papers/w35805",
+    "description": "We construct a firm-year panel of income-tax rate reconciliations from annual 10-K filings of public companies to study the effects of the Tax Cuts and Jobs Act (TCJA) on U.S. multinational profit shifting. These reconciliations decompose the gap between company-level effective tax rates and the...",
+    "date": "2026-09",
+    "authors": "Anmol Bhandari & Ellen McGrattan",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b0a4aa1d",
+    "title": "Deep Learning as a Projection Method for Solving Economic Models",
+    "url": "https://www.nber.org/papers/w35806",
+    "description": "Deep learning is increasingly presented in economics as a new paradigm for solving dynamic models, superseding the classical projection methods of numerical economics. We argue that this dichotomy rests on a misclassification. The neural-network solvers emphasized in this literature are least...",
+    "date": "2026-09",
+    "authors": "Kenneth L. Judd & Karl Schmedders",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-2743ccdc",
+    "title": "(How) Do We Teach Emotions?",
+    "url": "https://www.nber.org/papers/w35789",
+    "description": "Emotional intelligence constitutes a key component of human capital, shaped partially by educational materials. Using machine learning and generative AI tools, we examine emotional content in public-school textbooks and childrens literature. A stark mismatch emerges: text exposes children to a broad...",
+    "date": "2026-09",
+    "authors": "Anjali Adukia, Matthew Bonci, Paula Dastres Gallardo, Emileigh Harrison, Jake Nicoll & Teodora Szasz",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-478be7e1",
+    "title": "Price Setting During a Currency Changeover",
+    "url": "https://www.nber.org/papers/w35790",
+    "description": "We use the euro cash changeover, a large-scale and purely nominal reform that requires all firms to redenominate posted prices, to distinguish among theories of price rigidity. We develop a nonstationary menu-cost model in which firms anticipate the changeover date and may combine currency adoption...",
+    "date": "2026-09",
+    "authors": "Fernando E. Alvarez, David Argente, Alberto Cavallo & Francesco Lippi",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-eadbb9c2",
+    "title": "Impact of Adults’ College Completion on their Parents’ Mortality: Evidence from the 1993 Korean Higher Education Reform",
+    "url": "https://www.nber.org/papers/w35792",
+    "description": "Impact of Adults’ College Completion on their Parents’ Mortality: Evidence from the 1993 Korean Higher Education Reform",
+    "date": "2026-09",
+    "authors": "Ah-Reum Lee, William H. Dow & Jacqueline M. Torres",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-f8ffee3a",
+    "title": "The Macroeconomic Effect of AI: Sizing the Software Engineering Channel",
+    "url": "https://www.nber.org/papers/w35793",
+    "description": "We measure how artificial intelligence (AI) affects the economy through its impact on software engineering productivity. We use information from financial markets to develop a forward-looking measure that is available in real time. We estimate the sensitivity of each firms stock return to an AI...",
+    "date": "2026-09",
+    "authors": "Alex Blumenfeld, Jonathon Hazell, Chen Lian & Andreas Schaab",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-0069cb7f",
+    "title": "The Wealth of Nations: Origins of Prosperity and Seeds of Inequality",
+    "url": "https://www.nber.org/papers/w35799",
+    "description": "What ignited humanitys momentous ascent from millennia of stagnation to an era of sustained economic growth? And what are the roots of the vast disparities in the wealth of nations? These enduring mysteries, which have preoccupied scholars across generations, lie at the core of Unified Growth Theory...",
+    "date": "2026-09",
+    "authors": "Oded Galor",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-0d84ea6d",
+    "title": "Permits as Real Options: Anticipation and Regulatory Leakage",
+    "url": "https://www.nber.org/papers/w35794",
+    "description": "We identify a new channel for regulatory leakage: the permitting channel. In many settings, permits lock in the regulatory regime at approval, allowing firms to acquire the option to invest under current rules. Unlike the conventional Green Paradox response, this channel operates without...",
+    "date": "2026-09",
+    "authors": "Anna French & Nicholas Vreugdenhil",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-dc033c09",
+    "title": "Innovation, Business Cycles, and the Climate Transition",
+    "url": "https://www.nber.org/papers/w35795",
+    "description": "We study how business cycle fluctuations shape the pace and direction of innovation. Non-green innovation is procyclical, while green innovation is countercyclical, both over the cycle and in response to economic shocks. We explain this divergence in a dynamic general equilibrium model with...",
+    "date": "2026-09",
+    "authors": "Diego R. Känzig, Maximilian Konradt, Lixing Wang & Donghai Zhang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-9fc71368",
+    "title": "Are Guidelines Worth Following? Decision-Making Under Incomplete Evidence",
+    "url": "https://www.nber.org/papers/w35798",
+    "description": "Medical guidelines translate clinical evidence into treatment rules, but the evidence may identify treatment benefits more clearly than harms. We study anticoagulation for atrial fibrillation, combining randomized trials with Veterans Health Administration data. Trial evidence reveals substantial...",
+    "date": "2026-09",
+    "authors": "Jason Abaluck, Leila Agha & David C. Chan Jr",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-dfb97e6a",
+    "title": "The Political Foundations of Industrial Policy: Emergence, Endurance, and Exhaustion",
+    "url": "https://www.nber.org/papers/w35802",
+    "description": "The Political Foundations of Industrial Policy: Emergence, Endurance, and Exhaustion",
+    "date": "2026-09",
+    "authors": "Lottie Field, Réka Juhász & Michele Zampa",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-8fec3539",
+    "title": "Injury, Workload, and the Strategic Response of Coaches in the NBA",
+    "url": "https://www.nber.org/papers/w35803",
+    "description": "Worker effort increases contemporaneous output but may result in injury or burnout. Directing effort away from the workers most exposed to injury would reduce this risk, but information on the exposure is often hidden. We ask whether managers act on such private information, studying the NBA as a...",
+    "date": "2026-09",
+    "authors": "Kala Krishna, Sergey Lychagin & Lewis S. McLean",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-f8119856",
+    "title": "Accounting for Cross-Country Income Differences Revisited",
+    "url": "https://www.nber.org/papers/w35826",
+    "description": "Development accounting is the search for proximate sources of cross-country income differences. This article describes how knowledge in this field has evolved over the two decades since the influential work of Caselli (2005). There have been large advances in the measurement of production inputs...",
+    "date": "2026-09",
+    "authors": "David Lagakos & Todd Schoellman",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "nber-13d464d6",
     "title": "Time Travel on Professional Profiles",
     "url": "https://www.nber.org/papers/w35546",
