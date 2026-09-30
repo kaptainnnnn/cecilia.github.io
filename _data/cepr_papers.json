@@ -1,5 +1,185 @@
 [
   {
+    "id": "cepr-01fc5c07",
+    "title": "DP22001 Transportation Bottlenecks and Aggregate Shocks",
+    "url": "https://cepr.org/publications/dp22001",
+    "description": "",
+    "date": "2026-09-30",
+    "authors": "Kalouptsidi; Brancaccio; Papageorgiou; Zhou",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7a100f49",
+    "title": "DP22000 The Investment Channel of Monetary Policy: Disentangling Firm Heterogeneity",
+    "url": "https://cepr.org/publications/dp22000",
+    "description": "",
+    "date": "2026-09-29",
+    "authors": "Drechsel; Lewis; Melcangi; Pilossoph",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-a062a596",
+    "title": "DP21999 Evaluating the Spatial Consequences of a Climate Tipping Point",
+    "url": "https://cepr.org/publications/dp21999",
+    "description": "",
+    "date": "2026-09-29",
+    "authors": "Cruz; Desmet; Rossi-Hansberg",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e5981d99",
+    "title": "DP21998 PPML and Heavy-Tailed Trade and Factor Flows: Why Standard Inference Fails and How to Fix It",
+    "url": "https://cepr.org/publications/dp21998",
+    "description": "",
+    "date": "2026-09-29",
+    "authors": "Egger; Ji; Wang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d75fd22b",
+    "title": "DP21997 Quantifying Non-Tariff Barriers: Brexit, Input Sourcing and Firm Performance",
+    "url": "https://cepr.org/publications/dp21997",
+    "description": "",
+    "date": "2026-09-29",
+    "authors": "Sampson; Manova; Freeman; Dillner",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f7cb7926",
+    "title": "DP21996 Hedging Trade-Cost Uncertainty",
+    "url": "https://cepr.org/publications/dp21996",
+    "description": "",
+    "date": "2026-09-29",
+    "authors": "Egger; Egger; Erhardt; Navarro",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-953be2d3",
+    "title": "DP21995 Fiscal Constraints on Monetary Policy: \tHow Debt Limits Monetary Effectiveness",
+    "url": "https://cepr.org/publications/dp21995",
+    "description": "",
+    "date": "2026-09-29",
+    "authors": "Bayer; Kuester; Gong",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f7b2a36a",
+    "title": "DP21994 Will AI Help or Hurt Work and the Economy? What People Around the World Expect",
+    "url": "https://cepr.org/publications/dp21994",
+    "description": "",
+    "date": "2026-09-29",
+    "authors": "Bruschi; D'Acunto; De Fiore; Sandri; Weber",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-4be4eced",
+    "title": "DP21993 Financial Conditions Targeting",
+    "url": "https://cepr.org/publications/dp21993",
+    "description": "",
+    "date": "2026-09-29",
+    "authors": "Caballero; Caravello; Simsek",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-9d41075c",
+    "title": "DP21992 Beyond the Short Run: Monetary Policy and Innovation Investment",
+    "url": "https://cepr.org/publications/dp21992",
+    "description": "",
+    "date": "2026-09-29",
+    "authors": "Elfsbacka-Schmöller; Goldfayn-Frank; Schmidt",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-9a017af8",
+    "title": "DP21991 From Importer to Exporter: Oil Shocks and the U.S. Economy",
+    "url": "https://cepr.org/publications/dp21991",
+    "description": "",
+    "date": "2026-09-29",
+    "authors": "Känzig; Stock; Zanotti",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-35791ed9",
+    "title": "DP21990 A Mechanism for Addressing Participation and Compliance for the Provision of Global Public Goods",
+    "url": "https://cepr.org/publications/dp21990",
+    "description": "",
+    "date": "2026-09-29",
+    "authors": "Finus; Kornek; Edenhofer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-e801d58e",
     "title": "DP21989 Too Little too Late? Nationwide Carbon Trading in China",
     "url": "https://cepr.org/publications/dp21989",

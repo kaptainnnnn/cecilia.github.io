@@ -3880,6 +3880,16 @@
     "faculty_slug": "ricardo-caballero"
   },
   {
+    "title": "An LLM Workflow That Reproduces, Improves, and Extends Published Economics Research",
+    "authors": "Matthew D. Schwartz, Isaiah Andrews, and Jesse M. Shapiro",
+    "date": "",
+    "year": 0,
+    "month": 0,
+    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-09/metascience.pdf",
+    "faculty": "Isaiah Andrews",
+    "faculty_slug": "isaiah-andrews"
+  },
+  {
     "title": "Dutch Books for Language Models",
     "authors": "Isaiah Andrews and Suproteem Sarkar",
     "date": "",
