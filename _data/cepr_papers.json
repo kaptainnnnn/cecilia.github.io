@@ -1,11 +1,101 @@
 [
   {
+    "id": "cepr-f3920bd8",
+    "title": "DP22007 Computational Advances in Dynamic Discrete Choice",
+    "url": "https://cepr.org/publications/dp22007",
+    "description": "",
+    "date": "2026-10-01",
+    "authors": "Kwon; Maliar",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ae0dd735",
+    "title": "DP22006 Sustaining the Cowles-Commission Approach to macroeconomic modelling:  analytical coherence, unavoidable detail, and the Ray Fair model of the US economy",
+    "url": "https://cepr.org/publications/dp22006",
+    "description": "",
+    "date": "2026-10-01",
+    "authors": "Vines",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-01fc5c07",
     "title": "DP22001 Transportation Bottlenecks and Aggregate Shocks",
     "url": "https://cepr.org/publications/dp22001",
     "description": "",
     "date": "2026-09-30",
     "authors": "Kalouptsidi; Brancaccio; Papageorgiou; Zhou",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-92af3b47",
+    "title": "DP22005 Optimal Paternalistic Regulation of Markets",
+    "url": "https://cepr.org/publications/dp22005",
+    "description": "",
+    "date": "2026-09-30",
+    "authors": "Combe; Le Yaouanq",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-90fed22f",
+    "title": "DP22004 Beveridgean Phillips Curve",
+    "url": "https://cepr.org/publications/dp22004",
+    "description": "",
+    "date": "2026-09-30",
+    "authors": "Michaillat; Saez",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7e23c113",
+    "title": "DP22003 Unequal Returns: Industrialization and the Concentration of Wealth",
+    "url": "https://cepr.org/publications/dp22003",
+    "description": "",
+    "date": "2026-09-30",
+    "authors": "Albers; Kersting; Stieglitz",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-06039a2c",
+    "title": "DP22002 Everyone Is a Manager: AI Use as an Act of Management",
+    "url": "https://cepr.org/publications/dp22002",
+    "description": "",
+    "date": "2026-09-30",
+    "authors": "Leyden; Scur",
     "series": "CEPR Discussion Papers",
     "source": "CEPR",
     "type": "Discussion paper",
