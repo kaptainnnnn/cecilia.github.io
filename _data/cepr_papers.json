@@ -1,5 +1,35 @@
 [
   {
+    "id": "cepr-a3edde0b",
+    "title": "DP22009 How Knowledge Crosses Borders: Evidence from Semiconductor Manufacturing",
+    "url": "https://cepr.org/publications/dp22009",
+    "description": "",
+    "date": "2026-10-02",
+    "authors": "Goldberg; Juhász; Lo Forte; Thurk",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-acfc334b",
+    "title": "DP22008 Sorting in a Market for Lemons",
+    "url": "https://cepr.org/publications/dp22008",
+    "description": "",
+    "date": "2026-10-02",
+    "authors": "Gautier; Cai",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-f3920bd8",
     "title": "DP22007 Computational Advances in Dynamic Discrete Choice",
     "url": "https://cepr.org/publications/dp22007",
