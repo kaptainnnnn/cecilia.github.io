@@ -1342,5 +1342,29 @@
     "date": "April 6-7, 2028",
     "type": "Conference",
     "has_program": false
+  },
+  {
+    "id": "nber-conf-daff5369",
+    "title": "TRIO Conference, 2027",
+    "url": "https://www.nber.org/conferences/trio-conference-2027",
+    "date": "March 6-7, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-1a3c7d30",
+    "title": "Chinese Economy Working Group Meeting, Spring 2027",
+    "url": "https://www.nber.org/conferences/chinese-economy-working-group-meeting-spring-2027",
+    "date": "April 1-2, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-f3ba02b9",
+    "title": "Gender in the Economy, Fall 2027",
+    "url": "https://www.nber.org/conferences/gender-economy-fall-2027",
+    "date": "December 10, 2027",
+    "type": "Conference",
+    "has_program": false
   }
 ]
