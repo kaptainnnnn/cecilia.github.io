@@ -1,5 +1,590 @@
 [
   {
+    "id": "nber-5b7fe69f",
+    "title": "Are Prediction Markets Politically Biased?",
+    "url": "https://www.nber.org/papers/w35846",
+    "description": "As prediction markets become more prominent, there are concerns that they will be a conduit for political bias. I analyze prediction markets returns from 1880 to 2025 and find no evidence of an overpricing of either left or right-leaning candidates, across a variety of subsamples. In recent...",
+    "date": "2026-10",
+    "authors": "Eric Zitzewitz",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-edaf4a60",
+    "title": "When Does Bad News Stick? Topic-Level Asymmetry in Narrative Dynamics",
+    "url": "https://www.nber.org/papers/w35838",
+    "description": "When does bad news stick? This paper shows that the persistence of media sentiment depends not only on whether news is good or bad, but also on what the news is about. Using the complete Wall Street Journal archive from 1990 to 2025, we construct monthly positive and negative sentiment indices for...",
+    "date": "2026-10",
+    "authors": "Isha Agarwal, Wentong Chen & Eswar S. Prasad",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-bd2d4148",
+    "title": "A Framework for Integrating Climate Goals into Trade Agreements",
+    "url": "https://www.nber.org/papers/w35834",
+    "description": "A critical tension in global governance is that trade agreements have evolved largely in isolation from climate policy. This paper shows that the two domains generate systematic cross-externalities: larger gains from trade are associated with greater climate externalities imposed on partners, while...",
+    "date": "2026-10",
+    "authors": "Farid Farrokhi, Ahmad Lashkaripour & Homa Taheri",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c166b842",
+    "title": "Does Food Assistance Drive Spending on Sugary Foods? Evidence from the Pandemic Electronic Benefit Transfer Program",
+    "url": "https://www.nber.org/papers/w35835",
+    "description": "Does Food Assistance Drive Spending on Sugary Foods? Evidence from the Pandemic Electronic Benefit Transfer Program",
+    "date": "2026-10",
+    "authors": "Georgina Cisneros & Brandyn F. Churchill",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-2a4f2735",
+    "title": "Consumption, Savings, and Earnings Responses to Financial Windfalls",
+    "url": "https://www.nber.org/papers/w35836",
+    "description": "We estimate the causal effects of a financial windfall on consumption, savings, and wage earnings using linked administrative data on a large sample of Canadian lottery winners. Using separate linkages of lottery winners to income tax records and credit bureau data, we estimate how lottery winnings...",
+    "date": "2026-10",
+    "authors": "Rajashri Chakrabarti, Philippe d'Astous, Kory Kroft, Sheisha Kulkarni, Vyacheslav Mikhed, Matthew J. Notowidigdo, Sahil Raina & Barry Scholnick",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-f687e0c4",
+    "title": "Approximating the Equilibrium Effects of Informed School Choice",
+    "url": "https://www.nber.org/papers/w35837",
+    "description": "We study how information about school quality affects families choices and how scaling up the intervention changes its impact. In a randomized trial in Chile, we offer families a short video and a personalized school report card before they enroll their children. Treated families choose schools with...",
+    "date": "2026-10",
+    "authors": "Claudia Allende, Francisco Gallego & Christopher Neilson",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-4f05611b",
+    "title": "Crowding Out Temptation: Experimental Evidence on Savings and Health Behaviors in Kenya",
+    "url": "https://www.nber.org/papers/w35833",
+    "description": "Crowding Out Temptation: Experimental Evidence on Savings and Health Behaviors in Kenya",
+    "date": "2026-10",
+    "authors": "Harsha Thirumurthy, Elizabeth F. Bair, Dean Yang, Teniola I. Egbe, Benard Ayieko, Julius Wesonga, Sue Napierala, Connie Celum, Mary E. Putt, Carol S. Camlin & Mark Ayalloet al. (View all)",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-070035cf",
+    "title": "Large Language Models as Voting Mechanisms",
+    "url": "https://www.nber.org/papers/w35839",
+    "description": "Large language models (LLMs) increasingly provide economic and financial advice. We develop a microeconomic framework for understanding this role. We prove that an LLM acts like a voting rule: each input text is an election, possible continuations are candidates, and output probabilities are vote...",
+    "date": "2026-10",
+    "authors": "Raša Karapandža & Yaw Nyarko",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-dc8158c4",
+    "title": "Asymmetric Reversals",
+    "url": "https://www.nber.org/papers/w35840",
+    "description": "Short-term return reversal is one of the most robust asset-pricing anomalies, and is commonly linked to liquidity provision. We decompose individual firm stock returns into two distinct components: SYS, the component of returns that can be linked to systematic risk and public information releases;...",
+    "date": "2026-10",
+    "authors": "Federico Baldi-Lanfranchi, Pierre Collin-Dufresne & Kent D. Daniel",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-f9b8418c",
+    "title": "Soft Reserves, Learning and Bid Adjustment in Advertising Auctions",
+    "url": "https://www.nber.org/papers/w35841",
+    "description": "An advertiser in a second-price auction sees what it paid, not the rival bids that supposedly set the price. Akbarpour and Li (2020) show that an auctioneer can therefore charge a winner up to its bid undetected. The Federal Trade Commission alleges that Amazons advertising auctions, described as...",
+    "date": "2026-10",
+    "authors": "Joshua S. Gans",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c69d46d5",
+    "title": "Schooling and Political Activism in the Early Civil Rights Era",
+    "url": "https://www.nber.org/papers/w35842",
+    "description": "Does education lead to political activity? We find that a large, early 20th century school construction program, the Rosenwald schools, led to more NAACP branches in the rural South starting in the early 1940s, i.e. prior to the classic U.S. Civil Rights Movement. Branch growth was stronger where...",
+    "date": "2026-10",
+    "authors": "Daniel Aaronson, Mark Borgschulte, Sunny Liu & Bhashkar Mazumder",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-ce69b8e7",
+    "title": "Welfare Analysis with Complementarities: When Direct and Total Responses Are Sufficient",
+    "url": "https://www.nber.org/papers/w35843",
+    "description": "Welfare Analysis with Complementarities: When Direct and Total Responses Are Sufficient",
+    "date": "2026-10",
+    "authors": "David Argente",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1975829d",
+    "title": "Aging Out of Coverage: Lessons from the West Virginia $1,000 Adult Dental Benefit",
+    "url": "https://www.nber.org/papers/w35844",
+    "description": "Aging Out of Coverage: Lessons from the West Virginia $1,000 Adult Dental Benefit",
+    "date": "2026-10",
+    "authors": "Daniel S. Grossman, Kole T. Reddig, Jane Ruseski & Fotinos Panagakos",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b4dcddc5",
+    "title": "Limits to Arbitrage and Prediction Market Efficiency: the Case of PredictIt",
+    "url": "https://www.nber.org/papers/w35845",
+    "description": "PredictIt is a CFTC-regulated US prediction market focused on political outcomes. It was very successful in attracting participants in the 2016-22 period, running liquid markets on topics predecessors had tried unsuccesfully. During this period, investors were limited to $850 positions in each...",
+    "date": "2026-10",
+    "authors": "Eric Zitzewitz",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-66b4e721",
+    "title": "Targeted Acceleration in Middle School Math: Impacts on College Entry, Degree Completion, and STEM",
+    "url": "https://www.nber.org/papers/w35847",
+    "description": "Targeted Acceleration in Middle School Math: Impacts on College Entry, Degree Completion, and STEM",
+    "date": "2026-10",
+    "authors": "David Card & Laura Giuliano",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-fb84f85a",
+    "title": "The Regulatory Burden of Licensure Sales Laws: New Evidence on Race and the U.S. Tobacco Market",
+    "url": "https://www.nber.org/papers/w35848",
+    "description": "The Regulatory Burden of Licensure Sales Laws: New Evidence on Race and the U.S. Tobacco Market",
+    "date": "2026-10",
+    "authors": "Dhaval M. Dave, Jooyoung Kim & Joseph J. Sabia",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-dc8bee1c",
+    "title": "Avoiding Regulation: Evidence from Nursing Homes",
+    "url": "https://www.nber.org/papers/w35849",
+    "description": "We study strategic responses by firms to threshold-based regulations. We document extensive bunching in response to additional staffing requirements for California nursing homes with at least 100 beds. To estimate the regulations effect on staffing, we develop a novel treatment effects estimator for...",
+    "date": "2026-10",
+    "authors": "Alden Cheng & Riley League",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-a8001f86",
+    "title": "Debt Sustainability and the Range of Multiple Equilibria",
+    "url": "https://www.nber.org/papers/w35850",
+    "description": "We characterize the size of the range of multiple equilibria in sovereign debt markets. We show that the nature of the equilibrium depends crucially on the degree of uncertainty, which we formalize first as uncertainty about primary balances and later as uncertainty about the fiscal feedback rule....",
+    "date": "2026-10",
+    "authors": "Olivier J. Blanchard, Pedro Martínez-Bruera & Gonzalo Huertas",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-2699f02d",
+    "title": "Living in a Ghost Town: The Geography of Depopulation and Aging",
+    "url": "https://www.nber.org/papers/w35852",
+    "description": "How do depopulation and population aging evolve differently across regions within a country, and what are their implications for aggregate economic activity and regional inequality? Using spatially disaggregated data from Japan over the past several decades, we show that rural areas have experienced...",
+    "date": "2026-10",
+    "authors": "Elisa Giannone, Yuhei Miyauchi, Nuno Paixao, Xinle Pang & Yuta Suzuki",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-972d83f7",
+    "title": "From Importer to Exporter: Oil Shocks and the U.S. Economy",
+    "url": "https://www.nber.org/papers/w35864",
+    "description": "We study how the shale revolution and the U.S. transition from petroleum importer to net exporter have changed the macroeconomic effects of oil shocks. Using oil supply news shocks identified from OPEC announcements, a time-varying model of the U.S. macroeconomy shows that the contractionary effects...",
+    "date": "2026-10",
+    "authors": "Diego R. Känzig, James H. Stock & Luca Zanotti",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-01457109",
+    "title": "Financing the AI Buildout",
+    "url": "https://www.nber.org/papers/w35865",
+    "description": "Artificial intelligence is driving a large expansion in data center capacity, power infrastructure, and specialized computing equipment. We estimate that a 1 GW AI campus costs about $41 billion. A 188 GW U.S. buildout completed by 2032 would require total investment of nearly$9 trillion and amount...",
+    "date": "2026-10",
+    "authors": "Stijn Van Nieuwerburgh",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-a845e9af",
+    "title": "The Investment Channel of Monetary Policy: Disentangling Firm Heterogeneity",
+    "url": "https://www.nber.org/papers/w35867",
+    "description": "To study monetary policy transmission at the firm level, researchers typically consider heterogeneity along a small number of firm characteristics, such as size or leverage. We instead estimate the full distribution of firms investment responses to monetary policy, using a clustering regression...",
+    "date": "2026-10",
+    "authors": "Thomas Drechsel, Daniel Lewis, Davide Melcangi & Laura Pilossoph",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-dcccf4f7",
+    "title": "Gang Crackdowns",
+    "url": "https://www.nber.org/papers/w35866",
+    "description": "What are the consequences of restoring state authority in territories governed by criminal organizations? Combining household surveys and administrative records with detailed maps of former gang-controlled areas, we study how El Salvadors 2022 State of Exception, which ended two decades of gang...",
+    "date": "2026-10",
+    "authors": "Nikita Melnikov, Carlos Schmidt-Padilla & María Micaela Sviatschi",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-f7fcf2dc",
+    "title": "Optimal Line-Drawing for Legal Rules",
+    "url": "https://www.nber.org/papers/w35868",
+    "description": "Line drawing is a pervasive feature of legal systems. Across many domains, the applicable legal treatment turns on whether an activity falls above or below some threshold. We characterize the economic forces that determine the optimal placement of such thresholds, both generally and in specific...",
+    "date": "2026-10",
+    "authors": "Jacob Goldin & David Weisbach",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-35711446",
+    "title": "Aligning Platform and User Incentives in Social Media Age Restrictions",
+    "url": "https://www.nber.org/papers/w35870",
+    "description": "Several countries are adopting social media bans for teenagers, yet early evidence suggests limited adherence to the age-based restrictions. Such bans ask platforms to remove profitable customers and teens to give up access to their online social networks. We study an alternative regulatory regime...",
+    "date": "2026-10",
+    "authors": "Leonardo Bursztyn, Rafael Jiménez-Durán, Aaron Leonard, Filip Milojević & Christopher Roth",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-439d8539",
+    "title": "The Effects of Long-Term Exposure to Pollution on Health",
+    "url": "https://www.nber.org/papers/w35871",
+    "description": "We provide the first causal evidence on how long-term exposure to fine particulate matter (PM2.5) at contemporary ambient levels contributes to the development of chronic disease in a young, initially healthy population. Our analysis links detailed personnel records for roughly 150,000 U.S. Army...",
+    "date": "2026-10",
+    "authors": "Joshua S. Graff Zivin, Johnny Huynh, Timothy Frank Justicz, Adriana Lleras-Muney & Matthew J. Neidell",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-ad5f0821",
+    "title": "Voluntary Corporate Climate Targets in a Patchwork Policy Landscape",
+    "url": "https://www.nber.org/papers/w35869",
+    "description": "Many large, publicly-traded companies adopt voluntary greenhouse gas emission reduction commitments in the presence of a fragmented public policy landscape. To explore the potential emission implications of such commitments, we develop a framework for understanding how firms voluntary emission...",
+    "date": "2026-10",
+    "authors": "Joseph E. Aldy, Michael W. Toffel, Alison J. Ong & Lavender Yang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-ff5c56f8",
+    "title": "Communicating Performance: Textual and Financial Disclosures in Private Equity",
+    "url": "https://www.nber.org/papers/w35860",
+    "description": "Private capital fund managers appear to possess significant information about the relative quality of their portfolio firms even within the first three years after the investment. But the way this information is disclosed to investors changes dynamically: Textual discussions of portfolio companies...",
+    "date": "2026-10",
+    "authors": "Josh Lerner, Fiona Paine & Antoinette Schoar",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-8ec5277c",
+    "title": "Latent Human Capital: How Early Investments in Parents Buffer Against Future Schooling Shocks",
+    "url": "https://www.nber.org/papers/w35851",
+    "description": "Latent Human Capital: How Early Investments in Parents Buffer Against Future Schooling Shocks",
+    "date": "2026-10",
+    "authors": "Shruti Jha, John A. List, Rebecca C. Royer & Anya Samek",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1f263579",
+    "title": "Randomized to Opportunity: Measuring Place Effects for Refugee Children",
+    "url": "https://www.nber.org/papers/w35853",
+    "description": "Area-level measures of economic opportunity are increasingly used to guide place-based policies. We study whether these measures predict long-run outcomes for a vulnerable population: over 12,000 refugee children quasi-randomly assigned to municipalities under Denmark's 19861998 dispersal policy. We...",
+    "date": "2026-10",
+    "authors": "N. Meltem Daysal, Joseph J. Doyle Jr., Naeim S. Samandari, Emil A. L. Simonsen & Mircea Trandafir",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-4be844ae",
+    "title": "Inference for Regression with Clustered or Spatially Correlated Data I: Framework and Clustering",
+    "url": "https://www.nber.org/papers/w35800",
+    "description": "Inference for Regression with Clustered or Spatially Correlated Data I: Framework and Clustering",
+    "date": "2026-10",
+    "authors": "A. Colin Cameron & Douglas L. Miller",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-7f454e72",
+    "title": "Inference for Regression with Clustered or Spatially Correlated Data II: Spatial Correlation",
+    "url": "https://www.nber.org/papers/w35801",
+    "description": "Inference for Regression with Clustered or Spatially Correlated Data II: Spatial Correlation",
+    "date": "2026-10",
+    "authors": "A. Colin Cameron & Douglas L. Miller",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-43ac32e4",
+    "title": "Labor Supply and Wages over the Life Cycle: Human Capital and Disability Benefits",
+    "url": "https://www.nber.org/papers/w35861",
+    "description": "Labor Supply and Wages over the Life Cycle: Human Capital and Disability Benefits",
+    "date": "2026-10",
+    "authors": "Richard Blundell, Monica Costa-Dias, Graham Mazeine, Costas Meghir & Tom Waters",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-6ad76277",
+    "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025",
+    "url": "https://www.nber.org/papers/w35854",
+    "description": "Whether imposing higher taxes on business owners adversely affects business activity by constraining investment and inducing capitalist flight is a central question in the ongoing debate on how to tax the ultra wealthy. To shed new light, I exploit a series of related Norwegian reforms during...",
+    "date": "2026-10",
+    "authors": "Marius A. K. Ring",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-fb2eb4cc",
+    "title": "Physicians' Occupational Licensing and the Quantity-Quality Trade-off",
+    "url": "https://www.nber.org/papers/w35855",
+    "description": "Occupational licensing is a widespread quality regulation that potentially increases the quality of labor but reduces its quantity. We provide a theoretical framework to empirically quantify this trade-off in public hospitals, where both clinical quality and physician shortages are critical concerns...",
+    "date": "2026-10",
+    "authors": "Juan Pablo Atal, Tomás Larroucau, Pablo Muñoz & Cristóbal Otero",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-ccd4a87b",
+    "title": "Which Workers Left the Labor Force Post-COVID Recession and Why?: Filing, Tax Credit Take-Up, and Labor Force Engagement by Occupation",
+    "url": "https://www.nber.org/papers/w35856",
+    "description": "Which Workers Left the Labor Force Post-COVID Recession and Why?: Filing, Tax Credit Take-Up, and Labor Force Engagement by Occupation",
+    "date": "2026-10",
+    "authors": "Andrew C. Barr, Laura Kawano, Bruce Sacerdote & Michael Stevens",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-90301c08",
+    "title": "Capital-Skill Complementarity Beyond Firm Boundaries",
+    "url": "https://www.nber.org/papers/w35857",
+    "description": "New machinery has long been argued to raise the relative demand for skilled labor, yet firm-level evidence finds no such shift at investing firms. We resolve this puzzle by looking beyond firm boundaries. Linking Belgian data on capital investments, buyersupplier transactions, and worker skills, we...",
+    "date": "2026-10",
+    "authors": "Gert Bijnens, Anders Humlum & Stijn Vanormelingen",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-11705387",
+    "title": "Stressful Exposure from the 2004 Indian Ocean Tsunami Drives Long-term Changes in Thyroid Hormone Physiology",
+    "url": "https://www.nber.org/papers/w35858",
+    "description": "Stressful Exposure from the 2004 Indian Ocean Tsunami Drives Long-term Changes in Thyroid Hormone Physiology",
+    "date": "2026-10",
+    "authors": "Ralph I. Lawton, Duncan Thomas, Elizabeth Frankenberg, Cecep Sumantri, Teresa Seeman, Eileen Crimmins & Daniel Hochbaum",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-fcaf139f",
+    "title": "How Heavily Are PhD Students Offloading Their Scientific Writing to AI? Evidence from US STEM PhD Dissertations",
+    "url": "https://www.nber.org/papers/w35859",
+    "description": "How Heavily Are PhD Students Offloading Their Scientific Writing to AI? Evidence from US STEM PhD Dissertations",
+    "date": "2026-10",
+    "authors": "Daniel P. Gross, Dror Shvadron & Hansen Zhang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-4437c0e4",
+    "title": "The Geopolitical Trap: How Great Power Rivalry Protects Rising Powers",
+    "url": "https://www.nber.org/papers/w35862",
+    "description": "Why do rising powers survive periods in which established states can still suppress them? Existing theories of preventive war emphasize commitment problems between declining and rising states, which can make adverse power shifts especially dangerous. We show that commitment problems among...",
+    "date": "2026-10",
+    "authors": "Johann Caro-Burnett, Sebastian Galiani & Gustavo Torrens",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-21e87e82",
+    "title": "Reassessing the 2000s Housing Cycle After Two Decades of Research",
+    "url": "https://www.nber.org/papers/w35863",
+    "description": "What caused the 2000s housing cycle? This article synthesizes two decades of research, including reduced-form empirics and structural models. Although often contentious, the literature coheres once one accounts for each studys timing, place, methodology, and measurement. The cycle was a perfect...",
+    "date": "2026-10",
+    "authors": "Adam Guren",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-4ed1e629",
+    "title": "High and Rising Institutional Concentration of Award-Winning Economists",
+    "url": "https://www.nber.org/papers/w35875",
+    "description": "We analyze the academic affiliations of nearly 6,000 award-winning researchers in 18 major fields in the natural sciences, engineering, and social sciences from the 1820s to the 2020s, focusing on the 1960s onward. The analysis reveals a trend of declining concentration in the institutional...",
+    "date": "2026-10",
+    "authors": "Richard B. Freeman, Danxia Xie, Hanzhe Zhang & Hanzhang Zhou",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-5f0014a1",
+    "title": "Tax Planning and Multinational Behavior",
+    "url": "https://www.nber.org/papers/w35874",
+    "description": "We use newly linked IRS data to study how US multinationals use tax-planning structures that exploit mismatches between US and foreign tax laws. In 2016, these structures accounted for 36% of foreign profits despite being adopted by only 18% of firms. We develop and estimate a structural model using...",
+    "date": "2026-10",
+    "authors": "Rosanne Altshuler, Lysle Boller, Kevin A. Roberts & Juan Carlos Suárez Serrato",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-e0e16f9f",
+    "title": "In Utero Exposure to the 1982 Tylenol Recall and Neurodevelopmental Outcomes",
+    "url": "https://www.nber.org/papers/w35873",
+    "description": "Observational research into the relationship between maternal acetaminophen use during pregnancy and a childs subsequent risk of attention deficit hyperactivity disorder (ADHD) or autism has been limited by confounding factors. Using two large national U.S. insurance claims databases and a novel...",
+    "date": "2026-10",
+    "authors": "Christopher M. Worsham, Charles Bray, Joshua Rothman, Brian Kwan & Anupam Jena",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-51d24d54",
+    "title": "Estimating Heterogeneous Impacts with Endogenous Participation and Non-Compliance",
+    "url": "https://www.nber.org/papers/w35872",
+    "description": "Estimating Heterogeneous Impacts with Endogenous Participation and Non-Compliance",
+    "date": "2026-10",
+    "authors": "Orazio Attanasio, Lina Cardona-Sosa & Ziqian Liu",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "nber-291ddef4",
     "title": "Comparisons",
     "url": "https://www.nber.org/papers/w35694",
