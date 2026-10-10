@@ -1,5 +1,249 @@
 [
   {
+    "id": "cepr-11fd1976",
+    "title": "DP22032 Risk Management in Monetary Policy: A Review with Asset Pricing Implications",
+    "url": "https://cepr.org/publications/dp22032",
+    "description": "",
+    "date": "2026-10-09",
+    "authors": "Cieslak; Hansen; Pang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-0a66ddb4",
+    "title": "DP22031 Infinite Factor Structure in Conditional Asset Pricing",
+    "url": "https://cepr.org/publications/dp22031",
+    "description": "",
+    "date": "2026-10-09",
+    "authors": "Chernov; Kelly; Malamud; Schwab",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-607aba95",
+    "title": "DP22030 Female Jobs and Fertility: Long-term Experimental Evidence from Ethiopian Factories",
+    "url": "https://cepr.org/publications/dp22030",
+    "description": "",
+    "date": "2026-10-08",
+    "authors": "Kotsadam; Pieters; Rossi; Villanger; Zipfel; Getahun",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-dadc9ad8",
+    "title": "DP22029 Central Bank Losses and Inflation: 350 Years of Evidence",
+    "url": "https://cepr.org/publications/dp22029",
+    "description": "",
+    "date": "2026-10-08",
+    "authors": "Grodecka-Messi; Kliem; Müller",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1a52241c",
+    "title": "DP22028 At-Risk or Responsive? Targeting in Unemployment Policy",
+    "url": "https://cepr.org/publications/dp22028",
+    "description": "",
+    "date": "2026-10-08",
+    "authors": "Ernst; Mueller; Spinnewijn; Bollens",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-58a10599",
+    "title": "DP22027 Intra-Household Insurance and the Intergenerational  Transmission of Income Risk",
+    "url": "https://cepr.org/publications/dp22027",
+    "description": "",
+    "date": "2026-10-08",
+    "authors": "Agostinelli; Ferraro; Qiu; Sorrenti",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6a255786",
+    "title": "DP22026 Who Can Produce What? Firm Capabilities and Product Entry",
+    "url": "https://cepr.org/publications/dp22026",
+    "description": "",
+    "date": "2026-10-08",
+    "authors": "Macedoni; Morrow; Tyazhelnikov",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1328246b",
+    "title": "DP22025 Does market power increase income inequality? The effects of hospital mergers on physicians' income.",
+    "url": "https://cepr.org/publications/dp22025",
+    "description": "",
+    "date": "2026-10-08",
+    "authors": "Boone; Salm; Santin",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-438d4138",
+    "title": "DP22024 Do Judges Move Markets? Ideological Shifts in the  Supreme Court and Macroeconomic Expectations",
+    "url": "https://cepr.org/publications/dp22024",
+    "description": "",
+    "date": "2026-10-08",
+    "authors": "Drechsel; Zhang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-cb91e124",
+    "title": "DP22023 Optimal Unconventional Policy in a New Keynesian Preferred Habitat Model",
+    "url": "https://cepr.org/publications/dp22023",
+    "description": "",
+    "date": "2026-10-08",
+    "authors": "Kamdar; Ray",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1ecea6a2",
+    "title": "DP22022 Bayesian Inference for Heteroskedastic Proxy-SVARs",
+    "url": "https://cepr.org/publications/dp22022",
+    "description": "",
+    "date": "2026-10-08",
+    "authors": "Carriero; Clark; Marcellino; Tornese",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-575f0b3e",
+    "title": "DP22021 Valuing cryptocurrencies: Three easy pieces",
+    "url": "https://cepr.org/publications/dp22021",
+    "description": "",
+    "date": "2026-10-08",
+    "authors": "Burda",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-16d77131",
+    "title": "DP22020 The Short- and Long-Run Effects of Railroads on Mexico-US Migration",
+    "url": "https://cepr.org/publications/dp22020",
+    "description": "",
+    "date": "2026-10-07",
+    "authors": "David Escamilla-Guerrero; Giovanni Peri",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "Economic History",
+      "J61",
+      "N36"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d4a08aa5",
+    "title": "DP22019 From Reagan to Trump: Regional development traps and the remaking of American electoral politics",
+    "url": "https://cepr.org/publications/dp22019",
+    "description": "",
+    "date": "2026-10-07",
+    "authors": "Andrés Rodríguez-Pose; Ali Glisson",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "D72",
+      "R11",
+      "R12",
+      "P16",
+      "O18"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-93a2668e",
+    "title": "DP22018 Occupational Licensing Without Learning",
+    "url": "https://cepr.org/publications/dp22018",
+    "description": "",
+    "date": "2026-10-07",
+    "authors": "Pablo Blanchard; Sebastian Fleitas; Nicolas Malfetano",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "J44",
+      "J31",
+      "K31",
+      "I23",
+      "L51"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-ae730269",
     "title": "DP22017 Double Selection in Causal Inference",
     "url": "https://cepr.org/publications/dp22017",
