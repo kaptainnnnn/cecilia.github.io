@@ -1,5 +1,80 @@
 [
   {
+    "id": "cepr-ab2b05ff",
+    "title": "DP22037 Dynamic Factor Models and Cointegration",
+    "url": "https://cepr.org/publications/dp22037",
+    "description": "",
+    "date": "2026-10-11",
+    "authors": "Brianti; Forni; Gambetti; Granese",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c6faad4d",
+    "title": "DP22036 Beyond Digital Rights: An Institutional Architecture for Consumer Empowerment",
+    "url": "https://cepr.org/publications/dp22036",
+    "description": "",
+    "date": "2026-10-11",
+    "authors": "Snower; Twomey; Arias",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-968af6d7",
+    "title": "DP22035 Divisive by Design: Shaping Values in Optimal Mechanisms",
+    "url": "https://cepr.org/publications/dp22035",
+    "description": "",
+    "date": "2026-10-10",
+    "authors": "Prummer; Nava",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-9c9b5293",
+    "title": "DP22034 Foreign Giants' Broad Shoulders: The Causal Effect of Foreign Ideas on U.S. Innovation",
+    "url": "https://cepr.org/publications/dp22034",
+    "description": "",
+    "date": "2026-10-10",
+    "authors": "Hassan; kalyani; Lopez Del Valle",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-273468ed",
+    "title": "DP22033 This Time It's Different: The Role of Women's Employment in Recessions",
+    "url": "https://cepr.org/publications/dp22033",
+    "description": "",
+    "date": "2026-10-10",
+    "authors": "Doepke; Alon; Olmstead-Rumsey; Symons-Hicks; Tertilt",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-11fd1976",
     "title": "DP22032 Risk Management in Monetary Policy: A Review with Asset Pricing Implications",
     "url": "https://cepr.org/publications/dp22032",
