@@ -585,6 +585,292 @@
     ]
   },
   {
+    "id": "nber-98d00db6",
+    "title": "Explaining Realized Returns: Roll’s R2 40 Years Later",
+    "url": "https://www.nber.org/papers/w35885",
+    "description": "Can we explain asset price movements even with ex post observations of their drivers? Reinterpreting Rolls (1988) AFA Presidential Address, R2, as a modern empirical exercise, we show that conventional macroeconomic, cash-flow, expectations, and flow variables deliver out-of-sample R2 values that...",
+    "date": "2026-10",
+    "authors": "Bryan T. Kelly, Yinan Su & Chao Zhang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-51b082e4",
+    "title": "Learning About Outgroups: The Impact of Broad Versus Deep Interactions",
+    "url": "https://www.nber.org/papers/w35884",
+    "description": "We hypothesize that broad contact, involving brief interactions with multiple outgroup members, and deep contact, meaning longer interactions with a single outgroup member, play distinct roles in shaping intergroup relations. We set up a factory in India and recruited Hindu and Muslim men to work in...",
+    "date": "2026-10",
+    "authors": "Anujit Chakraborty, Arkadev Ghosh, Matt Lowe & Gareth Nellis",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-73e8a111",
+    "title": "Survival versus Scale: The Effects of Critical Access Hospital Designation",
+    "url": "https://www.nber.org/papers/w35876",
+    "description": "The Critical Access Hospital (CAH) program, established under the Balanced Budget Act of 1997, provides cost-based Medicare reimbursement to small rural hospitals in exchange for limits on inpatient capacity and service scope. We estimate the effects of CAH designation on hospital finances, capacity...",
+    "date": "2026-10",
+    "authors": "Ian M. McCarthy & Katie Leinenbach",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-ad33508d",
+    "title": "When Does Randomized Oversight Align AI Agents That Can Conceal?",
+    "url": "https://www.nber.org/papers/w35878",
+    "description": "Oversight changes the evidence it relies on. We ask when randomized audits and scoring align AI agents that can conceal misconduct and alter records. Stronger auditing makes undeterred violations better hidden. Because the provider writes the agents objective, sanctions need not stop at forfeiture,...",
+    "date": "2026-10",
+    "authors": "Joshua S. Gans & Richard T. Holden",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c0c1ccea",
+    "title": "Measurement Error in Self-Reported Data on Stigmatized Behavior: Experimental Evidence on Intimate Partner Violence",
+    "url": "https://www.nber.org/papers/w35891",
+    "description": "Measurement Error in Self-Reported Data on Stigmatized Behavior: Experimental Evidence on Intimate Partner Violence",
+    "date": "2026-10",
+    "authors": "Jorge M. Agüero, Ursula T. Aldana, Erica M. Field, Veronica Frisancho, Ignacio Rodriguez Hurtado & Javier Romero",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-fba15b27",
+    "title": "The Impact of Central Bank Stock Purchases: Evidence from Discontinuities in Policy Rules",
+    "url": "https://www.nber.org/papers/w35886",
+    "description": "The Impact of Central Bank Stock Purchases: Evidence from Discontinuities in Policy Rules",
+    "date": "2026-10",
+    "authors": "Masao Fukui & Masayuki Yagasaki",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-9f9488d6",
+    "title": "Indirect Variational Inference: Applications to Earnings Dynamics",
+    "url": "https://www.nber.org/papers/w35877",
+    "description": "Latent-variable models are central to economics but often entail intractable integration. Variational inference (VI), widely used in machine learning, turns this integration into tractable, differentiable optimization by replacing the likelihood with a variational objective. However, guarantees of...",
+    "date": "2026-10",
+    "authors": "Neele L. Balke, Stéphane Bonhomme & Thibaut Lamadon",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-7ee81ad9",
+    "title": "Access to Capital and the IPO Decision: An Analysis of US Private Firms",
+    "url": "https://www.nber.org/papers/w35888",
+    "description": "We analyze firms IPO decisions using detailed financial data on US private firms. Firms with higher external capital needs are more likely to go public. Following the IPO, firms increase investment and debt issuance, leaving their leverage ratios un-changed from pre-IPO levels. Finally, newly public...",
+    "date": "2026-10",
+    "authors": "Andres Almazan, Nathan Swem, Sheridan Titman & Gregory Weitzner",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-9d8f990f",
+    "title": "How Knowledge Crosses Borders: Evidence from Semiconductor Manufacturing",
+    "url": "https://www.nber.org/papers/w35879",
+    "description": "We show that cross-border learning is an important feature of modern semiconductor manufacturing and that several important channels such as knowledge sharing along global supply chains, the movement of engineers within multinational firms, and foreign direct investment operate through market...",
+    "date": "2026-10",
+    "authors": "Pinelopi Koujianou Goldberg, Réka Juhász, Giulia Lo Forte & Jeff Thurk",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-953952ad",
+    "title": "The Relationship between Income and Health: Evidence from Nationwide Health Exams in Korea",
+    "url": "https://www.nber.org/papers/w35880",
+    "description": "The Relationship between Income and Health: Evidence from Nationwide Health Exams in Korea",
+    "date": "2026-10",
+    "authors": "Liran Einav, Amy Finkelstein & Sehyun Hong",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1a8fbab2",
+    "title": "Gains from Trade in Gun Policy: A Compensation-Based Benchmark",
+    "url": "https://www.nber.org/papers/w35890",
+    "description": "Policies restricting gun sales face substantial political opposition and constitutional constraints. In this paper, we ask how costly it would be to induce potential hand-gun buyers to choose less lethal alternatives. Pairing stated-choice experiments with a behavioral model of firearm choice, we...",
+    "date": "2026-10",
+    "authors": "Bradley T. Shapiro, Sara Drango & Sarah Moshary",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-0a2e14b0",
+    "title": "Does Remote Work Increase Fertility?",
+    "url": "https://www.nber.org/papers/w35881",
+    "description": "Does working from home increase fertility? I study the 2020 expansion of remote work by comparing changes in births across U.S. college graduates whose majors differed in pre-pandemic teleworkability. Measuring exposure by college major avoids relying on occupations workers may have chosen in...",
+    "date": "2026-10",
+    "authors": "Andrew C. Johnston",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-71746e05",
+    "title": "What Can (and Cannot) Be Learned about Systemic Racial Discrimination from Randomized Controlled Trials?",
+    "url": "https://www.nber.org/papers/w35882",
+    "description": "What Can (and Cannot) Be Learned about Systemic Racial Discrimination from Randomized Controlled Trials?",
+    "date": "2026-10",
+    "authors": "Dania V. Francis, Rob Gillezeau, Damon Jones & Angelino C. G. Viceisza",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-55768613",
+    "title": "Producing to Signal: Private Information in Dynamic Quantity Competition",
+    "url": "https://www.nber.org/papers/w35883",
+    "description": "We model a finite-horizon game of repeated oligopoly competition in which sellers choose quantities of a homogeneous product with linear demand and have private information about their own marginal costs, which are serially correlated over time. Focusing on fully separating equilibria, we provide...",
+    "date": "2026-10",
+    "authors": "Andrew Sweeting, Xuezhen Tao & Qian Wang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-6a66d28f",
+    "title": "Road Pricing under Heterogeneity",
+    "url": "https://www.nber.org/papers/w35887",
+    "description": "Congestion pricing policies are widely debated and critics often argue that toll costs outweigh congestion relief. We show theoretically that welfare gains depend on two forces: the extent of driver heterogeneityboth in preferences and in exposure to highly demanded roads and times of dayand the...",
+    "date": "2026-10",
+    "authors": "Itai Ater, Brad Ross, Adi Shany & Shoshana Vasserman",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b672961c",
+    "title": "Industrial Policy via the IPO Market",
+    "url": "https://www.nber.org/papers/w35889",
+    "description": "This paper studies how China uses access to public equity markets as an instrument of industrial policy. We find that policy-favored status, rather than industry Tobin's Q, predicts IPO activity, in contrast to the United States. The effect is economically large: our estimates imply that favored...",
+    "date": "2026-10",
+    "authors": "Zhiguo He, Yiming Qian, Xi Sun & Wang Renxuan",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b2cb668d",
+    "title": "Inverted Gravity",
+    "url": "https://www.nber.org/papers/w35897",
+    "description": "We invert structural gravity to recover trade cost changes delivering targeted outcomes. For attainable welfare targets, one instrument per target yields a unique solution. At unchanged producer prices and to first order, each instrument must change by the welfare target divided by its own...",
+    "date": "2026-10",
+    "authors": "James E. Anderson, Mario Larch & Yoto V. Yotov",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-70ce332f",
+    "title": "Affirmative Action in Centralized College Admissions Systems",
+    "url": "https://www.nber.org/papers/w35893",
+    "description": "We study the consequences of affirmative action in college admissions. We develop an empirical framework that distinguishes the effects on marginally benefited and displaced students from the overall effects of the policy. The overall effects include equilibrium reallocations as benefited students...",
+    "date": "2026-10",
+    "authors": "Nano Barahona, Cauê Dobbin & Sebastián Otero",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-6db4d371",
+    "title": "Estimating the Impact of Targeted Public Policies with Limited Data",
+    "url": "https://www.nber.org/papers/w35894",
+    "description": "Many public policies aim to support (or change the behavior of) a specific, targeted sub-group of the population. To measure the causal impacts of such policies, social scientists use quasi-experimental methods of policy evaluation, but are often hampered by data availability issues, especially...",
+    "date": "2026-10",
+    "authors": "Kelly M. Jones & Mayra Pineda-Torres",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-98825ba4",
+    "title": "Do Judges Move Markets? Ideological Shifts in the Supreme Court and Macroeconomic Expectations",
+    "url": "https://www.nber.org/papers/w35895",
+    "description": "Do Judges Move Markets? Ideological Shifts in the Supreme Court and Macroeconomic Expectations",
+    "date": "2026-10",
+    "authors": "Thomas Drechsel & Naixin Zhang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-0e386fa5",
+    "title": "When Cash Flows Turn Negative: Liquidity-Driven Selling by Pension Funds",
+    "url": "https://www.nber.org/papers/w35896",
+    "description": "Pension funds are long-horizon investors with predictable liability structures. As such, they are often perceived as investors who can provide liquidity and stabilize markets. However, pension funds increasingly face negative operating cash flows as benefit payments exceed contributions. Using...",
+    "date": "2026-10",
+    "authors": "Aleksandar Andonov, Kristy A. E. Jansen & Joshua Rauh",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-9a8aeb32",
+    "title": "Strategic Complementarity and Persistence in Linear-Quadratic Mean Field Games",
+    "url": "https://www.nber.org/papers/w35892",
+    "description": "We study the relation between strategic complementarities and aggregate persistence in linear-quadratic mean field games with interactions in states and actions. The framework provides local approximations to common macroeconomic problems, including capital accumulation and multiproduct pricing. We...",
+    "date": "2026-10",
+    "authors": "Fernando E. Alvarez & David Argente",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "nber-291ddef4",
     "title": "Comparisons",
     "url": "https://www.nber.org/papers/w35694",
