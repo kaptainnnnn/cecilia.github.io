@@ -871,6 +871,383 @@
     ]
   },
   {
+    "id": "nber-de70bb47",
+    "title": "Firms' Investment and the Real Transmission of the Global Financial Cycle",
+    "url": "https://www.nber.org/papers/w35918",
+    "description": "We study how global financial conditions transmit to firms investment. We document that increases in risk premia are followed by large investment contractions, particularly among firms with higher default risk. We develop a quantitative heterogeneous-firm open-economy model where firms finance...",
+    "date": "2026-10",
+    "authors": "Caitlin Hegarty, Matias Moretti, Pablo Ottonello & Diego J. Perez",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-77dbef64",
+    "title": "The Net Present Value of the California Billionaire Tax Act",
+    "url": "https://www.nber.org/papers/w35899",
+    "description": "This paper examines the revenue and migration impact of the 2026 California Billionaire Tax Act, a one-time 5 percent tax on the worldwide net worth of individuals exceeding $1 billion. Using data from the Forbes Billionaire List, news reports detailing the residential real estate holdings of...",
+    "date": "2026-10",
+    "authors": "Benjamin Jaros & Joshua Rauh",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c573f13e",
+    "title": "Export Controls and the Economics of National Security",
+    "url": "https://www.nber.org/papers/w35898",
+    "description": "Export controls restrict trade to limit adversaries access to goods that contribute to military capability, but their effectiveness depends on how trade and production adjust across countries. We combine new data on U.S. export control classifications and licensing outcomes with a quantitative...",
+    "date": "2026-10",
+    "authors": "Jingting Fan, Kyle Handley & Nuno Limão",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1290858b",
+    "title": "Foreign Giants' Broad Shoulders: The Causal Effect of Foreign Ideas on U.S. Innovation",
+    "url": "https://www.nber.org/papers/w35900",
+    "description": "Foreign Giants' Broad Shoulders: The Causal Effect of Foreign Ideas on U.S. Innovation",
+    "date": "2026-10",
+    "authors": "Tarek Alexander Hassan, Aakash Kalyani & Juan Cruz Lopez Del Valle",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-f2cd1957",
+    "title": "Modeling and Evaluating the Labor Market and Fiscal Effects of Immigration",
+    "url": "https://www.nber.org/papers/w35901",
+    "description": "Immigration affects natives through both labor markets and public budgets, yet these channels are usually studied separately. We combine them in a general-equilibrium model with search-and-matching frictions, skill-specific progressive labor taxes, capital taxation and public goods, calibrated to 17...",
+    "date": "2026-10",
+    "authors": "Michele Battisti, Giovanni Peri & Eleonora Romano",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-071cf167",
+    "title": "Are We Consuming Too Much Groundwater?",
+    "url": "https://www.nber.org/papers/w35904",
+    "description": "We study the optimality of human groundwater extraction from many of the world's 3,400 aquifers, where institutional or market failures may produce non-optimal extraction decisions. We use remote sensing and economic data to estimate a dynamic model of water extraction for each aquifer, recover the...",
+    "date": "2026-10",
+    "authors": "Brian Greaney, Joseph S. Shapiro & Katherine R.H. Wagner",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c2f91dc4",
+    "title": "A Model of U.S. Monetary Policy and the Global Financial Cycle",
+    "url": "https://www.nber.org/papers/w35902",
+    "description": "We propose a general equilibrium model in which U.S. monetary policy affects global risk premia by revaluing the wealth of currency-mismatched arbitrageurs. Assuming their portfolios are mean-variance efficient, arbitrageurs must be short the dollar. A U.S. tightening thus erodes arbitrageurs' net...",
+    "date": "2026-10",
+    "authors": "Rohan Kekre & Moritz Lenel",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-304b151d",
+    "title": "Staying Connected: Experimental Effects of Coach-Delivered Text Messages in an Adult High School",
+    "url": "https://www.nber.org/papers/w35923",
+    "description": "Staying Connected: Experimental Effects of Coach-Delivered Text Messages in an Adult High School",
+    "date": "2026-10",
+    "authors": "Alberto Ortega, Pietro Pellerito & Patrick S. Turner",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-e7e8103a",
+    "title": "From Politics to Process: Evidence from Progressive Era Naturalizations",
+    "url": "https://www.nber.org/papers/w35903",
+    "description": "States that delegate governance to local officials face a trade-off between the benefits of local knowledge and the costs of biased administrators. Can imposing federal standards discipline bias and improve uniformity? We study this question by examining the introduction of federal standards to...",
+    "date": "2026-10",
+    "authors": "Abhay Aneja & Guo Xu",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-96be4bd2",
+    "title": "Credit Markets with New Screening Technologies",
+    "url": "https://www.nber.org/papers/w35905",
+    "description": "We study equilibrium market structure in a model of credit-market competition with correlated or uncorrelated screening errors and endogenous screening technologies. A pool externality arises because rejected borrowers reapply elsewhere, so lenders screening and pricing choices affect competitors...",
+    "date": "2026-10",
+    "authors": "Maryam Farboodi, Péter Kondor & Pablo Kurlat",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-da6ee8d2",
+    "title": "Home-Foreign Elasticity Functions and the Gains from Trade",
+    "url": "https://www.nber.org/papers/w35906",
+    "description": "Gains from trade are typically calculated using a constant trade elasticity estimated from substitution across foreign countries. For general homothetic preferences, we show how to calculate these gains from the initial domestic expenditure share and the home-foreign elasticity function along a...",
+    "date": "2026-10",
+    "authors": "Jonathan Vogel",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-332ecbbf",
+    "title": "Pricing Power in the Mortgage Market: Evidence from GSE Fee Waivers",
+    "url": "https://www.nber.org/papers/w35907",
+    "description": "Market power may arise not only from firms, but also from individual salespeople who can exploit informational advantages over consumers. We explore this phenomenon in the mortgage market by examining a Fannie Mae/Freddie Mac fee waiver targeted at lower-income first-time homebuyers. We estimate...",
+    "date": "2026-10",
+    "authors": "Neil Bhutta, Benjamin J. Keys & Adithya Raajkumar",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-f1fdaf67",
+    "title": "The Impact of Social Insurance on Household Debt",
+    "url": "https://www.nber.org/papers/w35908",
+    "description": "This paper investigates how the expansion of social insurance affects households accumulation of debt. Insurance can reduce reliance on debt by lessening the financial impact of adverse events such as illness and job loss. But it can also weaken the motive to self-insure through savings, and...",
+    "date": "2026-10",
+    "authors": "Gideon Bornstein & Sasha Indarte",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-37a208fe",
+    "title": "The Robust Properties of Economies with Endogenous Production Networks",
+    "url": "https://www.nber.org/papers/w35909",
+    "description": "We characterize equilibria in a canonical class of economies with endogenous production networks, showing that log-prices equal a min-max over networks of a primitive affine function of log-productivities. This formula captures how resilience and fragility interact: the \"min\" reflects resilience...",
+    "date": "2026-10",
+    "authors": "Simone Cerreia-Vioglio, Roberto Corrao, Joel P. Flynn & Giacomo Lanzani",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-2491dcc1",
+    "title": "Infinite Factor Structure in Conditional Asset Pricing",
+    "url": "https://www.nber.org/papers/w35910",
+    "description": "The return covariance matrix is widely assumed to have an eigenvalue cliff: a few large eigenvalues, then a bounded bulk, as in the approximate factor structure of Chamberlain and Rothschild (1983). This premise underlies factor tests, principal-component methods, and large-covariance estimation....",
+    "date": "2026-10",
+    "authors": "Mikhail Chernov, Bryan T. Kelly, Semyon Malamud & Johannes Schwab",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-8a3a73c5",
+    "title": "Green Subsidies with Demand Distortions",
+    "url": "https://www.nber.org/papers/w35911",
+    "description": "Credit constraints and other demand distortions are pervasive in lower-income contexts. A model of clean technology adoption shows that demand distortions can increase the welfare gains from green subsidies. This arises through two channels: shifting the marginal adopter toward higher private and...",
+    "date": "2026-10",
+    "authors": "Susanna B. Berkouwer & Joshua T. Dean",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-eaba0f79",
+    "title": "Upgrading Financial Markets",
+    "url": "https://www.nber.org/papers/w35912",
+    "description": "Expanding access to financial services may not be enough to develop markets in low-income settings: providers also need to be held accountable to consumers. We test this in a field experiment across 195 rural Sierra Leonean communities, upgrading Village Savings and Loan Associations (VSLAs) into...",
+    "date": "2026-10",
+    "authors": "Francis Annan & Seth Garz",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-232a74e8",
+    "title": "Inside Central Bankers’ Calendars: How Do Fed Chairs Allocate Their Time?",
+    "url": "https://www.nber.org/papers/w35913",
+    "description": "How leaders allocate their limited time and attention is an important question in economics. This paper constructs and analyzes a novel data set covering the daily calendars of three Federal Reserve Chairs, Ben Bernanke, Janet Yellen, and Jerome Powell, containing more than 20,000 calendar entries....",
+    "date": "2026-10",
+    "authors": "Thomas Drechsel & Dali Tsakadze",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-2585eaf2",
+    "title": "The Impact of the Great Recession on Mortality: A Dynamic Factor Analysis",
+    "url": "https://www.nber.org/papers/w35914",
+    "description": "We use a dynamic factor time series model to estimate the national mortality impact of the Great Recession. In aggregate, the Great Recession reduced the average annual, age-adjusted mortality rate by about 2 percent, with effects persisting for at least a decade. In a calibrated model of the...",
+    "date": "2026-10",
+    "authors": "Amy Finkelstein, Matthew J. Notowidigdo & Enzo Profili",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-f409c892",
+    "title": "Transportation as a Barrier to Education Access: Evidence from Chicago Public Schools",
+    "url": "https://www.nber.org/papers/w35915",
+    "description": "Transportation as a Barrier to Education Access: Evidence from Chicago Public Schools",
+    "date": "2026-10",
+    "authors": "Cecilia H. Moreira, Steven L. Puller & Ini Umosen",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-a658ea36",
+    "title": "The Long March to Innovation: R&D and Competitive Evolution in the Indian Pharmaceutical Industry",
+    "url": "https://www.nber.org/papers/w35916",
+    "description": "The Long March to Innovation: R&D and Competitive Evolution in the Indian Pharmaceutical Industry",
+    "date": "2026-10",
+    "authors": "Chirantan Chatterjee, Aniruddh Bhaskaran & Matthew J. Higgins",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-3a58315a",
+    "title": "The Effects of a Shorter Workweek on Employment, Output, and Productivity",
+    "url": "https://www.nber.org/papers/w35917",
+    "description": "Do shorter workweeks generate work-sharing and productivity gains, as intended by policymakers? We study Frances pay-preserving reduction in the workweek from 39 to 35 hours, bundled with employer payroll tax cuts. We first exploit the staggered implementation by firm size to identify the impact of...",
+    "date": "2026-10",
+    "authors": "Pauline Carry, Claire Montialoux, Elio Nimier-David, Alexandra Roulet & Nina Roussille",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-44203dfd",
+    "title": "Venture Capital and Customer Capital",
+    "url": "https://www.nber.org/papers/w35919",
+    "description": "Venture capital specializes in the financing of customer capital intensive firmsfirms with higher sales and marketing expense to revenue ratios, a higher wage bill for sales and marketing employees, and a higher tendency to apply for trademarksand they do so more than other financial intermediaries....",
+    "date": "2026-10",
+    "authors": "Martin Aragoneses, Young Soo Jang & Amir Sufi",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-ba791c16",
+    "title": "The Role of Organization in Firm-Sponsored Training",
+    "url": "https://www.nber.org/papers/w35920",
+    "description": "Some firms are more likely than others to invest in workers skills. We document this phenomenon and discuss its implications in light of models of firm-sponsored skills training. The data show that better managed firms, even in the same industries and labor markets, are more likely to train, while...",
+    "date": "2026-10",
+    "authors": "David J. Deming, Raffaella Sadun & Christopher T. Stanton",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-fd6933b1",
+    "title": "Understanding Migration Responses to Local Shocks",
+    "url": "https://www.nber.org/papers/w35921",
+    "description": "A commonly used migration regression relates population changes to local labor demand shocks, often yielding small or statistically insignificant coefficients despite sizable effects on labor market outcomes. We argue that such findings need not imply that mobility is unresponsive to local economic...",
+    "date": "2026-10",
+    "authors": "Kirill Borusyak, Rafael Dix-Carneiro & Brian K. Kovak",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-0f512e86",
+    "title": "Will Medical Care Strangle or Save the Federal Budget?",
+    "url": "https://www.nber.org/papers/w35922",
+    "description": "Forecasts of the federal budget depend greatly on trends in medical spending. Since 1970, medical spending has nearly tripled as a share of gross domestic product (GDP). However, spending growth has barely exceeded GDP growth since 2010. This difference in growth rates makes forecasting spending...",
+    "date": "2026-10",
+    "authors": "David M. Cutler",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-d6a796d4",
+    "title": "Too Little too Late? Nationwide Carbon Trading in China",
+    "url": "https://www.nber.org/papers/w35924",
+    "description": "China launched a nationwide, rate-based carbon market in 2021. Covering the worlds top CO2 emitter, compliance depends on the intensity of carbon emissions rather than an absolute cap. We draw on the theoretical literature of rate-based systems to provide the first empirical evidence on an early...",
+    "date": "2026-10",
+    "authors": "Shuang Zhang & Douglas Almond",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-43cee0bd",
+    "title": "Correcting for Heterogeneity in the Use of Subjective Scales",
+    "url": "https://www.nber.org/papers/w35925",
+    "description": "Analyses of survey data may be confounded if people use response scales differently. We formalize and generalize the theory behind using calibration questions, such as vignettes, to correct for scale-use heterogeneity. Finding, in our (N 10,000) and existing data, that the mapping between...",
+    "date": "2026-10",
+    "authors": "Daniel J. Benjamin, Kristen B. Cooper, Ori Heffetz, Miles S. Kimball & Jiannan Zhou",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1539a77c",
+    "title": "The Why and How of Foreign Aid",
+    "url": "https://www.nber.org/papers/w35926",
+    "description": "Foreign aid has become a melting pot of motivations and policies, where differently-motivated actors often converge on recommended policies while the similarly-motivated diverge. Breaking down the why and the how can illuminate real tensions and reveal false ones. The why asks which problems to...",
+    "date": "2026-10",
+    "authors": "Dean Karlan",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "nber-291ddef4",
     "title": "Comparisons",
     "url": "https://www.nber.org/papers/w35694",
