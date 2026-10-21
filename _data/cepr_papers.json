@@ -1,5 +1,540 @@
 [
   {
+    "id": "cepr-b59f3d85",
+    "title": "DP22072 Dynamic Test Design",
+    "url": "https://cepr.org/publications/dp22072",
+    "description": "",
+    "date": "2026-10-20",
+    "authors": "Dilme; Cetemen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f5d40488",
+    "title": "DP22071 Entry, Exit, and Technological Progress in Markov-Perfect Duopoly",
+    "url": "https://cepr.org/publications/dp22071",
+    "description": "",
+    "date": "2026-10-20",
+    "authors": "Abbring; Campbell; Yang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d3a02a1f",
+    "title": "DP22070 The Battle over Knowledge: Multinationals, Diffusion, and Governance",
+    "url": "https://cepr.org/publications/dp22070",
+    "description": "",
+    "date": "2026-10-19",
+    "authors": "Alfaro; Chen; Javorcik",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-5aef66d8",
+    "title": "DP22069 Foreign Ownership and Occupational Safety: Evidence from France",
+    "url": "https://cepr.org/publications/dp22069",
+    "description": "",
+    "date": "2026-10-19",
+    "authors": "Javorcik; Lo Turco; Maggioni; Santoni",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-cf5edba8",
+    "title": "DP22068 Inside Central Bankers’ Calendars: How Do Fed Chairs Allocate Their Time?",
+    "url": "https://cepr.org/publications/dp22068",
+    "description": "",
+    "date": "2026-10-19",
+    "authors": "Drechsel; Tsakadze",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-fd8f6931",
+    "title": "DP22067 Competitive Search for Bundles",
+    "url": "https://cepr.org/publications/dp22067",
+    "description": "",
+    "date": "2026-10-19",
+    "authors": "Gautier; Cai",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-edef50e1",
+    "title": "DP22066 Fiscal-Monetary Interactions: The Role of Debt Maturity",
+    "url": "https://cepr.org/publications/dp22066",
+    "description": "",
+    "date": "2026-10-19",
+    "authors": "Bettarelli; Frangiamore; Furceri; Nguyen; Scianna",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-37dda761",
+    "title": "DP22065 Does Easy Money Win Elections?",
+    "url": "https://cepr.org/publications/dp22065",
+    "description": "",
+    "date": "2026-10-19",
+    "authors": "Chen; Ward; van Genderen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-114b9471",
+    "title": "DP22064 Austerity and Productivity: Evidence from Euro Area Regions",
+    "url": "https://cepr.org/publications/dp22064",
+    "description": "",
+    "date": "2026-10-19",
+    "authors": "Chen; Gabriel; Klein; Pessoa",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1a27d70b",
+    "title": "DP22063 Committee Deliberation and Gender Differences in Influence",
+    "url": "https://cepr.org/publications/dp22063",
+    "description": "",
+    "date": "2026-10-19",
+    "authors": "Radbruch; Schiprowski",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d975ebb8",
+    "title": "DP22062 The Depositary of Last Resort",
+    "url": "https://cepr.org/publications/dp22062",
+    "description": "",
+    "date": "2026-10-19",
+    "authors": "Antipa; Rieder",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-eea90b67",
+    "title": "DP22061 Importers, Market Power and Optimal Tariffs",
+    "url": "https://cepr.org/publications/dp22061",
+    "description": "",
+    "date": "2026-10-19",
+    "authors": "Becker; Boar; Midrigan",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-454d81b9",
+    "title": "DP22060 Artificial Intelligence and Climate Change: Balancing Innovation and Sustainability",
+    "url": "https://cepr.org/publications/dp22060",
+    "description": "",
+    "date": "2026-10-18",
+    "authors": "Leonardo Gambacorta; Salvatore Polizzi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Artificial Intelligence",
+      "O33",
+      "Q51",
+      "Q55"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-06f1421a",
+    "title": "DP22059 Transition Risk in Emerging Economies",
+    "url": "https://cepr.org/publications/dp22059",
+    "description": "",
+    "date": "2026-10-18",
+    "authors": "Stefano Carattini; Giseong Kim; Givi Melkadze; Aude Pommeret",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "International Macroeconomics and Finance",
+      "Climate Change and the Environment",
+      "E44",
+      "E58",
+      "F38",
+      "F42",
+      "G18",
+      "O11",
+      "Q58"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f4a8d274",
+    "title": "DP22058 The Great Game: A Model of Geoeconomic Competition",
+    "url": "https://cepr.org/publications/dp22058",
+    "description": "",
+    "date": "2026-10-18",
+    "authors": "Christopher Clayton; Matteo Maggiori; Jesse Schreger",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Geoeconomics and Security",
+      "Economic History",
+      "International Macroeconomics and Finance",
+      "International Trade and Regional Economics",
+      "Political Economy",
+      "F10",
+      "F30",
+      "F40",
+      "F50",
+      "N40",
+      "P45"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-a91ee550",
+    "title": "DP22057 Measuring Common Ownership: An Axiomatic Approach",
+    "url": "https://cepr.org/publications/dp22057",
+    "description": "",
+    "date": "2026-10-17",
+    "authors": "Thomas Gehrig; Klaus Ritzberger",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "Banking and Corporate Finance",
+      "C43",
+      "D63",
+      "G34",
+      "L51"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1e867503",
+    "title": "DP22056 Political Ideology and Durable Spending",
+    "url": "https://cepr.org/publications/dp22056",
+    "description": "",
+    "date": "2026-10-17",
+    "authors": "Yongqiang Chu; Francesco D'Acunto; Janet Geo; Roman Wang; Yichen Wang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Political Economy",
+      "Banking and Corporate Finance",
+      "G51",
+      "D14",
+      "G11",
+      "P16"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c204b834",
+    "title": "DP22055 Do Equity Markets Spur Corporate Detox?",
+    "url": "https://cepr.org/publications/dp22055",
+    "description": "",
+    "date": "2026-10-17",
+    "authors": "Ali Ataullah; Hang Le; Alexander F. Wagner",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Banking and Corporate Finance",
+      "G12",
+      "G20",
+      "J01",
+      "R10"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ebc27d52",
+    "title": "DP22054 The Foreign Currency Risk of International Remittances",
+    "url": "https://cepr.org/publications/dp22054",
+    "description": "",
+    "date": "2026-10-17",
+    "authors": "Leonardo Flori; Nicola Limodio",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "Banking and Corporate Finance"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-9e40df05",
+    "title": "DP22053 When Cash Flows Turn Negative: Liquidity-Driven Selling by Pension Funds",
+    "url": "https://cepr.org/publications/dp22053",
+    "description": "",
+    "date": "2026-10-17",
+    "authors": "Aleksandar Andonov; Kristy Jansen; Joshua Rauh",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Asset Pricing",
+      "Banking and Corporate Finance",
+      "G11",
+      "G23"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d7d5fdb9",
+    "title": "DP22052 The Price of Position: Spatial Equilibrium in the Geostationary Arc",
+    "url": "https://cepr.org/publications/dp22052",
+    "description": "",
+    "date": "2026-10-17",
+    "authors": "Alexander F. Wagner",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "Public Economics",
+      "Banking and Corporate Finance",
+      "D23",
+      "L96",
+      "Q20",
+      "R12",
+      "H23"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-df109aec",
+    "title": "DP22051 Who Controls the Defence Industry?",
+    "url": "https://cepr.org/publications/dp22051",
+    "description": "",
+    "date": "2026-10-17",
+    "authors": "Marco Becht; Juan Mejino-López; Guntram B. Wolff",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Banking and Corporate Finance",
+      "D23",
+      "G32",
+      "G34",
+      "G38",
+      "H56",
+      "K22",
+      "L33",
+      "L64"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ba6ab893",
+    "title": "DP22050 Monetary Policy Uncertainty and Bank Credit Allocation",
+    "url": "https://cepr.org/publications/dp22050",
+    "description": "",
+    "date": "2026-10-17",
+    "authors": "Fatih Altunok; Yavuz Arslan; Steven Ongena",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Banking and Corporate Finance",
+      "E52",
+      "E58",
+      "G21"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8b1611ef",
+    "title": "DP22049 Geopolitics and Rule-Based Trade",
+    "url": "https://cepr.org/publications/dp22049",
+    "description": "",
+    "date": "2026-10-16",
+    "authors": "Thomas Gehrig; Rune Stenbacka",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "C73",
+      "D74",
+      "F13",
+      "F51"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-05c55343",
+    "title": "DP22048 A Network Approach to Geopolitics",
+    "url": "https://cepr.org/publications/dp22048",
+    "description": "",
+    "date": "2026-10-16",
+    "authors": "Ernest Liu; Stephen Redding; Bennett Smith-Worthington; David Yang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Trade and Regional Economics",
+      "F15",
+      "F52",
+      "F68",
+      "D85",
+      "C72"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-948ba0f0",
+    "title": "DP22047 Understanding Migration Responses to Local Shocks",
+    "url": "https://cepr.org/publications/dp22047",
+    "description": "",
+    "date": "2026-10-16",
+    "authors": "Kirill Borusyak; Rafael Dix-Carneiro; Brian Kovak",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "International Trade and Regional Economics",
+      "Labour Economics",
+      "R23",
+      "J61",
+      "C21",
+      "F16"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6a653101",
+    "title": "DP22046 The Distribution of Automation Rents with Centralized Bargaining",
+    "url": "https://cepr.org/publications/dp22046",
+    "description": "",
+    "date": "2026-10-16",
+    "authors": "Pietro Reichlin",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Macroeconomics and Growth",
+      "J2",
+      "J3",
+      "J41",
+      "J51",
+      "O11",
+      "O43"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6cee7a88",
+    "title": "DP22045 The Role of Organization in Firm-Sponsored Training",
+    "url": "https://cepr.org/publications/dp22045",
+    "description": "",
+    "date": "2026-10-16",
+    "authors": "David Deming; Raffaella Sadun; Christopher Stanton",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Organizational Economics",
+      "M53",
+      "J24",
+      "L23",
+      "M54"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-87cbde54",
     "title": "DP22044 Competitive Centrality: Equilibrium and Comparative Statics in Networks",
     "url": "https://cepr.org/publications/dp22044",

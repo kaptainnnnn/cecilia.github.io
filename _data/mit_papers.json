@@ -1,5 +1,15 @@
 [
   {
+    "title": "Synthetic Control: An Exact Geometric Formulation",
+    "authors": "Alberto Abadie and Yucheng Shang",
+    "date": "October 2026",
+    "year": 2026,
+    "month": 10,
+    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-10/Synthetic%20Control%20-%20An%20Exact%20Geometric%20Formulation.pdf",
+    "faculty": "Alberto Abadie",
+    "faculty_slug": "alberto-abadie"
+  },
+  {
     "title": "Where the Grass Seems Greener: Economic Misperceptions and Support for Democracy",
     "authors": "Daron Acemoglu, Nicolas Ajzenman, Guillermo Cruces, Martin Fiszbein, Gaston Garcıa Zavaleta, Carlos Molina",
     "date": "August 2026",
@@ -25,7 +35,7 @@
     "date": "August 2026",
     "year": 2026,
     "month": 8,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-10/public_debt_safe_rates_Public_1.pdf",
+    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-10/public_debt_safe_rates_Public_2.pdf",
     "faculty": "Ricardo Caballero",
     "faculty_slug": "ricardo-caballero"
   },

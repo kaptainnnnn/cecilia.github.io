@@ -1366,5 +1366,45 @@
     "date": "December 10, 2027",
     "type": "Conference",
     "has_program": false
+  },
+  {
+    "id": "nber-conf-053f08e6",
+    "title": "New Data for Measuring Household Economic Conditions, Fall 2026",
+    "url": "https://www.nber.org/conferences/new-data-measuring-household-economic-conditions-fall-2026",
+    "date": "November 20, 2026",
+    "type": "Conference",
+    "has_program": true
+  },
+  {
+    "id": "nber-conf-4f7ace98",
+    "title": "Data Privacy Protection and the Conduct of Applied Research: Methods, Approaches and their Consequences, Spring 2027",
+    "url": "https://www.nber.org/conferences/data-privacy-protection-and-conduct-applied-research-methods-approaches-and-their-consequences",
+    "date": "April 30, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-2087d928",
+    "title": "Applications of Artificial Intelligence in Healthcare, Spring 2027",
+    "url": "https://www.nber.org/conferences/applications-artificial-intelligence-healthcare-spring-2027",
+    "date": "June 2-3, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-26db0fb4",
+    "title": "Japan Project Meeting, Summer 2027",
+    "url": "https://www.nber.org/conferences/japan-project-meeting-summer-2027",
+    "date": "August 3-4, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-c12c7dbc",
+    "title": "Rate of Return to Research and Development Investments, Fall 2027",
+    "url": "https://www.nber.org/conferences/rate-return-research-and-development-investments-fall-2027",
+    "date": "October 7, 2027",
+    "type": "Conference",
+    "has_program": false
   }
 ]
