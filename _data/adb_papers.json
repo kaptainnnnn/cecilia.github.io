@@ -245,18 +245,5 @@
       "development"
     ],
     "featured": false
-  },
-  {
-    "id": "adb-92e45f89",
-    "title": "Automating Evidence Synthesis: A Comparative Evaluation of Large Language Models for Data Extraction",
-    "url": "https://www.adb.org/publications/automating-evidence-synthesis",
-    "description": "This paper evaluates an automated pipeline for extracting structured metadata from full-text scientific articles to accelerate systematic reviews and meta-analyses.",
-    "date": "2026-05-15",
-    "source": "ADB",
-    "tags": [
-      "economics",
-      "development"
-    ],
-    "featured": false
   }
 ]
