@@ -1,5 +1,65 @@
 [
   {
+    "id": "cepr-482c9afc",
+    "title": "DP22076 Importers Big and Small: The Heterogeneous Impacts of U.S.-China Tariffs on Sourcing and Prices",
+    "url": "https://cepr.org/publications/dp22076",
+    "description": "",
+    "date": "2026-10-22",
+    "authors": "Javorcik; Pierce; Wisniewski",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ef73c719",
+    "title": "DP22075 On-the-job Training and Labor Market Competition",
+    "url": "https://cepr.org/publications/dp22075",
+    "description": "",
+    "date": "2026-10-22",
+    "authors": "Adams; Le Barbanchon; Marcato",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-181f8a81",
+    "title": "DP22074 Isolating Tuberculosis: Sanatoria and the Mortality Transition in Large European Cities",
+    "url": "https://cepr.org/publications/dp22074",
+    "description": "",
+    "date": "2026-10-22",
+    "authors": "Boberg-Fazlic; Hansen; Jensen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-9738735f",
+    "title": "DP22073 Losing grip? The Quantity Theory of Money under Currency Competition",
+    "url": "https://cepr.org/publications/dp22073",
+    "description": "",
+    "date": "2026-10-21",
+    "authors": "Arifovic; Salle; Schilling",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-b59f3d85",
     "title": "DP22072 Dynamic Test Design",
     "url": "https://cepr.org/publications/dp22072",

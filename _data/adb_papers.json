@@ -1,5 +1,31 @@
 [
   {
+    "id": "adb-866ba2d5",
+    "title": "Effects of Extreme Temperature Exposure on Learning",
+    "url": "https://www.adb.org/publications/extreme-temperature-exposure-learning",
+    "description": "",
+    "date": "2026-10-23",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-5d913c0a",
+    "title": "Well-Being Losses from Coastal Hazards",
+    "url": "https://www.adb.org/publications/well-being-losses-coastal-hazards",
+    "description": "This paper examines the many ways in which hazards such as rising sea levels, cyclones, storm surges, and salinity intrusion affect people’s well-being in coastal areas of Asia and the Pacific. It suggests how policymakers can better measure and respond to such impacts.",
+    "date": "2026-10-22",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
     "id": "adb-49122709",
     "title": "Teflon Capitalism: Geopolitical Risk and Investment Funds",
     "url": "https://www.adb.org/publications/teflon-capitalism-geopolitical-risk-investment-funds",
@@ -226,19 +252,6 @@
     "url": "https://www.adb.org/publications/financing-nature-investment-funds",
     "description": "This paper examines investment fund responses to biodiversity risk.",
     "date": "2026-05-27",
-    "source": "ADB",
-    "tags": [
-      "economics",
-      "development"
-    ],
-    "featured": false
-  },
-  {
-    "id": "adb-c4384ec8",
-    "title": "Digital Connectivity and Household Income: Evidence from Women-Headed Households in Viet Nam",
-    "url": "https://www.adb.org/publications/digital-connectivity-household-income-viet-nam",
-    "description": "This paper analyzes the impact of digital connectivity on the incomes of households headed by women in Viet Nam. It provides insights into the inclusive effects of digital connectivity and policy recommendations for advancing digital infrastructure development.",
-    "date": "2026-05-26",
     "source": "ADB",
     "tags": [
       "economics",
