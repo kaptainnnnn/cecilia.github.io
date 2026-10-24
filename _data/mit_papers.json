@@ -3890,6 +3890,16 @@
     "faculty_slug": "ricardo-caballero"
   },
   {
+    "title": "An LLM Workflow for Functional Form Sensitivity Analysis",
+    "authors": "Isaiah Andrews, Simon Essig Aberg, and Jesse M. Shapiro",
+    "date": "",
+    "year": 0,
+    "month": 0,
+    "pdf_url": "",
+    "faculty": "Isaiah Andrews",
+    "faculty_slug": "isaiah-andrews"
+  },
+  {
     "title": "An LLM Workflow That Reproduces, Improves, and Extends Published Economics Research",
     "authors": "Matthew D. Schwartz, Isaiah Andrews, and Jesse M. Shapiro",
     "date": "",
@@ -3965,7 +3975,7 @@
     "date": "",
     "year": 0,
     "month": 0,
-    "pdf_url": "https://economics.mit.edu/sites/default/files/2025-02/certified_decisions.pdf",
+    "pdf_url": "https://economics.mit.edu/sites/default/files/2026-10/certified_decisions.pdf",
     "faculty": "Isaiah Andrews",
     "faculty_slug": "isaiah-andrews"
   },
