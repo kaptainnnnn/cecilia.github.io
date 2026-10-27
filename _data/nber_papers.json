@@ -1248,6 +1248,461 @@
     ]
   },
   {
+    "id": "nber-d6aed756",
+    "title": "Beliefs Over Contracts",
+    "url": "https://www.nber.org/papers/w35788",
+    "description": "We study how firms choose among incentive contracts and how accurately managers predict their effects. Using a survey of managerial beliefs and a large-scale field experiment, we randomly assign agents at the market level to several widely used, expenditure-equivalent incentive schemes. In the field...",
+    "date": "2026-10",
+    "authors": "Francis Annan & Collin B. Raymond",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-816b2fd6",
+    "title": "Competition in Generative AI: Evidence from Consumer Demand",
+    "url": "https://www.nber.org/papers/w35953",
+    "description": "How competitive will the market for generative AI be as it matures? Using novel transaction level credit and debit card data covering 174 million consumers and 114 billion transactions, we study the adoption of paid services and the demand-side foundations of competition in this market. As of April...",
+    "date": "2026-10",
+    "authors": "Mark L. Egan, Dominic Russel, Claire Shi & Vincent Yao",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b6eba684",
+    "title": "College Success: Understanding the Roles of Financial Aid, Loans, Preparation, and Incentives",
+    "url": "https://www.nber.org/papers/w35930",
+    "description": "College Success: Understanding the Roles of Financial Aid, Loans, Preparation, and Incentives",
+    "date": "2026-10",
+    "authors": "Douglas N. Harris, Christopher R. Taber & Yu (Alan) Yang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c650087a",
+    "title": "Losing Their Religion",
+    "url": "https://www.nber.org/papers/w35933",
+    "description": "This paper studies whether governments can change social norms that constrain womens education and work, and through which mechanism. Albanias 1967 religion ban, which created the worlds first atheist state, provides an extreme natural experiment: religious practice was outlawed nationwide, but a...",
+    "date": "2026-10",
+    "authors": "Richard Murphy & Shqiponja Telhaj",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-96a26d37",
+    "title": "Ratings, Debt, and Deficits: An Exploration",
+    "url": "https://www.nber.org/papers/w35956",
+    "description": "We look at the effects of debt and primary fiscal balances on sovereign credit ratings through the lens of a simple model. We find that the ratings differ from the implications of the model in three important ways. They give much more weight to debt relative to forecast primary balances. They...",
+    "date": "2026-10",
+    "authors": "Olivier J. Blanchard, Daniel Leigh & Prachi Mishra",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-e69960a3",
+    "title": "Implications of Policy Interventions on Eliminating Gender Gaps",
+    "url": "https://www.nber.org/papers/w35935",
+    "description": "This paper studies policy interventions intended to eliminate gender differences in labor market outcomes, principally wages. Because gender is an individual attribute rather than a manipulable treatment, the ideal experiment of randomly assigning gender to evaluate its effects is infeasible....",
+    "date": "2026-10",
+    "authors": "Carla Varona Cervantes & Russell Cooper",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-6cbfc8b3",
+    "title": "Optimal Taxation of Indistinguishable Activities",
+    "url": "https://www.nber.org/papers/w35938",
+    "description": "Optimal tax policy frequently prescribes different tax treatments for activities that are difficult in practice for tax administrators to distinguish, such as expenditures undertaken for business versus personal purposes. We study the optimal design of income tax deductions for such expenditures...",
+    "date": "2026-10",
+    "authors": "Jacob Goldin, Sebastian Koehne & Nicholas Lawson",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b6a66ef3",
+    "title": "Strategic Monetary Policy in Open Economies",
+    "url": "https://www.nber.org/papers/w35928",
+    "description": "We examine optimal non-cooperative monetary policy in a two-country New Keynesian setting with complete financial markets and pricing to market for goods. In contrast to the case in which the law of one price holds for goods, currency misalignments are an important consideration even for self...",
+    "date": "2026-10",
+    "authors": "Louphou Coulibaly & Charles Engel",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-f9efe8ee",
+    "title": "The Occupational Ladder: Implications for Life-Cycle Wage Dynamics",
+    "url": "https://www.nber.org/papers/w35929",
+    "description": "Some occupations pay higher wages than others, even conditional on worker characteristics, implying that occupations can be ranked on a ladder. We develop a simple decomposition to study the role this occupational ladder plays in average wage growth and in the fanning out of wages over the life...",
+    "date": "2026-10",
+    "authors": "Henry E. Siu, Kelly Foley ⓡ Guido Matias Cortes",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-e3a734ca",
+    "title": "Training Your Replacement: Worker Incentives and the Pace of Automation",
+    "url": "https://www.nber.org/papers/w35950",
+    "description": "Firms ask workers to train AI systems that will replace them. We model this with a worker who can shirk, cooperate with training, or obstruct training while maintaining productivity. Because training ends the job but only cooperation completes training, dismissal becomes a weaker penalty for...",
+    "date": "2026-10",
+    "authors": "Joshua S. Gans & Peter Landry",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-96997a75",
+    "title": "We Just Created More Than 1,000 Synthetic Controls To Study California's $20 Fast Food Minimum Wage",
+    "url": "https://www.nber.org/papers/w35931",
+    "description": "We Just Created More Than 1,000 Synthetic Controls To Study California's $20 Fast Food Minimum Wage",
+    "date": "2026-10",
+    "authors": "Jeffrey Clemens, Olivia Edwards, Jonathan Meer & Joshua D. Nguyen",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-dd362ae0",
+    "title": "Insuring Landlords",
+    "url": "https://www.nber.org/papers/w35932",
+    "description": "This paper shows that insuring landlords against non-payment risk can improve housing access and upward geographic mobility for fragile tenants. We study Visale, a large-scale publicly funded rent guarantee insurance policy in France, free for eligible tenants and landlords. Using administrative...",
+    "date": "2026-10",
+    "authors": "Thomas Bézy, Antoine B. Levy & Timothy McQuade",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-48e0aa96",
+    "title": "Representation, Innovation, and Product Adoption",
+    "url": "https://www.nber.org/papers/w35936",
+    "description": "During research and development, firms must decide which types of individuals to engage in developing and testing their products. We investigate how lowering the cost of including one group shapes its representation, subsequent innovation, and product adoption. In 2000, Medicare expanded coverage of...",
+    "date": "2026-10",
+    "authors": "Jennifer L. Kao & Tamar Oostrom",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-8d7be237",
+    "title": "Regional Variations and Productivity Puzzles in Health Care",
+    "url": "https://www.nber.org/papers/w35937",
+    "description": "Health care utilization per capita varies widely across the United States, yet higher utilization areas have no better patient health. In the late 2000s, this pattern was widely interpreted as evidence that health care costs could be cut substantially without harming patients, which in turn shaped...",
+    "date": "2026-10",
+    "authors": "Amy Finkelstein & Jonathan S. Skinner",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1a90a180",
+    "title": "Sex and Subsistence: Income Effects on Risky Sexual Behavior and Partner Selection",
+    "url": "https://www.nber.org/papers/w35940",
+    "description": "Sex and Subsistence: Income Effects on Risky Sexual Behavior and Partner Selection",
+    "date": "2026-10",
+    "authors": "Natalie Bau, Corinne Low & Bryce Millett Steinberg",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-d3fca2f9",
+    "title": "Comparative Advantage and Economies of Scale under Uncertainty",
+    "url": "https://www.nber.org/papers/w35942",
+    "description": "We study how regional specialization patterns and welfare are affected by uncertainty and economies of scale in an open economy. We use a spatial equilibrium model with sectoral economies of scale, aggregate uncertainty, and irreversible mobility decisions made by heterogenous workers. We...",
+    "date": "2026-10",
+    "authors": "Xiao Ma & Natalia Ramondo",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-6c80ec9d",
+    "title": "Global Entrepreneurial Talent Flows: Widely Funded, Selectively Successful?",
+    "url": "https://www.nber.org/papers/w35943",
+    "description": "Immigrant founders of US venture-backed startups exit successfully more often than native founders. Does this hold worldwide? Using career histories for 913,226 founder-firm pairs in 213 countries (19902026), we compare founders who build abroad (expats) or return home after foreign experience...",
+    "date": "2026-10",
+    "authors": "Paul A. Gompers & Henry Woo",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-ca14264d",
+    "title": "Selective Admissions in Nursing Homes: Evidence from a Randomized Audit Study",
+    "url": "https://www.nber.org/papers/w35944",
+    "description": "It has been widely documented that patients in the US who are associated with disadvantaged demographics receive care at lower quality nursing homes. To understand the role that selective admissions may play in contributing to this pattern, we conducted a nationwide audit study of the impact of...",
+    "date": "2026-10",
+    "authors": "Liran Einav, Amy Finkelstein, Jesse Gubb, Neale Mahoney & James Okun",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c0c5ea3b",
+    "title": "The Value of (Sub) Specialization: Evidence from Oncology",
+    "url": "https://www.nber.org/papers/w35946",
+    "description": "We estimate the returns to specialization in medical oncology, in which subspecialists focus on specific cancer types. Using 2.2 million Medicare chemotherapy episodes from 20082020, we instrument for subspecialist access with differential distance to cancer-type-specific subspecialists versus...",
+    "date": "2026-10",
+    "authors": "René Karadakic, David C. Chan Jr, Nancy L. Keating, Bruce E. Landon & Michael L. Barnett",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-6cea9f23",
+    "title": "An LLM Workflow for Functional Form Sensitivity Analysis",
+    "url": "https://www.nber.org/papers/w35947",
+    "description": "We introduce an LLM workflow for functional form sensitivity analysis. A researcher estimates the value of an object of interest by maximizing the fit of a working model to some data. The working model assumes an arbitrary form for some function. We define sensitivity by how much it is possible to...",
+    "date": "2026-10",
+    "authors": "Isaiah Andrews, Simon C. Essig Aberg & Jesse M. Shapiro",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-2505bca6",
+    "title": "fevc: Leave-Out Bias-Corrected Variance Decompositions in Stata",
+    "url": "https://www.nber.org/papers/w35948",
+    "description": "Variance decompositions from regressions with worker and firm fixed effects are widely used to measure heterogeneity and sorting in linked data. Variances computed directly from estimated effects overstate heterogeneity because they include estimation noise, and the bias can be large when few...",
+    "date": "2026-10",
+    "authors": "Johannes F. Schmieder",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-4ab26c3e",
+    "title": "Generative AI, Managerial Expectations, and Economic Activity",
+    "url": "https://www.nber.org/papers/w35949",
+    "description": "Using generative AI, we extract managers economic expectations from over 120,000 corporate conference call transcripts. The resulting AI Economy Score predicts GDP growth, production, employment, and wages five or more quarters ahead, beyond survey forecasts and other existing measures. Industry-...",
+    "date": "2026-10",
+    "authors": "Manish Jha, Jialin Qian, Michael Weber & Baozhong Yang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c164ba8f",
+    "title": "A Network Approach to Geopolitics",
+    "url": "https://www.nber.org/papers/w35951",
+    "description": "We develop a tractable framework for analyzing geopolitics as a network of coordination and strategic influence. Countries choose geopolitical actions that trade off domestic interests against incentives to align with connected countries. They can exert costly bilateral influence to affect one...",
+    "date": "2026-10",
+    "authors": "Ernest Liu, Stephen J. Redding, Bennett Smith-Worthington & David Y. Yang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-3443d422",
+    "title": "The Great Game: A Model of Geoeconomic Competition",
+    "url": "https://www.nber.org/papers/w35952",
+    "description": "We build a model of two hegemons that have valuable trading relationships with each other and at the same time compete in exerting geoeconomic power over countries in the rest of the world. When the hegemons trade with each other, their optimal policy is shaped both by classic economic...",
+    "date": "2026-10",
+    "authors": "Christopher Clayton, Matteo Maggiori & Jesse Schreger",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1cc72823",
+    "title": "Tariff Staggering",
+    "url": "https://www.nber.org/papers/w35957",
+    "description": "Using a panel of U.S. imports and customs duties at the HS 6-digit level, we document that in a typical quarter about 20 percent of tariffs rise, 20 percent fall, and 60 percent remain unchanged. Motivated by these facts, we develop a model of staggered tariff setting and embed it in a dynamic open...",
+    "date": "2026-10",
+    "authors": "Stephanie Schmitt-Grohé & Martín Uribe",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-9f6e084a",
+    "title": "Behavioral Finance at 40",
+    "url": "https://www.nber.org/papers/w35959",
+    "description": "Behavioral finance seeks to improve our understanding of markets, investors, and firms by adopting a psychologically realistic description of how people think. While behavioral finance ideas have been part of human discourse for decades if not centuries, the modern research effort in the field began...",
+    "date": "2026-10",
+    "authors": "Nicholas C. Barberis",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-e973f66c",
+    "title": "Who Can Control Our Firms? National Security and Foreign Ownership Regulation",
+    "url": "https://www.nber.org/papers/w35958",
+    "description": "Governments invoke national security to regulate foreign acquisitions of domestic firms. Why is ownership regulation a distinct policy margin beyond standard tools, like production subsidies and trade taxes? We show that contractual frictions make multinational firm boundaries central to geoeconomic...",
+    "date": "2026-10",
+    "authors": "Rodrigo Adão & Olivier Kooi",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-7539dc2e",
+    "title": "Tax Productivity and Economic Development: A Quantitative Macroeconomic Analysis",
+    "url": "https://www.nber.org/papers/w35934",
+    "description": "This paper examines the role of government capacity to collect taxes in driving economic development. We first draw on a new macro-historical database to document that tax collections relative to tax administration expenditures rise sharply with GDP per capita. We then interpret this finding in a...",
+    "date": "2026-10",
+    "authors": "Radhika Goyal, Anders Jensen, David Lagakos, Abdoulaye Ndiaye & Yuntian Zhao",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-6ed554aa",
+    "title": "The Impact of Silver Loading in ACA Health Insurance Marketplaces",
+    "url": "https://www.nber.org/papers/w35955",
+    "description": "In 2017, the federal government ended payments for cost-sharing reduction (CSR) subsidies for the Health Insurance Marketplaces created by the Affordable Care Act. Rather than uniformly increase Marketplace plans premiums to offset the loss of these payments, over 40 states responded by silver...",
+    "date": "2026-10",
+    "authors": "Coleman Drake, David Anderson, Dylan Nagy & Mark Shepard",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-9a3bb1c2",
+    "title": "The Returns to Temporary Migration: Experimental Evidence from the H-2A Program",
+    "url": "https://www.nber.org/papers/w35941",
+    "description": "In 2024, 315,000 H-2A temporary seasonal work visas were issued to agricultural workers in the US. The H-2A program is controversial: earnings are high, but critics argue that workers face poor working and living conditions and that families bear the costs of separation. We randomize H-2A seasonal...",
+    "date": "2026-10",
+    "authors": "Melanie Morten, Beatriz Magaloni, Sebastián Cubillos & Alice Yiqian Wang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-d039b706",
+    "title": "Gender Gaps: International Evidence on the Role of Family Policy",
+    "url": "https://www.nber.org/papers/w35939",
+    "description": "We use Luxembourg Income Study and International Social Survey Programme microdata on 27 countries over the 1986-2019 period, augmented by policy and labor market information, to estimate the impact of family-friendly policies on gender gaps in employment, wages, earnings, and part-time work, as...",
+    "date": "2026-10",
+    "authors": "Francine D. Blau, Lawrence Kahn, Freddy Bachmann, Helen Burkhardt, Leonardo Peñaloza-Pacheco & David Titus",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-92f5b0ee",
+    "title": "Homework in Climate Economics: Household Production, Environmental Preferences, and Climate Policy",
+    "url": "https://www.nber.org/papers/w35945",
+    "description": "Homework in Climate Economics: Household Production, Environmental Preferences, and Climate Policy",
+    "date": "2026-10",
+    "authors": "Stephie Fried, David Lagakos & Hannah Rhodenhiser",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-cb556b17",
+    "title": "When Cash Wakes Up: Inertia in Institutional Money Market Funds and the Potential Effects of AI Disruption",
+    "url": "https://www.nber.org/papers/w35954",
+    "description": "When Cash Wakes Up: Inertia in Institutional Money Market Funds and the Potential Effects of AI Disruption",
+    "date": "2026-10",
+    "authors": "Ali Hortaçsu & Younggeun Yoo",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-322ebd66",
+    "title": "Coasian Stakeholder Theory",
+    "url": "https://www.nber.org/papers/w35960",
+    "description": "Stakeholder theory asks who is in, who is out, and who gets what. Existing work illuminates important dimensions of firmstakeholder relationships but does not supply a common, transaction-level rule connecting these questions. We use the Coase theorem to develop such a rule. A Coasian stakeholder is...",
+    "date": "2026-10",
+    "authors": "Matthew J. Higgins, Peter G. Klein, Anita McGahan & Rob Wuebker",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-a40201b2",
+    "title": "HouseholdBench: Evaluating Large Language Models as Predictors of Household Economic Behavior",
+    "url": "https://www.nber.org/papers/w35927",
+    "description": "HouseholdBench: Evaluating Large Language Models as Predictors of Household Economic Behavior",
+    "date": "2026-10",
+    "authors": "Jin Huang, Diego Ferreras Garrucho, Yutong Xie, Walter M. Yuan, Qiaozhu Mei, Chen Lian & Jonathon Hazell",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "nber-291ddef4",
     "title": "Comparisons",
     "url": "https://www.nber.org/papers/w35694",
