@@ -1406,5 +1406,21 @@
     "date": "October 7, 2027",
     "type": "Conference",
     "has_program": false
+  },
+  {
+    "id": "nber-conf-c3175785",
+    "title": "The Economic Implications of GLP-1 Therapies, Spring 2027",
+    "url": "https://www.nber.org/conferences/economic-implications-glp-1-therapies-spring-2027",
+    "date": "March 4, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-ba7c9ca3",
+    "title": "Geography and Health: Place and Aging, Spring 2027",
+    "url": "https://www.nber.org/conferences/geography-and-health-place-and-aging-spring-2027",
+    "date": "June 16, 2027",
+    "type": "Conference",
+    "has_program": false
   }
 ]

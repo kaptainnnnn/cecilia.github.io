@@ -13,6 +13,19 @@
     "featured": false
   },
   {
+    "id": "adb-e952c144",
+    "title": "Coastal Flooding and Wealth in Asia and the Pacific",
+    "url": "https://www.adb.org/publications/coastal-flooding-wealth-asia-pacific",
+    "description": "This study examines how coastal development, wealth, and climate risk intersect across 10 countries in Asia and the Pacific.",
+    "date": "2026-10-22",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
     "id": "adb-5d913c0a",
     "title": "Well-Being Losses from Coastal Hazards",
     "url": "https://www.adb.org/publications/well-being-losses-coastal-hazards",
@@ -109,19 +122,6 @@
     "url": "https://www.adb.org/publications/remittances-household-resilience-kyrgyz-republic",
     "description": "This paper examines how remittances influence household expenditure during drought and excess rainfall in the Kyrgyz Republic.",
     "date": "2026-08-24",
-    "source": "ADB",
-    "tags": [
-      "economics",
-      "development"
-    ],
-    "featured": false
-  },
-  {
-    "id": "adb-24fce221",
-    "title": "Bullets and Budgets: Measuring Defense Spending Multipliers",
-    "url": "https://www.adb.org/publications/bullets-budgets-measuring-defense-spending-multipliers",
-    "description": "This paper examines the macroeconomic effects of defense spending shocks in emerging markets and developing economies, with a focus on Asia and the Pacific during 1990–2023.",
-    "date": "2026-07-23",
     "source": "ADB",
     "tags": [
       "economics",
