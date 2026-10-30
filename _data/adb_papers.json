@@ -130,6 +130,19 @@
     "featured": false
   },
   {
+    "id": "adb-24fce221",
+    "title": "Bullets and Budgets: Measuring Defense Spending Multipliers",
+    "url": "https://www.adb.org/publications/bullets-budgets-measuring-defense-spending-multipliers",
+    "description": "This paper examines the macroeconomic effects of defense spending shocks in emerging markets and developing economies, with a focus on Asia and the Pacific during 1990–2023.",
+    "date": "2026-07-23",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
     "id": "adb-f9446466",
     "title": "Business Climate, Economic Complexity, and Performance at the Provincial Level in Viet Nam",
     "url": "https://www.adb.org/publications/business-climate-economic-complexity-performance-provincial-viet-nam",
@@ -239,19 +252,6 @@
     "url": "https://www.adb.org/publications/sezs-shaping-viet-nam-local-business",
     "description": "Special economic zones (SEZs) in Viet Nam significantly shaped firm growth and local governance from 2006–2020.",
     "date": "2026-05-29",
-    "source": "ADB",
-    "tags": [
-      "economics",
-      "development"
-    ],
-    "featured": false
-  },
-  {
-    "id": "adb-f6b2ae87",
-    "title": "Financing Nature: Investment Funds and Biodiversity Risks",
-    "url": "https://www.adb.org/publications/financing-nature-investment-funds",
-    "description": "This paper examines investment fund responses to biodiversity risk.",
-    "date": "2026-05-27",
     "source": "ADB",
     "tags": [
       "economics",
