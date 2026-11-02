@@ -1,5 +1,185 @@
 [
   {
+    "id": "cepr-c1701737",
+    "title": "DP22115 The equity-adjusted social cost of carbon",
+    "url": "https://cepr.org/publications/dp22115",
+    "description": "",
+    "date": "2026-11-01",
+    "authors": "Emmerling; Groom; van der Ploeg",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c0e58894",
+    "title": "DP22114 Mortgage Constraints: Household Responses, Market Adjustments and Financial Stability",
+    "url": "https://cepr.org/publications/dp22114",
+    "description": "",
+    "date": "2026-10-31",
+    "authors": "Juelsrud; Wold",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ef5a9a09",
+    "title": "DP22113 Deciding Before You Are Persuaded",
+    "url": "https://cepr.org/publications/dp22113",
+    "description": "",
+    "date": "2026-10-31",
+    "authors": "Dewan; Eliaz",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-284e7af1",
+    "title": "DP22112 Financial Portfolio Choices and Marital Property Regimes",
+    "url": "https://cepr.org/publications/dp22112",
+    "description": "",
+    "date": "2026-10-31",
+    "authors": "Cruces; Goensch; Micó-Millán",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-48af010c",
+    "title": "DP22111 Gendered Change: 150 Years of Transformation in US Hours",
+    "url": "https://cepr.org/publications/dp22111",
+    "description": "",
+    "date": "2026-10-31",
+    "authors": "Ngai; Olivetti; Petrongolo",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-d9313774",
+    "title": "DP22110 Early Decisions, Long-Lasting Consequences: The Macroeconomics of School Tracking",
+    "url": "https://cepr.org/publications/dp22110",
+    "description": "",
+    "date": "2026-10-31",
+    "authors": "Bellue; Mahler",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-53ea3de1",
+    "title": "DP22109 Heterogeneous risk preferences, entrepreneurship, and wealth",
+    "url": "https://cepr.org/publications/dp22109",
+    "description": "",
+    "date": "2026-10-31",
+    "authors": "Merz; Hochmuth; Prettenthaler",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e7ea76c1",
+    "title": "DP22108 Priced Out of Parenthood: Housing Costs, Household Formation, and Fertility in Spain",
+    "url": "https://cepr.org/publications/dp22108",
+    "description": "",
+    "date": "2026-10-31",
+    "authors": "Chiocchio; Guner; Sánchez-Marcos",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-dc65798c",
+    "title": "DP22107 When Globalization Comes Home: Commodity Prices and Labour Conflict in Italy, 1881–1910",
+    "url": "https://cepr.org/publications/dp22107",
+    "description": "",
+    "date": "2026-10-30",
+    "authors": "Buscemi; Missiaia; Pellegrino",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-74d4ea73",
+    "title": "DP22106 The Market Price of Risk and Macro-Financial Dynamics",
+    "url": "https://cepr.org/publications/dp22106",
+    "description": "",
+    "date": "2026-10-29",
+    "authors": "Adrian; DeHaven; Duarte; Iyer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b9b92416",
+    "title": "DP22105 Doing Better at Doing Good: Lessons from a Bayesian Meta-Analysis After 20 Years of Poverty Graduation Programs",
+    "url": "https://cepr.org/publications/dp22105",
+    "description": "",
+    "date": "2026-10-28",
+    "authors": "Carter; Jee; Karlan; Premand",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ace46176",
+    "title": "DP22104 Contractual Freedom Versus Tenancy Law",
+    "url": "https://cepr.org/publications/dp22104",
+    "description": "",
+    "date": "2026-10-28",
+    "authors": "Schmitz",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-482c9afc",
     "title": "DP22076 Importers Big and Small: The Heterogeneous Impacts of U.S.-China Tariffs on Sourcing and Prices",
     "url": "https://cepr.org/publications/dp22076",
