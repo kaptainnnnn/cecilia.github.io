@@ -1,5 +1,110 @@
 [
   {
+    "id": "cepr-afe2bd6a",
+    "title": "DP22122 On the Role and Effectiveness of Fiscal Rules and Independent Fiscal Councils",
+    "url": "https://cepr.org/publications/dp22122",
+    "description": "",
+    "date": "2026-11-02",
+    "authors": "Beetsma; Lam; Leonards; Poplawski-Ribeiro; Solovyeva",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-788d663b",
+    "title": "DP22121 Tariffs, Employment and the Balance of Trade",
+    "url": "https://cepr.org/publications/dp22121",
+    "description": "",
+    "date": "2026-11-02",
+    "authors": "van Wijnbergen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-88e9793d",
+    "title": "DP22120 Equal Treatment, Unequal Family Duties: Gendered Screening and Selective Exclusion in the Workplace",
+    "url": "https://cepr.org/publications/dp22120",
+    "description": "",
+    "date": "2026-11-02",
+    "authors": "Barigozzi; Cremer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-911f040e",
+    "title": "DP22119 Central Bank Retail Deposits in the Past",
+    "url": "https://cepr.org/publications/dp22119",
+    "description": "",
+    "date": "2026-11-02",
+    "authors": "Antipa; Grodecka-Messi; Hafke; Jobst; Jorge Sotelo; Kaufmann; Mulder; Rieder; Ugolini",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-3bd14f00",
+    "title": "DP22118 Age and Productivity in High-Skilled Work: Goal-scoring in the English Premier League",
+    "url": "https://cepr.org/publications/dp22118",
+    "description": "",
+    "date": "2026-11-02",
+    "authors": "van Ours",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7db4e592",
+    "title": "DP22117 Take-off Dynamics of a Sovereign Wealth Fund",
+    "url": "https://cepr.org/publications/dp22117",
+    "description": "",
+    "date": "2026-11-02",
+    "authors": "Carnevali; Corneo; Vellucci",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-a45b7771",
+    "title": "DP22116 Consumer Profiling via Information Design",
+    "url": "https://cepr.org/publications/dp22116",
+    "description": "",
+    "date": "2026-11-02",
+    "authors": "Fainmesser; Galeotti; Momot; Renou",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-c1701737",
     "title": "DP22115 The equity-adjusted social cost of carbon",
     "url": "https://cepr.org/publications/dp22115",
@@ -175,6 +280,104 @@
     "source": "CEPR",
     "type": "Discussion paper",
     "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b3d88d33",
+    "title": "DP22103 fevc: Leave-Out Bias-Corrected Variance Decompositions in Stata",
+    "url": "https://cepr.org/publications/dp22103",
+    "description": "",
+    "date": "2026-10-28",
+    "authors": "Johannes Schmieder",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "C13",
+      "C23",
+      "C55",
+      "J31",
+      "J62"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-dd7862d3",
+    "title": "DP22102 Raising Rival's Quality Cost: Exclusive technology and innovation incentives",
+    "url": "https://cepr.org/publications/dp22102",
+    "description": "",
+    "date": "2026-10-28",
+    "authors": "Ozlem Bedre Defolie; Gary Biglaiser; Panagiotis Kyriazis",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Industrial Organization",
+      "L13",
+      "L19",
+      "L24",
+      "L50"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6778a632",
+    "title": "DP22101 Gender Biased Beliefs and Legal Inequality",
+    "url": "https://cepr.org/publications/dp22101",
+    "description": "",
+    "date": "2026-10-28",
+    "authors": "Siwan Anderson",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-fd183e88",
+    "title": "DP22100 Misallocation in Conservation Area Placement",
+    "url": "https://cepr.org/publications/dp22100",
+    "description": "",
+    "date": "2026-10-28",
+    "authors": "Rufus Panelius; Lassi Ahlvik",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Climate Change and the Environment"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-60cdd072",
+    "title": "DP22099 The Hidden Sharpe Ratio",
+    "url": "https://cepr.org/publications/dp22099",
+    "description": "",
+    "date": "2026-10-27",
+    "authors": "Mikhail Chernov; Bryan Kelly; Semyon Malamud; Johannes Schwab",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Asset Pricing",
+      "C12",
+      "C40",
+      "C55",
+      "G12"
+    ],
     "tags": [
       "economics"
     ]

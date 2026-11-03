@@ -1,5 +1,304 @@
 [
   {
+    "id": "nber-7e4564fa",
+    "title": "Fixed/Floating Interest Rate Parity",
+    "url": "https://www.nber.org/papers/w35977",
+    "description": "We present a new no-arbitrage relation which we denote as fixed/floating interest rate parity. This relation can be viewed as a domestic version of covered interest rate parity. We test this relation using fixed-rate bonds and floating-rate notes in the multi-trillion U.S. agency debt market and...",
+    "date": "2026-11",
+    "authors": "Matthias Fleckenstein, Sven Klingler & Francis A. Longstaff",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-f5310aa9",
+    "title": "Saving for the Machines",
+    "url": "https://www.nber.org/papers/w35964",
+    "description": "When machines can perform a growing share of tasks, growth depends on two margins: how the task structure affects the returns to accumulating machines, and how strongly capital accumulation responds to those returns. I argue that, in a standard task model, capital supply governs the size of the...",
+    "date": "2026-11",
+    "authors": "Jesús Fernández-Villaverde",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-030a41fb",
+    "title": "Aggregate-Surplus Maximizing Monetary Policy",
+    "url": "https://www.nber.org/papers/w35967",
+    "description": "We study optimal monetary policy in a general heterogeneous-agent New Keynesian (HANK) economy. Instead of maximizing a social welfare function, the policymaker maximizes the joint surplus of all households, without taking a stance on how that surplus should be distributed. This is the policy that...",
+    "date": "2026-11",
+    "authors": "David Baqaee, Ariel Burstein & Joao Guerreiro",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-fc8de7ac",
+    "title": "The Effects of Monetary Policy on Macroeconomic Expectations: High-Frequency Evidence from Prediction Markets",
+    "url": "https://www.nber.org/papers/w35968",
+    "description": "The Effects of Monetary Policy on Macroeconomic Expectations: High-Frequency Evidence from Prediction Markets",
+    "date": "2026-11",
+    "authors": "Eric T. Swanson, Wang Renxuan & Yanbin Wu",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-37a76909",
+    "title": "Manufacturing Renaissance Meets Time-Inconsistent Tariffs",
+    "url": "https://www.nber.org/papers/w35976",
+    "description": "We analyze optimal tariffs in a dynamic version of the Venables (1987) framework with a time-to-build lag in firm creation. In this environment, trade protection is driven by the desire to increase firm creation at home at the expense of the foreign trade partner. When firm creation takes time, the...",
+    "date": "2026-11",
+    "authors": "Christoph Boehm, Andrei A. Levchenko & Wei Xiang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-2a7f195e",
+    "title": "Coordinated R&D Programs and the Creation of New Industries",
+    "url": "https://www.nber.org/papers/w35978",
+    "description": "Large, mission-oriented R&D efforts sometimes generate substantial technological advances, but their commercial impacts vary. This paper uses one such effortthe U.S. World War II radar programto explore how the outputs of such programs may contribute to later commercial development. Using archival...",
+    "date": "2026-11",
+    "authors": "Daniel P. Gross & Maria P. Roche",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c5d9ba60",
+    "title": "Can Home Visits Re-Engage Chronically Absent Students? Evidence from the LEAP Program",
+    "url": "https://www.nber.org/papers/w35961",
+    "description": "Can Home Visits Re-Engage Chronically Absent Students? Evidence from the LEAP Program",
+    "date": "2026-11",
+    "authors": "Eric Brunner, Shangyue Jiang & Stephen Ross",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-0eb6beee",
+    "title": "The Global Office: How Globalisation’s Frontier is Shifting from Factories to Offices",
+    "url": "https://www.nber.org/papers/w35975",
+    "description": "The Global Office: How Globalisation’s Frontier is Shifting from Factories to Offices",
+    "date": "2026-11",
+    "authors": "Richard Baldwin",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1b58dc6f",
+    "title": "A Beckerian Theory of Taxation",
+    "url": "https://www.nber.org/papers/w35970",
+    "description": "We study taxation in matching environments in which both equilibrium sorting and the sharing of match surplus are endogenous. Tax reforms lead to complex adjustments in sorting and surplus sharing patterns across the whole economy. We develop a general approach for characterizing these equilibrium...",
+    "date": "2026-11",
+    "authors": "Margaret Chen, Mikhail Golosov & Ilia Krasikov",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-e69119ca",
+    "title": "Governance Regimes, Economic Mobility, and the Composition of Public Investment: Evidence from the Democratization of Villages in India",
+    "url": "https://www.nber.org/papers/w35972",
+    "description": "Governance Regimes, Economic Mobility, and the Composition of Public Investment: Evidence from the Democratization of Villages in India",
+    "date": "2026-11",
+    "authors": "Andrew D. Foster & Mark R. Rosenzweig",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-8e040c39",
+    "title": "Risk and Return in Government Bonds",
+    "url": "https://www.nber.org/papers/w35973",
+    "description": "Does the compensation investors require for holding government bonds vary with their risk? We measure expected excess returns using market yields and professional forecasts of future yields, showing that they are tightly linked to a standard measure of risk: bonds betas with respect to the stock...",
+    "date": "2026-11",
+    "authors": "Matteo Leombroni, Carolin Pflueger & Adi Sunderam",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-6eee1d9d",
+    "title": "How Different are Different Differences-in-Differences? A Large-Scale Meta-Analysis",
+    "url": "https://www.nber.org/papers/w35974",
+    "description": "How Different are Different Differences-in-Differences? A Large-Scale Meta-Analysis",
+    "date": "2026-11",
+    "authors": "Peter Hull",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-98008dd6",
+    "title": "Green Tastes, Beliefs, and Portfolios: Evidence from Synthetic Investors",
+    "url": "https://www.nber.org/papers/w35982",
+    "description": "We use LLMs as synthetic survey respondents to elicit green tastes, return beliefs, portfolio allocations, and investment motives from 480 retail and 60 institutional investor identities. Compared with retail, institutions report weaker tastes yet greener portfolio tilts, citing outside pressure. A...",
+    "date": "2026-11",
+    "authors": "Xindi He & Lubos Pastor",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-79213424",
+    "title": "Demand-Driven Inflation",
+    "url": "https://www.nber.org/papers/w35980",
+    "description": "Post-covid inflation was predominantly driven by unexpectedly strong demand forces---both in the United States and in the Euro Area. We establish this result using a sequence of structural VARs with progressively richer specifications, interpret it through the lens of standard AD-AS analysis and an...",
+    "date": "2026-11",
+    "authors": "Domenico Giannone & Giorgio Primiceri",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-78397758",
+    "title": "Universities as Incubators of Mass Uprising",
+    "url": "https://www.nber.org/papers/w35983",
+    "description": "We link high-frequency geocoded protest data during Bangladeshs 2024 Monsoon Revolution, Facebook measures of protest activity and social connectivity, university enrollment and demographics to establish: (1) student-linked protests precede off-campus mobilization; (2) student concentration predicts...",
+    "date": "2026-11",
+    "authors": "Sultan Mehmood & Ahmed Mushfiq Mobarak",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-02783d39",
+    "title": "Unraveling the Cobweb of Global Imbalances: Drivers, Vulnerabilities and Adjustment Scenarios",
+    "url": "https://www.nber.org/papers/w35962",
+    "description": "Unraveling the Cobweb of Global Imbalances: Drivers, Vulnerabilities and Adjustment Scenarios",
+    "date": "2026-11",
+    "authors": "Stefan Avdjiev, Kristin Forbes, Tsvetelina Nenova & Marjorie Santos",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1e4f5b17",
+    "title": "What Drives Censorship on College Campuses?",
+    "url": "https://www.nber.org/papers/w35979",
+    "description": "There has been widespread concern about self-censorship on university campuses, and especially that conservative voices are being stifled. Using survey data from a private elite college, we show that self-censorship is not simply about being conservative: it is students with the most moderate views...",
+    "date": "2026-11",
+    "authors": "Peter Arcidiacono, Cory Dowd & Matthew Lilley",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-609b53f5",
+    "title": "Income Inequality and Intergenerational Mobility in Russia: Trends, Sources, and Measurement",
+    "url": "https://www.nber.org/papers/w35965",
+    "description": "Income Inequality and Intergenerational Mobility in Russia: Trends, Sources, and Measurement",
+    "date": "2026-11",
+    "authors": "Kristina Butaeva, Steven N. Durlauf & Dmitry Rudenko",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-85d494b0",
+    "title": "Public R&D and the Automation of Manufacturing: Evidence from the Space Race",
+    "url": "https://www.nber.org/papers/w35966",
+    "description": "This paper examines how public research and development shaped the direction of technological change during the Cold Warera Space Race and its consequences for US manufacturing. While prior research has documented the effects of public R&D on innovation and economic growth, less is known about...",
+    "date": "2026-11",
+    "authors": "Apoorva Babbar, Shawn Kantor, Alexander Whalley & Jingyuan Zeng",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-75f4fc0f",
+    "title": "Affirmative Action, Faculty Productivity and Caste Interactions: Evidence from Engineering Colleges in India",
+    "url": "https://www.nber.org/papers/w35963",
+    "description": "Affirmative Action, Faculty Productivity and Caste Interactions: Evidence from Engineering Colleges in India",
+    "date": "2026-11",
+    "authors": "Robert W. Fairlie, Saurabh Khanna, Prashant Loyalka & Gagandeep S. Sachdeva",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-880f34ca",
+    "title": "Pollution Monitoring and the Pricing of Environmental Risk in Firms",
+    "url": "https://www.nber.org/papers/w35969",
+    "description": "Pricing firms environmental risk is central to ensuring that capital is efficiently allocated. We examine whether an increase in the salience of pollution information affects the beliefs and perceived valuations of financially sophisticated agentsfinancial analystsregarding the environmental risks...",
+    "date": "2026-11",
+    "authors": "Namrata Kala, Jalal Sani, Nemit Shroff & Pengdong Zhang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-d6362112",
+    "title": "Coase Meets Negishi: Property Rights, Welfare Weights, and Distributional Consequences in Climate Economics",
+    "url": "https://www.nber.org/papers/w35971",
+    "description": "Coase Meets Negishi: Property Rights, Welfare Weights, and Distributional Consequences in Climate Economics",
+    "date": "2026-11",
+    "authors": "Simon F. Lang, Matthew D. Gordon & Matthew J. Kotchen",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-2be0e612",
+    "title": "Beyond the Numbers: Professional Forecasters’ Narratives about Inflation and Stock Market Performance",
+    "url": "https://www.nber.org/papers/w35981",
+    "description": "Beyond the Numbers: Professional Forecasters’ Narratives about Inflation and Stock Market Performance",
+    "date": "2026-11",
+    "authors": "Christian Conrad, Julius Theodor Schoelkopf, Michael Weber & Frank Brueckbauer",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "nber-5b7fe69f",
     "title": "Are Prediction Markets Politically Biased?",
     "url": "https://www.nber.org/papers/w35846",
