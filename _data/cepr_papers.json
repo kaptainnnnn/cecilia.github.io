@@ -1,5 +1,185 @@
 [
   {
+    "id": "cepr-1e84ed40",
+    "title": "DP22139 Measuring the Prevalence and Direction of Innovation: A Pilot Approach using LLMs",
+    "url": "https://cepr.org/publications/dp22139",
+    "description": "",
+    "date": "2026-11-04",
+    "authors": "Garg; Lambert; Martin; Medvedev",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-25d1151d",
+    "title": "DP22138 Growth Spillovers from China: A Firm-Level Anatomy",
+    "url": "https://cepr.org/publications/dp22138",
+    "description": "",
+    "date": "2026-11-04",
+    "authors": "Beltran; Franz; Presbitero",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-fe13f18c",
+    "title": "DP22137 Lost in Transition: Financial Barriers to New Technologies",
+    "url": "https://cepr.org/publications/dp22137",
+    "description": "",
+    "date": "2026-11-04",
+    "authors": "Aghion; Bergeaud; De Ridder; Van Reenen",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1fea48f6",
+    "title": "DP22136 Unraveling the cobweb of global imbalances: drivers, vulnerabilities, and adjustment scenarios",
+    "url": "https://cepr.org/publications/dp22136",
+    "description": "",
+    "date": "2026-11-04",
+    "authors": "Avdjiev; Forbes; Nenova; Santos",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-19f8a723",
+    "title": "DP22135 Innovation Partnerships for Development along Green Value Chains",
+    "url": "https://cepr.org/publications/dp22135",
+    "description": "",
+    "date": "2026-11-04",
+    "authors": "Edet; Martin; de Rochambeau; Tran; Verhoeven",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-caab6c82",
+    "title": "DP22134 Manufacturing Renaissance Meets Time-Inconsistent Tariffs",
+    "url": "https://cepr.org/publications/dp22134",
+    "description": "",
+    "date": "2026-11-04",
+    "authors": "Boehm; Levchenko; Xiang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-1a3ce2b1",
+    "title": "DP22133 Prewar US Business Cycles under Uncertainty: Reconstructing Quarterly GDP before 1947",
+    "url": "https://cepr.org/publications/dp22133",
+    "description": "",
+    "date": "2026-11-04",
+    "authors": "Auer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-14f9abc4",
+    "title": "DP22132 Middle Powers and a Rupturing Global Order",
+    "url": "https://cepr.org/publications/dp22132",
+    "description": "",
+    "date": "2026-11-04",
+    "authors": "Cui; Fernandez-Arias; Gourinchas; Hong; Li; Presbitero; Topalova; Zymek",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-49d3e0e3",
+    "title": "DP22131 The Professors Who Would Become Popes: Academic Human Capital and Elite Selection in Premodern Europe",
+    "url": "https://cepr.org/publications/dp22131",
+    "description": "",
+    "date": "2026-11-04",
+    "authors": "Vitale; De La Croix",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-0c500845",
+    "title": "DP22130 Value Migration and Defense Strategies",
+    "url": "https://cepr.org/publications/dp22130",
+    "description": "",
+    "date": "2026-11-03",
+    "authors": "Llanes; Reisinger; Schmidt",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-292012de",
+    "title": "DP22129 Artificial Intelligence and Bank Intermediation: A Critical Review of the Evidence",
+    "url": "https://cepr.org/publications/dp22129",
+    "description": "",
+    "date": "2026-11-03",
+    "authors": "Dragan; Nistor; Ongena",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-835a1371",
+    "title": "DP22128 FLASH DROUGHTS AND BANK STABILITY IN THE UNITED STATES",
+    "url": "https://cepr.org/publications/dp22128",
+    "description": "",
+    "date": "2026-11-03",
+    "authors": "Fajeau; Generoso; Mathonnat; Ongena",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-afe2bd6a",
     "title": "DP22122 On the Role and Effectiveness of Fiscal Rules and Independent Fiscal Councils",
     "url": "https://cepr.org/publications/dp22122",
