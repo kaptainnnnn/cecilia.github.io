@@ -1,5 +1,95 @@
 [
   {
+    "id": "cepr-a8cb6173",
+    "title": "DP22145 Heterogeneous CEO Death Effects",
+    "url": "https://cepr.org/publications/dp22145",
+    "description": "",
+    "date": "2026-11-05",
+    "authors": "Jenter; Matveyev; Roth",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-42a7d195",
+    "title": "DP22144 Complex Capital Markets",
+    "url": "https://cepr.org/publications/dp22144",
+    "description": "",
+    "date": "2026-11-05",
+    "authors": "Glebkin; Kelly; Malamud; Palmunen; Pourmohammadi",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-40bab109",
+    "title": "DP22143 Urban Elevators and the Geography of Labor Market Polarization",
+    "url": "https://cepr.org/publications/dp22143",
+    "description": "",
+    "date": "2026-11-05",
+    "authors": "Monge-Naranjo; Cerina; Dienesch; Moro",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-e2b65c75",
+    "title": "DP22142 Heterogeneous Firms, Growth and the Long Shadows of Business Cycle",
+    "url": "https://cepr.org/publications/dp22142",
+    "description": "",
+    "date": "2026-11-05",
+    "authors": "Impullitti; Licandro; Sedláček; Spencer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-790b0747",
+    "title": "DP22141 Productivity and Knowledge Transfer: Evidence from Prisoner Employment",
+    "url": "https://cepr.org/publications/dp22141",
+    "description": "",
+    "date": "2026-11-05",
+    "authors": "Giorcelli; Ballabio; Labanca",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-56ae545d",
+    "title": "DP22140 Money, Time, and the Demand for Children",
+    "url": "https://cepr.org/publications/dp22140",
+    "description": "",
+    "date": "2026-11-05",
+    "authors": "Thompson; Michaels",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-1e84ed40",
     "title": "DP22139 Measuring the Prevalence and Direction of Innovation: A Pilot Approach using LLMs",
     "url": "https://cepr.org/publications/dp22139",
