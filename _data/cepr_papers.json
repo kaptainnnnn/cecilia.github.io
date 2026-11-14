@@ -1,5 +1,367 @@
 [
   {
+    "id": "cepr-2cd73b8f",
+    "title": "DP22180 Weathering the Energy Crisis: Can Tailored Information to Local Governments and Media Spur Climate Action?",
+    "url": "https://cepr.org/publications/dp22180",
+    "description": "",
+    "date": "2026-11-13",
+    "authors": "Bishop; Feld; Fetzer; Gazzè",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-24928827",
+    "title": "DP22179 Divide and Indebt How Geoeconomic Fragmentation Affects Public Debt and Macro-Fiscal Stability",
+    "url": "https://cepr.org/publications/dp22179",
+    "description": "",
+    "date": "2026-11-13",
+    "authors": "Furceri; Poplawski-Ribeiro; Prifti",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-f96bdcca",
+    "title": "DP22178 Global Shocks and Insulation: Evidence from the Middle East and North Africa",
+    "url": "https://cepr.org/publications/dp22178",
+    "description": "",
+    "date": "2026-11-13",
+    "authors": "Castegini; Corsetti; Hasna; Lloyd; Yamout",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-5a65e5d6",
+    "title": "DP22177 The Global Fiscal Actions (GFA) Dataset",
+    "url": "https://cepr.org/publications/dp22177",
+    "description": "",
+    "date": "2026-11-13",
+    "authors": "Ahir; Bellon; Cavalleri; Das; Furceri; Kisat; Mineshima; Moreno; Parmar; Patel; Peralta-Alva",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-47febb26",
+    "title": "DP22176 Redistribution, Institutions, and the Self-Selection of Migrants",
+    "url": "https://cepr.org/publications/dp22176",
+    "description": "",
+    "date": "2026-11-13",
+    "authors": "Villa; Corneo; Neidhofer",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-fd8b13a2",
+    "title": "DP22175 The Message or the Messenger? Scientific Evidence and Policy Misperceptions",
+    "url": "https://cepr.org/publications/dp22175",
+    "description": "",
+    "date": "2026-11-13",
+    "authors": "Bertoni; Falco; Guiso; Jappelli; Nisticò",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-cdba1068",
+    "title": "DP22174 Thin Markets, Thick Subsidies: Local Competition and the Incidence of Heat Pump Grants",
+    "url": "https://cepr.org/publications/dp22174",
+    "description": "",
+    "date": "2026-11-13",
+    "authors": "Khanna; Martin; Münch; Saussay",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-997a539a",
+    "title": "DP22173 A Closely-Held View of Dividend Taxation",
+    "url": "https://cepr.org/publications/dp22173",
+    "description": "",
+    "date": "2026-11-13",
+    "authors": "Bach; Bozio; Guillouzouic; Leroy; Malgouyres",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8e31c62c",
+    "title": "DP22172 School Choice and Educational Inputs: Unintended Consequences of a Targeted Voucher Program",
+    "url": "https://cepr.org/publications/dp22172",
+    "description": "",
+    "date": "2026-11-13",
+    "authors": "De Groote; Gazmuri",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c706bd2d",
+    "title": "DP22171 Asset Pricing with Heterogeneous Agents under Limited Information",
+    "url": "https://cepr.org/publications/dp22171",
+    "description": "",
+    "date": "2026-11-12",
+    "authors": "Cioffi; Hurtado; Nuño",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-169101a1",
+    "title": "DP22170 fereg: Fast high-dimensional fixed-effects regressions in Stata",
+    "url": "https://cepr.org/publications/dp22170",
+    "description": "",
+    "date": "2026-11-12",
+    "authors": "Schmieder",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-a0785191",
+    "title": "DP22169 When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies",
+    "url": "https://cepr.org/publications/dp22169",
+    "description": "",
+    "date": "2026-11-11",
+    "authors": "Gudgeon; Guzman; Schmieder; Trenkle; Ye",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-841862a2",
+    "title": "DP22168 A Waivable Citizen Veto",
+    "url": "https://cepr.org/publications/dp22168",
+    "description": "",
+    "date": "2026-11-11",
+    "authors": "Hans Gersbach",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Organizational Economics",
+      "Political Economy",
+      "D02",
+      "D70",
+      "D72",
+      "D82",
+      "D83"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-9863630c",
+    "title": "DP22167 Cross-Border Infrastructure Finance for EMDEs: Patterns, Drivers, and Regulatory Barriers",
+    "url": "https://cepr.org/publications/dp22167",
+    "description": "",
+    "date": "2026-11-10",
+    "authors": "Stijn Claessens; Daniela Klingebiel; Nicolo Pastrone",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Development Economics",
+      "Banking and Corporate Finance",
+      "F63",
+      "F64",
+      "F65",
+      "F68",
+      "G28",
+      "H54",
+      "H81",
+      "N5",
+      "O16",
+      "O19",
+      "Q54",
+      "Q56",
+      "G21"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-10e988e0",
+    "title": "DP22166 Elastic in Cash, Inelastic in Repo: Hedge Funds in the Treasury and Repo Markets",
+    "url": "https://cepr.org/publications/dp22166",
+    "description": "",
+    "date": "2026-11-10",
+    "authors": "Andrea Poinelli; Loriana Pelizzon; Davide Tomio; Benoit Nguyen; Tobias Linzert",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Asset Pricing",
+      "E51",
+      "E52",
+      "E58",
+      "G21"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b9bc5b81",
+    "title": "DP22165 Money, Power and Civil Society. Reconstructing Pablo Levín’s Interpretation of Marx’s Value-Form",
+    "url": "https://cepr.org/publications/dp22165",
+    "description": "",
+    "date": "2026-11-10",
+    "authors": "Facundo Alvaredo; Pilar Piqué",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Economic History",
+      "B1",
+      "B14",
+      "B4",
+      "P16"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-80199b4d",
+    "title": "DP22164 Oligopoly with Mixed Bundling",
+    "url": "https://cepr.org/publications/dp22164",
+    "description": "",
+    "date": "2026-11-09",
+    "authors": "Volker Nocke; Susumu Sato",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Competition Policy",
+      "Industrial Organization",
+      "D43",
+      "L13",
+      "L41",
+      "L42"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-c48c77da",
+    "title": "DP22163 Do Elite Journals Promote the Production and Diffusion of Breakthrough Ideas? Evidence from Economics",
+    "url": "https://cepr.org/publications/dp22163",
+    "description": "",
+    "date": "2026-11-09",
+    "authors": "Nagore Iriberri; Marlene Koffi; Ricardo Serrano-Padial",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Organizational Economics",
+      "O31",
+      "O33",
+      "A11"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-40745dc7",
+    "title": "DP22162 US Interest Rate Surprises and Currency Returns",
+    "url": "https://cepr.org/publications/dp22162",
+    "description": "",
+    "date": "2026-11-09",
+    "authors": "Juan Antolín-Díaz; Gino Cenedese; Shangqi Han; Lucio Sarno",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "International Macroeconomics and Finance",
+      "Asset Pricing",
+      "F31",
+      "G12",
+      "G15"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2bca79d6",
+    "title": "DP22161 Age, Education, and Occupational Gradients in Artificial Intelligence Anxiety",
+    "url": "https://cepr.org/publications/dp22161",
+    "description": "",
+    "date": "2026-11-09",
+    "authors": "Klaus F. Zimmermann; Gokhan Karabulut; Zeynep Keklik; Kıvanç Altıntaş",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [
+      "Labour Economics",
+      "Macroeconomics and Growth",
+      "J24",
+      "O33",
+      "D91",
+      "J14",
+      "I21"
+    ],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-a46ec880",
     "title": "DP22160 Designing Low Emission Zones: Theory and Evidence",
     "url": "https://cepr.org/publications/dp22160",
