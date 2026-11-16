@@ -1,5 +1,50 @@
 [
   {
+    "id": "cepr-689549b1",
+    "title": "DP22183 Partisan Demographics",
+    "url": "https://cepr.org/publications/dp22183",
+    "description": "",
+    "date": "2026-11-15",
+    "authors": "Afolabi; Zimmermann",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-17ae4ff9",
+    "title": "DP22182 How does AI distribute the Pie?",
+    "url": "https://cepr.org/publications/dp22182",
+    "description": "",
+    "date": "2026-11-14",
+    "authors": "Araujo; Uhlig",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-85b3b4be",
+    "title": "DP22181 Does Peter Piper Pick Pepper Inattentively? Consumer Inattention to Package Content",
+    "url": "https://cepr.org/publications/dp22181",
+    "description": "",
+    "date": "2026-11-14",
+    "authors": "Grigolon; Meeker; von Ditfurth",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-2cd73b8f",
     "title": "DP22180 Weathering the Energy Crisis: Can Tailored Information to Local Governments and Media Spur Climate Action?",
     "url": "https://cepr.org/publications/dp22180",

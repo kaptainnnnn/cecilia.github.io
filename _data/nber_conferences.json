@@ -1422,5 +1422,69 @@
     "date": "June 16, 2027",
     "type": "Conference",
     "has_program": false
+  },
+  {
+    "id": "nber-conf-2d98e030",
+    "title": "PhD Student Workshop on Microeconomic Policies & Economic Growth, Spring 2027",
+    "url": "https://www.nber.org/conferences/phd-student-workshop-microeconomic-policies-economic-growth-spring-2027",
+    "date": "March 31, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-0bd186d9",
+    "title": "Economics of Networks, Spring 2027",
+    "url": "https://www.nber.org/conferences/economics-networks-spring-2027",
+    "date": "June 4, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-6eee6cc9",
+    "title": "Aging and Health, Spring 2027",
+    "url": "https://www.nber.org/conferences/aging-and-health-spring-2027",
+    "date": "June 13-15, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-7cdb9670",
+    "title": "NBER Coordinating Center on the Economics of AD/ADRD Prevention, Treatment, and Care, Summer 2027",
+    "url": "https://www.nber.org/conferences/nber-coordinating-center-economics-adadrd-prevention-treatment-and-care-summer-2027",
+    "date": "June 24, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-b81f9124",
+    "title": "Measuring Employment in the Age of Artificial Intelligence, Fall 2027",
+    "url": "https://www.nber.org/conferences/measuring-employment-age-artificial-intelligence-fall-2027",
+    "date": "September 16, 2027 to September 17, 2029",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-73f2ac1e",
+    "title": "Geography and Health: Place and Aging, Fall 2027",
+    "url": "https://www.nber.org/conferences/geography-and-health-place-and-aging-fall-2027",
+    "date": "September 17, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-349c5760",
+    "title": "Health Care Administration and Fraud, Fall 2027",
+    "url": "https://www.nber.org/conferences/health-care-administration-and-fraud-fall-2027",
+    "date": "September 17, 2027 to September 17, 2029",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-097f9c46",
+    "title": "Economics and Finance of Higher Education, Fall 2027",
+    "url": "https://www.nber.org/conferences/economics-and-finance-higher-education-fall-2027",
+    "date": "October 15, 2027",
+    "type": "Conference",
+    "has_program": false
   }
 ]
