@@ -1486,5 +1486,21 @@
     "date": "October 15, 2027",
     "type": "Conference",
     "has_program": false
+  },
+  {
+    "id": "nber-conf-09ac1122",
+    "title": "Economics of Transportation in the 21st Century, Spring 2027",
+    "url": "https://www.nber.org/conferences/economics-transportation-21st-century-spring-2027",
+    "date": "April 23, 2027",
+    "type": "Conference",
+    "has_program": false
+  },
+  {
+    "id": "nber-conf-d056ab81",
+    "title": "Climate Finance, Fall 2027",
+    "url": "https://www.nber.org/conferences/climate-finance-fall-2027",
+    "date": "October 22, 2027",
+    "type": "Conference",
+    "has_program": false
   }
 ]
