@@ -1,5 +1,31 @@
 [
   {
+    "id": "adb-ee71df66",
+    "title": "Primary Balances, Debt Composition, and Sovereign Bond Yields in Emerging Economies",
+    "url": "https://www.adb.org/publications/primary-balances-debt-composition-emerging-economies",
+    "description": "This paper decomposes 10-year sovereign bond yields in 17 emerging markets into default-risk premia, expected short rates, and term premia.",
+    "date": "2026-11-23",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
+    "id": "adb-ce9ee7c2",
+    "title": "Assessing Financial Preparedness During Old Age in Japan",
+    "url": "https://www.adb.org/publications/financial-preparedness-old-age-japan",
+    "description": "Using nationally representative survey data, this paper evaluates whether older adults can sustain pre-retirement living standards through pensions, savings, and other income sources.",
+    "date": "2026-11-20",
+    "source": "ADB",
+    "tags": [
+      "economics",
+      "development"
+    ],
+    "featured": false
+  },
+  {
     "id": "adb-866ba2d5",
     "title": "Effects of Extreme Temperature Exposure on Learning",
     "url": "https://www.adb.org/publications/extreme-temperature-exposure-learning",
@@ -226,32 +252,6 @@
     "url": "https://www.adb.org/publications/digital-skills-demand-wage-premia",
     "description": "Using a large language model to analyze millions of job postings, this paper tracks requirements for digital and artificial intelligence skills across six economies during 2019–2024.",
     "date": "2026-06-08",
-    "source": "ADB",
-    "tags": [
-      "economics",
-      "development"
-    ],
-    "featured": false
-  },
-  {
-    "id": "adb-b2b0c68a",
-    "title": "Zombies, Insolvency Reform, and Misallocation of Capital",
-    "url": "https://www.adb.org/publications/zombies-insolvency-reform-misallocation-capital",
-    "description": "This study shows that insolvency reforms in economies with a high prevalence of distressed and zombie firms lead to more efficient allocation of capital.",
-    "date": "2026-06-02",
-    "source": "ADB",
-    "tags": [
-      "economics",
-      "development"
-    ],
-    "featured": false
-  },
-  {
-    "id": "adb-57d56367",
-    "title": "The Role of Special Economic Zones in Shaping Viet Nam’s Local Business Environment",
-    "url": "https://www.adb.org/publications/sezs-shaping-viet-nam-local-business",
-    "description": "Special economic zones (SEZs) in Viet Nam significantly shaped firm growth and local governance from 2006–2020.",
-    "date": "2026-05-29",
     "source": "ADB",
     "tags": [
       "economics",

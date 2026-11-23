@@ -1,5 +1,65 @@
 [
   {
+    "id": "cepr-960a6d8e",
+    "title": "DP22205 The Limits of Behavioral Simulation with AI",
+    "url": "https://cepr.org/publications/dp22205",
+    "description": "",
+    "date": "2026-11-22",
+    "authors": "Graeber; Roth",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-852ced9e",
+    "title": "DP22204 Economic Literacy: Measurement, Expectations, and Policy Views",
+    "url": "https://cepr.org/publications/dp22204",
+    "description": "",
+    "date": "2026-11-22",
+    "authors": "Brade; Hermes; Kaiser; Necker; Windisch; Woessmann",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-45010164",
+    "title": "DP22203 Postal Votes",
+    "url": "https://cepr.org/publications/dp22203",
+    "description": "",
+    "date": "2026-11-22",
+    "authors": "Dewan; Eliaz",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-124b245d",
+    "title": "DP22202 Intermediaries, Quality Incentives, and Upgrading along Supply Chains",
+    "url": "https://cepr.org/publications/dp22202",
+    "description": "",
+    "date": "2026-11-22",
+    "authors": "Bai; Bergquist; Morjaria; Morton; Tang",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-1e693a1b",
     "title": "DP22201 The China Shock and Employment Concentration within Local Labor Markets",
     "url": "https://cepr.org/publications/dp22201",
