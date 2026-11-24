@@ -975,6 +975,318 @@
     ]
   },
   {
+    "id": "nber-07cd676e",
+    "title": "Shrink Responsibly: Empirical Bayes in Economics",
+    "url": "https://www.nber.org/papers/w36053",
+    "description": "Empirical researchers are often interested in the relative causal impact of individuals or institutions such as teachers, schools, hospitals, or neighborhoods. Regression-based estimates of such unit-specific parameters are often noisy; empirical Bayes (eB) methods can help isolate the signal from...",
+    "date": "2026-11",
+    "authors": "Peter Hull & Michal Kolesár",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-9fc1d328",
+    "title": "Mortality Effects of the 2025 US Aid Freeze: Evidence from Zambia",
+    "url": "https://www.nber.org/papers/w36054",
+    "description": "We study the impact of the 2025 sudden freeze then subsequent thaw of US foreign aid on HIV prevention, treatment, infection, and death. In Zambia, HIV-related aid was administered through two agencies. Activities under one were disrupted for several months, and those under the other much less....",
+    "date": "2026-11",
+    "authors": "Torsten Figueiredo Walter, Dean Karlan, Niclas Moneke, Ana Radu & Khozya Zyambo",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1cc77859",
+    "title": "Are Republicans and Democrats Different Taxpayers? Evidence From Property Tax Appeals",
+    "url": "https://www.nber.org/papers/w36055",
+    "description": "Are Republicans and Democrats Different Taxpayers? Evidence From Property Tax Appeals",
+    "date": "2026-11",
+    "authors": "Brad C. Nathan, Ricardo Perez-Truglia & Alejandro Zentner",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-3d7f175c",
+    "title": "Chips & Tokens at the Fault Lines: Two Stacks in One Fragmenting World",
+    "url": "https://www.nber.org/papers/w36056",
+    "description": "The United States and China have each built the capacity to inflict serious economic damage on each other. This paper argues that the resulting mutual vulnerability now constrains both sides and prevents further economic decoupling. The paper maps this contest across two stacks: the real economy...",
+    "date": "2026-11",
+    "authors": "Fabio Natalucci & Alessandro Rebucci",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-e1d2b687",
+    "title": "CFOs Meet LLMs",
+    "url": "https://www.nber.org/papers/w36057",
+    "description": "Business sentiment is closely watched, but measurement is slow and costly: surveys reach a limited number of firms, arrive periodically, and take time to field and compile. We show that large language models hold the potential to address some of these shortcomings. We prompt an LLM to role-play as...",
+    "date": "2026-11",
+    "authors": "John R. Graham, Campbell R. Harvey & Manish Jha",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-f0ad7091",
+    "title": "Beyond the First Best: Welfare and OPEC Market Power",
+    "url": "https://www.nber.org/papers/w36058",
+    "description": "We introduce an empirical framework to quantify the welfare impact of market power, through coordinated production decisions by a cartel, while allowing for other distortions. We contrast two novel concepts the marginal and the infra-marginal welfare loss to a naive approach that fails to...",
+    "date": "2026-11",
+    "authors": "John Asker, Allan Collard-Wexler, Charlotte De Cannière & Jan De Loecker",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c39a3944",
+    "title": "Designing Low Emission Zones: Theory and Evidence",
+    "url": "https://www.nber.org/papers/w36037",
+    "description": "Low Emission Zones (LEZs), which exclude polluting vehicles from parts of a city, are spreading. Yet how their design affects welfare is poorly understood. Unlike price instruments, LEZs ration access inefficiently, imposing costs on inframarginal drivers of restricted vehicles. In our model,...",
+    "date": "2026-11",
+    "authors": "Nano Barahona, Natalia Fabra, Imelda & Juan-Pablo Montero",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-4ee6cfda",
+    "title": "Five Facts About Stablecoins",
+    "url": "https://www.nber.org/papers/w36038",
+    "description": "We document five facts about payment stablecoins using wallet-level blockchain data from 2020 to 2025. First, stablecoins serve as a transaction currency: onchain volume exceeds Bitcoins despite a much smaller supply, velocity has risen sharply, and transactions have shifted toward low-value...",
+    "date": "2026-11",
+    "authors": "Lin William Cong, Gordon Y. Liao, Eswar S. Prasad & Tony Zhang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-9c421693",
+    "title": "Democratizing Venture Capital: Tax Incentives and the Geographic Expansion of Startup Investing",
+    "url": "https://www.nber.org/papers/w36039",
+    "description": "Democratizing Venture Capital: Tax Incentives and the Geographic Expansion of Startup Investing",
+    "date": "2026-11",
+    "authors": "Murillo Campello & Guilherme Junqueira",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-507ba9a6",
+    "title": "The Emergence of a National Capital Market,1870–1940",
+    "url": "https://www.nber.org/papers/w36040",
+    "description": "This article documents the integration of the American capital market with the first long-run, geolocated, firm-level record of the asset holdings of large institutional investors: over 100,000 holdings of life insurers, 18701940. Between 1880 and 1890 the mean distance of insurers bonds from home...",
+    "date": "2026-11",
+    "authors": "Pawel Janas",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b398d844",
+    "title": "Does Treating Addiction Rebuild Lives? Evidence from Buprenorphine",
+    "url": "https://www.nber.org/papers/w36041",
+    "description": "Does treating addiction improve economic circumstances as well as health? Using two decades of Veterans Health Administration records on over 140,000 patients with opioid use disorder and consumer credit data, we exploit staggered facility-level buprenorphine adoption and quasi-random emergency...",
+    "date": "2026-11",
+    "authors": "Sarah Eichmeyer, Aljoscha Janssen & Jonathan Zhang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-b891aece",
+    "title": "The Effects of Private Plan Subsidies on Enrollment: Evidence from Medicare Advantage",
+    "url": "https://www.nber.org/papers/w36042",
+    "description": "The Effects of Private Plan Subsidies on Enrollment: Evidence from Medicare Advantage",
+    "date": "2026-11",
+    "authors": "Paul D. Jacobs & Timothy J. Layton",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-5ef961da",
+    "title": "Mental Models of Fiscal Policy",
+    "url": "https://www.nber.org/papers/w36043",
+    "description": "We study how individuals form expectations about fiscal adjustment. Using survey data from more than 27,000 respondents across 13 countries, we jointly elicit beliefs about current fiscal conditions, expectations of tax increases and spending cuts, and open-ended explanations for those expectations....",
+    "date": "2026-11",
+    "authors": "Francesco Bianchi, Era Dabla-Norris, Radhika Goyal, Victoria Haver & Salma Khalid",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-fa958b1b",
+    "title": "Beyond Publication Bias: Characterizing and Understanding Missing Results in Economics",
+    "url": "https://www.nber.org/papers/w36044",
+    "description": "Beyond Publication Bias: Characterizing and Understanding Missing Results in Economics",
+    "date": "2026-11",
+    "authors": "Fernando Hoces de la Guardia, Edward Miguel, Gufran Pathan, Akash Shaji, Viviane Helena Silva da Rocha, Erik Ø. Sørensen & Bertil Tungodden",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c695baf1",
+    "title": "How AI Impacts the Quest for Knowledge: Evidence from AlphaFold2",
+    "url": "https://www.nber.org/papers/w36045",
+    "description": "Scientists can respond to artificial intelligence by pushing the frontier of science and asking new questions, or by deepening their understanding of questions already studied. We study how AI shapes this choice in structural biology, where experiments examine a protein's three-dimensional structure...",
+    "date": "2026-11",
+    "authors": "Myra Mohnen & Joshua S. Gans",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-26e594dc",
+    "title": "Valuing the Cost of Incomplete Global Markets",
+    "url": "https://www.nber.org/papers/w36046",
+    "description": "Deviations from complete financial markets in cross-border investments generate economic welfare costs. This paper shows how to value these costs using standard theory and data based on three main results. Our first result shows how welfare valuations can be derived from a general wealth-to-dividend...",
+    "date": "2026-11",
+    "authors": "Karen K. Lewis & Edith X. Liu",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-74e40d96",
+    "title": "Regret, Survival Beliefs, and Retirement Recommendations",
+    "url": "https://www.nber.org/papers/w36047",
+    "description": "We examine how information about others retirement regret affects annuitization and savings recommendations. In a survey experiment, participants received information about regret over not purchasing annuities or not saving enough for retirement. Responses were concentrated among individuals who...",
+    "date": "2026-11",
+    "authors": "Abigail Hurwitz & Olivia S. Mitchell",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c05ccce1",
+    "title": "Are Revealed Preferences All You Need for AI Alignment?",
+    "url": "https://www.nber.org/papers/w36048",
+    "description": "AI agents learn what principals want from what principals choose. We offer a criterion for when a principal's decisions, at every belief an AI might hold, are all the AI needs. For acting, they are. Cautious actions, such as deferring to a person, typically divide the principal's actions into blocks...",
+    "date": "2026-11",
+    "authors": "Joshua S. Gans & Richard T. Holden",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-a98ba095",
+    "title": "Bureaucratic Rigidity and Battle Outcomes: Evidence from Military Logistics in the Ming Dynasty",
+    "url": "https://www.nber.org/papers/w36049",
+    "description": "Bureaucratic Rigidity and Battle Outcomes: Evidence from Military Logistics in the Ming Dynasty",
+    "date": "2026-11",
+    "authors": "Jingjing Chen, Jianlei Han, Shing-Yi Wang & Yongxiang Wang",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-f7c6b8d1",
+    "title": "Past Automation and Future AI: How Weak Links Tame the Growth Explosion",
+    "url": "https://www.nber.org/papers/w36050",
+    "description": "How much past growth is due to automation, and what does this imply for the future of AI? We perform task-based growth accounting and show that capital task productivity has grown about 5 percentage points per year faster than labor task productivity in the U.S. economy. The main benefit of...",
+    "date": "2026-11",
+    "authors": "Charles I. Jones & Christopher Tonetti",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-c508f671",
+    "title": "Climate Risk, Real Estate, and Property Insurance",
+    "url": "https://www.nber.org/papers/w36051",
+    "description": "Growing climate risk threatens long-lived, fixed physical assets like real estate. To navigate this risk, homeowners and prospective buyers rely on market signals, including property values and insurance costs. The effectiveness of these market signals depends on whether standard economic...",
+    "date": "2026-11",
+    "authors": "Benjamin L. Collier, Benjamin J. Keys & Philip Mulder",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-072906ad",
+    "title": "Long-run Uncovered Interest Parity in Emerging Markets",
+    "url": "https://www.nber.org/papers/w36052",
+    "description": "Uncovered interest parity (UIP) tends to hold at long horizons for advanced-economy currencies. Whether it holds in emerging markets remains a more open question. We show it does not, and that sovereign credit risk can explain the failure. Using monthly zero-coupon local-currency yield curves for...",
+    "date": "2026-11",
+    "authors": "Alessandro Rebucci, Sinem Yagmur Toraman, Giorgio Valente & Nicolò Capirone",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-1574f29f",
+    "title": "Light Pollution: Effects on Sleep, Work, and Mental Health",
+    "url": "https://www.nber.org/papers/w36060",
+    "description": "This study examines the impact of artificial streetlights on sleep, as well as downstream effects on mental health, absenteeism, and physical activity. We exploit variation resulting from the replacement of traditional sodium streetlights with light-emitting diode (LED) lights in Burnaby, British...",
+    "date": "2026-11",
+    "authors": "Joan Costa-i-Font, Janet Currie & Soodeh Saberian",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "nber-e0c9b04b",
+    "title": "Supply-Side Drivers of Long-Acting Reversible Contraceptives: Evidence from Medicaid Beneficiaries",
+    "url": "https://www.nber.org/papers/w36059",
+    "description": "Supply-Side Drivers of Long-Acting Reversible Contraceptives: Evidence from Medicaid Beneficiaries",
+    "date": "2026-11",
+    "authors": "Maya Rossin-Slater, Natalia Serna & Lin-Tung Tsai",
+    "series": "NBER Working Papers",
+    "source": "NBER",
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "nber-5b7fe69f",
     "title": "Are Prediction Markets Politically Biased?",
     "url": "https://www.nber.org/papers/w35846",

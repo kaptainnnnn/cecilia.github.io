@@ -1,5 +1,65 @@
 [
   {
+    "id": "cepr-6c821b40",
+    "title": "DP22209 Beyond the First-Best: Welfare and OPEC Market Power",
+    "url": "https://cepr.org/publications/dp22209",
+    "description": "",
+    "date": "2026-11-23",
+    "authors": "De Loecker; Asker; Collard-Wexler; De Cannière",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ee9fb508",
+    "title": "DP22208 Inference from Outcomes in the Market for Lemons",
+    "url": "https://cepr.org/publications/dp22208",
+    "description": "",
+    "date": "2026-11-23",
+    "authors": "Dilme; Kos",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-8f0dd774",
+    "title": "DP22207 The Third Great Transition: From Human-Bound to Autonomous AI-Driven Innovation",
+    "url": "https://cepr.org/publications/dp22207",
+    "description": "",
+    "date": "2026-11-23",
+    "authors": "Galor",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-940dc5df",
+    "title": "DP22206 The Mechanisms of Historical Persistence",
+    "url": "https://cepr.org/publications/dp22206",
+    "description": "",
+    "date": "2026-11-23",
+    "authors": "Kelly",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-960a6d8e",
     "title": "DP22205 The Limits of Behavioral Simulation with AI",
     "url": "https://cepr.org/publications/dp22205",
