@@ -1,5 +1,185 @@
 [
   {
+    "id": "cepr-cf8c44fc",
+    "title": "DP22221 Timing and Targeting in Network Games",
+    "url": "https://cepr.org/publications/dp22221",
+    "description": "",
+    "date": "2026-11-25",
+    "authors": "Campbell; Mohammadi Sepahvand; Zenou",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-ac0b23e2",
+    "title": "DP22220 The Value of Life across Generations: Fertility and Parental Investment",
+    "url": "https://cepr.org/publications/dp22220",
+    "description": "",
+    "date": "2026-11-25",
+    "authors": "Jang; Yum",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-0efc7505",
+    "title": "DP22219 Exposure to Inequality, Human Capital Investment, and Labor Market Outcomes",
+    "url": "https://cepr.org/publications/dp22219",
+    "description": "",
+    "date": "2026-11-25",
+    "authors": "Bietenbeck; Collins; Lundborg; Majlesi; Nieto",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-b14adf68",
+    "title": "DP22218 Under Pressure? Experimental Evidence of Parental and Peer Observability on Students’ Occupational Aspirations Maximilian",
+    "url": "https://cepr.org/publications/dp22218",
+    "description": "",
+    "date": "2026-11-25",
+    "authors": "Felfe; Cassar; Feigl; Mueller",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-15093ff7",
+    "title": "DP22217 When Discoveries Count More: Incentives and the Credibility of Experimental Evidence",
+    "url": "https://cepr.org/publications/dp22217",
+    "description": "",
+    "date": "2026-11-25",
+    "authors": "Brocas",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-7cc0e78e",
+    "title": "DP22216 Signal Extraction in Centralized Assignment: Evidence from Teacher Recruiting",
+    "url": "https://cepr.org/publications/dp22216",
+    "description": "",
+    "date": "2026-11-25",
+    "authors": "Bobba; Leon-Ciliotta; Ederer; Neilson; Nieddu",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-2ef80d29",
+    "title": "DP22215 Uncertainty Shocks and Macroeconomic Effects: Insights from Volatility Term Structures",
+    "url": "https://cepr.org/publications/dp22215",
+    "description": "",
+    "date": "2026-11-25",
+    "authors": "Sekhposyan; Kim; Seong; Song",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-16628964",
+    "title": "DP22214 Growth effects of changes in social security  contribution rates in Germany",
+    "url": "https://cepr.org/publications/dp22214",
+    "description": "",
+    "date": "2026-11-25",
+    "authors": "Tatar; Wieland",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-cf1a060c",
+    "title": "DP22213 High-Frequency Identification",
+    "url": "https://cepr.org/publications/dp22213",
+    "description": "",
+    "date": "2026-11-25",
+    "authors": "Gürkaynak; Swanson; Wright",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-5248fb32",
+    "title": "DP22212 What Would Jeeves Do? Inflation Expectations, AI Advice, and Household Spending",
+    "url": "https://cepr.org/publications/dp22212",
+    "description": "",
+    "date": "2026-11-25",
+    "authors": "Gorodnichenko; Heil",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-29f00cf9",
+    "title": "DP22211 The Macroeconomics of Market Power",
+    "url": "https://cepr.org/publications/dp22211",
+    "description": "",
+    "date": "2026-11-25",
+    "authors": "De Loecker; Eeckhout",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
+    "id": "cepr-6c43abc2",
+    "title": "DP22210 The Effect of Market Power on the Risk-free Rate",
+    "url": "https://cepr.org/publications/dp22210",
+    "description": "",
+    "date": "2026-11-25",
+    "authors": "Deb; Eeckhout; Lores-Diz",
+    "series": "CEPR Discussion Papers",
+    "source": "CEPR",
+    "type": "Discussion paper",
+    "topics": [],
+    "tags": [
+      "economics"
+    ]
+  },
+  {
     "id": "cepr-6c821b40",
     "title": "DP22209 Beyond the First-Best: Welfare and OPEC Market Power",
     "url": "https://cepr.org/publications/dp22209",
